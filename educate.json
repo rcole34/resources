@@ -1,0 +1,146 @@
+{
+    "global": [
+      {
+        "id": "fa1cdac5-175f-4fe0-99b8-ab2bcd3239f1",
+        "title": "The Other Wes Moore",
+        "subtitle": "Two kids named Wes Moore were born blocks apart within a year of each other. Both grew up fatherless in similar Baltimore neighborhoods and had difficult childhoods; both hung out on street corners with their crews; both ran into trouble with the police. How, then, did one grow up to be a Rhodes Scholar, decorated veteran, White House Fellow, and business leader, while the other ended up a convicted murderer serving a life sentence?",
+        "imageUrl": "https://img1.od-cdn.com/ImageType-100/0111-1/%7B16574EC7-1BD4-4D4A-8DE6-5C8B5BDDAC3D%7DImg100.jpg",
+        "clickUrl": "https://bookshop.org/books/the-other-wes-moore-one-name-two-fates/9780385528207",
+        "tags": [
+          "book",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
+        "title": "Just Mercy: A Story of Justice and Redemption",
+        "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
+        "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
+        "clickUrl": "https://justmercy.eji.org/",
+        "tags": [
+          "book",
+          "death penalty",
+          "criminal justice",
+          "prison",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "0a5b1546-6185-42ad-bed7-15b11a8faec3",
+        "title": "White Fragility: Why It's So Hard for White People to Talk About Racism",
+        "subtitle": "This book explicates the dynamics of White Fragility and how we might build our capacity in the on-going work towards racial justice.",
+        "imageUrl": "https://robindiangelo.com/wp-content/uploads/2019/01/fragility-nyt-450.jpg",
+        "clickUrl": "https://robindiangelo.com/publications/",
+        "tags": [
+          "book",
+          "white supremacy",
+          "white privilege",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "5af17502-3cbe-4a27-a8bc-1ba73be492d0",
+        "title": "How to Be an Antiracist",
+        "subtitle": "Ibram X. Kendi's concept of antiracism reenergizes and reshapes the conversation about racial justice in America--but even more fundamentally, points us toward liberating new ways of thinking about ourselves and each other. ",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5913d00603596e07853ef761/1573594024053-10M643O0HGOI1C5VZ6K8/ke17ZwdGBToddI8pDm48kA3_zh4B9nqL03ly_hI6Dex7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT6om00mPaZNSwleNFe5OIYvmr5mQaWq6I8vHUeeUG_6W07ycm2Trb21kYhaLJjddA/HowToBeAnAntiracist_HC_NEW.png?format=500w",
+        "clickUrl": "https://www.ibramxkendi.com/how-to-be-an-antiracist-1",
+        "tags": [
+          "book",
+          "racism",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "b3670eef-3996-49b2-b444-a7d482291df1",
+        "title": "So you want to talk about race",
+        "subtitle": "Ijeoma Oluo guides readers of all races through subjects ranging from intersectionality and affirmative action to \"model minorities\" in an attempt to make the seemingly impossible possible: honest conversations about race and racism, and how they infect almost every aspect of American life.",
+        "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/1944832/original/9781580058827.jpg?1589088889",
+        "clickUrl": "https://bookshop.org/books/so-you-want-to-talk-about-race/9781580058827",
+        "tags": [
+          "book",
+          "racism",
+          "white privilege",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "13788556-62d6-44a0-aeee-a27f56545cb0",
+        "title": "Me and White Supremacy",
+        "subtitle": "Based on the viral Instagram challenge that captivated participants worldwide, Me and White Supremacy takes readers on a 28-day journey, complete with journal prompts, to do the necessary and vital work that can ultimately lead to improving race relations.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b65fb964611a0958c38105a/1566386709574-XWD3NFU3CLSN6BX9H779/ke17ZwdGBToddI8pDm48kPZVGAmQ-LiIDejmHTBu1GpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIcIBxs3nZEqvgqC0usJYKrX06_gj8cC44gKP5Q4DEFpk/MeAndWhiteSupremacy_MockUp-2.jpg?format=750w",
+        "clickUrl": "https://www.meandwhitesupremacybook.com/",
+        "tags": [
+          "book",
+          "white privilege",
+          "racism",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "f0d8372e-6fba-4e9e-97fa-f30e1af98cce",
+        "title": "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do",
+        "subtitle": "With a perspective that is at once scientific, investigative, and informed by personal experience, Dr. Jennifer Eberhardt offers us the language and courage we need to face one of the biggest and most troubling issues of our time.",
+        "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/9872285/original/9780735224933.jpg?1588619468",
+        "clickUrl": "https://bookshop.org/books/biased-uncovering-the-hidden-prejudice-that-shapes-what-we-see-think-and-do/9780735224933",
+        "tags": [
+          "book",
+          "white privilege",
+          "racism",
+          "unconscious bias",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "cc68037e-60fa-4f43-a420-91d1b21c68a6",
+        "title": "The New Jim Crow",
+        "subtitle": "The New Jim Crow is a stunning account of the rebirth of a caste-like system in the United States, one that has resulted in millions of African Americans locked behind bars and then relegated to a permanent second-class status—denied the very rights supposedly won in the Civil Rights Movement.",
+        "imageUrl": "https://newjimcrow.com/wp-content/uploads/2019/12/new_jim_crow_reissue_pb_final-1.jpg",
+        "clickUrl": "https://bookshop.org/books/the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness-anniversary/9781620971932",
+        "tags": [
+          "book",
+          "prison",
+          "criminal justice",
+          "slavery",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "46e2e9a6-ee7a-4676-b16d-0cd5a49e1ef9",
+        "title": "Whistling Vivaldi",
+        "subtitle": "Claude M. Steele, who has been called \"one of the few great social psychologists,\" offers a vivid first-person account of the research that supports his groundbreaking conclusions on stereotypes and identity.",
+        "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/6519553/original/9780393339727.jpg?1588350165",
+        "clickUrl": "https://bookshop.org/books/whistling-vivaldi-how-stereotypes-affect-us-and-what-we-can-do/9780393339727",
+        "tags": [
+          "book",
+          "stereotypes",
+          "stereotype threat",
+          "racism",
+          "research",
+          "read"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "9b65af60-09dc-45ca-a431-8e8b52625cb5",
+        "title": "Divided We Fall. Ignorant We Fail.",
+        "subtitle": "This book is a non-fiction introspective of the country’s response to the first black President.",
+        "imageUrl": "https://assets.lulu.com/cover_thumbs/1/6/1629z7pp-front-shortedge-384.jpg",
+        "clickUrl": "https://www.lulu.com/en/au/shop/akhee-williams/divided-we-fall-ignorant-we-fail/paperback/product-1629z7pp.html",
+        "tags": [
+          "book",
+          "racism",
+          "Obama",
+          "read"
+        ],
+        "priority": 10
+      }
+    ]
+}

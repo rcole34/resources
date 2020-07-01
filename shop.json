@@ -1,0 +1,28 @@
+{
+    "global": [
+      {
+        "id": "7d59e8f8-b0f4-48f7-80f9-e637e96585f5",
+        "title": "Beauty Bakerie",
+        "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/files/brown_logo.png?v=1587514529",
+        "clickUrl": "https://www.beautybakerie.com/",
+        "tags": [
+          "Goods",
+          "Cosmetics"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
+        "title": "Esusu",
+        "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
+        "imageUrl": "https://esusurent.com/images/logo-alt.png",
+        "clickUrl": "https://esusurent.com/",
+        "tags": [
+          "Services",
+          "Rent"
+        ],
+        "priority": 10
+      }
+    ]
+}

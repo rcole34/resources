@@ -1,0 +1,93 @@
+{
+    "global": [
+      {
+        "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
+        "title": "Open a random campaign to donate to",
+        "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",
+        "randomUrlList": [
+          "https://www.gofundme.com/f/georgefloyd",
+          "https://www.gofundme.com/f/i-run-with-maud",
+          "https://www.blackvisionsmn.org/"
+        ],
+        "info": "Update to the latest version of the app to get access to this feature",
+        "tags": [
+          "Gofundme",
+          "George Floyd",
+          "Bail funds",
+          "Random"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "64e2aa40-dd50-4db7-808a-09c92111b5f7",
+        "title": "Official George Floyd Memorial Fund",
+        "subtitle": "This fund is established to cover funeral and burial expenses, mental and grief counseling, lodging and travel for all court proceedings, and to assist our family in the days to come as we continue to seek justice for George.  A portion of these funds will also go to the Estate of George Floyd for the benefit and care of his children and their educational fund.",
+        "imageUrl": "https://static01.nyt.com/images/2020/05/27/us/27georgefloyd/27georgefloyd-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "clickUrl": "https://www.gofundme.com/f/georgefloyd",
+        "tags": [
+          "Gofundme",
+          "George Floyd"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "8c10f935-1e7e-4c2e-afdd-2b8b7390f5e0",
+        "title": "I Run With Maud",
+        "subtitle": "This fundraiser was designed to assist Ahmaud's mother; Ms. Wanda Cooper-Jones and her immediate family with financial support during this extreme difficult time and in their struggle for justice for the murder of Ahmaud Marquez Arbery.",
+        "imageUrl": "https://d2g8igdw686xgo.cloudfront.net/47834200_1588537848610717_r.jpeg",
+        "clickUrl": "https://www.gofundme.com/f/i-run-with-maud",
+        "tags": [
+          "Gofundme",
+          "Ahmaud Arberry"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "d1c3641f-f2db-434e-be1a-2b5970d7ba04",
+        "title": "National Bail Fund Network",
+        "subtitle": "Find a bail fund in your area to help free people by paying bail/bond and fight to abolish the money bail system and pretrial detention.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e1f966c45f53f254011b45a/1580575648340-UTSSMGOUAI0E9T52CJW0/ke17ZwdGBToddI8pDm48kBZpCzJskiMUZMNbyfbadMpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQJCqn2aRmCXAqCWixlMdSvNyuQycmxAt809hjjtM7oZ0M6LlviphmS4XdhZI7Pbo/NBFNlogo_3x2.7.jpg?format=500w",
+        "clickUrl": "https://www.communityjusticeexchange.org/nbfn-directory",
+        "tags": [
+          "Bail funds"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "cb8b7f68-42ec-4694-8899-6430f05eb08b",
+        "title": "Black Visions Collective",
+        "subtitle": "Black Visions Collective (BLVC) believes in a future where all Black people have autonomy, safety is community-led, and we are in right relationship within our ecosystems.",
+        "imageUrl": "https://imagecdn.mightycause.com/ff6ad240-179d-44bb-8f05-815c35fdcb77/-/resize/1800x/-/sharp/5/",
+        "clickUrl": "https://www.blackvisionsmn.org/",
+        "tags": [
+          "BLVC"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "f06a8221-ec87-4187-9525-ce1838a4ba0e",
+        "title": "Minnesota Freedom Fund",
+        "subtitle": "The Minnesota Freedom Fund pays criminal bail and immigration bond for those who cannot afford to as we seek to end discriminatory, coercive, and oppressive jailing.",
+        "imageUrl": "https://pbs.twimg.com/profile_images/972637151191093248/zdqRQ93__400x400.jpg",
+        "clickUrl": "https://minnesotafreedomfund.org/donate",
+        "tags": [
+          "Bail funds",
+          "Minnesota",
+          "MN"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
+        "title": "NAACP Legal Defense and Education Fund",
+        "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
+        "imageUrl": "https://www.naacpldf.org/wp-content/themes/naacp_ldf/assets/images/new-logo.png",
+        "clickUrl": "https://www.naacpldf.org/",
+        "tags": [
+          "NAACP",
+          "LDF"
+        ],
+        "priority": 10
+      }
+    ]
+}

@@ -1,7 +1,20 @@
 {
     "1": [],
     "2": [],
-    "3": [],
+    "3": [
+        {
+            "id": "b98dfe80-c01b-42ce-b80b-e2892482bb34",
+            "title": "Mabi Artisinal Tea",
+            "subtitle":  "Mabi Artisanal Tea is a natural, clean and healthy beverage which connects their consumers with the taste of the Caribbean. They achieve this with their cold brewed custom herbal or spice tea blend, which contains ingredients such as Lemongrass, wild Mint, Eucalyptus, Basil and Mabi, infused with fruits.",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0284/4822/7376/files/Mabi_Logo-05.png?height=628&pad_color=ffffff&v=1578089918&width=1200",
+            "clickUrl": "https://mabitea.com/",
+            "tags": [
+                "Black owned",
+                "Goods"
+            ],
+            "priority": 10
+        }
+    ],
     "4": [],
     "5": [],
     "6": [],

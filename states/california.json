@@ -1,7 +1,43 @@
 {
-    "advocate": [],
+    "advocate": [
+      {
+        "id": "66141e82-164f-444f-9b1d-0994f13a42ec",
+        "title": "Call CA Governor Gavin Newsom",
+        "subtitle": "Make your voice heard by calling those in power in government",
+        "imageUrl": "https://img.favpng.com/2/13/0/telephone-call-computer-icons-clip-art-png-favpng-2EtQJ49Y2Q5vU91MdFf2wEGvT.jpg",
+        "phoneNumber": "+16501234567",
+        "tags": [
+          "phone",
+          "call",
+          "CA",
+          "California",
+          "Local"
+        ],
+        "priority": 9
+      },
+      {
+        "id": "19dc9e48-8de5-4544-8bbf-1ae34145b40d",
+        "title": "Email CA Governor Gavin Newsom",
+        "subtitle": "Make your voice heard by emailing those in power in government",
+        "imageUrl": "https://www.pngitem.com/pimgs/m/22-227227_transparent-email-clipart-email-icon-transparent-background-hd.png",
+        "emailInfo": {
+          "recipients": [
+            "governor@governor.ca.gov"
+          ],
+          "subject": "Condemn police brutality",
+          "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>[your message]</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
+          "isHtml": true
+        },
+        "tags": [
+          "email",
+          "CA",
+          "California",
+          "Local"
+        ],
+        "priority": 9
+      }
+    ],
     "educate": [],
     "donate": [],
-    "shop": [],
-    "today": []
+    "shop": []
 }

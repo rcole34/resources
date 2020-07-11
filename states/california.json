@@ -25,7 +25,7 @@
             "governor@governor.ca.gov"
           ],
           "subject": "Condemn police brutality",
-          "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>[your message]</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
+          "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
           "isHtml": true
         },
         "tags": [

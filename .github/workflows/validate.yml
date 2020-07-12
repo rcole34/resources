@@ -28,6 +28,6 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema/stateSchema.json
-          INPUT_JSONS: ./states/*.json
+          INPUT_JSONS: ./states/alaska.json,./states/alabama.json,./states/arkansas.json,./states/arizona.json,./states/california.json,./states/colorado.json,./states/connecticut.json,./states/delaware.json,./states/florida.json,./states/georgia.json,./states/hawaii.json,./states/iowa.json,./states/idaho.json,./states/illinois.json,./states/indiana.json,./states/kansas.json,./states/kentucky.json,./states/louisiana.json,./states/massachusetts.json,./states/maryland.json,./states/maine.json,./states/michigan.json,./states/minnesota.json,./states/missouri.json,./states/mississippi.json,./states/montana.json,./states/north carolina.json,./states/north dakota.json,./states/nebraska.json,./states/new hampshire.json,./states/new jersey.json,./states/new mexico.json,./states/nevada.json,./states/new york.json,./states/ohio.json,./states/oklahoma.json,./states/oregon.json,./states/pennsylvania.json,./states/rhode island.json,./states/south carolina.json,./states/south dakota.json,./states/tennessee.json,./states/texas.json,./states/utah.json,./states/virginia.json,./states/vermont.json,./states/washington.json,./states/wisconsin.json,./states/west virginia.json,./states/wyoming.json
     
 

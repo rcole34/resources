@@ -1,0 +1,127 @@
+{
+  "$id": "resourceArray",
+  "$schema": "resourceArraySchema",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/resource"
+  },
+  "definitions": {
+    "resource": {
+      "title": "Resource",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "The resource's id."
+        },
+        "title": {
+          "type": "string",
+          "description": "The resource's title."
+        },
+        "subtitle": {
+          "type": "string",
+          "description": "The resource's subtitle."
+        },
+        "imageUrl": {
+          "type": "string",
+          "description": "The resource's image url."
+        },
+        "clickUrl": {
+          "type": "string",
+          "description": "The resource's click url."
+        },
+        "emailInfo": {
+          "type": "object",
+          "$ref": "#/definitions/emailInfo",
+          "description": "The resource's email info."
+        },
+        "phoneNumber": {
+          "type": "string",
+          "description": "The resource's phone number."
+        },
+        "textInfo": {
+          "type": "object",
+          "$ref": "#/definitions/textInfo",
+          "description": "The resource's text info."
+        },
+        "randomUrlList": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "The resource's random url list."
+        },
+        "info": {
+          "type": "string",
+          "description": "The resource's info."
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "The resource's tags."
+        },
+        "priority": {
+          "type": "number",
+          "description": "The resource's priority."
+        }
+      }
+    },
+    "emailInfo": {
+      "title": "EmailInfo",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "recipients": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "The email's recipients."
+        },
+        "ccRecipients": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "The email's cc recipients."
+        },
+        "bccRecipients": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "The email's bcc recipients."
+        },
+        "subject": {
+          "type": "string",
+          "description": "The email's subject."
+        },
+        "messageBody": {
+          "type": "string",
+          "description": "The email's body."
+        },
+        "isHtml": {
+          "type": "boolean",
+          "description": "Whether or not html is used in the message body."
+        }
+      }
+    },
+    "textInfo": {
+      "title": "TextInfo",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "recipients": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "The text's recipients."
+        },
+        "subject": {
+          "type": "string",
+          "description": "The text's subject."
+        },
+        "body": {
+          "type": "string",
+          "description": "The text's body."
+        }
+      }
+    }
+  }
+}

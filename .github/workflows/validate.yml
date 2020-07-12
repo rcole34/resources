@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - run: find / -name "resourceArraySchema.json"
+      - run: find . -name "resourceArraySchema.json"
       - name: Validate resource array JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./schema/resourceArraySchema.json
-          INPUT_JSONS: ./educate.json,./advocate.json,./donate.json,./shop.json
+        uses: Zingabopp/JsonValidate-Action@v1
+        with:
+          json-schema: ./schema/resourceArraySchema.json
+          json-file: ./educate.json
     
 

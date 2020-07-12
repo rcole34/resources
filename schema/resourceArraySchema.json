@@ -1,6 +1,6 @@
 {
-  "$id": "resourceArray",
-  "$schema": "resourceArraySchema",
+  "$id": "resourceArraySchema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "array",
   "items": {
     "$ref": "#/definitions/resource"

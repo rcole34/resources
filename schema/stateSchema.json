@@ -1,24 +1,24 @@
 {
   "$id": "stateResources",
-  "$schema": "stateResourcesSchema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "additionalProperties": false,
   "properties": {
     "educate": {
-      "type": "object",
-      "$ref": "#/definitions/resource"
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
     },
     "advocate": {
-      "type": "object",
-      "$ref": "#/definitions/resource"
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
     },
     "donate": {
-      "type": "object",
-      "$ref": "#/definitions/resource"
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
     },
     "shop": {
-      "type": "object",
-      "$ref": "#/definitions/resource"
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
     }
   },
   "definitions": {

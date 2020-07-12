@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - run: ls
       - name: Validate resource array JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

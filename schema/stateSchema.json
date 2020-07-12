@@ -6,19 +6,19 @@
   "properties": {
     "educate": {
       "type": "array",
-      "items": { "type": "$ref": "#/definitions/resource" }
+      "items": { "$ref": "#/definitions/resource" }
     },
     "advocate": {
       "type": "array",
-      "items": { "type": "$ref": "#/definitions/resource" }
+      "items": { "$ref": "#/definitions/resource" }
     },
     "donate": {
       "type": "array",
-      "items": { "type": "$ref": "#/definitions/resource" }
+      "items": { "$ref": "#/definitions/resource" }
     },
     "shop": {
       "type": "array",
-      "items": { "type": "$ref": "#/definitions/resource" }
+      "items": { "$ref": "#/definitions/resource" }
     }
   },
   "definitions": {

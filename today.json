@@ -77,31 +77,56 @@
     ],
     "14": [
         {
-            "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-            "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-            "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-            "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-            "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-            "tags": [
-                "Breonna Taylor",
-                "Sign"
-            ],
-            "priority": 10
+          "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
+          "title": "Color blind or color brave? (Mellody Hobson)",
+          "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race — and particularly about diversity in hiring -- makes for better businesses and a better society.",
+          "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
+          "clickUrl": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave/details?language=en",
+          "tags": [
+            "Watch",
+            "Color blindness"
+          ],
+          "priority": 10
         },
         {
-            "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
-            "title": "Esusu",
-            "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
-            "imageUrl": "https://esusurent.com/images/logo-alt.png",
-            "clickUrl": "https://esusurent.com/",
-            "tags": [
-                "Services",
-                "Rent"
-            ],
-            "priority": 9
+          "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
+          "title": "Black Lives Matter",
+          "subtitle": "We appreciate your support of the movement and our ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever.",
+          "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/27730/header/image_url/f516f4de-dedf-4341-a78d-14440a288764-footer-logo.png",
+          "clickUrl": "https://secure.actblue.com/donate/ms_blm_homepage_2019",
+          "tags": [
+            "Nonprofit",
+            "BLM"
+          ],
+          "priority": 10
         }
     ],
-    "15": [],
+    "15": [
+      {
+        "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
+        "title": "How to overcome our biases? Walk boldly toward them (Vernā Myers) ",
+        "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
+        "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
+        "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
+        "tags": [
+          "Watch",
+          "bias"
+        ],
+        "priority": 10
+      },
+      {
+        "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
+        "title": "Fight for Breonna",
+        "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
+        "clickUrl": "https://justiceforbreonna.org/",
+        "tags": [
+          "Breonna Taylor",
+          "Sign"
+        ],
+        "priority": 10
+      }
+    ],
     "16": [
         {
             "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",

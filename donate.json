@@ -1,5 +1,13 @@
 [
   {
+    "id": "cf077c09-72a9-44ca-8943-13f044a7c2fb",
+    "title": "Donating Tip",
+    "subtitle": "Maximize your impact by making smaller, monthly donations to a few different organizations.",
+    "info": "Maximize your impact by making smaller, monthly donations to a few different organizations.",
+    "tags": [],
+    "priority": 0
+  },
+  {
     "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
     "title": "Open a random campaign to donate to",
     "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",

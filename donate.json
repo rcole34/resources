@@ -157,5 +157,17 @@
       "nonprofit"
     ],
     "priority": 10
+  },
+  {
+    "id": "393bbbad-5a6e-486c-9b96-bb13869d8665",
+    "title": "National Bail Out",
+    "subtitle": "National Bail Out is a Black-led and Black-centered collective of abolitionist organizers, lawyers and activists building a community-based movement to support our folks and end systems of pretrial detention and ultimately mass incarceration. We are people who have been impacted by cages — either by being in them ourselves or witnessing our families and loved ones be encaged. We are queer, trans, young, elder, and immigrant.",
+    "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/22829/header/image_url/nboactbluebanner.png",
+    "clickUrl": "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
+    "tags": [
+      "bail",
+      "actblue"
+    ],
+    "priority": 10
   }
 ]

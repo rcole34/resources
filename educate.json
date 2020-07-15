@@ -154,26 +154,27 @@
   },
   {
     "id": "5981f25a-904d-46bf-87d4-7beb43f8f438",
-    "title": "How we can make racism a solvable problem --- and improve policing (Philip Atiba Goff)",
+    "title": "How we can make racism a solvable problem --- and improve policing",
     "subtitle": "When we define racism as behaviors instead of feelings, we can measure it -- and transform it from an impossible problem into a solvable one, says justice scientist Dr. Phillip Atiba Goff. In an actionable talk, he shares his work at the Center for Policing Equity, an organization that helps police departments diagnose and track racial gaps in policing in order to eliminate them.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/dr_phillip_atiba_goff_how_we_can_make_racism_a_solvable_problem_and_improve_policing/details",
     "tags": [
       "Watch",
-      "TED Talk",
+      "TED talk",
       "Policing"
     ],
     "priority": 10
   },
   {
     "id": "3a511c45-1f7c-4752-a4df-a8b018a78ec7",
-    "title": "Racism has a cost for everyone (Heather C. McGhee)",
+    "title": "Racism has a cost for everyone",
     "subtitle": "Racism makes our economy worse -- and not just in ways that harm people of color, says public policy expert Heather C. McGhee. From her research and travels across the US, McGhee shares startling insights into how racism fuels bad policymaking and drains our economic potential -- and offers a crucial rethink on what we can do to create a more prosperous nation for all.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/heather_c_mcghee_racism_has_a_cost_for_everyone/details",
     "tags": [
       "Watch",
-      "Racism"
+      "Racism",
+      "TED talk"
     ],
     "priority": 10
   },
@@ -184,7 +185,8 @@
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/amy_padnani_how_we_re_honoring_people_overlooked_by_history/details",
     "tags": [
-      "Watch"
+      "Watch",
+      "TED talk"
     ],
     "priority": 10
   },
@@ -195,43 +197,47 @@
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/chika_okoro_how_colorism_shapes_our_standards_of_beauty/details?language=en",
     "tags": [
-      "Watch"
+      "Watch",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "75b96d3a-c3df-40a1-acc2-9b139c93df76",
-    "title": "What it takes to be racially literate (Priya Vulchi and Winona Guo)",
+    "title": "What it takes to be racially literate",
     "subtitle": "Over the last year, Priya Vulchi and Winona Guo traveled to all 50 US states, collecting personal stories about race and intersectionality. Now they're on a mission to equip every American with the tools to understand, navigate and improve a world structured by racial division.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/priya_vulchi_and_winona_guo_what_it_takes_to_be_racially_literate/details?language=en",
     "tags": [
       "Watch",
-      "Racial Literacy"
+      "Racial Literacy",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "8fc25320-b88c-461b-8db5-b5032b26c008",
-    "title": "The symbols of systemic racism --- and how to take away their power (Paul Rucker)",
+    "title": "The symbols of systemic racism --- and how to take away their power",
     "subtitle": "Multidisciplinary artist and TED Fellow Paul Rucker is unstitching the legacy of systemic racism in the United States. A collector of artifacts connected to the history of slavery -- from branding irons and shackles to postcards depicting lynchings -- Rucker couldn't find an undamaged Ku Klux Klan robe for his collection, so he began making his own.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/paul_rucker_the_symbols_of_systemic_racism_and_how_to_take_away_their_power/details?language=en",
     "tags": [
       "Watch",
-      "Systemic Racism"
+      "Systemic Racism",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "f33659fd-303f-4f82-affa-434f553642da",
-    "title": "How students of color confront impostor syndrome (Dena Dimmons)",
+    "title": "How students of color confront impostor syndrome",
     "subtitle": "As a black woman from a tough part of the Bronx who grew up to attain all the markers of academic prestige, Dena Simmons knows that for students of color, success in school sometimes comes at the cost of living authentically. Now an educator herself, Simmons discusses how we might create a classroom that makes all students feel proud of who they are.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/dena_simmons_how_students_of_color_confront_impostor_syndrome/details",
     "tags": [
       "Watch",
-      "Impostor syndrome"
+      "Impostor syndrome",
+      "TED talk"
     ],
     "priority": 10
   },
@@ -243,7 +249,8 @@
     "clickUrl": "https://www.ted.com/talks/alicia_garza_patrisse_cullors_and_opal_tometi_an_interview_with_the_founders_of_black_lives_matter/details?language=en",
     "tags": [
       "Watch",
-      "BLM"
+      "BLM",
+      "TED talk"
     ],
     "priority": 10
   },
@@ -256,79 +263,86 @@
     "tags": [
       "Watch",
       "Education",
-      "Prison system"
+      "Prison system",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
-    "title": "Color blind or color brave? (Mellody Hobson)",
+    "title": "Color blind or color brave?",
     "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race — and particularly about diversity in hiring -- makes for better businesses and a better society.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave/details?language=en",
     "tags": [
       "Watch",
-      "Color blindness"
+      "Color blindness",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "8882e35a-5340-4c29-a888-536d18486598",
-    "title": "Does racism affect how you vote? (Nate Silver)",
+    "title": "Does racism affect how you vote?",
     "subtitle": "Nate Silver has data that answers big questions about race in politics. For instance, in the 2008 presidential race, did Obama's skin color actually keep him from getting votes in some parts of the country? Stats and myths collide in this fascinating talk that ends with a remarkable insight.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/nate_silver_does_racism_affect_how_you_vote/details?language=en",
     "tags": [
       "Watch",
       "politics",
-      "voting"
+      "voting",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "2b2b9ba4-a011-4e0a-be4a-159c64f75b17",
-    "title": "3 ways to speak English (Jamila Lyiscott)",
+    "title": "3 ways to speak English",
     "subtitle": "Jamila Lyiscott is a \"tri-tongued orator\" in her powerful spoken-word essay \"Broken English,\" she celebrates — and challenges — the three distinct flavors of English she speaks with her friends, in the classroom and with her parents. As she explores the complicated history and present-day identity that each language represents, she unpacks what it means to be \"articulate.\"",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/jamila_lyiscott_3_ways_to_speak_english/details?language=en",
     "tags": [
-      "Watch"
+      "Watch",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "44ac8a6a-348f-4a8b-b310-7e014075680a",
-    "title": "How studying privilege systems can strengthen compassion (Peggy McIntosh)",
+    "title": "How studying privilege systems can strengthen compassion",
     "subtitle": "Her TED Talk offers a shift in the traditional view of race, equity and privilege. McIntosh uses her own experience as a white woman to inform her own knowledge of racial experiences from a white perspective.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.youtube.com/watch?v=e-BY9UEewHw",
     "tags": [
       "Watch",
-      "White privilege"
+      "White privilege",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "4a99b0de-21ea-42f2-b756-7c216ffab4af",
-    "title": "How to deconstruct racism, one headline at a time (Baratunde Thurston)",
+    "title": "How to deconstruct racism, one headline at a time",
     "subtitle": "Baratunde Thurston explores the phenomenon of white Americans calling the police on black Americans who have committed the crimes of ... eating, walking or generally \"living while black.\" In this profound, thought-provoking and often hilarious talk, he reveals the power of language to change stories of trauma into stories of healing -- while challenging us all to level up.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/details",
     "tags": [
       "Watch",
-      "racism"
+      "racism",
+      "TED talk"
     ],
     "priority": 10
   },
   {
     "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
-    "title": "How to overcome our biases? Walk boldly toward them (Vernā Myers) ",
+    "title": "How to overcome our biases? Walk boldly toward them",
     "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
     "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
     "tags": [
       "Watch",
-      "bias"
+      "bias",
+      "TED talk"
     ],
     "priority": 10
   },

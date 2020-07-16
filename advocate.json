@@ -1,64 +1,69 @@
 [
-    {
-        "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",
-        "title": "Justice for George Floyd",
-        "subtitle": "Reach the attention of Mayor Jacob Frey and DA Mike Freeman to beg to have the officers involved in this disgusting situation fired and for charges to be filed immediately.",
-        "imageUrl": "https://assets.change.org/photos/0/la/lt/mylaLTYqhScqWHI-800x450-noPad.jpg?1590516227",
-        "clickUrl": "https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd",
-        "tags": [
-            "George Floyd",
-            "Sign"
-        ],
-        "priority": 10
-    },
-    {
-        "id": "81acdcea-9e87-4e74-9514-c598aadf3d6c",
-        "title": "Demand justice for George Floyd",
-        "subtitle": "Take action now and call on USA authorities to make sure that all those responsible in the death of George Floyd are held accountable.",
-        "imageUrl": "https://www.amnesty.org/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/23710/100747057_647671615815013_8162893544311226368_n.jpg",
-        "clickUrl": "https://www.amnesty.org/en/get-involved/take-action/george-floyd-police-violence-usa/",
-        "tags": [
-            "George Floyd",
-            "Sign"
-        ],
-        "priority": 10
-    },
-    {
-        "id": "3815c05d-f604-4306-8431-f260f1d296aa",
-        "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
-        "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
-        "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
-        "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
-        "tags": [
-            "Police",
-            "Minnesota",
-            "MN",
-            "Sign"
-        ],
-        "priority": 10
-    },
-    {
-        "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-        "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-        "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-        "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-        "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-        "tags": [
-            "Breonna Taylor",
-            "Sign"
-        ],
-        "priority": 10
-    },
-    {
-      "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
-      "title": "Fight for Breonna",
-      "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
-      "clickUrl": "https://justiceforbreonna.org/",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    }
+  {
+    "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",
+    "title": "Justice for George Floyd",
+    "subtitle": "Reach the attention of Mayor Jacob Frey and DA Mike Freeman to beg to have the officers involved in this disgusting situation fired and for charges to be filed immediately.",
+    "imageUrl": "https://assets.change.org/photos/0/la/lt/mylaLTYqhScqWHI-800x450-noPad.jpg?1590516227",
+    "clickUrl": "https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd",
+    "tags": [
+      "George Floyd",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "81acdcea-9e87-4e74-9514-c598aadf3d6c",
+    "title": "Demand justice for George Floyd",
+    "subtitle": "Take action now and call on USA authorities to make sure that all those responsible in the death of George Floyd are held accountable.",
+    "imageUrl": "https://www.amnesty.org/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/23710/100747057_647671615815013_8162893544311226368_n.jpg",
+    "clickUrl": "https://www.amnesty.org/en/get-involved/take-action/george-floyd-police-violence-usa/",
+    "tags": [
+      "George Floyd",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3815c05d-f604-4306-8431-f260f1d296aa",
+    "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
+    "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
+    "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
+    "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
+    "tags": [
+      "Police",
+      "Minnesota",
+      "MN",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
+    "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
+    "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
+    "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
+    "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
+    "tags": [
+      "Breonna Taylor",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
+    "title": "Fight for Breonna",
+    "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
+    "clickUrl": "https://justiceforbreonna.org/",
+    "tags": [
+      "Breonna Taylor",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  }
 ]

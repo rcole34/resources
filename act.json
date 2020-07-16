@@ -7,7 +7,8 @@
     "imageUrl": "https://www.pinclipart.com/picdir/big/117-1172043_idea-clipart-yellow-bulb-lightbulb-clipart-transparent-background.png",
     "tags": [
       "Donate",
-      "tips"
+      "tips",
+      "Act"
     ],
     "priority": 0
   },
@@ -39,7 +40,8 @@
       "Nonprofit",
       "Bail funds",
       "Random",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 1
   },
@@ -52,7 +54,8 @@
     "tags": [
       "Nonprofit",
       "BLM",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -65,7 +68,8 @@
     "tags": [
       "Floyd",
       "gofundme",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -76,7 +80,8 @@
     "imageUrl": "https://nfg-sofun.s3.amazonaws.com/uploads/ui_configuration/main_logo/5211/welcome_logo_Logo_-BW.png",
     "clickUrl": "https://freemindsbookclub.networkforgood.com/",
     "tags": [
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -89,7 +94,8 @@
     "tags": [
       "Nonprofit",
       "Police reform",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -102,7 +108,8 @@
     "tags": [
       "Bail",
       "Nonprofit",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -116,7 +123,8 @@
       "volunteer",
       "books",
       "illinois",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -129,7 +137,8 @@
     "tags": [
       "Bail",
       "Nonprofit",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -142,7 +151,8 @@
     "tags": [
       "politics",
       "actblue",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -155,7 +165,8 @@
     "tags": [
       "police reform",
       "actblue",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -169,7 +180,8 @@
       "NAACP",
       "LDF",
       "nonprofit",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   },
@@ -182,7 +194,8 @@
     "tags": [
       "bail",
       "actblue",
-      "Donate"
+      "Donate",
+      "Act"
     ],
     "priority": 10
   }

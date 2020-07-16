@@ -198,5 +198,19 @@
       "Act"
     ],
     "priority": 10
+  },
+  {
+    "id": "15eb26d9-dc5d-4963-8f18-3a47c28a17a4",
+    "title": "Build for Black Lives",
+    "subtitle": "Are you an anti-racist designer, developer, data scientist, or marketing specialist interested in committing to pro bono projects to work towards reparations and racial justice? Work on one of our available projects.",
+    "imageUrl": "https://pbs.twimg.com/media/Ecund-GWsAE3QjU.jpg",
+    "clickUrl": "https://buildforblacklives.com/",
+    "tags": [
+      "Help",
+      "Code",
+      "Support",
+      "Act"
+    ],
+    "priority": 10
   }
 ]

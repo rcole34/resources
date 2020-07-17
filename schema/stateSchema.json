@@ -19,7 +19,7 @@
     "act": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
-    },
+    }
   },
   "definitions": {
     "resource": {

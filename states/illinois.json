@@ -1,6 +1,24 @@
 {
-    "advocate": [],
-    "educate": [],
-    "donate": [],
-    "shop": []
+  "advocate": [],
+  "educate": [],
+  "shop": [],
+  "act": [
+    {
+      "id": "e8ae9d57-4c31-4e9a-a5b6-5ff0c49eb3ab",
+      "title": "BLM Chicago",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-chicago-250x244-01.png",
+      "clickUrl": "http://blacklivesmatterchicago.com/",
+      "tags": [
+        "Local",
+        "Illinois",
+        "BLM",
+        "Help",
+        "Protest",
+        "Chicago",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ]
 }

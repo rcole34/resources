@@ -1,43 +1,63 @@
 {
-    "advocate": [
-      {
-        "id": "66141e82-164f-444f-9b1d-0994f13a42ec",
-        "title": "Call CA Governor Gavin Newsom",
-        "subtitle": "Make your voice heard by calling those in power in government",
-        "imageUrl": "https://img.favpng.com/2/13/0/telephone-call-computer-icons-clip-art-png-favpng-2EtQJ49Y2Q5vU91MdFf2wEGvT.jpg",
-        "phoneNumber": "+16501234567",
-        "tags": [
-          "phone",
-          "call",
-          "CA",
-          "California",
-          "Local"
+  "advocate": [
+    {
+      "id": "19dc9e48-8de5-4544-8bbf-1ae34145b40d",
+      "title": "Email CA Governor Gavin Newsom",
+      "subtitle": "Make your voice heard by emailing those in power in government",
+      "imageUrl": "https://www.pngitem.com/pimgs/m/22-227227_transparent-email-clipart-email-icon-transparent-background-hd.png",
+      "emailInfo": {
+        "recipients": [
+          "governor@governor.ca.gov"
         ],
-        "priority": 9
+        "subject": "Condemn police brutality",
+        "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
+        "isHtml": true
       },
-      {
-        "id": "19dc9e48-8de5-4544-8bbf-1ae34145b40d",
-        "title": "Email CA Governor Gavin Newsom",
-        "subtitle": "Make your voice heard by emailing those in power in government",
-        "imageUrl": "https://www.pngitem.com/pimgs/m/22-227227_transparent-email-clipart-email-icon-transparent-background-hd.png",
-        "emailInfo": {
-          "recipients": [
-            "governor@governor.ca.gov"
-          ],
-          "subject": "Condemn police brutality",
-          "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
-          "isHtml": true
-        },
-        "tags": [
-          "email",
-          "CA",
-          "California",
-          "Local"
-        ],
-        "priority": 9
-      }
-    ],
-    "educate": [],
-    "donate": [],
-    "shop": []
+      "tags": [
+        "email",
+        "CA",
+        "California",
+        "Local"
+      ],
+      "priority": 9
+    }
+  ],
+  "educate": [],
+  "shop": [],
+  "act": [
+    {
+      "id": "84ecb46d-b843-4190-88f4-a7d8bb311cb8",
+      "title": "BLM LA",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-la-250x243-01.png",
+      "clickUrl": "http://blmla.org/",
+      "tags": [
+        "Local",
+        "California",
+        "BLM",
+        "Help",
+        "Protest",
+        "Los Angeles",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "0a11b093-f103-45b2-8a9e-966343fe35d2",
+      "title": "BLM Long Beach",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-long-beach-250x244-01.png",
+      "clickUrl": "https://blmlbc.org/",
+      "tags": [
+        "Local",
+        "California",
+        "BLM",
+        "Help",
+        "Protest",
+        "Long Beach",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ]
 }

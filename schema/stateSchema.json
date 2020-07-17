@@ -12,11 +12,11 @@
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
     },
-    "donate": {
+    "shop": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
     },
-    "shop": {
+    "act": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
     }

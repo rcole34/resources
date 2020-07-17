@@ -1,6 +1,41 @@
 {
-    "advocate": [],
-    "educate": [],
-    "donate": [],
-    "shop": []
+  "advocate": [],
+  "educate": [],
+  "shop": [],
+  "act": [
+    {
+      "id": "d19e936a-9e00-4053-a0a3-798067984afa",
+      "title": "BLM Memphis",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-memphis-250x244-01.png",
+      "clickUrl": "https://facebook.com/blmmemphis",
+      "tags": [
+        "Local",
+        "Tennessee",
+        "BLM",
+        "Help",
+        "Protest",
+        "Memphis",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "ad216162-7c88-40eb-8026-6ed6158ecee1",
+      "title": "BLM Nashville",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-nashville-250x244-01.png",
+      "clickUrl": "https://blacklivesmatternashville.wordpress.com/",
+      "tags": [
+        "Local",
+        "Tennessee",
+        "BLM",
+        "Help",
+        "Protest",
+        "Nashville",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ]
 }

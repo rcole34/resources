@@ -12,14 +12,14 @@
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
     },
-    "donate": {
-      "type": "array",
-      "items": { "$ref": "#/definitions/resource" }
-    },
     "shop": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
-    }
+    },
+    "act": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
+    },
   },
   "definitions": {
     "resource": {

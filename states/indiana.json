@@ -1,6 +1,24 @@
 {
-    "advocate": [],
-    "educate": [],
-    "donate": [],
-    "shop": []
+  "advocate": [],
+  "educate": [],
+  "shop": [],
+  "act": [
+    {
+      "id": "17bbc097-7cae-4ee5-8cbc-cb7252499ba3",
+      "title": "BLM South Bend",
+      "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
+      "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-south-bend-250x243-01.png",
+      "clickUrl": "http://blacklivessouthbend.com/",
+      "tags": [
+        "Local",
+        "Indiana",
+        "BLM",
+        "Help",
+        "Protest",
+        "South Bend",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ]
 }

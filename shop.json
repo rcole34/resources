@@ -28,7 +28,7 @@
   {
     "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
     "title": "Text a bot for book suggestions",
-    "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of a books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
+    "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
     "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/books-on-a-shelf-news-photo-1591386457.jpg",
     "textInfo": {
       "recipients": [
@@ -120,7 +120,7 @@
     "id": "df18d4ae-5189-4bde-905c-a3b7a71099c9",
     "title": "Bleu Jay's Gourmet Seasonings",
     "subtitle": "Bleu Jay's Gourmet Seasonings and More has been proudly providing high quality products and services since 2014. What differentiates us from other businesses is our ability to truly connect with our customers, and provide the exceptional, compassionate service they deserve. To learn more, simply browse through our site.",
-    "imageUrl": "https://static.wixstatic.com/media/e59e06_58d4340428fc4f19820cb6175135da3f~mv2_d_3069_2301_s_2.jpg/v1/fill/w_984,h_738,al_c,q_85,usm_0.66_1.00_0.01/e59e06_58d4340428fc4f19820cb6175135da3f~mv2_d_3069_2301_s_2.webp",
+    "imageUrl": "https://static.wixstatic.com/media/e59e06_58d4340428fc4f19820cb6175135da3f~mv2_d_3069_2301_s_2.jpg",
     "clickUrl": "https://bleujaysgourmet.wixsite.com/bleujaysgourmetsea-1/shop",
     "tags": [
       "Goods",

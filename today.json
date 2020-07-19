@@ -219,17 +219,20 @@
         "priority": 9
       },
       {
-        "id": "64e2aa40-dd50-4db7-808a-09c92111b5f7",
-        "title": "Official George Floyd Memorial Fund",
-        "subtitle": "This fund is established to cover funeral and burial expenses, mental and grief counseling, lodging and travel for all court proceedings, and to assist our family in the days to come as we continue to seek justice for George.  A portion of these funds will also go to the Estate of George Floyd for the benefit and care of his children and their educational fund.",
-        "imageUrl": "https://static01.nyt.com/images/2020/05/27/us/27georgefloyd/27georgefloyd-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-        "clickUrl": "https://www.gofundme.com/f/georgefloyd",
-        "tags": [
-          "Gofundme",
-          "George Floyd"
-        ],
-        "priority": 10
-      }
+          "id": "c9393774-85d4-4987-b980-53c10f015170",
+          "title": "The Nile List",
+          "subtitle": "Nile is a digital community that connects consumers with Black-owned brands online. Think of Nile as your one-stop-shop for Black brands. All you have to do is think of what you want to buy online and we will show you somebody Black who makes that!",
+          "imageUrl": "https://www.thenilelist.com/public/images/logo.png",
+          "clickUrl": "https://www.thenilelist.com/",
+          "tags": [
+            "Nile list",
+            "Goods",
+            "Services",
+            "Black-owned",
+            "Shop"
+          ],
+          "priority": 1
+        }
     ],
     "20": [
       {

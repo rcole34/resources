@@ -573,5 +573,47 @@
       "Educate"
     ],
     "priority": 10
+  },
+  {
+    "id": "98689647-3988-4845-adc5-7fa30d642159",
+    "title": "Learn about Julius Jones",
+    "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
+    "clickUrl": "https://www.justiceforjuliusjones.com/watch-the-doc",
+    "tags": [
+      "Julius Jones",
+      "Watch",
+      "documentary",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
+    "title": "Learn about Julius Jones",
+    "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
+    "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
+    "clickUrl": "https://www.wrongfulconvictionpodcast.com/podcast/s11e1-wrongful-conviction-with-jason-flom-julius-jones-with-kim-kardashian-west",
+    "tags": [
+      "Listen",
+      "podcast",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
+    "title": "Find Your Representatives",
+    "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
+    "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",
+    "clickUrl": "https://www.commoncause.org/find-your-representative",
+    "tags": [
+      "Search",
+      "representatives",
+      "senator",
+      "congress",
+      "Educate"
+    ],
+    "priority": 10
   }
 ]

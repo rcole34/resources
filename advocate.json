@@ -13,19 +13,6 @@
     "priority": 10
   },
   {
-    "id": "81acdcea-9e87-4e74-9514-c598aadf3d6c",
-    "title": "Demand justice for George Floyd",
-    "subtitle": "Take action now and call on USA authorities to make sure that all those responsible in the death of George Floyd are held accountable.",
-    "imageUrl": "https://www.amnesty.org/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/23710/100747057_647671615815013_8162893544311226368_n.jpg",
-    "clickUrl": "https://www.amnesty.org/en/get-involved/take-action/george-floyd-police-violence-usa/",
-    "tags": [
-      "George Floyd",
-      "Sign",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
     "id": "3815c05d-f604-4306-8431-f260f1d296aa",
     "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
     "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
@@ -127,6 +114,77 @@
     },
     "tags": [
       "Wrongful conviction",
+      "Email",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2eb65d38-ca24-4906-8937-79895abea10e",
+    "title": "Protect Protestors from Federal Officers",
+    "subtitle": "The goal of this petition is to stop federal officers from detaining protestors in Portland, Oregon. These officers are arresting peaceful protestors in unmarked vehicles without identifying themselves. Gov. Kate Brown has described this as a \"blatant abuse of power\".",
+    "imageUrl": "https://static.change.org/favicon/favicon-400x400.png",
+    "clickUrl": "https://www.change.org/p/department-of-homeland-security-stop-federal-officers-from-interfering-in-portland-protests",
+    "tags": [
+      "Sign",
+      "Portland",
+      "kidnap",
+      "Change.org",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
+    "title": "Justice for George Floyd",
+    "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
+    "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
+    "textInfo": {
+      "recipients": [
+        "668366"
+      ],
+      "body": "JUSTICE"
+    },
+    "tags": [
+      "Email",
+      "Sign",
+      "Floyd",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "285fe12e-0619-46a1-9029-a3b1d08225e2",
+    "title": "Justice for George Floyd",
+    "subtitle": "Text FLOYD to 55156 to demand every cop involved in the murder of George Floyd be charged without bail.",
+    "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
+    "textInfo": {
+      "recipients": [
+        "55156"
+      ],
+      "body": "FLOYD"
+    },
+    "tags": [
+      "Email",
+      "Sign",
+      "Floyd",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e576ecad-eee4-472b-96fd-c2d27c96e90c",
+    "title": "Justice for Breonna Taylor",
+    "subtitle": "Text ENOUGH to 55156 to demand that the officers involved in the murder of Breonna Taylor be charged.",
+    "imageUrl": "https://static.limportante.fr//img/downloaded/square/9/0/907e79155ce93878be472cbfbc94fe19.jpeg",
+    "textInfo": {
+      "recipients": [
+        "55156"
+      ],
+      "body": "ENOUGH"
+    },
+    "tags": [
+      "Sign",
       "Email",
       "Advocate"
     ],

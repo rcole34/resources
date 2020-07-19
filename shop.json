@@ -175,5 +175,20 @@
       "Shop"
     ],
     "priority": 10
+  },
+  {
+    "id": "c9393774-85d4-4987-b980-53c10f015170",
+    "title": "The Nile List",
+    "subtitle": "Nile is a digital community that connects consumers with Black-owned brands online. Think of Nile as your one-stop-shop for Black brands. All you have to do is think of what you want to buy online and we will show you somebody Black who makes that!",
+    "imageUrl": "https://www.thenilelist.com/public/images/logo.png",
+    "clickUrl": "https://www.thenilelist.com/",
+    "tags": [
+      "Nile list",
+      "Goods",
+      "Services",
+      "Black-owned",
+      "Shop"
+    ],
+    "priority": 1
   }
 ]

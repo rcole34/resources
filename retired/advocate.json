@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "81acdcea-9e87-4e74-9514-c598aadf3d6c",
+    "title": "Demand justice for George Floyd",
+    "subtitle": "Take action now and call on USA authorities to make sure that all those responsible in the death of George Floyd are held accountable.",
+    "imageUrl": "https://www.amnesty.org/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/23710/100747057_647671615815013_8162893544311226368_n.jpg",
+    "clickUrl": "https://www.amnesty.org/en/get-involved/take-action/george-floyd-police-violence-usa/",
+    "tags": [
+      "George Floyd",
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 10
+  },
+]

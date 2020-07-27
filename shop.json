@@ -1,5 +1,92 @@
 [
   {
+    "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
+    "title": "VZN Clothing",
+    "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
+    "imageUrl": "https://assets.bigcartel.com/theme_images/47514239/Screenshot_35.png?auto=format&fit=max&h=200&w=600",
+    "clickUrl": "https://www.vznclothing.com/products",
+    "tags": [
+      "Clothing",
+      "Goods",
+      "Black-owned",
+      "Vznary",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
+    "title": "MoonXCosmetics",
+    "subtitle": "Handmade vegan skincare for all skin types.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
+    "clickUrl": "https://shopmoonxcosmetics.com/",
+    "tags": [
+      "Goods",
+      "Black-owned",
+      "skincare",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "536444de-6ba4-4fe2-9d00-d969d0e1f73a",
+    "title": "Nia the Loc God",
+    "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
+    "clickUrl": "https://niathelocgod.myshopify.com/",
+    "tags": [
+      "hair care",
+      "locks",
+      "dreads",
+      "Goods",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f1107367-57ca-4ab9-ac51-72c0c7fff132",
+    "title": "Shoes by Londo",
+    "subtitle": "Custom painted Vans and Air Force 1s.",
+    "imageUrl": "https://assets.bigcartel.com/theme_images/54183995/F27DB669-428A-4E46-AF97-9855A9523B3D_2.JPG?auto=format&fit=max&h=250&w=1300",
+    "clickUrl": "https://shoesbylondo.bigcartel.com/products",
+    "tags": [
+      "Goods",
+      "AF1",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "16b45694-7f4d-4789-8b43-58984377dcc0",
+    "title": "Arial Robinson",
+    "subtitle": "Along with being a student Arial is a Mixed Media Artist, 2019 Forbes 30 Under 30 Scholar, Published Author of \"The Modern Day Black Alphabet\" and Candidate for Miss North Carolina 2021.",
+    "imageUrl": "https://assets.lulu.com/cover_thumbs/1/4/1496v29d-front-shortedge-384.jpg",
+    "clickUrl": "https://www.arialrobinson.com/shop",
+    "tags": [
+      "Read",
+      "Goods",
+      "Kids' books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b47d6c57-8764-4109-be7b-40be57e235e8",
+    "title": "Inn8 Apparel",
+    "subtitle": "Your mind. Your body. Your individuality. Your imperfections. These are the things you are born with. They are innate. Embrace them. They are yours. Celebrate them. They are yours. Love them. They are you. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/files/IMG_5009_cc07be08-c97c-43f4-9ddd-f35c2cf858b9_125x@2x.jpg?v=1590635132",
+    "clickUrl": "https://inn8apparel.com/",
+    "tags": [
+      "Goods",
+      "Trevor Stanback",
+      "clothing",
+      "art",
+      "inn8apparel",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "7d59e8f8-b0f4-48f7-80f9-e637e96585f5",
     "title": "Beauty Bakerie",
     "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",

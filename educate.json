@@ -1,5 +1,264 @@
 [
   {
+    "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
+    "title": "Seven factors that contribute to American racism",
+    "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
+    "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
+    "clickUrl": "https://news.stanford.edu/2020/06/09/seven-factors-contributing-american-racism/",
+    "tags": [
+      "Stanford",
+      "Read",
+      "Article",
+      "Racism",
+      "Steven Roberts",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4c47be93-7b32-4c2e-9cc6-3bccc8a9235e",
+    "title": "Controversy over Confederate monuments is overdue",
+    "subtitle": "As Confederate monuments and memorials are toppled across the United States, Stanford historian James T. Campbell says it is important to think historically not only about the past but also about our own time and what future generations might say about us.",
+    "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/07/15130422/monuments-960x640.jpg",
+    "clickUrl": "https://news.stanford.edu/2020/07/16/confederate-monuments-coming-now/",
+    "tags": [
+      "Read",
+      "Article",
+      "Stanford",
+      "Monuments",
+      "Confederate",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "31b13fd3-5fa8-4271-809b-0a8a989efe0f",
+    "title": "Martin Luther King Jr.’s ‘Letter From Birmingham Jail’",
+    "subtitle": "In April 1963, King was jailed in Birmingham, Alabama. While there, he wrote a lengthy letter in the margins of a newspaper, and smuggled it out with the help of his lawyer. The eloquent call for “constructive, nonviolent tension” to force an end to unjust laws became a landmark document of the civil-rights movement.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/54dab36be4b0aca00d49095d/1579478221153-7NIRZAXY7E7F0PTSIMOE/ke17ZwdGBToddI8pDm48kPIMVGKkh5a71cEKHDb2IPRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpziWptTDdip-R1vVjmFXAUqPOiIzwL-xbynw1MCvETxrJgDTfIstD1FkxrVQV5AWnM/mlk-birmingham-jail.jpg",
+    "clickUrl": "https://www.theatlantic.com/magazine/archive/2018/02/letter-from-a-birmingham-jail/552461/",
+    "tags": [
+      "MLK",
+      "Letter",
+      "Article",
+      "Read",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1f05b86e-60fd-4d2e-b50b-afc25498cbce",
+    "title": "Dawoud Bey: The Birmingham Project",
+    "subtitle": "In 2005 American photographer Dawoud Bey visited Birmingham, Alabama, to explore the possibility of making work that would commemorate the September 15, 1963, bombing of the 16th Street Baptist Church. The Birmingham Project, a series that includes photographic diptychs and a split-screen video, is Bey’s powerful response.",
+    "imageUrl": "https://i.guim.co.uk/img/media/645b94fea8d76cc6c3b7e51a3e9b5019d97762ee/0_0_4000_2608/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=88aa54a67e4f7ea061da3b614adacf07",
+    "clickUrl": "https://vimeo.com/293632023",
+    "tags": [
+      "Watch",
+      "Vimeo",
+      "Photography",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c0833883-101d-4d68-a788-f237223e0968",
+    "title": "Netflix Explained: Racial Wealth Gap",
+    "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
+    "clickUrl": "https://www.youtube.com/watch?v=Mqrhn8khGLM",
+    "tags": [
+      "Watch",
+      "Netflix",
+      "Race",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
+    "title": "Ava DuVernay's \"13th\"",
+    "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
+    "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
+    "clickUrl": "https://www.netflix.com/title/80091741",
+    "tags": [
+      "Watch",
+      "Documentary",
+      "Netflix",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "35de3191-81a3-46cf-9613-c9b58d7163be",
+    "title": "The Hate U Give",
+    "subtitle": "Based on the best-selling novel, The Hate U Give tells the story of Starr Carter, who lives in two worlds: the poor, black neighborhood where she resides and the mostly white prep school she attends. This uneasy balance is shattered when she witnesses the fatal shooting of her childhood friend by a policeman. Facing pressures from all sides, Starr must find her voice and stand up for what’s right.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=NXy0H-EZR5s",
+    "tags": [
+      "Watch",
+      "Movie",
+      "Police brutality",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a7c42355-0ee1-4c64-bc54-7c44901bb0ff",
+    "title": "What I am learning from my white grandchildren",
+    "subtitle": "Are we in a post-racial society? Do we want to be? Anthony Peterson, an African American, draws from current research and from conversations with his Anglo American grandchildren to address truths about race in 21st century America.",
+    "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
+    "clickUrl": "https://www.youtube.com/watch?v=u5GCetbP7Fg",
+    "tags": [
+      "Watch",
+      "TEDx",
+      "Anthony Peterson",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "133fdef3-77f8-48a5-83d5-200fcd978768",
+    "title": "Implicit Bias -- how it effects us and how we push through",
+    "subtitle": "Everyone makes assumptions about people they don’t know. Melanie Funchess will teach us to recognize these assumptions and work toward a common understanding.",
+    "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
+    "clickUrl": "https://www.youtube.com/watch?v=Fr8G7MtRNlk",
+    "tags": [
+      "Watch",
+      "TEDx",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a4f62efa-e9e0-48b4-aa8a-ed16b6e60dcb",
+    "title": "Understanding My Privilege",
+    "subtitle": "University Chancellor, Susan E. Borrego, reflects on her life as an emancipated minor and dissects the emotionally charged conversation surrounding race relations in the United States. This raconteur uses her powerful first-person account of \"White Privilege\" and \"Black Lives Matter\" to underscore the responsibility each one of us has to bring about change.",
+    "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
+    "clickUrl": "https://www.youtube.com/watch?v=XlRxqC0Sze4",
+    "tags": [
+      "Watch",
+      "TEDx",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f098b6fa-9b10-4b1e-bf64-a8cf15f12b5e",
+    "title": "Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away",
+    "subtitle": "Microaggressions are defined as the everyday, subtle, intentional — and oftentimes unintentional — interactions or behaviors that communicate some sort of bias toward historically marginalized groups. Learn more in this podcast from NPR.",
+    "imageUrl": "https://media.npr.org/assets/img/2020/06/08/4_lifekit_final-copy_wide-009c69a2031c119a4c433755d56e25214e359a32-s1400-c85.jpg",
+    "clickUrl": "https://www.npr.org/2020/06/08/872371063/microaggressions-are-a-big-deal-how-to-talk-them-out-and-when-to-walk-away",
+    "tags": [
+      "Read",
+      "Listen",
+      "Microaggressions",
+      "NPR",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f098b6fa-9b10-4b1e-bf64-a8cf15f12b5e",
+    "title": "Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away",
+    "subtitle": "Microaggressions are defined as the everyday, subtle, intentional — and oftentimes unintentional — interactions or behaviors that communicate some sort of bias toward historically marginalized groups. Learn more in this podcast from NPR.",
+    "imageUrl": "https://media.npr.org/assets/img/2020/06/08/4_lifekit_final-copy_wide-009c69a2031c119a4c433755d56e25214e359a32-s1400-c85.jpg",
+    "clickUrl": "https://www.npr.org/2020/06/08/872371063/microaggressions-are-a-big-deal-how-to-talk-them-out-and-when-to-walk-away",
+    "tags": [
+      "Read",
+      "Listen",
+      "Microaggressions",
+      "NPR",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b6d4684a-bb43-4add-aa86-a1ae10ffe3b5",
+    "title": "Microaggressions Matter",
+    "subtitle": "They may not always be ill-intentioned, but the slights illuminate deeper problems in America.",
+    "imageUrl": "https://psychologybenefits.files.wordpress.com/2014/03/gradpsychblog-microaggressions.jpg",
+    "clickUrl": "https://www.theatlantic.com/politics/archive/2015/09/microaggressions-matter/406090/",
+    "tags": [
+      "Read",
+      "Article",
+      "Microaggressions",
+      "Atlantic",
+      "Simba",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "fc8f3fcf-6013-49fc-8f19-70ab221b41de",
+    "title": "Did you really just say that?",
+    "subtitle": "Here's advice on how to confront microaggressions, whether you're a target, bystander or perpetrator",
+    "imageUrl": "https://www.apa.org/images/2017-01-micoraggression_tcm7-211877.jpg",
+    "clickUrl": "https://www.apa.org/monitor/2017/01/microaggressions",
+    "tags": [
+      "Read",
+      "Article",
+      "Microaggressions",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c2971b03-df1a-43f6-aa26-cc5a8fc1e560",
+    "title": "Not all Black people are African American. Here's the difference.",
+    "subtitle": "Black Lives Matter protests have opened up conversations about the history of privilege, racism, and the lived experiences and identities of black people in America. Now, the distinction between \"Black\" and \"African American\" has become a prominent conversation on social media.",
+    "imageUrl": "https://pbs.twimg.com/media/EaO0hvbXsAgNTHz?format=jpg&name=360x360",
+    "clickUrl": "https://www.cbsnews.com/news/not-all-black-people-are-african-american-what-is-the-difference/",
+    "tags": [
+      "Read",
+      "Article",
+      "CBS News",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "64fe1ce4-c9ec-4449-aed0-8f2bb77b9b88",
+    "title": "How to be an Antiracist",
+    "subtitle": "This conversation with professor Ibram X. Kendi was recorded during the 2019 Aspen Ideas Festival in Aspen, Colorado. In it, he explores what an antiracist society might look like, how we can play an active role in building it, and what being an antiracist in your own context might mean.",
+    "imageUrl": "https://i.ytimg.com/vi/A13Dimiqdus/hqdefault.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=TzuOlyyQlug",
+    "tags": [
+      "Watch",
+      "Ibram X. Kendi",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "02aa0341-bb34-4dd7-8052-66cbda1f3f9f",
+    "title": "What Anti-racist Teachers Do Differently",
+    "subtitle": "They view the success of black students as central to the success of their own teaching. Read more from Pirette McKamey, principal of San Francisco’s Mission High School and an anti-racist educator for more than 30 years.",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/fDSzluF9pCIjCG5tCXHu81BLXXc=/1440x810/media/img/mt/2020/06/AniRacistTeacherNew-1/original.jpg",
+    "clickUrl": "https://www.theatlantic.com/education/archive/2020/06/how-be-anti-racist-teacher/613138/",
+    "tags": [
+      "Read",
+      "Article",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
+    "title": "The Case for Reparations",
+    "subtitle": "Two hundred fifty years of slavery. Ninety years of Jim Crow. Sixty years of separate but equal. Thirty-five years of racist housing policy. Until we reckon with our compounding moral debts, America will never be whole.",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/t4pvjoz7Wf91fkWzHoxyxhBDfkM=/media/img/2015/08/26/reparations_2/original.jpg",
+    "clickUrl": "https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/",
+    "tags": [
+      "Read",
+      "Listen",
+      "Atlantic",
+      "Article",
+      "Coates",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
     "id": "fa1cdac5-175f-4fe0-99b8-ab2bcd3239f1",
     "title": "The Other Wes Moore",
     "subtitle": "Two kids named Wes Moore were born blocks apart within a year of each other. Both grew up fatherless in similar Baltimore neighborhoods and had difficult childhoods; both hung out on street corners with their crews; both ran into trouble with the police. How, then, did one grow up to be a Rhodes Scholar, decorated veteran, White House Fellow, and business leader, while the other ended up a convicted murderer serving a life sentence?",

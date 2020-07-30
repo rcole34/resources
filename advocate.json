@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
+    "title": "Justice for Breonna Taylor - White House Petition",
+    "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
+    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
+    "clickUrl": "https://petitions.whitehouse.gov/petition/justice-breonna-taylor-5",
+    "tags": [
+      "Sign",
+      "Advocate"
+    ],
+    "priority": 1
+  },
+  {
     "id": "cf381803-7dec-4f51-9e95-8d311367ce51",
     "title": "End Federal Law Enforcement Occupation of Portland, OR",
     "subtitle": "Sign the White House petition to oppose the federal occupation of Portland. Note that after signing you will need to confirm your email for the signature to count.",
@@ -10,7 +22,7 @@
       "Portland",
       "Advocate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",

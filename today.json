@@ -1,493 +1,97 @@
 {
-  "1": [],
-  "2": [],
-  "3": [
+  "1": [
     {
-      "id": "b98dfe80-c01b-42ce-b80b-e2892482bb34",
-      "title": "Mabi Artisinal Tea",
-      "subtitle":  "Mabi Artisanal Tea is a natural, clean and healthy beverage which connects their consumers with the taste of the Caribbean. They achieve this with their cold brewed custom herbal or spice tea blend, which contains ingredients such as Lemongrass, wild Mint, Eucalyptus, Basil and Mabi, infused with fruits.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0284/4822/7376/files/Mabi_Logo-05.png?height=628&pad_color=ffffff&v=1578089918&width=1200",
-      "clickUrl": "https://mabitea.com/",
+      "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
+      "title": "Justice for Breonna Taylor - White House Petition",
+      "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
+      "clickUrl": "https://petitions.whitehouse.gov/petition/justice-breonna-taylor-5",
       "tags": [
-        "Black owned",
-        "Goods"
-      ],
-      "priority": 10
-    }
-  ],
-  "4": [],
-  "5": [],
-  "6": [],
-  "7": [],
-  "8": [],
-  "9": [
-    {
-      "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-      "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-      "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-      "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
+        "Sign",
+        "Advocate"
       ],
       "priority": 10
     },
     {
-      "id": "7d59e8f8-b0f4-48f7-80f9-e637e96585f5",
-      "title": "Beauty Bakerie",
-      "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/files/brown_logo.png?v=1587514529",
-      "clickUrl": "https://www.beautybakerie.com/",
+      "id": "c0833883-101d-4d68-a788-f237223e0968",
+      "title": "Netflix Explained: Racial Wealth Gap",
+      "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
+      "clickUrl": "https://www.youtube.com/watch?v=Mqrhn8khGLM",
       "tags": [
-        "Goods",
-        "Cosmetics"
+        "Watch",
+        "Netflix",
+        "Race",
+        "Educate"
       ],
       "priority": 10
     }
   ],
-  "10": [],
-  "11": [],
-  "12": [],
-  "13": [
+  "2": [
     {
-      "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-      "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-      "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-      "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
+      "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
+      "title": "Open a random campaign to donate to",
+      "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",
+      "randomUrlList": [
+        "https://secure.actblue.com/donate/ms_blm_homepage_2019",
+        "https://www.gofundme.com/f/georgefloyd",
+        "https://freemindsbookclub.networkforgood.com/",
+        "https://policingequity.org/donate",
+        "https://secure.givelively.org/donate/the-bail-project",
+        "https://www.liberationlib.com/donate.html",
+        "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
+        "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
+        "https://secure.actblue.com/contribute/page/support-us?refcode=blmdigest",
+        "https://www.gofundme.com/f/minnesota-poc-business-support",
+        "http://www.blacktablearts.com/",
+        "https://abepmpls.org/donate",
+        "https://www.gofundme.com/f/i-run-with-maud",
+        "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
+        "https://chicagobond.org/donate/",
+        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"      
       ],
-      "priority": 9
-    },
-    {
-      "id": "64e2aa40-dd50-4db7-808a-09c92111b5f7",
-      "title": "Official George Floyd Memorial Fund",
-      "subtitle": "This fund is established to cover funeral and burial expenses, mental and grief counseling, lodging and travel for all court proceedings, and to assist our family in the days to come as we continue to seek justice for George.  A portion of these funds will also go to the Estate of George Floyd for the benefit and care of his children and their educational fund.",
-      "imageUrl": "https://static01.nyt.com/images/2020/05/27/us/27georgefloyd/27georgefloyd-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-      "clickUrl": "https://www.gofundme.com/f/georgefloyd",
+      "info": "Update to the latest version of the app to get access to this feature",
       "tags": [
         "Gofundme",
-        "George Floyd"
-      ],
-      "priority": 10
-    }
-  ],
-  "14": [
-    {
-      "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
-      "title": "Color blind or color brave? (Mellody Hobson)",
-      "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race — and particularly about diversity in hiring -- makes for better businesses and a better society.",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave/details?language=en",
-      "tags": [
-        "Watch",
-        "Color blindness"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
-      "title": "Black Lives Matter",
-      "subtitle": "We appreciate your support of the movement and our ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever.",
-      "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/27730/header/image_url/f516f4de-dedf-4341-a78d-14440a288764-footer-logo.png",
-      "clickUrl": "https://secure.actblue.com/donate/ms_blm_homepage_2019",
-      "tags": [
         "Nonprofit",
-        "BLM"
-      ],
-      "priority": 10
-    }
-  ],
-  "15": [
-    {
-      "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
-      "title": "How to overcome our biases? Walk boldly toward them",
-      "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
-      "tags": [
-        "Watch",
-        "bias"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
-      "title": "Fight for Breonna",
-      "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
-      "clickUrl": "https://justiceforbreonna.org/",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    }
-  ],
-  "16": [
-    {
-      "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-      "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-      "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-      "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
-      "title": "Esusu",
-      "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
-      "imageUrl": "https://esusurent.com/images/logo-alt.png",
-      "clickUrl": "https://esusurent.com/",
-      "tags": [
-        "Services",
-        "Rent"
-      ],
-      "priority": 9
-    }
-  ],
-  "17": [
-    {
-      "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-      "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-      "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-      "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
-      "title": "Esusu",
-      "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
-      "imageUrl": "https://esusurent.com/images/logo-alt.png",
-      "clickUrl": "https://esusurent.com/",
-      "tags": [
-        "Services",
-        "Rent"
-      ],
-      "priority": 9
-    }
-  ],
-  "18": [
-    {
-      "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
-      "title": "How to overcome our biases? Walk boldly toward them",
-      "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
-      "tags": [
-        "Watch",
-        "bias"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
-      "title": "Fight for Breonna",
-      "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
-      "clickUrl": "https://justiceforbreonna.org/",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    }
-  ],
-  "19": [
-    {
-      "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
-      "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
-      "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
-      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
-      "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 9
-    },
-    {
-      "id": "c9393774-85d4-4987-b980-53c10f015170",
-      "title": "The Nile List",
-      "subtitle": "Nile is a digital community that connects consumers with Black-owned brands online. Think of Nile as your one-stop-shop for Black brands. All you have to do is think of what you want to buy online and we will show you somebody Black who makes that!",
-      "imageUrl": "https://www.thenilelist.com/public/images/logo.png",
-      "clickUrl": "https://www.thenilelist.com/",
-      "tags": [
-        "Nile list",
-        "Goods",
-        "Services",
-        "Black-owned",
-        "Shop"
-      ],
-      "priority": 1
-    }
-  ],
-  "20": [
-    {
-      "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
-      "title": "How to overcome our biases? Walk boldly toward them",
-      "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
-      "tags": [
-        "Watch",
-        "bias"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
-      "title": "Fight for Breonna",
-      "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
-      "clickUrl": "https://justiceforbreonna.org/",
-      "tags": [
-        "Breonna Taylor",
-        "Sign"
-      ],
-      "priority": 10
-    }
-  ],
-  "21": [
-    {
-      "id": "15eb26d9-dc5d-4963-8f18-3a47c28a17a4",
-      "title": "Build for Black Lives",
-      "subtitle": "Are you an anti-racist designer, developer, data scientist, or marketing specialist interested in committing to pro bono projects to work towards reparations and racial justice? Work on one of our available projects.",
-      "imageUrl": "https://pbs.twimg.com/media/Ecund-GWsAE3QjU.jpg",
-      "clickUrl": "https://buildforblacklives.com/",
-      "tags": [
-        "Help",
-        "Code",
-        "Support",
+        "Bail funds",
+        "Random",
+        "Donate",
         "Act"
       ],
       "priority": 10
     },
     {
-      "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
-      "title": "Text a bot for book suggestions",
-      "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/books-on-a-shelf-news-photo-1591386457.jpg",
-      "textInfo": {
-        "recipients": [
-          "4094040403"
-        ],
-        "body": "Send me book recommendations!"
-      },
+      "id": "f098b6fa-9b10-4b1e-bf64-a8cf15f12b5e",
+      "title": "Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away",
+      "subtitle": "Microaggressions are defined as the everyday, subtle, intentional — and oftentimes unintentional — interactions or behaviors that communicate some sort of bias toward historically marginalized groups. Learn more in this podcast from NPR.",
+      "imageUrl": "https://media.npr.org/assets/img/2020/06/08/4_lifekit_final-copy_wide-009c69a2031c119a4c433755d56e25214e359a32-s1400-c85.jpg",
+      "clickUrl": "https://www.npr.org/2020/06/08/872371063/microaggressions-are-a-big-deal-how-to-talk-them-out-and-when-to-walk-away",
       "tags": [
         "Read",
-        "Shop",
-        "Books",
-        "Text",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "22": [
-    {
-      "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
-      "title": "NAACP Legal Defense and Education Fund",
-      "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
-      "imageUrl": "https://www.naacpldf.org/wp-content/uploads/ldf-logo.jpg",
-      "clickUrl": "https://www.naacpldf.org/",
-      "tags": [
-        "NAACP",
-        "LDF"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "e576ecad-eee4-472b-96fd-c2d27c96e90c",
-      "title": "Justice for Breonna Taylor",
-      "subtitle": "Text ENOUGH to 55156 to demand that the officers involved in the murder of Breonna Taylor be charged.",
-      "imageUrl": "https://static.limportante.fr//img/downloaded/square/9/0/907e79155ce93878be472cbfbc94fe19.jpeg",
-      "textInfo": {
-        "recipients": [
-          "55156"
-        ],
-        "body": "ENOUGH"
-      },
-      "tags": [
-        "Sign",
-        "Email",
-        "Advocate"
-      ],
-      "priority": 10
-    }
-  ],
-  "23": [
-    {
-      "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
-      "title": "Just Mercy: A Story of Justice and Redemption",
-      "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
-      "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
-      "clickUrl": "https://justmercy.eji.org/",
-      "tags": [
-        "book",
-        "death penalty",
-        "criminal justice",
-        "prison",
-        "read"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
-      "title": "Find Your Representatives",
-      "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
-      "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",
-      "clickUrl": "https://www.commoncause.org/find-your-representative",
-      "tags": [
-        "Search",
-        "representatives",
-        "senator",
-        "congress",
-        "Educate"
-      ],
-      "priority": 10
-    }
-  ],
-  "24": [
-    {
-      "id": "393bbbad-5a6e-486c-9b96-bb13869d8665",
-      "title": "National Bail Out",
-      "subtitle": "National Bail Out is a Black-led and Black-centered collective of abolitionist organizers, lawyers and activists building a community-based movement to support our folks and end systems of pretrial detention and ultimately mass incarceration. We are people who have been impacted by cages — either by being in them ourselves or witnessing our families and loved ones be encaged. We are queer, trans, young, elder, and immigrant.",
-      "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/22829/header/image_url/nboactbluebanner.png",
-      "clickUrl": "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
-      "tags": [
-        "bail",
-        "actblue",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "f668839d-3082-43ea-89af-95f33273f6cc",
-      "title": "Coral Oral",
-      "subtitle": "Not only are these toothbrushes more aesthetically pleasing, you differentiate each brush by its pattern and not by its color. Our company is proudly black owned and highlights oral health facts including a Black history fact that we all should know!",
-      "imageUrl": "https://pbs.twimg.com/profile_images/826199582757359616/oOTZOGA9_400x400.jpg",
-      "clickUrl": "https://coraloral.com/",
-      "tags": [
-        "Goods",
-        "Black-owned",
-        "toothbrush",
-        "oral hygiene",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "25": [
-    {
-      "id": "c9393774-85d4-4987-b980-53c10f015170",
-      "title": "The Nile List",
-      "subtitle": "Nile is a digital community that connects consumers with Black-owned brands online. Think of Nile as your one-stop-shop for Black brands. All you have to do is think of what you want to buy online and we will show you somebody Black who makes that!",
-      "imageUrl": "https://www.thenilelist.com/public/images/logo.png",
-      "clickUrl": "https://www.thenilelist.com/",
-      "tags": [
-        "Nile list",
-        "Goods",
-        "Services",
-        "Black-owned",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
-      "title": "Learn about Julius Jones",
-      "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
-      "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
-      "clickUrl": "https://www.wrongfulconvictionpodcast.com/podcast/s11e1-wrongful-conviction-with-jason-flom-julius-jones-with-kim-kardashian-west",
-      "tags": [
         "Listen",
-        "podcast",
+        "Microaggressions",
+        "NPR",
         "Educate"
       ],
       "priority": 10
     }
   ],
-  "26": [
+  "3": [
     {
-      "id": "a655d35e-05e7-4109-8f25-88725ce5376b",
-      "title": "Color of Change",
-      "subtitle": "Color Of Change was founded in moments just like this one. As Black communities reeled in grief as all levels of government failed to protect Black people in the wake of Hurricane Katrina, we recognized that not enough of the people and institutions with power over our lives had any fear of disappointing Black people. For the last 15 years, we've focused on building that power.",
-      "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/6481/header/image_url/COC-logo-big.png",
-      "clickUrl": "https://secure.actblue.com/contribute/page/support-us?refcode=blmdigest",
+      "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
+      "title": "MoonXCosmetics",
+      "subtitle": "Handmade vegan skincare for all skin types.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
+      "clickUrl": "https://shopmoonxcosmetics.com/",
       "tags": [
-        "police reform",
-        "actblue",
-        "Donate",
-        "Act"
+        "Goods",
+        "Black-owned",
+        "skincare",
+        "Shop"
       ],
       "priority": 10
     },
-    {
-      "id": "285fe12e-0619-46a1-9029-a3b1d08225e2",
-      "title": "Justice for George Floyd",
-      "subtitle": "Text FLOYD to 55156 to demand every cop involved in the murder of George Floyd be charged without bail.",
-      "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
-      "textInfo": {
-        "recipients": [
-          "55156"
-        ],
-        "body": "FLOYD"
-      },
-      "tags": [
-        "Email",
-        "Sign",
-        "Floyd",
-        "Advocate"
-      ],
-      "priority": 10
-    }
-  ],
-  "27": [
-    {
-      "id": "45e70284-c301-47b3-8538-4b9ede542e57",
-      "title": "Innocence Project",
-      "subtitle": "Donate to help free the innocent in 2020. Be a part of the Innocence Project’s groundbreaking work to free innocent people and transform the legal system. With your support, we can do even more in 2020 — donate today.",
-      "imageUrl": "https://www.innocenceproject.org/wp-content/uploads/2019/04/thumbnail-small.png",
-      "clickUrl": "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
-      "tags": [
-        "Bail",
-        "Nonprofit",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "2eb65d38-ca24-4906-8937-79895abea10e",
-      "title": "Protect Protestors from Federal Officers",
-      "subtitle": "The goal of this petition is to stop federal officers from detaining protestors in Portland, Oregon. These officers are arresting peaceful protestors in unmarked vehicles without identifying themselves. Gov. Kate Brown has described this as a \"blatant abuse of power\".",
-      "imageUrl": "https://static.change.org/favicon/favicon-400x400.png",
-      "clickUrl": "https://www.change.org/p/department-of-homeland-security-stop-federal-officers-from-interfering-in-portland-protests",
-      "tags": [
-        "Sign",
-        "Portland",
-        "kidnap",
-        "Change.org",
-        "Advocate"
-      ],
-      "priority": 10
-    }
-  ],
-  "28": [
     {
       "id": "3dc2000e-dc16-4a01-a04c-f6d66af8a2a0",
       "title": "Liberation Library",
@@ -502,58 +106,156 @@
         "Act"
       ],
       "priority": 10
-    },
-    {
-      "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
-      "title": "Justice for George Floyd",
-      "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
-      "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
-      "textInfo": {
-        "recipients": [
-          "668366"
-        ],
-        "body": "JUSTICE"
-      },
-      "tags": [
-        "Email",
-        "Sign",
-        "Floyd",
-        "Advocate"
-      ],
-      "priority": 10
     }
   ],
-  "29": [
+  "4": [
     {
-      "id": "98689647-3988-4845-adc5-7fa30d642159",
-      "title": "Learn about Julius Jones",
-      "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
-      "clickUrl": "https://www.justiceforjuliusjones.com/watch-the-doc",
+      "id": "fc8f3fcf-6013-49fc-8f19-70ab221b41de",
+      "title": "Did you really just say that?",
+      "subtitle": "Here's advice on how to confront microaggressions, whether you're a target, bystander or perpetrator",
+      "imageUrl": "https://www.apa.org/images/2017-01-micoraggression_tcm7-211877.jpg",
+      "clickUrl": "https://www.apa.org/monitor/2017/01/microaggressions",
       "tags": [
-        "Julius Jones",
-        "Watch",
-        "documentary",
+        "Read",
+        "Article",
+        "Microaggressions",
         "Educate"
       ],
       "priority": 10
     },
     {
-      "id": "01d37465-1644-47e3-97ef-024b6e0c82cd",
-      "title": "BLK & Bold",
-      "subtitle": "BLK & Bold welcomes the obligation to equip young people with tools to live their best lives and overcome familiar unfortunate circumstances by turning a daily ritual, enjoying a cup of coffee & tea, into a means of giving back. BLK & Bold pledges 5% of its profits to initiatives aligned to sustaining youth programming, enhancing workforce development, and eradicating youth homelessness.",
-      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71F1tAiFHqL._SY445_.jpg",
-      "clickUrl": "https://blkandbold.com/",
+      "id": "c2971b03-df1a-43f6-aa26-cc5a8fc1e560",
+      "title": "Not all Black people are African American. Here's the difference.",
+      "subtitle": "Black Lives Matter protests have opened up conversations about the history of privilege, racism, and the lived experiences and identities of black people in America. Now, the distinction between \"Black\" and \"African American\" has become a prominent conversation on social media.",
+      "imageUrl": "https://pbs.twimg.com/media/EaO0hvbXsAgNTHz?format=jpg&name=360x360",
+      "clickUrl": "https://www.cbsnews.com/news/not-all-black-people-are-african-american-what-is-the-difference/",
       "tags": [
+        "Read",
+        "Article",
+        "CBS News",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "5": [
+    {
+      "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
+      "title": "NAACP Legal Defense and Education Fund",
+      "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
+      "imageUrl": "https://www.naacpldf.org/wp-content/uploads/ldf-logo.jpg",
+      "clickUrl": "https://www.naacpldf.org/",
+      "tags": [
+        "NAACP",
+        "LDF",
+        "nonprofit",
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
+      "title": "The Case for Reparations",
+      "subtitle": "Two hundred fifty years of slavery. Ninety years of Jim Crow. Sixty years of separate but equal. Thirty-five years of racist housing policy. Until we reckon with our compounding moral debts, America will never be whole.",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/t4pvjoz7Wf91fkWzHoxyxhBDfkM=/media/img/2015/08/26/reparations_2/original.jpg",
+      "clickUrl": "https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/",
+      "tags": [
+        "Read",
+        "Listen",
+        "Atlantic",
+        "Article",
+        "Coates",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "6": [
+    {
+      "id": "3815c05d-f604-4306-8431-f260f1d296aa",
+      "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
+      "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
+      "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
+      "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
+      "tags": [
+        "Police",
+        "Minnesota",
+        "MN",
+        "Sign",
+        "Advocate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "536444de-6ba4-4fe2-9d00-d969d0e1f73a",
+      "title": "Nia the Loc God",
+      "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
+      "clickUrl": "https://niathelocgod.myshopify.com/",
+      "tags": [
+        "hair care",
+        "locks",
+        "dreads",
         "Goods",
-        "Black-owned",
-        "coffee",
-        "tea",
         "Shop"
       ],
       "priority": 10
     }
   ],
+  "7": [
+    {
+      "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
+      "title": "VZN Clothing",
+      "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
+      "imageUrl": "https://assets.bigcartel.com/theme_images/47514239/Screenshot_35.png?auto=format&fit=max&h=200&w=600",
+      "clickUrl": "https://www.vznclothing.com/products",
+      "tags": [
+        "Clothing",
+        "Goods",
+        "Black-owned",
+        "Vznary",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "35de3191-81a3-46cf-9613-c9b58d7163be",
+      "title": "The Hate U Give",
+      "subtitle": "Based on the best-selling novel, The Hate U Give tells the story of Starr Carter, who lives in two worlds: the poor, black neighborhood where she resides and the mostly white prep school she attends. This uneasy balance is shattered when she witnesses the fatal shooting of her childhood friend by a policeman. Facing pressures from all sides, Starr must find her voice and stand up for what’s right.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=NXy0H-EZR5s",
+      "tags": [
+        "Watch",
+        "Movie",
+        "Police brutality",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": [],
+  "17": [],
+  "18": [],
+  "19": [],
+  "20": [],
+  "21": [],
+  "22": [],
+  "23": [],
+  "24": [],
+  "25": [],
+  "26": [],
+  "27": [],
+  "28": [],
+  "29": [],
   "30": [
     {
       "id": "81c18862-89f9-4194-9aaf-9f8508579457",

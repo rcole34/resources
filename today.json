@@ -234,14 +234,285 @@
       "priority": 10
     }
   ],
-  "8": [],
-  "9": [],
-  "10": [],
-  "11": [],
-  "12": [],
-  "13": [],
-  "14": [],
-  "15": [],
+  "8": [
+    {
+      "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
+      "title": "Find Your Representatives",
+      "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
+      "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",
+      "clickUrl": "https://www.commoncause.org/find-your-representative",
+      "tags": [
+        "Search",
+        "representatives",
+        "senator",
+        "congress",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
+      "title": "Black Lives Matter",
+      "subtitle": "We appreciate your support of the movement and our ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever.",
+      "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/27730/header/image_url/f516f4de-dedf-4341-a78d-14440a288764-footer-logo.png",
+      "clickUrl": "https://secure.actblue.com/donate/ms_blm_homepage_2019",
+      "tags": [
+        "Nonprofit",
+        "BLM",
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
+  "9": [
+    {
+      "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
+      "title": "Justice for Julius Jones",
+      "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
+      "emailInfo": {
+        "recipients": [
+          "Boardmembers@ppb.ok.gov"
+        ],
+        "subject": "Justice for Julius Jones",
+        "messageBody": "<p>Dear Oklahoma Pardon &amp; Parole Board members,</p>  <p>I strongly feel that Julius Darius Jones (# 270147) was wrongfully convicted of murder and sentenced to death in 2002. A crime for which he has always maintained his innocence.</p>  <p>Jones, a black 19 year old man, was arrested in 1999 for shooting white insurance executive Paul Scott Howell in Edmond, Oklahoma. At the time of his arrest, Julius was a successful athlete and honor student on scholarship at the University of Oklahoma.</p>  <p>Recently, new evidence of racial bias in the Jones&rsquo; case has been uncovered by the ABC documentary, &ldquo;The Last Defense.&rdquo;</p>  <p>One day after the documentary finale aired (7-25-18), the Oklahoma Criminal Court of Appeals released a document indicating they could take a look at the Jones&rsquo; case.</p>  <p>There are many factors that were overlooked and never presented during the Julius Jones trial.<br> 1. Jones&rsquo; attorney during the trial was inexperienced by his own admission and this was his first death penalty case.<br> 2. Several key pieces of evidence were never presented to the jury.<br> 3. Tunnel vision set in and the police and prosecutor ignored evidence pointing to others as the shooter.<br> 4. The court ignored an alleged racial statement made by one of the jurors<br> 5. The jury judged Jones based on his race.<br> After viewing the recent ABC documentary, &ldquo;The Last Defense,&rdquo; I am even more convinced than ever of Julius&rsquo; innocence and that he should be given a new trial. I also ask that District Attorney David Prater release Julius Jones&rsquo; case files to his attorneys in order to promote public trust in both the criminal justice system and in Julius Jones&rsquo;s case.</p>  <p>We all have all heard the phrase &lsquo;beyond a shadow of doubt.&rsquo; To me, there is more than a shadow of doubt in this case.</p>  <p>Please, I ask that you do whatever is within your power to support Julius Jones&rsquo; Clemency Petition and see that this injustice &ndash; the wrongful conviction of Julius Jones &ndash; is overturned.</p>  <p>Thank you,<br> [Your Name]<br> [Your location]</p>",
+        "isHtml": true
+      },
+      "tags": [
+        "Wrongful conviction",
+        "Email",
+        "Advocate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "b47d6c57-8764-4109-be7b-40be57e235e8",
+      "title": "Inn8 Apparel",
+      "subtitle": "Your mind. Your body. Your individuality. Your imperfections. These are the things you are born with. They are innate. Embrace them. They are yours. Celebrate them. They are yours. Love them. They are you. ",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/files/IMG_5009_cc07be08-c97c-43f4-9ddd-f35c2cf858b9_125x@2x.jpg?v=1590635132",
+      "clickUrl": "https://inn8apparel.com/",
+      "tags": [
+        "Goods",
+        "Trevor Stanback",
+        "clothing",
+        "art",
+        "inn8apparel",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "10": [
+    {
+      "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
+      "title": "Learn about Julius Jones",
+      "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
+      "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
+      "clickUrl": "https://www.wrongfulconvictionpodcast.com/podcast/s11e1-wrongful-conviction-with-jason-flom-julius-jones-with-kim-kardashian-west",
+      "tags": [
+        "Listen",
+        "podcast",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "98689647-3988-4845-adc5-7fa30d642159",
+      "title": "Learn about Julius Jones",
+      "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
+      "clickUrl": "https://www.justiceforjuliusjones.com/watch-the-doc",
+      "tags": [
+        "Julius Jones",
+        "Watch",
+        "documentary",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "11": [
+    {
+      "id": "4e6edfeb-0518-4f1f-86dc-104020869481",
+      "title": "Seeing White Podcast Series",
+      "subtitle": "Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.",
+      "imageUrl": "https://www.uncsa.edu/mysa/img/announcements/2019/seeing-white.jpg",
+      "clickUrl": "https://www.sceneonradio.org/seeing-white/",
+      "tags": [
+        "Listen",
+        "white privilege",
+        "podcast",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
+      "title": "Justice for George Floyd",
+      "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
+      "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
+      "textInfo": {
+        "recipients": [
+          "668366"
+        ],
+        "body": "JUSTICE"
+      },
+      "tags": [
+        "Email",
+        "Sign",
+        "Floyd",
+        "Advocate"
+      ],
+      "priority": 10
+    }
+  ],
+  "12": [
+    {
+      "id": "1743325b-7077-4fa4-b9bb-0f76df036d84",
+      "title": "1619 Podcast",
+      "subtitle": "An audio series from The Times observing the 400th anniversary of the beginning of American slavery.",
+      "imageUrl": "https://static01.nyt.com/images/2019/09/11/podcasts/1619-album-art/1619-album-art-thumbLarge.jpg",
+      "clickUrl": "https://www.nytimes.com/column/1619-project",
+      "tags": [
+        "Listen",
+        "Slavery",
+        "History",
+        "Podcast",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
+      "title": "Open a random campaign to donate to",
+      "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",
+      "randomUrlList": [
+        "https://secure.actblue.com/donate/ms_blm_homepage_2019",
+        "https://www.gofundme.com/f/georgefloyd",
+        "https://freemindsbookclub.networkforgood.com/",
+        "https://policingequity.org/donate",
+        "https://secure.givelively.org/donate/the-bail-project",
+        "https://www.liberationlib.com/donate.html",
+        "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
+        "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
+        "https://secure.actblue.com/contribute/page/support-us?refcode=blmdigest",
+        "https://www.gofundme.com/f/minnesota-poc-business-support",
+        "http://www.blacktablearts.com/",
+        "https://abepmpls.org/donate",
+        "https://www.gofundme.com/f/i-run-with-maud",
+        "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
+        "https://chicagobond.org/donate/",
+        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"      
+      ],
+      "info": "Update to the latest version of the app to get access to this feature",
+      "tags": [
+        "Gofundme",
+        "Nonprofit",
+        "Bail funds",
+        "Random",
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
+  "13": [
+    {
+      "id": "ec824ef5-ceda-4656-babf-5cf4999f539d",
+      "title": "The Costs of Racism to White People",
+      "subtitle": "We tend to think of racism as a problem for people of color and something we should be concerned about for their sake. However, the costs of racism to white people are devastating, especially to those of us without the money and power to buffer their effects.",
+      "clickUrl": "http://paulkivel.com/wp-content/uploads/2015/07/thecostsofracism.pdf",
+      "tags": [
+        "Read",
+        "White privilege",
+        "costs",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "25907769-5c6f-4481-bcce-ea36a57208ce",
+      "title": "Accountability in a Time of Justice",
+      "subtitle": "Accountability is a well-worn word in social justice circles. We have worked hard to figure out what accountability means to us as we attempt to walk our social justice talk.",
+      "clickUrl": "http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/accountability.jjo.drworks.pdf",
+      "tags": [
+        "Read",
+        "Accountability",
+        "Justice",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "14": [
+    {
+      "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
+      "title": "Just Mercy: A Story of Justice and Redemption",
+      "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
+      "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
+      "clickUrl": "https://justmercy.eji.org/",
+      "tags": [
+        "book",
+        "death penalty",
+        "criminal justice",
+        "prison",
+        "read",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
+      "title": "Text a bot for book suggestions",
+      "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/books-on-a-shelf-news-photo-1591386457.jpg",
+      "textInfo": {
+        "recipients": [
+          "4094040403"
+        ],
+        "body": "Send me book recommendations!"
+      },
+      "tags": [
+        "Read",
+        "Shop",
+        "Books",
+        "Text",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "15": [
+    {
+      "id": "e7a0006b-c069-46a2-a189-261581611706",
+      "title": "Riot Swim",
+      "subtitle": "Riot Swim is an online designer swimwear and beachwear brand, offering an exclusive collection of bikinis, one piece swimsuits, and more.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7TCTDp264pOgf996YcMpfO2esASQzDZo7cw&usqp=CAU",
+      "clickUrl": "https://www.riotswim.com/",
+      "tags": [
+        "Goods",
+        "swimwear",
+        "Black-owned",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
+      "title": "Ava DuVernay's \"13th\"",
+      "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
+      "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
+      "clickUrl": "https://www.netflix.com/title/80091741",
+      "tags": [
+        "Watch",
+        "Documentary",
+        "Netflix",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
   "16": [],
   "17": [],
   "18": [],
@@ -257,63 +528,9 @@
   "28": [],
   "29": [],
   "30": [
-    {
-      "id": "81c18862-89f9-4194-9aaf-9f8508579457",
-      "title": "Red Bay Coffee",
-      "subtitle": "Red Bay Coffee is at the forefront of what we believe is the fourth wave of coffee—a firm commitment to ensure coffee production is not only high quality and sustainable, but a vehicle for diversity, inclusion, social and economic restoration, entrepreneurship, and environmental sustainability. We are foodies, artists, activists, community folk, and innovators who love, love, love what we do.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/files/RB_Logofinal_220x@2x.jpg?v=1551950251",
-      "clickUrl": "https://www.redbaycoffee.com/collections/all",
-      "tags": [
-        "Goods",
-        "coffee",
-        "Black-owned",
-        "California",
-        "Oakland",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "7833e454-56b1-4364-8d10-58813b1093cd",
-      "title": "Uncivil Podcast",
-      "subtitle": "Uncivil brings you stories that were left out of the official history of the Civil War, ransacks America's past, and takes on the history you grew up with. We bring you untold stories about resistance, covert operations, corruption, mutiny, counterfeiting, antebellum drones, and so much more.",
-      "imageUrl": "https://gimlet.spotifycdn.com/show_art/54cc581f-b6a2-4928-814a-ec2151a98f7f/medium.webp",
-      "clickUrl": "https://gimletmedia.com/shows/uncivil",
-      "tags": [
-        "Listen",
-        "Podcast",
-        "Educate"
-      ],
-      "priority": 10
-    }
+    
   ],
   "31": [
-    {
-      "id": "009a2dc4-40a3-4885-825c-c8e58844460c",
-      "title": "Center for Policing Equity",
-      "subtitle": "Your donation fuels our ability to lead on the police reform that's necessary. Together we will create a public safety system that protects and preserves justice for all.",
-      "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFdNracb0GsTg/company-logo_200_200/0?e=2159024400&v=beta&t=fp0BgDELReEfVS-l4L9Uhk1LeoamX4J5_ncd-4v8CnA",
-      "clickUrl": "https://policingequity.org/donate",
-      "tags": [
-        "Nonprofit",
-        "Police reform",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "8bc94352-854b-4b04-ac17-c09e611856a2",
-      "title": "Defund12.org",
-      "subtitle": "Email and mail government officials and council members to reallocate egregious police budgets towards education, social services, and dismantling racial injustice.",
-      "imageUrl": "https://wjla.com/resources/media/9f511569-c92a-4d26-a1df-98d4a538e127-large3x4_GettyImages1248266118.jpg?1591896691229",
-      "clickUrl": "https://defund12.org/",
-      "tags": [
-        "Defund the police",
-        "Email",
-        "Advocate"
-      ],
-      "priority": 10
-    }
+    
   ]
 }

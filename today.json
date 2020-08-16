@@ -513,7 +513,36 @@
       "priority": 10
     }
   ],
-  "16": [],
+  "16": [
+    {
+      "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
+      "title": "Seven factors that contribute to American racism",
+      "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
+      "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
+      "clickUrl": "https://news.stanford.edu/2020/06/09/seven-factors-contributing-american-racism/",
+      "tags": [
+        "Stanford",
+        "Read",
+        "Article",
+        "Racism",
+        "Steven Roberts",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "6e0d8fe3-55da-43b3-8e2c-d822139455c0",
+      "title": "Justice For Tony McDade",
+      "subtitle": "Tony McDade was a transgender black man who got killed by police in Tallahassee. Sign this petition and encourage others to do so as well to get his name out there.",
+      "imageUrl": "https://assets.change.org/photos/5/iw/ta/hGIWtaAaRuIKGJv-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/justice-for-tony-mcdade",
+      "tags": [
+        "Sign",
+        "Advocate"
+      ],
+      "priority": 10
+    }
+  ],
   "17": [],
   "18": [],
   "19": [],

@@ -14,7 +14,7 @@
         "Senate",
         "Advocate"
       ],
-      "priority": 10
+      "priority": 1
     },
     {
       "id": "4ddf92c8-b54e-432d-8542-c39f3e994c3a",
@@ -38,7 +38,7 @@
         "Bill",
         "Advocate"
       ],
-      "priority": 10
+      "priority": 1
     }
   ],
   "educate": [],

@@ -1,5 +1,20 @@
 [
   {
+    "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
+    "title": "Justice for Tianna (Donate for Legal Costs)",
+    "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
+    "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
+    "clickUrl": "https://www.gofundme.com/f/kzzrd-justice-for-tiana",
+    "tags": [
+      "Donate",
+      "Tianna",
+      "SLO",
+      "police",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
     "id": "cf077c09-72a9-44ca-8943-13f044a7c2fb",
     "title": "Donating Tip",
     "subtitle": "Maximize your impact by making smaller, monthly donations to a few different organizations.",
@@ -43,7 +58,7 @@
       "Donate",
       "Act"
     ],
-    "priority": 1
+    "priority": 9
   },
   {
     "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",

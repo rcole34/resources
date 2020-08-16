@@ -1,5 +1,42 @@
 [
   {
+    "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
+    "title": "Support our Young Protest Leaders #freetianna",
+    "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
+    "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/slo-county-district-attorney-support-our-young-protest-leaders",
+    "tags": [
+      "Sign",
+      "Tianna",
+      "SLO",
+      "peaceful protest",
+      "police",
+      "Advocate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
+    "title": "Email for Tianna Arata",
+    "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
+    "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
+    "emailInfo": {
+      "recipients": [
+        "ddow@co.slo.ca.us",
+        "fisherlaw78@yahoo.com"
+      ],
+      "subject": "We demand that all charges against Tianna Arata be dropped",
+      "messageBody": "<p>Hi, my name is [Your name]</p>  <p>I am contacting you regarding the arrest of local leader and activist Tianna Arata. Tianna is an extremely brave young person who has put her body on the line for her community, peacefully protesting throughout the past weeks against systemic racism and white supremacy. Tianna has a long history of being an activist and has always advocated for those in marginalized communities in every aspect of her life.</p>  <p>The SLO protests have been extremely peaceful, and the night of her arrest was no different. On July 21, after the protest was winding down, Tianna was forcefully and violently arrested by six police officers. Witnesses say she was with friends, putting their stuff back into their cars. She was charged with five counts, including two felonies, one of which was inciting a riot. All reporting on this night of protests say it was extremely peaceful.</p>  <p>It is obvious that the city of SLO is violently targeting this leader of the local Black Lives Matter movement in an attempt to quell resistance to racism and oppression. She has never advocated for any sort of violence in her protests, for this reason exactly. Leaders, especially young Black women, are often targeted simply for standing up for their lives and rights, and trying to better their communities. It is abhorrent that SLO is participating in this display of state violence and white supremacy. Because of this, I demand that all charges be dropped against Tianna and she be returned to her family immediately.</p>  <p>Tianna is innocent. I stand with her and reaffirm that her life and freedom matters, as well as the lives of all Black SLO residents. Correct your mistakes. Listen to your people. Do better.</p>  <p>As of Monday, August 10th, the charges against Tianna have been increased to four felony counts of false imprisonment, one count of felony conspiracy, and three misdemeanors. Tianna faces up to FIFTEEN years in prison because of these ludicrous charges. Facing these charges and possibly being convicted is leading, and will lead to, devastating repercussions for Tianna. Already, she is dealing with extreme anxiety, harassment, feeling unsafe in her own home and community, and more. Her future will be destroyed. Her dreams will be squashed. She is a leader, a student, an extremely hard worker, a beacon of joy and light, an athlete, a creative, a daughter, and most of all a person. Again, these charges will destroy Tianna's life. Drop them immediately.</p>  <p>Sincerely,</p>  <p>[Your name]</p>",
+      "isHtml": true
+    },
+    "tags": [
+      "Email",
+      "SLO",
+      "Advocate"
+    ],
+    "priority": 9
+  },
+  {
     "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
     "title": "Justice for Breonna Taylor - White House Petition",
     "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
@@ -9,7 +46,7 @@
       "Sign",
       "Advocate"
     ],
-    "priority": 1
+    "priority": 10
   },
   {
     "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",

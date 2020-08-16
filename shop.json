@@ -11,7 +11,7 @@
       "thoughtful",
       "Shop"
     ],
-    "priority": 10
+    "priority": 9
   },
   {
     "id": "673d3d97-716d-4ccd-aaa8-325add31038d",
@@ -25,7 +25,7 @@
       "post21shop.com",
       "Shop"
     ],
-    "priority": 10
+    "priority": 9
   },
   {
     "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
@@ -39,7 +39,7 @@
       "app",
       "Shop"
     ],
-    "priority": 10
+    "priority": 9
   },
   {
     "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
@@ -52,7 +52,7 @@
       "Bookstores",
       "Shop"
     ],
-    "priority": 10
+    "priority": 9
   },
   {
     "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
@@ -331,6 +331,6 @@
       "Black-owned",
       "Shop"
     ],
-    "priority": 1
+    "priority": 10
   }
 ]

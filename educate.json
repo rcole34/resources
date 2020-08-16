@@ -1,5 +1,25 @@
 [
   {
+    "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",
+    "title": "Land Acknowledgement App",
+    "subtitle": "Text the name of a city and state to 907-312-5085 to find out the Indigenous people of that place.",
+    "imageUrl": "https://nativegov.org/wp-content/uploads/2019/10/Copy-of-Native-Land-Facebook-Event-Photo-1-copy.png",
+    "textInfo": {
+      "recipients": [
+        "907-312-5085"
+      ],
+      "body": "[Your location]"
+    },
+    "tags": [
+      "Text",
+      "native",
+      "american",
+      "indian",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
     "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
     "title": "Seven factors that contribute to American racism",
     "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",

@@ -1,5 +1,60 @@
 [
   {
+    "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
+    "title": "Shop Thoughtful",
+    "subtitle": "thoughtful is a nonprofit that seeks to promote black businesses and create a one-stop-shop for consumers who want to vote with their wallets. thoughtful does not take any commissions off of the businesses it promotes, it is purely a hub designed to uplift and support established Black-owned businesses online.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1274679581518127104/Qb6pNclT.jpg",
+    "clickUrl": "https://www.shopthoughtful.org/",
+    "tags": [
+      "Goods",
+      "Services",
+      "thoughtful",
+      "Shop"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "673d3d97-716d-4ccd-aaa8-325add31038d",
+    "title": "Post 21",
+    "subtitle": "Post 21 was created by a Mother-Daughter duo who wanted a comprehensive marketplace that focused on products from Black-owned businesses. They felt strongly that there’s no reason why these products are consistently being discovered when they should be household names. So, they said let’s create the place we want to shop. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/articles/blogimage_11d64764-3a58-487b-a7f3-b9a0eb5aaa51_1200x.png",
+    "clickUrl": "https://post21shop.com/",
+    "tags": [
+      "Goods",
+      "services",
+      "post21shop.com",
+      "Shop"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
+    "title": "Official Black Wall Street",
+    "subtitle": "Get thousands of Black-owned businesses at your fingertips with the largest online platform for Black businesses.",
+    "imageUrl": "https://officialblackwallstreet.com/wp-content/uploads/2015/06/Mobile-Logo.png",
+    "clickUrl": "https://officialblackwallstreet.com/directory/",
+    "tags": [
+      "Goods",
+      "services",
+      "app",
+      "Shop"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
+    "title": "Find Black-owned bookstores near you",
+    "subtitle": "The African American Literature Book Club (AALBC.com) has put together a map of Blac-owned bookstores across the US. Find your nearest one here.",
+    "imageUrl": "https://aalbc.com/aalbc_logo_120.jpg",
+    "clickUrl": "https://aalbc.com/bookstores/bookstore-map.php",
+    "tags": [
+      "Goods",
+      "Bookstores",
+      "Shop"
+    ],
+    "priority": 9
+  },
+  {
     "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
     "title": "VZN Clothing",
     "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
@@ -276,6 +331,6 @@
       "Black-owned",
       "Shop"
     ],
-    "priority": 1
+    "priority": 10
   }
 ]

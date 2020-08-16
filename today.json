@@ -48,7 +48,8 @@
         "https://www.gofundme.com/f/i-run-with-maud",
         "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
         "https://chicagobond.org/donate/",
-        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"      
+        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
+        "https://www.gofundme.com/f/kzzrd-justice-for-tiana"
       ],
       "info": "Update to the latest version of the app to get access to this feature",
       "tags": [
@@ -403,7 +404,8 @@
         "https://www.gofundme.com/f/i-run-with-maud",
         "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
         "https://chicagobond.org/donate/",
-        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"      
+        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
+        "https://www.gofundme.com/f/kzzrd-justice-for-tiana"
       ],
       "info": "Update to the latest version of the app to get access to this feature",
       "tags": [
@@ -543,13 +545,230 @@
       "priority": 10
     }
   ],
-  "17": [],
-  "18": [],
-  "19": [],
-  "20": [],
-  "21": [],
-  "22": [],
-  "23": [],
+  "17": [
+    {
+      "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
+      "title": "Support our Young Protest Leaders #freetianna",
+      "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
+      "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/slo-county-district-attorney-support-our-young-protest-leaders",
+      "tags": [
+        "Sign",
+        "Tianna",
+        "SLO",
+        "peaceful protest",
+        "police",
+        "Advocate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
+      "title": "Shop Thoughtful",
+      "subtitle": "thoughtful is a nonprofit that seeks to promote black businesses and create a one-stop-shop for consumers who want to vote with their wallets. thoughtful does not take any commissions off of the businesses it promotes, it is purely a hub designed to uplift and support established Black-owned businesses online.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1274679581518127104/Qb6pNclT.jpg",
+      "clickUrl": "https://www.shopthoughtful.org/",
+      "tags": [
+        "Goods",
+        "Services",
+        "thoughtful",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "18": [
+    {
+      "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
+      "title": "Email for Tianna Arata",
+      "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
+      "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
+      "emailInfo": {
+        "recipients": [
+          "ddow@co.slo.ca.us",
+          "fisherlaw78@yahoo.com"
+        ],
+        "subject": "We demand that all charges against Tianna Arata be dropped",
+        "messageBody": "<p>Hi, my name is [Your name]</p>  <p>I am contacting you regarding the arrest of local leader and activist Tianna Arata. Tianna is an extremely brave young person who has put her body on the line for her community, peacefully protesting throughout the past weeks against systemic racism and white supremacy. Tianna has a long history of being an activist and has always advocated for those in marginalized communities in every aspect of her life.</p>  <p>The SLO protests have been extremely peaceful, and the night of her arrest was no different. On July 21, after the protest was winding down, Tianna was forcefully and violently arrested by six police officers. Witnesses say she was with friends, putting their stuff back into their cars. She was charged with five counts, including two felonies, one of which was inciting a riot. All reporting on this night of protests say it was extremely peaceful.</p>  <p>It is obvious that the city of SLO is violently targeting this leader of the local Black Lives Matter movement in an attempt to quell resistance to racism and oppression. She has never advocated for any sort of violence in her protests, for this reason exactly. Leaders, especially young Black women, are often targeted simply for standing up for their lives and rights, and trying to better their communities. It is abhorrent that SLO is participating in this display of state violence and white supremacy. Because of this, I demand that all charges be dropped against Tianna and she be returned to her family immediately.</p>  <p>Tianna is innocent. I stand with her and reaffirm that her life and freedom matters, as well as the lives of all Black SLO residents. Correct your mistakes. Listen to your people. Do better.</p>  <p>As of Monday, August 10th, the charges against Tianna have been increased to four felony counts of false imprisonment, one count of felony conspiracy, and three misdemeanors. Tianna faces up to FIFTEEN years in prison because of these ludicrous charges. Facing these charges and possibly being convicted is leading, and will lead to, devastating repercussions for Tianna. Already, she is dealing with extreme anxiety, harassment, feeling unsafe in her own home and community, and more. Her future will be destroyed. Her dreams will be squashed. She is a leader, a student, an extremely hard worker, a beacon of joy and light, an athlete, a creative, a daughter, and most of all a person. Again, these charges will destroy Tianna's life. Drop them immediately.</p>  <p>Sincerely,</p>  <p>[Your name]</p>",
+        "isHtml": true
+      },
+      "tags": [
+        "Email",
+        "SLO",
+        "Advocate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
+      "title": "Find Black-owned bookstores near you",
+      "subtitle": "The African American Literature Book Club (AALBC.com) has put together a map of Blac-owned bookstores across the US. Find your nearest one here.",
+      "imageUrl": "https://aalbc.com/aalbc_logo_120.jpg",
+      "clickUrl": "https://aalbc.com/bookstores/bookstore-map.php",
+      "tags": [
+        "Goods",
+        "Bookstores",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "19": [
+    {
+      "id": "a7c42355-0ee1-4c64-bc54-7c44901bb0ff",
+      "title": "What I am learning from my white grandchildren",
+      "subtitle": "Are we in a post-racial society? Do we want to be? Anthony Peterson, an African American, draws from current research and from conversations with his Anglo American grandchildren to address truths about race in 21st century America.",
+      "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
+      "clickUrl": "https://www.youtube.com/watch?v=u5GCetbP7Fg",
+      "tags": [
+        "Watch",
+        "TEDx",
+        "Anthony Peterson",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
+      "title": "Official Black Wall Street",
+      "subtitle": "Get thousands of Black-owned businesses at your fingertips with the largest online platform for Black businesses.",
+      "imageUrl": "https://officialblackwallstreet.com/wp-content/uploads/2015/06/Mobile-Logo.png",
+      "clickUrl": "https://officialblackwallstreet.com/directory/",
+      "tags": [
+        "Goods",
+        "services",
+        "app",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "20": [
+    {
+      "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
+      "title": "Justice for Tianna (Donate for Legal Costs)",
+      "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
+      "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
+      "clickUrl": "https://www.gofundme.com/f/kzzrd-justice-for-tiana",
+      "tags": [
+        "Donate",
+        "Tianna",
+        "SLO",
+        "police",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "673d3d97-716d-4ccd-aaa8-325add31038d",
+      "title": "Post 21",
+      "subtitle": "Post 21 was created by a Mother-Daughter duo who wanted a comprehensive marketplace that focused on products from Black-owned businesses. They felt strongly that there’s no reason why these products are consistently being discovered when they should be household names. So, they said let’s create the place we want to shop. ",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/articles/blogimage_11d64764-3a58-487b-a7f3-b9a0eb5aaa51_1200x.png",
+      "clickUrl": "https://post21shop.com/",
+      "tags": [
+        "Goods",
+        "services",
+        "post21shop.com",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "21": [
+    {
+      "id": "b6d4684a-bb43-4add-aa86-a1ae10ffe3b5",
+      "title": "Microaggressions Matter",
+      "subtitle": "They may not always be ill-intentioned, but the slights illuminate deeper problems in America.",
+      "imageUrl": "https://psychologybenefits.files.wordpress.com/2014/03/gradpsychblog-microaggressions.jpg",
+      "clickUrl": "https://www.theatlantic.com/politics/archive/2015/09/microaggressions-matter/406090/",
+      "tags": [
+        "Read",
+        "Article",
+        "Microaggressions",
+        "Atlantic",
+        "Simba",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "0fe85092-35bb-4667-82ef-90d661129a4f",
+      "title": "Email the mayor of Louisville",
+      "subtitle": "Send a pre-filled email to Mayor Fischer of Louisville, KY to demand he holds the officers who killed Breonna Taylor accountable.",
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
+      "emailInfo": {
+        "recipients": [
+          "greg.fischer@louisvilleky.gov"
+        ],
+        "subject": "Accountability for Breonna Taylor",
+        "messageBody": "<p>Mayor Fischer,</p>  <p>Like thousands of people across the country, I was appalled to hear about Breonna Taylor's murder on March 13th. Echoing the requests of Louisville community organizers, the following demands must be met to ensure that the officers responsible for Breonna's death are held accountable for their brash, reprehensible actions:</p>  <ol><li>Your office and the Louisville City Council must address the use of force by the Louisville Metro Police</li> <li>The officers that killed Breonna (Sgt. Jonathan Mattingly, Detective Brett Hankison, and Detective Myles Cosgrove) must be fired, and have their pensions revoked</li> <li>Ensure that all necessary information is provided to a local, independent civilian community police accountability council</li> <li>Create policy for a transparent investigation process due to law enforcement misconduct</li> <li>Appoint a special prosecutor to bring forward charges against the officers and oversee all parts of this case</li></ol> <p>It is imperative that you condemn the actions of these officers. Raids cannot be performed with a shoot first, ask questions later mentality. Too many lives have been lost this way, and too often \"danger\" is determined by deeply entrenched racial biases, not actual threat level.</p> <p>It is a tragedy that Breonna Taylor is not alive today. Police must be held to a higher standard than this. I trust that your office and the involved parties will do the right thing.</p>  <p>Sincerely,</p> <p>[Your name] from [Your location]</p>",
+        "isHtml": true
+      },
+      "tags": [
+        "Breonna Taylor",
+        "Email",
+        "Advocate"
+      ],
+      "priority": 10
+    }
+  ],
+  "22": [
+    {
+      "id": "64fe1ce4-c9ec-4449-aed0-8f2bb77b9b88",
+      "title": "How to be an Antiracist",
+      "subtitle": "This conversation with professor Ibram X. Kendi was recorded during the 2019 Aspen Ideas Festival in Aspen, Colorado. In it, he explores what an antiracist society might look like, how we can play an active role in building it, and what being an antiracist in your own context might mean.",
+      "imageUrl": "https://i.ytimg.com/vi/A13Dimiqdus/hqdefault.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=TzuOlyyQlug",
+      "tags": [
+        "Watch",
+        "Ibram X. Kendi",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "cf077c09-72a9-44ca-8943-13f044a7c2fb",
+      "title": "Donating Tip",
+      "subtitle": "Maximize your impact by making smaller, monthly donations to a few different organizations.",
+      "info": "Don't just let your donations be a one-time lump sum donation. Instead, spread the love out with smaller, recurring, monthly donations to continue supporting the movement beyond your first donation.",
+      "imageUrl": "https://www.pinclipart.com/picdir/big/117-1172043_idea-clipart-yellow-bulb-lightbulb-clipart-transparent-background.png",
+      "tags": [
+        "Donate",
+        "tips",
+        "Act"
+      ],
+      "priority": 0
+    }
+  ],
+  "23": [
+    {
+      "id": "02aa0341-bb34-4dd7-8052-66cbda1f3f9f",
+      "title": "What Anti-racist Teachers Do Differently",
+      "subtitle": "They view the success of black students as central to the success of their own teaching. Read more from Pirette McKamey, principal of San Francisco’s Mission High School and an anti-racist educator for more than 30 years.",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/fDSzluF9pCIjCG5tCXHu81BLXXc=/1440x810/media/img/mt/2020/06/AniRacistTeacherNew-1/original.jpg",
+      "clickUrl": "https://www.theatlantic.com/education/archive/2020/06/how-be-anti-racist-teacher/613138/",
+      "tags": [
+        "Read",
+        "Article",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "d919012c-e419-422d-a277-9bd708369eae",
+      "title": "The Collective PAC",
+      "subtitle": "The Collective is strengthening our democracy by addressing the significant underrepresentation of the Black community in public office. We are fighting for equal representation and protection under the law so it is vital that we have Black candidates run, and Black voices heard.",
+      "imageUrl": "https://abdemo-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/undefined/header/image_url/62ed7ff1-a521-4571-b3e4-90a5720fa799-large.png",
+      "clickUrl": "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
+      "tags": [
+        "politics",
+        "actblue",
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
   "24": [],
   "25": [],
   "26": [],

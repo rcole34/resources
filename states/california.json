@@ -1,25 +1,44 @@
 {
   "advocate": [
     {
-      "id": "19dc9e48-8de5-4544-8bbf-1ae34145b40d",
-      "title": "Email CA Governor Gavin Newsom",
-      "subtitle": "Make your voice heard by emailing those in power in government",
-      "imageUrl": "https://www.pngitem.com/pimgs/m/22-227227_transparent-email-clipart-email-icon-transparent-background-hd.png",
+      "id": "161fbfa3-bc7c-4743-837e-ad45124bd237",
+      "title": "Save Ethnic Studies in California!",
+      "subtitle": "We, the students of California, are asking the Senate appropriations committee to move AB-331 to the Senate floor so that an Ethnic Studies course becomes a graduation requirement at all California public and charter schools.",
+      "imageUrl": "https://assets.change.org/photos/7/xc/ig/KHxCigdOUbufiss-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/california-state-senate-appropriations-committee-save-ethnic-studies-in-california",
+      "tags": [
+        "Local",
+        "California",
+        "Sign",
+        "Bill",
+        "Senate",
+        "Advocate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "4ddf92c8-b54e-432d-8542-c39f3e994c3a",
+      "title": "Email the CA Senate Appropriations Committee",
+      "subtitle": "Send an email to members of the California Senate Appropriations Committee to express your support for AB-331, which mandates Ethnic Studies as a graduation requirement at CA high schools.",
+      "imageUrl": "https://assets.change.org/photos/7/xc/ig/KHxCigdOUbufiss-800x450-noPad.jpg",
       "emailInfo": {
         "recipients": [
-          "governor@governor.ca.gov"
+          "Jennifer.Douglas@sen.ca.gov",
+          "Lenin.DelCastillo@sen.ca.gov",
+          "team@anthonyportantino.com"
         ],
-        "subject": "Condemn police brutality",
-        "messageBody": "<p>Dear Governor Newsom,</p><p>My name is [Your Name] and I am constituent from [Your location]. I am contacting you because I want to know what you will do to protect black lives and prevent further instances of police brutality. I am calling to urge you to condemn police brutality, racial profiling, and the use of excessive force by police.</p><p>Sincerely,</p><p>[YOUR NAME]</p>",
+        "subject": "I Support AB-331",
+        "messageBody": "<p>Dear Senate Appropriations Committee members,</p>  <p>My name is [Your name], and I am [student, former student, parent, educator, etc.] from [Your location]. I&rsquo;m emailing to express my support for AB 331, which would make ethnic studies a high school graduation requirement. [Sentence about why ethnic studies is important to you.] I&rsquo;m asking Senator Portantino to move the bill out of the Senate Appropriations Committee and allow it to move forward for a vote.</p>  <p>Thank you,<br> [Your name]</p>",
         "isHtml": true
       },
       "tags": [
-        "email",
-        "CA",
+        "Local",
         "California",
-        "Local"
+        "Email",
+        "Bill",
+        "Advocate"
       ],
-      "priority": 9
+      "priority": 10
     }
   ],
   "educate": [],

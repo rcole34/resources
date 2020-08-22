@@ -1,5 +1,114 @@
 [
   {
+    "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
+    "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
+    "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
+    "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
+    "tags": [
+      "Listen",
+      "Podcast",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
+    "title": "Covid-19’s Impact on People in Prison",
+    "subtitle": "People who are incarcerated are at great risk of sickness and death as a result of the Covid-19 pandemic and more must be done to release people who are imprisoned and are not a threat to public safety or are elderly or infirm.",
+    "imageUrl": "https://eji.org/wp-content/uploads/2020/05/alabama-prison-1900-1000.jpg",
+    "clickUrl": "https://eji.org/news/covid-19s-impact-on-people-in-prison/",
+    "tags": [
+      "Read",
+      "EJI",
+      "Equal Justice Initiative",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
+    "title": "Reconstruction in America",
+    "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
+    "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
+    "clickUrl": "https://eji.org/report/reconstruction-in-america/",
+    "tags": [
+      "Read",
+      "EJI",
+      "Equal Justice Initiative",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
+    "title": "Why Protests and Riots Work",
+    "subtitle": "Riots are destructive, dangerous, and scary — but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/8o5scybaopKb0XSrrVzDdNbw0Xw=/0x0:3000x2250/1820x1213/filters:focal(0x0:3000x2250):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46237668/GettyImages-471393252.0.jpg",
+    "clickUrl": "https://www.vox.com/2015/4/30/8518681/protests-riots-work",
+    "tags": [
+      "Vox",
+      "Read",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
+    "title": "What Happened on May 25th?",
+    "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
+    "clickUrl": "https://www.justiceforbigfloyd.com/",
+    "tags": [
+      "Read",
+      "Sign",
+      "Donate",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "1775f0e9-5c7b-4eab-a434-d853de9d52e1",
+    "title": "COVID-19 Voting Information",
+    "subtitle": "As things change to help prevent the spread of COVID-19, make sure you have the latest voting information. Dates and deadlines are changing rapidly, so be sure to check with your state elections authority for the most up-to-date information.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1254799515543977985/AEAl9jW8.jpg",
+    "clickUrl": "https://www.rockthevote.org/how-to-vote/nationwide-voting-info/covid-19-voting-information/",
+    "tags": [
+      "Read",
+      "Vote",
+      "Election",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "e5a83362-ae46-4014-bca5-182acea4f578",
+    "title": "United Negro College Fund",
+    "subtitle": "UNCF envisions a nation where all Americans have equal access to a college education that prepares them for rich intellectual lives, competitive and fulfilling careers, engaged citizenship and service to our nation.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1256326337616379906/qU9mJPAc_400x400.jpg",
+    "clickUrl": "https://secure2.convio.net/uncf/site/SPageNavigator/2016Donate.html",
+    "tags": [
+      "Donate",
+      "College",
+      "Education",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "4513aa25-29b0-400f-aa3c-93bebe03fae6",
+    "title": "The RACE Method Of Talking To A Racism Skeptic",
+    "subtitle": "The RACE Method is an approach that anti-racism allies can take to trying to share their perspective with people who are skeptical that racism against people of color is a problem worthy of specific attention. It is based on principles from non-violent communication and on findings from the science of persuasion.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/58b4700803596efb0e7f6062/1544574042305-3W6BBU9ZGKH29LHFEUX6/WATbanner.png",
+    "clickUrl": "https://www.whiteallytoolkit.com/our-foundation-is-the-race-method-of-conversation",
+    "tags": [
+      "Read",
+      "White Ally Toolkit",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
     "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",
     "title": "Land Acknowledgement App",
     "subtitle": "Text the name of a city and state to 907-312-5085 to find out the Indigenous people of that place.",
@@ -17,7 +126,7 @@
       "indian",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",

@@ -769,16 +769,238 @@
       "priority": 10
     }
   ],
-  "24": [],
-  "25": [],
-  "26": [],
-  "27": [],
-  "28": [],
-  "29": [],
+  "24": [
+    {
+      "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
+      "title": "Covid-19’s Impact on People in Prison",
+      "subtitle": "People who are incarcerated are at great risk of sickness and death as a result of the Covid-19 pandemic and more must be done to release people who are imprisoned and are not a threat to public safety or are elderly or infirm.",
+      "imageUrl": "https://eji.org/wp-content/uploads/2020/05/alabama-prison-1900-1000.jpg",
+      "clickUrl": "https://eji.org/news/covid-19s-impact-on-people-in-prison/",
+      "tags": [
+        "Read",
+        "EJI",
+        "Equal Justice Initiative",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
+      "title": "Center for Black Equity",
+      "subtitle": "The Center for Black Equity is the National leader in connecting members of the Black LGBTQ+ community with information and resources to educate, engage and empower their fight for equity and access.",
+      "imageUrl": "https://www.capitalpride.org/wp-content/uploads/Center_Black_Equity_logo_square.png",
+      "clickUrl": "https://centerforblackequity.org/donate/",
+      "tags": [
+        "Donate",
+        "LGBTQ+",
+        "Intersectionality",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
+  "25": [
+    {
+      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
+      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
+      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
+      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
+      "tags": [
+        "Listen",
+        "Podcast",
+        "Educate"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
+      "title": "Reconstruction in America",
+      "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
+      "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
+      "clickUrl": "https://eji.org/report/reconstruction-in-america/",
+      "tags": [
+        "Read",
+        "EJI",
+        "Equal Justice Initiative",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "26": [
+    {
+      "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
+      "title": "Support the Equal Justice Initiative",
+      "subtitle": "Your contribution is critical to efforts to end mass incarceration and excessive punishment in the United States, challenge racial and economic injustice, and protect the basic human rights for the most vulnerable people in American society.",
+      "imageUrl": "https://assets.classy.org/5944270/124269ea-3270-11ea-8ff7-0e0c11758269.png",
+      "clickUrl": "https://support.eji.org/give/153413/#!/donation/checkout",
+      "tags": [
+        "Donate",
+        "EJI",
+        "Just Mercy",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
+      "title": "Why Protests and Riots Work",
+      "subtitle": "Riots are destructive, dangerous, and scary — but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/8o5scybaopKb0XSrrVzDdNbw0Xw=/0x0:3000x2250/1820x1213/filters:focal(0x0:3000x2250):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46237668/GettyImages-471393252.0.jpg",
+      "clickUrl": "https://www.vox.com/2015/4/30/8518681/protests-riots-work",
+      "tags": [
+        "Vox",
+        "Read",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "27": [
+    {
+      "id": "f33d79e8-17c1-4d85-847d-f5a3f0544507",
+      "title": "PUR Home",
+      "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
+      "clickUrl": "https://pur-home.com/",
+      "tags": [
+        "Goods",
+        "Black-owned",
+        "cleaning supplies",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
+      "title": "What Happened on May 25th?",
+      "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
+      "clickUrl": "https://www.justiceforbigfloyd.com/",
+      "tags": [
+        "Read",
+        "Sign",
+        "Donate",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "28": [
+    {
+      "id": "453a93a1-03d9-4c56-9c4f-f6a17277b57c",
+      "title": "Plum Good",
+      "subtitle": "Plum Good locally produces, discriminately sources and proudly brings to market the highest quality culinary and restorative spices, herbs and tea blends available. Our mission is to help bring flavorful nutrition available to our customers.  We make All Natural rubs and blends, teas, jams and sauces.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1796/4623/files/PG_2.0_v9_800x@2x.png?v=1547175812",
+      "clickUrl": "https://tasteplumgood.com/collections",
+      "tags": [
+        "Black-owned",
+        "Goods",
+        "hot sauce",
+        "food",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "1775f0e9-5c7b-4eab-a434-d853de9d52e1",
+      "title": "COVID-19 Voting Information",
+      "subtitle": "As things change to help prevent the spread of COVID-19, make sure you have the latest voting information. Dates and deadlines are changing rapidly, so be sure to check with your state elections authority for the most up-to-date information.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1254799515543977985/AEAl9jW8.jpg",
+      "clickUrl": "https://www.rockthevote.org/how-to-vote/nationwide-voting-info/covid-19-voting-information/",
+      "tags": [
+        "Read",
+        "Vote",
+        "Election",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
+  "29": [
+    {
+      "id": "e5a83362-ae46-4014-bca5-182acea4f578",
+      "title": "United Negro College Fund",
+      "subtitle": "UNCF envisions a nation where all Americans have equal access to a college education that prepares them for rich intellectual lives, competitive and fulfilling careers, engaged citizenship and service to our nation.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1256326337616379906/qU9mJPAc_400x400.jpg",
+      "clickUrl": "https://secure2.convio.net/uncf/site/SPageNavigator/2016Donate.html",
+      "tags": [
+        "Donate",
+        "College",
+        "Education",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "4513aa25-29b0-400f-aa3c-93bebe03fae6",
+      "title": "The RACE Method Of Talking To A Racism Skeptic",
+      "subtitle": "The RACE Method is an approach that anti-racism allies can take to trying to share their perspective with people who are skeptical that racism against people of color is a problem worthy of specific attention. It is based on principles from non-violent communication and on findings from the science of persuasion.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/58b4700803596efb0e7f6062/1544574042305-3W6BBU9ZGKH29LHFEUX6/WATbanner.png",
+      "clickUrl": "https://www.whiteallytoolkit.com/our-foundation-is-the-race-method-of-conversation",
+      "tags": [
+        "Read",
+        "White Ally Toolkit",
+        "Educate"
+      ],
+      "priority": 10
+    }
+  ],
   "30": [
-    
+    {
+      "id": "033d5551-c913-4bb0-9377-b318f49e6421",
+      "title": "American Civil Liberties Union",
+      "subtitle": "Donate to the ACLU. The ACLU has been at the center of nearly every major civil liberties battle in the U.S. for over 100 years. This vital work depends on the support of ACLU members in all 50 states and beyond.",
+      "imageUrl": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
+      "clickUrl": "https://action.aclu.org/give/now",
+      "tags": [
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "1f7cfcdb-7fec-41cd-a5f9-86d340c35888",
+      "title": "Register to Vote",
+      "subtitle": "Register to vote to make your voice heard and make sure the people we elect to positions of power have the best interests of every American in mind.",
+      "imageUrl": "https://www.pacificu.edu/sites/default/files/Register_to_Vote_Badge.png",
+      "clickUrl": "https://vote.gov/",
+      "tags": [
+        "Help",
+        "Support",
+        "Vote",
+        "Ballot",
+        "Act"
+      ],
+      "priority": 10
+    }
   ],
   "31": [
-    
+    {
+      "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
+      "title": "Know Your Rights Camp",
+      "subtitle": "Colin Kaepernick's organization's mission is to advance the liberation and well-being of Black and Brown communities through education, self-empowerment, mass-mobilization and the creation of new systems that elevate the next generation of change leaders.",
+      "imageUrl": "https://static.wixstatic.com/media/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png/v1/fit/w_2500,h_1330,al_c/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png",
+      "clickUrl": "https://www.knowyourrightscamp.com/?form=KnowYourRightsCamp",
+      "tags": [
+        "Donate",
+        "NFL",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "d7078827-a920-47bf-8e80-91ecd315bc6f",
+      "title": "Justice for Lakeith Smith",
+      "subtitle": "Lakeith Smith, now 20, was charged with the murder of his friend, A’Donte Washington when he was only 15— a crime he did not commit. A'donte died at the hands of a policeman, after the police fired 4 rounds into him - and he currently walks free.",
+      "imageUrl": "https://assets.change.org/photos/9/dg/ac/XedGaCQhAKkytGa-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/united-states-supreme-court-justice-for-lakeith-smith",
+      "tags": [
+        "Sign",
+        "Advocate"
+      ],
+      "priority": 10
+    }
   ]
 }

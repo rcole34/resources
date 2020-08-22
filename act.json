@@ -1,5 +1,87 @@
 [
   {
+    "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
+    "title": "Center for Black Equity",
+    "subtitle": "The Center for Black Equity is the National leader in connecting members of the Black LGBTQ+ community with information and resources to educate, engage and empower their fight for equity and access.",
+    "imageUrl": "https://www.capitalpride.org/wp-content/uploads/Center_Black_Equity_logo_square.png",
+    "clickUrl": "https://centerforblackequity.org/donate/",
+    "tags": [
+      "Donate",
+      "LGBTQ+",
+      "Intersectionality",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "e5a83362-ae46-4014-bca5-182acea4f578",
+    "title": "United Negro College Fund",
+    "subtitle": "UNCF envisions a nation where all Americans have equal access to a college education that prepares them for rich intellectual lives, competitive and fulfilling careers, engaged citizenship and service to our nation.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1256326337616379906/qU9mJPAc_400x400.jpg",
+    "clickUrl": "https://secure2.convio.net/uncf/site/SPageNavigator/2016Donate.html",
+    "tags": [
+      "Donate",
+      "College",
+      "Education",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
+    "title": "Support the Equal Justice Initiative",
+    "subtitle": "Your contribution is critical to efforts to end mass incarceration and excessive punishment in the United States, challenge racial and economic injustice, and protect the basic human rights for the most vulnerable people in American society.",
+    "imageUrl": "https://assets.classy.org/5944270/124269ea-3270-11ea-8ff7-0e0c11758269.png",
+    "clickUrl": "https://support.eji.org/give/153413/#!/donation/checkout",
+    "tags": [
+      "Donate",
+      "EJI",
+      "Just Mercy",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "033d5551-c913-4bb0-9377-b318f49e6421",
+    "title": "American Civil Liberties Union",
+    "subtitle": "Donate to the ACLU. The ACLU has been at the center of nearly every major civil liberties battle in the U.S. for over 100 years. This vital work depends on the support of ACLU members in all 50 states and beyond.",
+    "imageUrl": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
+    "clickUrl": "https://action.aclu.org/give/now",
+    "tags": [
+      "Donate",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
+    "title": "Know Your Rights Camp",
+    "subtitle": "Colin Kaepernick's organization's mission is to advance the liberation and well-being of Black and Brown communities through education, self-empowerment, mass-mobilization and the creation of new systems that elevate the next generation of change leaders.",
+    "imageUrl": "https://static.wixstatic.com/media/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png/v1/fit/w_2500,h_1330,al_c/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png",
+    "clickUrl": "https://www.knowyourrightscamp.com/?form=KnowYourRightsCamp",
+    "tags": [
+      "Donate",
+      "NFL",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
+    "id": "1f7cfcdb-7fec-41cd-a5f9-86d340c35888",
+    "title": "Register to Vote",
+    "subtitle": "Register to vote to make your voice heard and make sure the people we elect to positions of power have the best interests of every American in mind.",
+    "imageUrl": "https://www.pacificu.edu/sites/default/files/Register_to_Vote_Badge.png",
+    "clickUrl": "https://vote.gov/",
+    "tags": [
+      "Help",
+      "Support",
+      "Vote",
+      "Ballot",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
     "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
     "title": "Justice for Tianna (Donate for Legal Costs)",
     "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
@@ -12,7 +94,7 @@
       "police",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "cf077c09-72a9-44ca-8943-13f044a7c2fb",

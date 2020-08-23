@@ -5,6 +5,7 @@
   "act": [
     {
       "id": "cab157e7-8532-4fdd-9836-e9f704e13f37",
+      "type": "act",
       "title": "BLM Boston",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-boston-250x243-01.png",

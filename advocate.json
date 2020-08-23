@@ -1,6 +1,7 @@
 [
   {
     "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
+    "type": "advocate",
     "title": "Support our Young Protest Leaders #freetianna",
     "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
     "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
@@ -13,10 +14,11 @@
       "police",
       "Advocate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
+    "type": "advocate",
     "title": "Email for Tianna Arata",
     "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
     "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
@@ -34,10 +36,11 @@
       "SLO",
       "Advocate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
+    "type": "advocate",
     "title": "Justice for Breonna Taylor - White House Petition",
     "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
     "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
@@ -50,6 +53,7 @@
   },
   {
     "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",
+    "type": "advocate",
     "title": "Justice for George Floyd",
     "subtitle": "Reach the attention of Mayor Jacob Frey and DA Mike Freeman to beg to have the officers involved in this disgusting situation fired and for charges to be filed immediately.",
     "imageUrl": "https://assets.change.org/photos/0/la/lt/mylaLTYqhScqWHI-800x450-noPad.jpg?1590516227",
@@ -63,6 +67,7 @@
   },
   {
     "id": "3815c05d-f604-4306-8431-f260f1d296aa",
+    "type": "advocate",
     "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
     "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
     "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
@@ -78,6 +83,7 @@
   },
   {
     "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
+    "type": "advocate",
     "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
     "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
     "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
@@ -91,6 +97,7 @@
   },
   {
     "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
+    "type": "advocate",
     "title": "Fight for Breonna",
     "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
@@ -104,6 +111,7 @@
   },
   {
     "id": "6f2848b7-9e6b-4949-9c1b-25f5461984db",
+    "type": "advocate",
     "title": "Call to demand justice for Breonna Taylor",
     "subtitle": "Call 502-735-1784 to tell key decision-makers that the police who murdered Breonna Taylor must be arrested immediately.",
     "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
@@ -117,6 +125,7 @@
   },
   {
     "id": "8bc94352-854b-4b04-ac17-c09e611856a2",
+    "type": "advocate",
     "title": "Defund12.org",
     "subtitle": "Email and mail government officials and council members to reallocate egregious police budgets towards education, social services, and dismantling racial injustice.",
     "imageUrl": "https://wjla.com/resources/media/9f511569-c92a-4d26-a1df-98d4a538e127-large3x4_GettyImages1248266118.jpg?1591896691229",
@@ -130,6 +139,7 @@
   },
   {
     "id": "0fe85092-35bb-4667-82ef-90d661129a4f",
+    "type": "advocate",
     "title": "Email the mayor of Louisville",
     "subtitle": "Send a pre-filled email to Mayor Fischer of Louisville, KY to demand he holds the officers who killed Breonna Taylor accountable.",
     "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
@@ -150,6 +160,7 @@
   },
   {
     "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
+    "type": "advocate",
     "title": "Justice for Julius Jones",
     "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
@@ -170,6 +181,7 @@
   },
   {
     "id": "2eb65d38-ca24-4906-8937-79895abea10e",
+    "type": "advocate",
     "title": "Protect Protestors from Federal Officers",
     "subtitle": "The goal of this petition is to stop federal officers from detaining protestors in Portland, Oregon. These officers are arresting peaceful protestors in unmarked vehicles without identifying themselves. Gov. Kate Brown has described this as a \"blatant abuse of power\".",
     "imageUrl": "https://static.change.org/favicon/favicon-400x400.png",
@@ -185,6 +197,7 @@
   },
   {
     "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
+    "type": "advocate",
     "title": "Justice for George Floyd",
     "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
     "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
@@ -204,6 +217,7 @@
   },
   {
     "id": "285fe12e-0619-46a1-9029-a3b1d08225e2",
+    "type": "advocate",
     "title": "Justice for George Floyd",
     "subtitle": "Text FLOYD to 55156 to demand every cop involved in the murder of George Floyd be charged without bail.",
     "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
@@ -223,6 +237,7 @@
   },
   {
     "id": "e576ecad-eee4-472b-96fd-c2d27c96e90c",
+    "type": "advocate",
     "title": "Justice for Breonna Taylor",
     "subtitle": "Text ENOUGH to 55156 to demand that the officers involved in the murder of Breonna Taylor be charged.",
     "imageUrl": "https://static.limportante.fr//img/downloaded/square/9/0/907e79155ce93878be472cbfbc94fe19.jpeg",
@@ -241,6 +256,7 @@
   },
   {
     "id": "675834e1-3d99-43a9-8b31-f3262dbe6b9b",
+    "type": "advocate",
     "title": "Justice for Toyin Salau",
     "subtitle": "Oluwatoyin “Toyin” Salau was a 19-year old black woman whose life was tragically taken by an unknown man. Salau was an avid protestor for the Black Lives Matter movement, and was also battling homelessness.",
     "imageUrl": "https://assets.change.org/photos/7/fq/qh/fsfQqHmaqAYHFFH-800x450-noPad.jpg",
@@ -253,6 +269,7 @@
   },
   {
     "id": "4339a350-ddf0-48b1-92e8-bbf2b1bc5678",
+    "type": "advocate",
     "title": "Tell Congress to protect Black voters",
     "subtitle": "The ability to vote for people and policies that respect Black lives has always been a matter of life and death. But this year, certain accommodations for voters are urgently needed to protect our health and our rights from the COVID-19 outbreak and increases in violent rhetoric and behavior targeting Black people.",
     "imageUrl": "https://static.colorofchange.org/static/v3/images/logo-graphic.png",
@@ -267,6 +284,7 @@
   },
   {
     "id": "2e43e12c-a850-4762-93c4-0c9b84868cf4",
+    "type": "advocate",
     "title": "Ban or Restrict Tear Gas",
     "subtitle": "The use of tear gas has been banned and is illegal in war. This same tear gas is used by the law enforcement, to control unarmed crowds protesting for the BLM movement. Tear gas is also used for border control and is thrown at innocent migrants who are unarmed and pose no sudden threat to anyone in the vicinity. ",
     "imageUrl": "https://assets.change.org/photos/7/qf/ns/CxQFnsFkeBSTXsL-800x450-noPad.jpg",
@@ -282,6 +300,7 @@
   },
   {
     "id": "0d6db1e2-2bc7-4ffa-8125-5e64255f0197",
+    "type": "advocate",
     "title": "Reopen Sandra Bland's Case",
     "subtitle": "Sandra Bland was arrested for a traffic stop on July 10, 2015 by Brian Encinia.  She was found dead in her cell three days later. Encinia was never indicted, in spite of the fact, that he physically assaulted her her on camera. There is a new video that has come to light, which may have been hidden from the grand jury.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandra_Bland_re-crop.jpg/180px-Sandra_Bland_re-crop.jpg",
@@ -295,6 +314,7 @@
   },
   {
     "id": "b18107e2-84ea-4ba4-b249-18ac6a4d744e",
+    "type": "advocate",
     "title": "Classify White Supremacist Groups as Domestic Terrorist Organizations",
     "subtitle": "Request a new legal requirement to register, classify, and subsequently surveil white supremacist organizations as domestic terrorist organizations. By classifying these groups as intimidating to the American population and dangerous to human life, the institutions responsible for protecting citizens against such groups will have the necessary information and resources to prevent further destruction carried out by these violent terrorist groups.",
     "imageUrl": "https://assets.change.org/photos/4/bb/uc/QqbbUCcfLkgAZfm-800x450-noPad.jpg",
@@ -309,6 +329,7 @@
   },
   {
     "id": "199d2ba3-7307-4f9f-9873-ff414e80f7c7",
+    "type": "advocate",
     "title": "Justice for the Murder of Rayshard Brooks",
     "subtitle": "Rayshard Brooks, an unarmed, 27 year old Black man was murdered after 3 officers responded to complaints of him sleeping in his vehicle in the Wendy’s parking lot. After struggling with the officers, Brooks began to run for his life, when he was shot in the back more than once.",
     "imageUrl": "https://assets.change.org/photos/9/eb/kf/kHeBkFeOlDpegnQ-800x450-noPad.jpg",
@@ -322,6 +343,7 @@
   },
   {
     "id": "673836b8-a976-4683-815f-1a66394c358c",
+    "type": "advocate",
     "title": "End Police Militarization and Over-Policing",
     "subtitle": "The tragic and unnecessary killings of George Floyd, Breonna Taylor, Tony McDade – and countless Black people at the hands of law enforcement – confirms what we've known for too long: Lawmakers must take serious action to fix the racist policing systems in our country.",
     "imageUrl": "https://action.aclu.org/files/aclu/police_defunding_action_1160x650.jpg",
@@ -336,6 +358,7 @@
   },
   {
     "id": "7bc3f17e-b631-40dd-b3cb-76255770846e",
+    "type": "advocate",
     "title": "Abolish Prison Labor in the USA",
     "subtitle": "Prison labor is a form of modern American slavery used by multiple large corporations across the world. Under the 13th Amendment to the United States Constitution, slavery was merely reformed rather than abolished. Racial justice in the USA cannot be achieved until prison labor is abolished completely.",
     "imageUrl": "https://assets.change.org/photos/9/kz/mn/SjKzMNrHLXfZhNL-800x450-noPad.jpg",
@@ -348,6 +371,7 @@
   },
   {
     "id": "d0311ed1-fc26-4f5f-8966-47307cfb3e63",
+    "type": "advocate",
     "title": "Justice for Tete Gulley",
     "subtitle": "Tete Gulley was a 31 year old queer Black transient. She was also known by some of her family as Otis. She was found hanging from a tree on the evening of May 27th 2019 in Rocky Butte Park. The cause of death was determined to be suicide at the scene but there is evidence of foul play.",
     "imageUrl": "https://assets.change.org/photos/3/bb/ok/xgBBOKLXGIFcDIM-800x450-noPad.jpg",
@@ -360,6 +384,7 @@
   },
   {
     "id": "47d52aaa-26e3-46dd-8afb-5f478b360169",
+    "type": "advocate",
     "title": "Abolish The Law Enforcement Officers' Bill of Rights",
     "subtitle": "Officers should not be held above the law or its people, they should not be given special immunity and neither should the government. We should not fear our government, elected officials, military and law enforcement officers. Everyone should be held accountable for their actions.",
     "imageUrl": "https://assets.change.org/photos/2/js/bp/PHJSBPatdQoGvhA-800x450-noPad.jpg",
@@ -373,6 +398,7 @@
   },
   {
     "id": "e4f4c4d4-282c-4ecd-af98-3663167962c4",
+    "type": "advocate",
     "title": "Justice for Dominique Fells",
     "subtitle": "June 9th, another black trans woman named Dominique Fells was murdered and thrown in a river. The violence against black trans women needs to stop. We cannot allow for the murder of this young woman to go unpunished.",
     "imageUrl": "https://assets.change.org/photos/0/wk/vj/GwWKVjJXItZfLjw-800x450-noPad.jpg",
@@ -385,6 +411,7 @@
   },
   {
     "id": "d7078827-a920-47bf-8e80-91ecd315bc6f",
+    "type": "advocate",
     "title": "Justice for Lakeith Smith",
     "subtitle": "Lakeith Smith, now 20, was charged with the murder of his friend, A’Donte Washington when he was only 15— a crime he did not commit. A'donte died at the hands of a policeman, after the police fired 4 rounds into him - and he currently walks free.",
     "imageUrl": "https://assets.change.org/photos/9/dg/ac/XedGaCQhAKkytGa-800x450-noPad.jpg",
@@ -397,6 +424,7 @@
   },
   {
     "id": "6e0d8fe3-55da-43b3-8e2c-d822139455c0",
+    "type": "advocate",
     "title": "Justice For Tony McDade",
     "subtitle": "Tony McDade was a transgender black man who got killed by police in Tallahassee. Sign this petition and encourage others to do so as well to get his name out there.",
     "imageUrl": "https://assets.change.org/photos/5/iw/ta/hGIWtaAaRuIKGJv-800x450-noPad.jpg",

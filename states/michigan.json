@@ -5,6 +5,7 @@
   "act": [
     {
       "id": "e7f8c778-74b9-4754-a7df-e7acec1b1242",
+      "type": "act",
       "title": "BLM Detroit",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-detroit-250x243-01.png",
@@ -22,6 +23,7 @@
     },
     {
       "id": "a249e9fd-0070-4462-9f4b-690a121efd64",
+      "type": "act",
       "title": "BLM Lansing",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-lansing-250x244-01.png",
@@ -39,6 +41,7 @@
     },
     {
       "id": "b43666ac-dafe-4832-8230-a9a1190ced93",
+      "type": "act",
       "title": "BLM Michigan",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/07/blm-chapter-logo-michigan-250x243-01.png",

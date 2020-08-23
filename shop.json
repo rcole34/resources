@@ -1,6 +1,7 @@
 [
   {
     "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
+    "type": "shop",
     "title": "Shop Thoughtful",
     "subtitle": "thoughtful is a nonprofit that seeks to promote black businesses and create a one-stop-shop for consumers who want to vote with their wallets. thoughtful does not take any commissions off of the businesses it promotes, it is purely a hub designed to uplift and support established Black-owned businesses online.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1274679581518127104/Qb6pNclT.jpg",
@@ -11,10 +12,11 @@
       "thoughtful",
       "Shop"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "673d3d97-716d-4ccd-aaa8-325add31038d",
+    "type": "shop",
     "title": "Post 21",
     "subtitle": "Post 21 was created by a Mother-Daughter duo who wanted a comprehensive marketplace that focused on products from Black-owned businesses. They felt strongly that there’s no reason why these products are consistently being discovered when they should be household names. So, they said let’s create the place we want to shop. ",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/articles/blogimage_11d64764-3a58-487b-a7f3-b9a0eb5aaa51_1200x.png",
@@ -25,10 +27,11 @@
       "post21shop.com",
       "Shop"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
+    "type": "shop",
     "title": "Official Black Wall Street",
     "subtitle": "Get thousands of Black-owned businesses at your fingertips with the largest online platform for Black businesses.",
     "imageUrl": "https://officialblackwallstreet.com/wp-content/uploads/2015/06/Mobile-Logo.png",
@@ -39,10 +42,11 @@
       "app",
       "Shop"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
+    "type": "shop",
     "title": "Find Black-owned bookstores near you",
     "subtitle": "The African American Literature Book Club (AALBC.com) has put together a map of Blac-owned bookstores across the US. Find your nearest one here.",
     "imageUrl": "https://aalbc.com/aalbc_logo_120.jpg",
@@ -52,10 +56,11 @@
       "Bookstores",
       "Shop"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
+    "type": "shop",
     "title": "VZN Clothing",
     "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
     "imageUrl": "https://assets.bigcartel.com/theme_images/47514239/Screenshot_35.png?auto=format&fit=max&h=200&w=600",
@@ -71,6 +76,7 @@
   },
   {
     "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
+    "type": "shop",
     "title": "MoonXCosmetics",
     "subtitle": "Handmade vegan skincare for all skin types.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
@@ -85,6 +91,7 @@
   },
   {
     "id": "536444de-6ba4-4fe2-9d00-d969d0e1f73a",
+    "type": "shop",
     "title": "Nia the Loc God",
     "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
@@ -100,6 +107,7 @@
   },
   {
     "id": "f1107367-57ca-4ab9-ac51-72c0c7fff132",
+    "type": "shop",
     "title": "Shoes by Londo",
     "subtitle": "Custom painted Vans and Air Force 1s.",
     "imageUrl": "https://assets.bigcartel.com/theme_images/54183995/F27DB669-428A-4E46-AF97-9855A9523B3D_2.JPG?auto=format&fit=max&h=250&w=1300",
@@ -113,6 +121,7 @@
   },
   {
     "id": "16b45694-7f4d-4789-8b43-58984377dcc0",
+    "type": "shop",
     "title": "Arial Robinson",
     "subtitle": "Along with being a student Arial is a Mixed Media Artist, 2019 Forbes 30 Under 30 Scholar, Published Author of \"The Modern Day Black Alphabet\" and Candidate for Miss North Carolina 2021.",
     "imageUrl": "https://assets.lulu.com/cover_thumbs/1/4/1496v29d-front-shortedge-384.jpg",
@@ -127,6 +136,7 @@
   },
   {
     "id": "b47d6c57-8764-4109-be7b-40be57e235e8",
+    "type": "shop",
     "title": "Inn8 Apparel",
     "subtitle": "Your mind. Your body. Your individuality. Your imperfections. These are the things you are born with. They are innate. Embrace them. They are yours. Celebrate them. They are yours. Love them. They are you. ",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/files/IMG_5009_cc07be08-c97c-43f4-9ddd-f35c2cf858b9_125x@2x.jpg?v=1590635132",
@@ -143,6 +153,7 @@
   },
   {
     "id": "7d59e8f8-b0f4-48f7-80f9-e637e96585f5",
+    "type": "shop",
     "title": "Beauty Bakerie",
     "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/files/brown_logo.png?v=1587514529",
@@ -156,6 +167,7 @@
   },
   {
     "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
+    "type": "shop",
     "title": "Esusu",
     "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
     "imageUrl": "https://www.globenewswire.com/Attachment/LogoDisplay/820782?lastModified=05%2F14%2F2020%2014%3A40%3A33&size=2&attachmentExternalGnwId=0&v=1907957",
@@ -169,6 +181,7 @@
   },
   {
     "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
+    "type": "shop",
     "title": "Text a bot for book suggestions",
     "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
     "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/books-on-a-shelf-news-photo-1591386457.jpg",
@@ -189,6 +202,7 @@
   },
   {
     "id": "f668839d-3082-43ea-89af-95f33273f6cc",
+    "type": "shop",
     "title": "Coral Oral",
     "subtitle": "Not only are these toothbrushes more aesthetically pleasing, you differentiate each brush by its pattern and not by its color. Our company is proudly black owned and highlights oral health facts including a Black history fact that we all should know!",
     "imageUrl": "https://pbs.twimg.com/profile_images/826199582757359616/oOTZOGA9_400x400.jpg",
@@ -204,6 +218,7 @@
   },
   {
     "id": "d255d933-9f3e-4fb4-8481-4be331b8f19a",
+    "type": "shop",
     "title": "The Honey Pot Company",
     "subtitle": "Stay clean, fresh, and balanced, even during your period with our natural menstrual products. Banish bacteria and cramps with herbal-infused, chemical-free sanitary pads and tampons that create a \"cooling\" effect that’s both protective and soothing.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/files/pull_to_quiz_x1000_911ef197-4530-4967-aba0-617f9e364ea6_x1000.jpg",
@@ -218,6 +233,7 @@
   },
   {
     "id": "aa149e63-ea59-40f6-8d91-de1a09013551",
+    "type": "shop",
     "title": "Jungalow",
     "subtitle": "Black-owned home decor store selling furniture, bed and bath products, planters, and more.",
     "imageUrl": "https://pbs.twimg.com/profile_images/991056542693670912/-EQ1TGki.jpg",
@@ -232,6 +248,7 @@
   },
   {
     "id": "f33d79e8-17c1-4d85-847d-f5a3f0544507",
+    "type": "shop",
     "title": "PUR Home",
     "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
@@ -246,6 +263,7 @@
   },
   {
     "id": "e7a0006b-c069-46a2-a189-261581611706",
+    "type": "shop",
     "title": "Riot Swim",
     "subtitle": "Riot Swim is an online designer swimwear and beachwear brand, offering an exclusive collection of bikinis, one piece swimsuits, and more.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7TCTDp264pOgf996YcMpfO2esASQzDZo7cw&usqp=CAU",
@@ -260,6 +278,7 @@
   },
   {
     "id": "df18d4ae-5189-4bde-905c-a3b7a71099c9",
+    "type": "shop",
     "title": "Bleu Jay's Gourmet Seasonings",
     "subtitle": "Bleu Jay's Gourmet Seasonings and More has been proudly providing high quality products and services since 2014. What differentiates us from other businesses is our ability to truly connect with our customers, and provide the exceptional, compassionate service they deserve. To learn more, simply browse through our site.",
     "imageUrl": "https://static.wixstatic.com/media/e59e06_58d4340428fc4f19820cb6175135da3f~mv2_d_3069_2301_s_2.jpg",
@@ -274,6 +293,7 @@
   },
   {
     "id": "453a93a1-03d9-4c56-9c4f-f6a17277b57c",
+    "type": "shop",
     "title": "Plum Good",
     "subtitle": "Plum Good locally produces, discriminately sources and proudly brings to market the highest quality culinary and restorative spices, herbs and tea blends available. Our mission is to help bring flavorful nutrition available to our customers.  We make All Natural rubs and blends, teas, jams and sauces.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1796/4623/files/PG_2.0_v9_800x@2x.png?v=1547175812",
@@ -289,6 +309,7 @@
   },
   {
     "id": "81c18862-89f9-4194-9aaf-9f8508579457",
+    "type": "shop",
     "title": "Red Bay Coffee",
     "subtitle": "Red Bay Coffee is at the forefront of what we believe is the fourth wave of coffee—a firm commitment to ensure coffee production is not only high quality and sustainable, but a vehicle for diversity, inclusion, social and economic restoration, entrepreneurship, and environmental sustainability. We are foodies, artists, activists, community folk, and innovators who love, love, love what we do.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/files/RB_Logofinal_220x@2x.jpg?v=1551950251",
@@ -305,6 +326,7 @@
   },
   {
     "id": "01d37465-1644-47e3-97ef-024b6e0c82cd",
+    "type": "shop",
     "title": "BLK & Bold",
     "subtitle": "BLK & Bold welcomes the obligation to equip young people with tools to live their best lives and overcome familiar unfortunate circumstances by turning a daily ritual, enjoying a cup of coffee & tea, into a means of giving back. BLK & Bold pledges 5% of its profits to initiatives aligned to sustaining youth programming, enhancing workforce development, and eradicating youth homelessness.",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71F1tAiFHqL._SY445_.jpg",
@@ -320,6 +342,7 @@
   },
   {
     "id": "c9393774-85d4-4987-b980-53c10f015170",
+    "type": "shop",
     "title": "The Nile List",
     "subtitle": "Nile is a digital community that connects consumers with Black-owned brands online. Think of Nile as your one-stop-shop for Black brands. All you have to do is think of what you want to buy online and we will show you somebody Black who makes that!",
     "imageUrl": "https://www.thenilelist.com/public/images/logo.png",

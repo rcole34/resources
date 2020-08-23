@@ -1,6 +1,7 @@
 [
   {
     "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
+    "type": "educate",
     "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
     "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
@@ -14,6 +15,7 @@
   },
   {
     "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
+    "type": "educate",
     "title": "Covid-19’s Impact on People in Prison",
     "subtitle": "People who are incarcerated are at great risk of sickness and death as a result of the Covid-19 pandemic and more must be done to release people who are imprisoned and are not a threat to public safety or are elderly or infirm.",
     "imageUrl": "https://eji.org/wp-content/uploads/2020/05/alabama-prison-1900-1000.jpg",
@@ -28,6 +30,7 @@
   },
   {
     "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
+    "type": "educate",
     "title": "Reconstruction in America",
     "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
     "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
@@ -42,6 +45,7 @@
   },
   {
     "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
+    "type": "educate",
     "title": "Why Protests and Riots Work",
     "subtitle": "Riots are destructive, dangerous, and scary — but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
     "imageUrl": "https://cdn.vox-cdn.com/thumbor/8o5scybaopKb0XSrrVzDdNbw0Xw=/0x0:3000x2250/1820x1213/filters:focal(0x0:3000x2250):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46237668/GettyImages-471393252.0.jpg",
@@ -55,6 +59,7 @@
   },
   {
     "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
+    "type": "educate",
     "title": "What Happened on May 25th?",
     "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
@@ -69,6 +74,7 @@
   },
   {
     "id": "1775f0e9-5c7b-4eab-a434-d853de9d52e1",
+    "type": "educate",
     "title": "COVID-19 Voting Information",
     "subtitle": "As things change to help prevent the spread of COVID-19, make sure you have the latest voting information. Dates and deadlines are changing rapidly, so be sure to check with your state elections authority for the most up-to-date information.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1254799515543977985/AEAl9jW8.jpg",
@@ -83,6 +89,7 @@
   },
   {
     "id": "4513aa25-29b0-400f-aa3c-93bebe03fae6",
+    "type": "educate",
     "title": "The RACE Method Of Talking To A Racism Skeptic",
     "subtitle": "The RACE Method is an approach that anti-racism allies can take to trying to share their perspective with people who are skeptical that racism against people of color is a problem worthy of specific attention. It is based on principles from non-violent communication and on findings from the science of persuasion.",
     "imageUrl": "https://images.squarespace-cdn.com/content/58b4700803596efb0e7f6062/1544574042305-3W6BBU9ZGKH29LHFEUX6/WATbanner.png",
@@ -96,6 +103,7 @@
   },
   {
     "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",
+    "type": "educate",
     "title": "Land Acknowledgement App",
     "subtitle": "Text the name of a city and state to 907-312-5085 to find out the Indigenous people of that place.",
     "imageUrl": "https://nativegov.org/wp-content/uploads/2019/10/Copy-of-Native-Land-Facebook-Event-Photo-1-copy.png",
@@ -116,6 +124,7 @@
   },
   {
     "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
+    "type": "educate",
     "title": "Seven factors that contribute to American racism",
     "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
     "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
@@ -132,6 +141,7 @@
   },
   {
     "id": "4c47be93-7b32-4c2e-9cc6-3bccc8a9235e",
+    "type": "educate",
     "title": "Controversy over Confederate monuments is overdue",
     "subtitle": "As Confederate monuments and memorials are toppled across the United States, Stanford historian James T. Campbell says it is important to think historically not only about the past but also about our own time and what future generations might say about us.",
     "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/07/15130422/monuments-960x640.jpg",
@@ -148,6 +158,7 @@
   },
   {
     "id": "31b13fd3-5fa8-4271-809b-0a8a989efe0f",
+    "type": "educate",
     "title": "Martin Luther King Jr.’s ‘Letter From Birmingham Jail’",
     "subtitle": "In April 1963, King was jailed in Birmingham, Alabama. While there, he wrote a lengthy letter in the margins of a newspaper, and smuggled it out with the help of his lawyer. The eloquent call for “constructive, nonviolent tension” to force an end to unjust laws became a landmark document of the civil-rights movement.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/54dab36be4b0aca00d49095d/1579478221153-7NIRZAXY7E7F0PTSIMOE/ke17ZwdGBToddI8pDm48kPIMVGKkh5a71cEKHDb2IPRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpziWptTDdip-R1vVjmFXAUqPOiIzwL-xbynw1MCvETxrJgDTfIstD1FkxrVQV5AWnM/mlk-birmingham-jail.jpg",
@@ -163,6 +174,7 @@
   },
   {
     "id": "1f05b86e-60fd-4d2e-b50b-afc25498cbce",
+    "type": "educate",
     "title": "Dawoud Bey: The Birmingham Project",
     "subtitle": "In 2005 American photographer Dawoud Bey visited Birmingham, Alabama, to explore the possibility of making work that would commemorate the September 15, 1963, bombing of the 16th Street Baptist Church. The Birmingham Project, a series that includes photographic diptychs and a split-screen video, is Bey’s powerful response.",
     "imageUrl": "https://i.guim.co.uk/img/media/645b94fea8d76cc6c3b7e51a3e9b5019d97762ee/0_0_4000_2608/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=88aa54a67e4f7ea061da3b614adacf07",
@@ -177,6 +189,7 @@
   },
   {
     "id": "c0833883-101d-4d68-a788-f237223e0968",
+    "type": "educate",
     "title": "Netflix Explained: Racial Wealth Gap",
     "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
     "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
@@ -191,6 +204,7 @@
   },
   {
     "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
+    "type": "educate",
     "title": "Ava DuVernay's \"13th\"",
     "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
     "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
@@ -205,6 +219,7 @@
   },
   {
     "id": "35de3191-81a3-46cf-9613-c9b58d7163be",
+    "type": "educate",
     "title": "The Hate U Give",
     "subtitle": "Based on the best-selling novel, The Hate U Give tells the story of Starr Carter, who lives in two worlds: the poor, black neighborhood where she resides and the mostly white prep school she attends. This uneasy balance is shattered when she witnesses the fatal shooting of her childhood friend by a policeman. Facing pressures from all sides, Starr must find her voice and stand up for what’s right.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
@@ -219,6 +234,7 @@
   },
   {
     "id": "a7c42355-0ee1-4c64-bc54-7c44901bb0ff",
+    "type": "educate",
     "title": "What I am learning from my white grandchildren",
     "subtitle": "Are we in a post-racial society? Do we want to be? Anthony Peterson, an African American, draws from current research and from conversations with his Anglo American grandchildren to address truths about race in 21st century America.",
     "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
@@ -233,6 +249,7 @@
   },
   {
     "id": "133fdef3-77f8-48a5-83d5-200fcd978768",
+    "type": "educate",
     "title": "Implicit Bias -- how it effects us and how we push through",
     "subtitle": "Everyone makes assumptions about people they don’t know. Melanie Funchess will teach us to recognize these assumptions and work toward a common understanding.",
     "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
@@ -246,6 +263,7 @@
   },
   {
     "id": "a4f62efa-e9e0-48b4-aa8a-ed16b6e60dcb",
+    "type": "educate",
     "title": "Understanding My Privilege",
     "subtitle": "University Chancellor, Susan E. Borrego, reflects on her life as an emancipated minor and dissects the emotionally charged conversation surrounding race relations in the United States. This raconteur uses her powerful first-person account of \"White Privilege\" and \"Black Lives Matter\" to underscore the responsibility each one of us has to bring about change.",
     "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
@@ -259,6 +277,7 @@
   },
   {
     "id": "f098b6fa-9b10-4b1e-bf64-a8cf15f12b5e",
+    "type": "educate",
     "title": "Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away",
     "subtitle": "Microaggressions are defined as the everyday, subtle, intentional — and oftentimes unintentional — interactions or behaviors that communicate some sort of bias toward historically marginalized groups. Learn more in this podcast from NPR.",
     "imageUrl": "https://media.npr.org/assets/img/2020/06/08/4_lifekit_final-copy_wide-009c69a2031c119a4c433755d56e25214e359a32-s1400-c85.jpg",
@@ -274,6 +293,7 @@
   },
   {
     "id": "b6d4684a-bb43-4add-aa86-a1ae10ffe3b5",
+    "type": "educate",
     "title": "Microaggressions Matter",
     "subtitle": "They may not always be ill-intentioned, but the slights illuminate deeper problems in America.",
     "imageUrl": "https://psychologybenefits.files.wordpress.com/2014/03/gradpsychblog-microaggressions.jpg",
@@ -290,6 +310,7 @@
   },
   {
     "id": "fc8f3fcf-6013-49fc-8f19-70ab221b41de",
+    "type": "educate",
     "title": "Did you really just say that?",
     "subtitle": "Here's advice on how to confront microaggressions, whether you're a target, bystander or perpetrator",
     "imageUrl": "https://www.apa.org/images/2017-01-micoraggression_tcm7-211877.jpg",
@@ -304,6 +325,7 @@
   },
   {
     "id": "c2971b03-df1a-43f6-aa26-cc5a8fc1e560",
+    "type": "educate",
     "title": "Not all Black people are African American. Here's the difference.",
     "subtitle": "Black Lives Matter protests have opened up conversations about the history of privilege, racism, and the lived experiences and identities of black people in America. Now, the distinction between \"Black\" and \"African American\" has become a prominent conversation on social media.",
     "imageUrl": "https://pbs.twimg.com/media/EaO0hvbXsAgNTHz?format=jpg&name=360x360",
@@ -318,6 +340,7 @@
   },
   {
     "id": "64fe1ce4-c9ec-4449-aed0-8f2bb77b9b88",
+    "type": "educate",
     "title": "How to be an Antiracist",
     "subtitle": "This conversation with professor Ibram X. Kendi was recorded during the 2019 Aspen Ideas Festival in Aspen, Colorado. In it, he explores what an antiracist society might look like, how we can play an active role in building it, and what being an antiracist in your own context might mean.",
     "imageUrl": "https://i.ytimg.com/vi/A13Dimiqdus/hqdefault.jpg",
@@ -331,6 +354,7 @@
   },
   {
     "id": "02aa0341-bb34-4dd7-8052-66cbda1f3f9f",
+    "type": "educate",
     "title": "What Anti-racist Teachers Do Differently",
     "subtitle": "They view the success of black students as central to the success of their own teaching. Read more from Pirette McKamey, principal of San Francisco’s Mission High School and an anti-racist educator for more than 30 years.",
     "imageUrl": "https://cdn.theatlantic.com/thumbor/fDSzluF9pCIjCG5tCXHu81BLXXc=/1440x810/media/img/mt/2020/06/AniRacistTeacherNew-1/original.jpg",
@@ -344,6 +368,7 @@
   },
   {
     "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
+    "type": "educate",
     "title": "The Case for Reparations",
     "subtitle": "Two hundred fifty years of slavery. Ninety years of Jim Crow. Sixty years of separate but equal. Thirty-five years of racist housing policy. Until we reckon with our compounding moral debts, America will never be whole.",
     "imageUrl": "https://cdn.theatlantic.com/thumbor/t4pvjoz7Wf91fkWzHoxyxhBDfkM=/media/img/2015/08/26/reparations_2/original.jpg",
@@ -360,6 +385,7 @@
   },
   {
     "id": "fa1cdac5-175f-4fe0-99b8-ab2bcd3239f1",
+    "type": "educate",
     "title": "The Other Wes Moore",
     "subtitle": "Two kids named Wes Moore were born blocks apart within a year of each other. Both grew up fatherless in similar Baltimore neighborhoods and had difficult childhoods; both hung out on street corners with their crews; both ran into trouble with the police. How, then, did one grow up to be a Rhodes Scholar, decorated veteran, White House Fellow, and business leader, while the other ended up a convicted murderer serving a life sentence?",
     "imageUrl": "https://img1.od-cdn.com/ImageType-100/0111-1/%7B16574EC7-1BD4-4D4A-8DE6-5C8B5BDDAC3D%7DImg100.jpg",
@@ -373,6 +399,7 @@
   },
   {
     "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
+    "type": "educate",
     "title": "Just Mercy: A Story of Justice and Redemption",
     "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
     "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
@@ -389,6 +416,7 @@
   },
   {
     "id": "0a5b1546-6185-42ad-bed7-15b11a8faec3",
+    "type": "educate",
     "title": "White Fragility: Why It's So Hard for White People to Talk About Racism",
     "subtitle": "This book explicates the dynamics of White Fragility and how we might build our capacity in the on-going work towards racial justice.",
     "imageUrl": "https://robindiangelo.com/wp-content/uploads/2019/01/fragility-nyt-450.jpg",
@@ -404,6 +432,7 @@
   },
   {
     "id": "5af17502-3cbe-4a27-a8bc-1ba73be492d0",
+    "type": "educate",
     "title": "How to Be an Antiracist",
     "subtitle": "Ibram X. Kendi's concept of antiracism reenergizes and reshapes the conversation about racial justice in America--but even more fundamentally, points us toward liberating new ways of thinking about ourselves and each other. ",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5913d00603596e07853ef761/1573594024053-10M643O0HGOI1C5VZ6K8/ke17ZwdGBToddI8pDm48kA3_zh4B9nqL03ly_hI6Dex7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT6om00mPaZNSwleNFe5OIYvmr5mQaWq6I8vHUeeUG_6W07ycm2Trb21kYhaLJjddA/HowToBeAnAntiracist_HC_NEW.png?format=500w",
@@ -418,6 +447,7 @@
   },
   {
     "id": "b3670eef-3996-49b2-b444-a7d482291df1",
+    "type": "educate",
     "title": "So you want to talk about race",
     "subtitle": "Ijeoma Oluo guides readers of all races through subjects ranging from intersectionality and affirmative action to \"model minorities\" in an attempt to make the seemingly impossible possible: honest conversations about race and racism, and how they infect almost every aspect of American life.",
     "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/1944832/original/9781580058827.jpg?1589088889",
@@ -433,6 +463,7 @@
   },
   {
     "id": "13788556-62d6-44a0-aeee-a27f56545cb0",
+    "type": "educate",
     "title": "Me and White Supremacy",
     "subtitle": "Based on the viral Instagram challenge that captivated participants worldwide, Me and White Supremacy takes readers on a 28-day journey, complete with journal prompts, to do the necessary and vital work that can ultimately lead to improving race relations.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b65fb964611a0958c38105a/1566386709574-XWD3NFU3CLSN6BX9H779/ke17ZwdGBToddI8pDm48kPZVGAmQ-LiIDejmHTBu1GpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIcIBxs3nZEqvgqC0usJYKrX06_gj8cC44gKP5Q4DEFpk/MeAndWhiteSupremacy_MockUp-2.jpg?format=750w",
@@ -448,6 +479,7 @@
   },
   {
     "id": "f0d8372e-6fba-4e9e-97fa-f30e1af98cce",
+    "type": "educate",
     "title": "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do",
     "subtitle": "With a perspective that is at once scientific, investigative, and informed by personal experience, Dr. Jennifer Eberhardt offers us the language and courage we need to face one of the biggest and most troubling issues of our time.",
     "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/9872285/original/9780735224933.jpg?1588619468",
@@ -464,6 +496,7 @@
   },
   {
     "id": "cc68037e-60fa-4f43-a420-91d1b21c68a6",
+    "type": "educate",
     "title": "The New Jim Crow",
     "subtitle": "The New Jim Crow is a stunning account of the rebirth of a caste-like system in the United States, one that has resulted in millions of African Americans locked behind bars and then relegated to a permanent second-class status—denied the very rights supposedly won in the Civil Rights Movement.",
     "imageUrl": "https://newjimcrow.com/wp-content/uploads/2019/12/new_jim_crow_reissue_pb_final-1.jpg",
@@ -480,6 +513,7 @@
   },
   {
     "id": "46e2e9a6-ee7a-4676-b16d-0cd5a49e1ef9",
+    "type": "educate",
     "title": "Whistling Vivaldi",
     "subtitle": "Claude M. Steele, who has been called \"one of the few great social psychologists,\" offers a vivid first-person account of the research that supports his groundbreaking conclusions on stereotypes and identity.",
     "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/6519553/original/9780393339727.jpg?1588350165",
@@ -497,6 +531,7 @@
   },
   {
     "id": "9b65af60-09dc-45ca-a431-8e8b52625cb5",
+    "type": "educate",
     "title": "Divided We Fall. Ignorant We Fail.",
     "subtitle": "This book is a non-fiction introspective of the country’s response to the first black President.",
     "imageUrl": "https://assets.lulu.com/cover_thumbs/1/6/1629z7pp-front-shortedge-384.jpg",
@@ -512,6 +547,7 @@
   },
   {
     "id": "5981f25a-904d-46bf-87d4-7beb43f8f438",
+    "type": "educate",
     "title": "How we can make racism a solvable problem --- and improve policing",
     "subtitle": "When we define racism as behaviors instead of feelings, we can measure it -- and transform it from an impossible problem into a solvable one, says justice scientist Dr. Phillip Atiba Goff. In an actionable talk, he shares his work at the Center for Policing Equity, an organization that helps police departments diagnose and track racial gaps in policing in order to eliminate them.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -526,6 +562,7 @@
   },
   {
     "id": "3a511c45-1f7c-4752-a4df-a8b018a78ec7",
+    "type": "educate",
     "title": "Racism has a cost for everyone",
     "subtitle": "Racism makes our economy worse -- and not just in ways that harm people of color, says public policy expert Heather C. McGhee. From her research and travels across the US, McGhee shares startling insights into how racism fuels bad policymaking and drains our economic potential -- and offers a crucial rethink on what we can do to create a more prosperous nation for all.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -540,6 +577,7 @@
   },
   {
     "id": "8faf506c-8bb2-491f-b10e-a72a8f887319",
+    "type": "educate",
     "title": "How we're honoring people overlooked by history",
     "subtitle": "Since its founding in 1851, the \"New York Times\" has published thousands of obituaries -- for heads of state, famous celebrities, even the inventor of the sock puppet. But only a small percentage of them chronicle the lives of women and people of color. In this insightful talk, \"Times\" editor Amy Padnani shares the story behind \"Overlooked,\" the project she's leading to recognize people from history whose deaths were ignored -- and refocus society's lens on who is considered important.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -553,6 +591,7 @@
   },
   {
     "id": "7ed3cb53-022b-42be-ad7e-c5154343ae6a",
+    "type": "educate",
     "title": "How colorism shapes our standards of beauty",
     "subtitle": "When Chika Okoro read the casting call for one of her favorite films, she noticed that actresses with darker skin were assigned lesser roles —prompting her to address a phenomenon she'd experienced all her life: colorism. In this eye-opening talk, Okoro shares coping strategies along with steps that could help eliminate this insidious and destructive mindset of discrimination.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -566,6 +605,7 @@
   },
   {
     "id": "75b96d3a-c3df-40a1-acc2-9b139c93df76",
+    "type": "educate",
     "title": "What it takes to be racially literate",
     "subtitle": "Over the last year, Priya Vulchi and Winona Guo traveled to all 50 US states, collecting personal stories about race and intersectionality. Now they're on a mission to equip every American with the tools to understand, navigate and improve a world structured by racial division.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -580,6 +620,7 @@
   },
   {
     "id": "8fc25320-b88c-461b-8db5-b5032b26c008",
+    "type": "educate",
     "title": "The symbols of systemic racism --- and how to take away their power",
     "subtitle": "Multidisciplinary artist and TED Fellow Paul Rucker is unstitching the legacy of systemic racism in the United States. A collector of artifacts connected to the history of slavery -- from branding irons and shackles to postcards depicting lynchings -- Rucker couldn't find an undamaged Ku Klux Klan robe for his collection, so he began making his own.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -594,6 +635,7 @@
   },
   {
     "id": "f33659fd-303f-4f82-affa-434f553642da",
+    "type": "educate",
     "title": "How students of color confront impostor syndrome",
     "subtitle": "As a black woman from a tough part of the Bronx who grew up to attain all the markers of academic prestige, Dena Simmons knows that for students of color, success in school sometimes comes at the cost of living authentically. Now an educator herself, Simmons discusses how we might create a classroom that makes all students feel proud of who they are.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -608,6 +650,7 @@
   },
   {
     "id": "9be13a0f-ab27-4bc1-b78e-686cc7c02415",
+    "type": "educate",
     "title": "An interview with the founders of Black Lives Matter",
     "subtitle": "In this spirited conversation with Mia Birdsong, the movement's three founders share what they've learned about leadership and what provides them with hope and inspiration in the face of painful realities. Their advice on how to participate in ensuring freedom for everybody: join something, start something and \"sharpen each other, so that we all can rise.\"",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -622,6 +665,7 @@
   },
   {
     "id": "c798e985-c310-436f-913d-e1adf64e5e62",
+    "type": "educate",
     "title": "How we're priming some kids for college --- and others for prison",
     "subtitle": "In the United States, two institutions guide teenagers on the journey to adulthood: college and prison. Sociologist Alice Goffman spent six years in a troubled Philadelphia neighborhood and saw first-hand how teenagers of African-American and Latino backgrounds are funneled down the path to prison — sometimes starting with relatively minor infractions. In an impassioned talk she asks, \"Why are we offering only handcuffs and jail time?\"",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -637,6 +681,7 @@
   },
   {
     "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
+    "type": "educate",
     "title": "Color blind or color brave?",
     "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race — and particularly about diversity in hiring -- makes for better businesses and a better society.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -651,6 +696,7 @@
   },
   {
     "id": "8882e35a-5340-4c29-a888-536d18486598",
+    "type": "educate",
     "title": "Does racism affect how you vote?",
     "subtitle": "Nate Silver has data that answers big questions about race in politics. For instance, in the 2008 presidential race, did Obama's skin color actually keep him from getting votes in some parts of the country? Stats and myths collide in this fascinating talk that ends with a remarkable insight.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -666,6 +712,7 @@
   },
   {
     "id": "2b2b9ba4-a011-4e0a-be4a-159c64f75b17",
+    "type": "educate",
     "title": "3 ways to speak English",
     "subtitle": "Jamila Lyiscott is a \"tri-tongued orator\" in her powerful spoken-word essay \"Broken English,\" she celebrates — and challenges — the three distinct flavors of English she speaks with her friends, in the classroom and with her parents. As she explores the complicated history and present-day identity that each language represents, she unpacks what it means to be \"articulate.\"",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -679,6 +726,7 @@
   },
   {
     "id": "44ac8a6a-348f-4a8b-b310-7e014075680a",
+    "type": "educate",
     "title": "How studying privilege systems can strengthen compassion",
     "subtitle": "Her TED Talk offers a shift in the traditional view of race, equity and privilege. McIntosh uses her own experience as a white woman to inform her own knowledge of racial experiences from a white perspective.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -693,6 +741,7 @@
   },
   {
     "id": "4a99b0de-21ea-42f2-b756-7c216ffab4af",
+    "type": "educate",
     "title": "How to deconstruct racism, one headline at a time",
     "subtitle": "Baratunde Thurston explores the phenomenon of white Americans calling the police on black Americans who have committed the crimes of ... eating, walking or generally \"living while black.\" In this profound, thought-provoking and often hilarious talk, he reveals the power of language to change stories of trauma into stories of healing -- while challenging us all to level up.",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -707,6 +756,7 @@
   },
   {
     "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
+    "type": "educate",
     "title": "How to overcome our biases? Walk boldly toward them",
     "subtitle": "Our biases can be dangerous, even deadly — as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vernā Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
     "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
@@ -721,6 +771,7 @@
   },
   {
     "id": "dd76e14a-be13-490c-a952-0cda41f1de16",
+    "type": "educate",
     "title": "White Privilege: Unpacking the Invisible Knapsack",
     "subtitle": "As a white person, I realized I had been taught about racism as something that puts others at a disadvantage, but had been taught not to see one of its corollary aspects, white privilege, which puts me at an advantage.",
     "clickUrl": "https://www.racialequitytools.org/resourcefiles/mcintosh.pdf",
@@ -733,6 +784,7 @@
   },
   {
     "id": "c013cc43-f584-43d1-8f06-1c04d900a285",
+    "type": "educate",
     "title": "Walking While Black",
     "subtitle": "Garnette Cadogan on the Realities of Being Black in America",
     "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2016/07/Damion.jpg",
@@ -746,6 +798,7 @@
   },
   {
     "id": "4c2f965a-353a-46e1-a77a-aee9692938a4",
+    "type": "educate",
     "title": "The Uses of Anger: Women Responding to Racism",
     "subtitle": "In June 1981, Audre Lorde gave the keynote presentation at the National Women’s Studies Association Conference, Storrs, Connecticut. Her presentation appears here.",
     "imageUrl": "https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Audre_Lorde_Photo_by_Elsa_Dorfman.jpg",
@@ -759,6 +812,7 @@
   },
   {
     "id": "cf5ab420-db18-48ad-a66d-b557684777b0",
+    "type": "educate",
     "title": "Why Seeing Yourself Represented on Screen Is So Important",
     "subtitle": "\"Black Panther\" has been hailed as a model success story for depicting diversity on screen. According to past research, the representation of minority groups in mass media has a powerful educational impact on audiences.",
     "imageUrl": "https://video-images.vice.com/articles/5a8c997c73cb44000727662a/lede/1519165103799-g_blackpanther_05_6c5c7070.jpeg?crop=0.83xw:0.9982xh;0xw,0xh&resize=600:*",
@@ -773,6 +827,7 @@
   },
   {
     "id": "ec824ef5-ceda-4656-babf-5cf4999f539d",
+    "type": "educate",
     "title": "The Costs of Racism to White People",
     "subtitle": "We tend to think of racism as a problem for people of color and something we should be concerned about for their sake. However, the costs of racism to white people are devastating, especially to those of us without the money and power to buffer their effects.",
     "clickUrl": "http://paulkivel.com/wp-content/uploads/2015/07/thecostsofracism.pdf",
@@ -786,6 +841,7 @@
   },
   {
     "id": "25907769-5c6f-4481-bcce-ea36a57208ce",
+    "type": "educate",
     "title": "Accountability in a Time of Justice",
     "subtitle": "Accountability is a well-worn word in social justice circles. We have worked hard to figure out what accountability means to us as we attempt to walk our social justice talk.",
     "clickUrl": "http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/accountability.jjo.drworks.pdf",
@@ -799,6 +855,7 @@
   },
   {
     "id": "1e450fb3-a212-4f7b-a339-3223754f0afc",
+    "type": "educate",
     "title": "Open Yale Courses: African American History: From Emancipation to the Present",
     "subtitle": "The purpose of this course is to examine the African American experience in the United States from 1863 to the present. Prominent themes include the end of the Civil War and the beginning of Reconstruction; African Americans’ urbanization experiences; the development of the modern civil rights movement and its aftermath; and the thought and leadership of Booker T. Washington, Ida B. Wells-Barnett, W.E.B. Du Bois, Marcus Garvey, Martin Luther King Jr., and Malcolm X.",
     "imageUrl": "https://oyc.yale.edu/sites/default/files/holloway_1_2.jpg",
@@ -814,6 +871,7 @@
   },
   {
     "id": "1743325b-7077-4fa4-b9bb-0f76df036d84",
+    "type": "educate",
     "title": "1619 Podcast",
     "subtitle": "An audio series from The Times observing the 400th anniversary of the beginning of American slavery.",
     "imageUrl": "https://static01.nyt.com/images/2019/09/11/podcasts/1619-album-art/1619-album-art-thumbLarge.jpg",
@@ -829,6 +887,7 @@
   },
   {
     "id": "e2f4820c-8b06-405f-9977-36b19ed0397f",
+    "type": "educate",
     "title": "Code Switch Podcast",
     "subtitle": "Hosted by journalists of color, our podcast tackles the subject of race head-on. We explore how it impacts every part of society — from politics and pop culture to history, sports and everything in between. This podcast makes ALL OF US part of the conversation — because we're all part of the story.",
     "imageUrl": "https://media.npr.org/assets/img/2020/03/24/undefined_sq-63f9f4b46bb9031d67f9785b66818f4befbab8bc-s100-c85.jpg",
@@ -842,6 +901,7 @@
   },
   {
     "id": "8be92578-21fb-44ad-9eec-de3238a637dc",
+    "type": "educate",
     "title": "Intersectionality Matters! Podcast",
     "subtitle": "Intersectionality Matters! is a podcast hosted by Kimberlé Crenshaw, an American civil rights advocate and a leading scholar of critical race theory.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/53f20d90e4b0b80451158d8c/1586364686802-PCCUP9LIO28P7B6SDH9V/ke17ZwdGBToddI8pDm48kO4tK3CWuwbwUlKHbnwKPCxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PId3EdR3A8ysS8vtrdf_nUdNe4cGEL8d8egiyG15SACbgKMshLAGzx4R3EDFOm1kBS/lgoo_final.jpg?format=750w",
@@ -856,6 +916,7 @@
   },
   {
     "id": "629b155f-7be4-4b7e-acea-3821ebd129d6",
+    "type": "educate",
     "title": "Pod Save the People Podcast",
     "subtitle": "On Pod Save the People, DeRay Mckesson explores news, culture, social justice, and politics with Sam Sinyangwe, Kaya Henderson and De’Ara Balenger. They offer a unique take on the news, with a special focus on overlooked stories and topics that often impact people of color.",
     "imageUrl": "https://crooked.com/wp-content/uploads/2018/05/pstp_wide_image-e1528750680770.jpg",
@@ -869,6 +930,7 @@
   },
   {
     "id": "ca6ded01-12ac-41ce-b212-a867fdca782f",
+    "type": "educate",
     "title": "Pod For The Cause Podcast",
     "subtitle": "The Leadership Conference on Civil and Human Rights launched \"Pod for the Cause\" to expand the conversation on the critical civil and human rights challenges of our day. Through this expanded dialogue, we want to spur activism that drives change in our communities and country.",
     "imageUrl": "https://ssl-static.libsyn.com/p/assets/c/2/1/3/c213aab160d4e6ea/PodForTheCause_-_Logo_Sq_3000_x_3000.png",
@@ -882,6 +944,7 @@
   },
   {
     "id": "7833e454-56b1-4364-8d10-58813b1093cd",
+    "type": "educate",
     "title": "Uncivil Podcast",
     "subtitle": "Uncivil brings you stories that were left out of the official history of the Civil War, ransacks America's past, and takes on the history you grew up with. We bring you untold stories about resistance, covert operations, corruption, mutiny, counterfeiting, antebellum drones, and so much more.",
     "imageUrl": "https://gimlet.spotifycdn.com/show_art/54cc581f-b6a2-4928-814a-ec2151a98f7f/medium.webp",
@@ -895,6 +958,7 @@
   },
   {
     "id": "4e6edfeb-0518-4f1f-86dc-104020869481",
+    "type": "educate",
     "title": "Seeing White Podcast Series",
     "subtitle": "Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.",
     "imageUrl": "https://www.uncsa.edu/mysa/img/announcements/2019/seeing-white.jpg",
@@ -909,6 +973,7 @@
   },
   {
     "id": "a313dfbf-4985-474a-8dcb-88288cf2fd1f",
+    "type": "educate",
     "title": "Beyond the Numbers: The Experiential Effects of Stereotype Threat on Students of Color at TCU",
     "subtitle": "This study aims to examine if and how the effects of negative stereotypes of students of color are felt beyond the statistical measures of academic success, reaching into the classroom and social experiences of these students. ",
     "clickUrl": "https://bollerreview.tcu.edu/article/download/112/79?inline=true",
@@ -923,6 +988,7 @@
   },
   {
     "id": "98689647-3988-4845-adc5-7fa30d642159",
+    "type": "educate",
     "title": "Learn about Julius Jones",
     "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
@@ -937,6 +1003,7 @@
   },
   {
     "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
+    "type": "educate",
     "title": "Learn about Julius Jones",
     "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
     "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
@@ -950,6 +1017,7 @@
   },
   {
     "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
+    "type": "educate",
     "title": "Find Your Representatives",
     "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
     "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",

@@ -1,6 +1,7 @@
 [
   {
     "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
+    "type": "act",
     "title": "Center for Black Equity",
     "subtitle": "The Center for Black Equity is the National leader in connecting members of the Black LGBTQ+ community with information and resources to educate, engage and empower their fight for equity and access.",
     "imageUrl": "https://www.capitalpride.org/wp-content/uploads/Center_Black_Equity_logo_square.png",
@@ -15,6 +16,7 @@
   },
   {
     "id": "e5a83362-ae46-4014-bca5-182acea4f578",
+    "type": "act",
     "title": "United Negro College Fund",
     "subtitle": "UNCF envisions a nation where all Americans have equal access to a college education that prepares them for rich intellectual lives, competitive and fulfilling careers, engaged citizenship and service to our nation.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1256326337616379906/qU9mJPAc_400x400.jpg",
@@ -29,6 +31,7 @@
   },
   {
     "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
+    "type": "act",
     "title": "Support the Equal Justice Initiative",
     "subtitle": "Your contribution is critical to efforts to end mass incarceration and excessive punishment in the United States, challenge racial and economic injustice, and protect the basic human rights for the most vulnerable people in American society.",
     "imageUrl": "https://assets.classy.org/5944270/124269ea-3270-11ea-8ff7-0e0c11758269.png",
@@ -43,6 +46,7 @@
   },
   {
     "id": "033d5551-c913-4bb0-9377-b318f49e6421",
+    "type": "act",
     "title": "American Civil Liberties Union",
     "subtitle": "Donate to the ACLU. The ACLU has been at the center of nearly every major civil liberties battle in the U.S. for over 100 years. This vital work depends on the support of ACLU members in all 50 states and beyond.",
     "imageUrl": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
@@ -55,6 +59,7 @@
   },
   {
     "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
+    "type": "act",
     "title": "Know Your Rights Camp",
     "subtitle": "Colin Kaepernick's organization's mission is to advance the liberation and well-being of Black and Brown communities through education, self-empowerment, mass-mobilization and the creation of new systems that elevate the next generation of change leaders.",
     "imageUrl": "https://static.wixstatic.com/media/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png/v1/fit/w_2500,h_1330,al_c/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png",
@@ -68,6 +73,7 @@
   },
   {
     "id": "1f7cfcdb-7fec-41cd-a5f9-86d340c35888",
+    "type": "act",
     "title": "Register to Vote",
     "subtitle": "Register to vote to make your voice heard and make sure the people we elect to positions of power have the best interests of every American in mind.",
     "imageUrl": "https://www.pacificu.edu/sites/default/files/Register_to_Vote_Badge.png",
@@ -83,6 +89,7 @@
   },
   {
     "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
+    "type": "act",
     "title": "Justice for Tianna (Donate for Legal Costs)",
     "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
     "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
@@ -98,6 +105,7 @@
   },
   {
     "id": "cf077c09-72a9-44ca-8943-13f044a7c2fb",
+    "type": "act",
     "title": "Donating Tip",
     "subtitle": "Maximize your impact by making smaller, monthly donations to a few different organizations.",
     "info": "Don't just let your donations be a one-time lump sum donation. Instead, spread the love out with smaller, recurring, monthly donations to continue supporting the movement beyond your first donation.",
@@ -111,6 +119,7 @@
   },
   {
     "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
+    "type": "act",
     "title": "Open a random campaign to donate to",
     "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",
     "randomUrlList": [
@@ -145,6 +154,7 @@
   },
   {
     "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
+    "type": "act",
     "title": "Black Lives Matter",
     "subtitle": "We appreciate your support of the movement and our ongoing fight to end state-sanctioned violence, liberate Black people, and end white supremacy forever.",
     "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/27730/header/image_url/f516f4de-dedf-4341-a78d-14440a288764-footer-logo.png",
@@ -159,6 +169,7 @@
   },
   {
     "id": "e9c4cf9e-e276-48cd-87c7-7bfef15598bf",
+    "type": "act",
     "title": "Official George Floyd Memorial Fund",
     "subtitle": "This fund is established to cover funeral and burial expenses, mental and grief counseling, lodging and travel for all court proceedings, and to assist his family in the days to come as they continue to seek justice for George. A portion of these funds will also go to the Estate of George Floyd for the benefit and care of his children and their educational fund.",
     "imageUrl": "https://images.gofundme.com/K1iwc7iD8Sg-pzyEPNc_8qf8bes=/720x405/https://d2g8igdw686xgo.cloudfront.net/48345040_1590602439903874_r.jpeg",
@@ -173,6 +184,7 @@
   },
   {
     "id": "7b0a5d8a-7d20-442c-a446-242d4359d9c5",
+    "type": "act",
     "title": "Free Minds Book Club",
     "subtitle": "Change lives today. Donate now to support incarcerated and formerly incarcerated youths and adults.",
     "imageUrl": "https://nfg-sofun.s3.amazonaws.com/uploads/ui_configuration/main_logo/5211/welcome_logo_Logo_-BW.png",
@@ -185,6 +197,7 @@
   },
   {
     "id": "009a2dc4-40a3-4885-825c-c8e58844460c",
+    "type": "act",
     "title": "Center for Policing Equity",
     "subtitle": "Your donation fuels our ability to lead on the police reform that's necessary. Together we will create a public safety system that protects and preserves justice for all.",
     "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFdNracb0GsTg/company-logo_200_200/0?e=2159024400&v=beta&t=fp0BgDELReEfVS-l4L9Uhk1LeoamX4J5_ncd-4v8CnA",
@@ -199,6 +212,7 @@
   },
   {
     "id": "7e5c41ac-3a32-4e48-bcbf-cc9d5e6539dd",
+    "type": "act",
     "title": "The Bail Project",
     "subtitle": "The Bail Project™ National Revolving Bail Fund is on a mission to combat mass incarceration and reshape the pretrial system in the United States. 100% of online donations are used to bring people home. Since bail money comes back to us when cases close, we're able to recycle every dollar donated at least twice per year.",
     "imageUrl": "https://pbs.twimg.com/profile_images/928396415792971776/B1ru32wF.jpg",
@@ -213,6 +227,7 @@
   },
   {
     "id": "3dc2000e-dc16-4a01-a04c-f6d66af8a2a0",
+    "type": "act",
     "title": "Liberation Library",
     "subtitle": "Young people in the jails and prisons we serve are experiencing a loss of programming and in-person family visits, leading to further isolation during these uncertain times. We believe it is now more important than ever for incarcerated young people to have access to other worlds of their choosing.",
     "imageUrl": "https://www.liberationlib.com/uploads/5/0/7/1/50712391/editor/knowledge-is-power_1.jpg?1487030955",
@@ -228,6 +243,7 @@
   },
   {
     "id": "45e70284-c301-47b3-8538-4b9ede542e57",
+    "type": "act",
     "title": "Innocence Project",
     "subtitle": "Donate to help free the innocent in 2020. Be a part of the Innocence Project’s groundbreaking work to free innocent people and transform the legal system. With your support, we can do even more in 2020 — donate today.",
     "imageUrl": "https://www.innocenceproject.org/wp-content/uploads/2019/04/thumbnail-small.png",
@@ -242,6 +258,7 @@
   },
   {
     "id": "d919012c-e419-422d-a277-9bd708369eae",
+    "type": "act",
     "title": "The Collective PAC",
     "subtitle": "The Collective is strengthening our democracy by addressing the significant underrepresentation of the Black community in public office. We are fighting for equal representation and protection under the law so it is vital that we have Black candidates run, and Black voices heard.",
     "imageUrl": "https://abdemo-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/undefined/header/image_url/62ed7ff1-a521-4571-b3e4-90a5720fa799-large.png",
@@ -256,6 +273,7 @@
   },
   {
     "id": "a655d35e-05e7-4109-8f25-88725ce5376b",
+    "type": "act",
     "title": "Color of Change",
     "subtitle": "Color Of Change was founded in moments just like this one. As Black communities reeled in grief as all levels of government failed to protect Black people in the wake of Hurricane Katrina, we recognized that not enough of the people and institutions with power over our lives had any fear of disappointing Black people. For the last 15 years, we've focused on building that power.",
     "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/6481/header/image_url/COC-logo-big.png",
@@ -270,6 +288,7 @@
   },
   {
     "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
+    "type": "act",
     "title": "NAACP Legal Defense and Education Fund",
     "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
     "imageUrl": "https://www.naacpldf.org/wp-content/uploads/ldf-logo.jpg",
@@ -285,6 +304,7 @@
   },
   {
     "id": "393bbbad-5a6e-486c-9b96-bb13869d8665",
+    "type": "act",
     "title": "National Bail Out",
     "subtitle": "National Bail Out is a Black-led and Black-centered collective of abolitionist organizers, lawyers and activists building a community-based movement to support our folks and end systems of pretrial detention and ultimately mass incarceration. We are people who have been impacted by cages — either by being in them ourselves or witnessing our families and loved ones be encaged. We are queer, trans, young, elder, and immigrant.",
     "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/22829/header/image_url/nboactbluebanner.png",
@@ -299,6 +319,7 @@
   },
   {
     "id": "15eb26d9-dc5d-4963-8f18-3a47c28a17a4",
+    "type": "act",
     "title": "Build for Black Lives",
     "subtitle": "Are you an anti-racist designer, developer, data scientist, or marketing specialist interested in committing to pro bono projects to work towards reparations and racial justice? Work on one of our available projects.",
     "imageUrl": "https://pbs.twimg.com/media/Ecund-GWsAE3QjU.jpg",

@@ -2,6 +2,7 @@
   "advocate": [
     {
       "id": "161fbfa3-bc7c-4743-837e-ad45124bd237",
+      "type": "advocate",
       "title": "Save Ethnic Studies in California!",
       "subtitle": "We, the students of California, are asking the Senate appropriations committee to move AB-331 to the Senate floor so that an Ethnic Studies course becomes a graduation requirement at all California public and charter schools.",
       "imageUrl": "https://assets.change.org/photos/7/xc/ig/KHxCigdOUbufiss-800x450-noPad.jpg",
@@ -18,6 +19,7 @@
     },
     {
       "id": "4ddf92c8-b54e-432d-8542-c39f3e994c3a",
+      "type": "advocate",
       "title": "Email the CA Senate Appropriations Committee",
       "subtitle": "Send an email to members of the California Senate Appropriations Committee to express your support for AB-331, which mandates Ethnic Studies as a graduation requirement at CA high schools.",
       "imageUrl": "https://assets.change.org/photos/7/xc/ig/KHxCigdOUbufiss-800x450-noPad.jpg",
@@ -46,6 +48,7 @@
   "act": [
     {
       "id": "84ecb46d-b843-4190-88f4-a7d8bb311cb8",
+      "type": "act",
       "title": "BLM LA",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-la-250x243-01.png",
@@ -63,6 +66,7 @@
     },
     {
       "id": "0a11b093-f103-45b2-8a9e-966343fe35d2",
+      "type": "act",
       "title": "BLM Long Beach",
       "subtitle": "Get involved with a Black Lives Matter chapter in your state to join protests and take other actions to support the movement.",
       "imageUrl": "https://blacklivesmatter.com/wp-content/uploads/2020/04/blm-chapter-logo-long-beach-250x244-01.png",

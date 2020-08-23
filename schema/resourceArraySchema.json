@@ -15,6 +15,11 @@
           "type": "string",
           "description": "The resource's id."
         },
+        "type": {
+          "type": "string",
+          "description": "The resource's type",
+          "enum": ["educate", "advocate", "act", "shop"]
+        },
         "title": {
           "type": "string",
           "description": "The resource's title."

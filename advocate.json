@@ -1,5 +1,27 @@
 [
   {
+    "id": "cd70ab5a-c13f-43ab-afd5-f41c4a1ba7bc",
+    "type": "advocate",
+    "title": "Justice for Jacob Blake",
+    "subtitle": "Text Jake to 55156 to demand the immediate firing and arrest of the officer who attempted to murder him.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Color_of_Change_logo_2020.png",
+    "textInfo": {
+      "recipients": [
+        "55156"
+      ],
+      "body": "JAKE"
+    },
+    "tags": [
+      "Text",
+      "Sign",
+      "Jacob Blake",
+      "Kenosha",
+      "Wisconsin",
+      "Advocate"
+    ],
+    "priority": 9
+  },
+  {
     "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
     "type": "advocate",
     "title": "Support our Young Protest Leaders #freetianna",

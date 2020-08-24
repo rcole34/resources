@@ -1,5 +1,24 @@
 [
   {
+    "id": "0e8434a1-1c03-441d-abbb-641c6267f0ea",
+    "type": "educate",
+    "title": "What Happened in Kenosha, WI?",
+    "subtitle": "Cellphone video of the incident shows police officers in Kenosha, Wisconsin shooting a Black man multiple times on August 23 as he tried to get into a vehicle. Read more about the incident and the protests that followed here.",
+    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200824021439-kenosha-police-shooting-0823-super-tease.jpg",
+    "clickUrl": "https://www.cnn.com/2020/08/24/us/kenosha-police-shooting-jacob-blake/index.html",
+    "tags": [
+      "Read",
+      "Watch",
+      "Kenosha",
+      "Wisconsin",
+      "Jacob",
+      "Jake",
+      "Blake",
+      "Educate"
+    ],
+    "priority": 9
+  },
+  {
     "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
     "type": "educate",
     "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",

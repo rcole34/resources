@@ -1,5 +1,23 @@
 [
   {
+    "id": "1af28c42-f05e-48d5-bef0-0fe2b1335fe2",
+    "type": "act",
+    "title": "Support the Milwaukee Freedom Fund",
+    "subtitle": "The Milwaukee Freedom Fund is extending support to protestors in Kenosha, WI. Their mission is to build on ongoing bail abolition efforts, support immigration efforts, work towards Black and Brown Liberation, and support Black and Brown young people as they build a new world. ",
+    "imageUrl": "https://supportwomenshealth.salsalabs.org/c675cf8a-4513-4ddf-b912-0f7ab51d3889/45550eea-f6aa-4d1b-b42b-6350d1012334.png",
+    "clickUrl": "https://supportwomenshealth.salsalabs.org/mkefreedomfund/index.html",
+    "tags": [
+      "Donate",
+      "Kenosha",
+      "Wisconsin",
+      "Jacob",
+      "Jake",
+      "Blake",
+      "Act"
+    ],
+    "priority": 9
+  },
+  {
     "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
     "type": "act",
     "title": "Center for Black Equity",

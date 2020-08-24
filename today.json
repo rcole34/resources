@@ -849,33 +849,63 @@
   ],
   "25": [
     {
-      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
-      "type": "educate",
-      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
-      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
-      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
+      "id": "cd70ab5a-c13f-43ab-afd5-f41c4a1ba7bc",
+      "type": "advocate",
+      "title": "Justice for Jacob Blake",
+      "subtitle": "Text Jake to 55156 to demand the immediate firing and arrest of the officer who attempted to murder him.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Color_of_Change_logo_2020.png",
+      "textInfo": {
+        "recipients": [
+          "55156"
+        ],
+        "body": "JAKE"
+      },
       "tags": [
-        "Listen",
-        "Podcast",
-        "Educate"
+        "Text",
+        "Sign",
+        "Jacob Blake",
+        "Kenosha",
+        "Wisconsin",
+        "Advocate"
       ],
-      "priority": 10
+      "priority": 9
     },
     {
-      "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
+      "id": "1af28c42-f05e-48d5-bef0-0fe2b1335fe2",
+      "type": "act",
+      "title": "Support the Milwaukee Freedom Fund",
+      "subtitle": "The Milwaukee Freedom Fund is extending support to protestors in Kenosha, WI. Their mission is to build on ongoing bail abolition efforts, support immigration efforts, work towards Black and Brown Liberation, and support Black and Brown young people as they build a new world. ",
+      "imageUrl": "https://supportwomenshealth.salsalabs.org/c675cf8a-4513-4ddf-b912-0f7ab51d3889/45550eea-f6aa-4d1b-b42b-6350d1012334.png",
+      "clickUrl": "https://supportwomenshealth.salsalabs.org/mkefreedomfund/index.html",
+      "tags": [
+        "Donate",
+        "Kenosha",
+        "Wisconsin",
+        "Jacob",
+        "Jake",
+        "Blake",
+        "Act"
+      ],
+      "priority": 9
+    },
+    {
+      "id": "0e8434a1-1c03-441d-abbb-641c6267f0ea",
       "type": "educate",
-      "title": "Reconstruction in America",
-      "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
-      "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
-      "clickUrl": "https://eji.org/report/reconstruction-in-america/",
+      "title": "What Happened in Kenosha, WI?",
+      "subtitle": "Cellphone video of the incident shows police officers in Kenosha, Wisconsin shooting a Black man multiple times on August 23 as he tried to get into a vehicle. Read more about the incident and the protests that followed here.",
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200824021439-kenosha-police-shooting-0823-super-tease.jpg",
+      "clickUrl": "https://www.cnn.com/2020/08/24/us/kenosha-police-shooting-jacob-blake/index.html",
       "tags": [
         "Read",
-        "EJI",
-        "Equal Justice Initiative",
+        "Watch",
+        "Kenosha",
+        "Wisconsin",
+        "Jacob",
+        "Jake",
+        "Blake",
         "Educate"
       ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "26": [
@@ -911,17 +941,16 @@
   ],
   "27": [
     {
-      "id": "f33d79e8-17c1-4d85-847d-f5a3f0544507",
-      "type": "shop",
-      "title": "PUR Home",
-      "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
-      "clickUrl": "https://pur-home.com/",
+      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
+      "type": "educate",
+      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
+      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
+      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
       "tags": [
-        "Goods",
-        "Black-owned",
-        "cleaning supplies",
-        "Shop"
+        "Listen",
+        "Podcast",
+        "Educate"
       ],
       "priority": 10
     },
@@ -943,18 +972,17 @@
   ],
   "28": [
     {
-      "id": "453a93a1-03d9-4c56-9c4f-f6a17277b57c",
-      "type": "shop",
-      "title": "Plum Good",
-      "subtitle": "Plum Good locally produces, discriminately sources and proudly brings to market the highest quality culinary and restorative spices, herbs and tea blends available. Our mission is to help bring flavorful nutrition available to our customers.  We make All Natural rubs and blends, teas, jams and sauces.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1796/4623/files/PG_2.0_v9_800x@2x.png?v=1547175812",
-      "clickUrl": "https://tasteplumgood.com/collections",
+      "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
+      "type": "educate",
+      "title": "Reconstruction in America",
+      "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
+      "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
+      "clickUrl": "https://eji.org/report/reconstruction-in-america/",
       "tags": [
-        "Black-owned",
-        "Goods",
-        "hot sauce",
-        "food",
-        "Shop"
+        "Read",
+        "EJI",
+        "Equal Justice Initiative",
+        "Educate"
       ],
       "priority": 10
     },

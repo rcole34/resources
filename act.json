@@ -1,5 +1,21 @@
 [
   {
+    "id": "b41eab71-9d04-4d7a-8e26-27c84f1bfa77",
+    "type": "act",
+    "title": "Justice for Jacob Blake",
+    "subtitle": "Jacob Blake is a loving father of 6 that deserves proper medical attention and legal representation. The funds raised through this Gofundme will go toward Jacob’s medical bills, family expenses, legal representation, support for his children and therapy costs.",
+    "imageUrl": "https://images.gofundme.com/u8duSzyaLSlZw2AAnaxD5_3TEdw=/720x405/https://d2g8igdw686xgo.cloudfront.net/50669212_1598282954644748_r.jpg",
+    "clickUrl": "https://www.gofundme.com/f/justiceforjacobblake",
+    "tags": [
+      "Donate",
+      "Jake",
+      "Jacob",
+      "Blake",
+      "Act"
+    ],
+    "priority": 8
+  },
+  {
     "id": "1af28c42-f05e-48d5-bef0-0fe2b1335fe2",
     "type": "act",
     "title": "Support the Milwaukee Freedom Fund",
@@ -15,7 +31,7 @@
       "Blake",
       "Act"
     ],
-    "priority": 9
+    "priority": 8
   },
   {
     "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",

@@ -1,5 +1,21 @@
 [
   {
+    "id": "98bc55c0-02cd-4eb1-95f7-a9492cbb7d22",
+    "type": "advocate",
+    "title": "Charge the cops who shot Jacob Blake",
+    "subtitle": "Jacob Blake, 29, was shot by Kenosha, Wisconsin police officers in the back 7 times on August 23, 2020. Officers were on the scene due to a fight, which Jacob Blake was trying to break up. The cops who shot him need to be charged. ",
+    "imageUrl": "https://assets.change.org/photos/1/hy/cp/AVHyCPjKBSyVyPc-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/tony-evers-charge-the-cops-who-shot-jacob-blake",
+    "tags": [
+      "Sign",
+      "Jacob",
+      "Jake",
+      "Blake",
+      "Advocate"
+    ],
+    "priority": 8
+  },
+  {
     "id": "cd70ab5a-c13f-43ab-afd5-f41c4a1ba7bc",
     "type": "advocate",
     "title": "Justice for Jacob Blake",
@@ -19,7 +35,7 @@
       "Wisconsin",
       "Advocate"
     ],
-    "priority": 9
+    "priority": 8
   },
   {
     "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",

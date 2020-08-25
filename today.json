@@ -1,29 +1,30 @@
 {
   "1": [
     {
-      "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
-      "type": "advocate",
-      "title": "Justice for Breonna Taylor - White House Petition",
-      "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
-      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
-      "clickUrl": "https://petitions.whitehouse.gov/petition/justice-breonna-taylor-5",
+      "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
+      "type": "act",
+      "title": "Support the Equal Justice Initiative",
+      "subtitle": "Your contribution is critical to efforts to end mass incarceration and excessive punishment in the United States, challenge racial and economic injustice, and protect the basic human rights for the most vulnerable people in American society.",
+      "imageUrl": "https://assets.classy.org/5944270/124269ea-3270-11ea-8ff7-0e0c11758269.png",
+      "clickUrl": "https://support.eji.org/give/153413/#!/donation/checkout",
       "tags": [
-        "Sign",
-        "Advocate"
+        "Donate",
+        "EJI",
+        "Just Mercy",
+        "Act"
       ],
       "priority": 10
     },
     {
-      "id": "c0833883-101d-4d68-a788-f237223e0968",
+      "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
       "type": "educate",
-      "title": "Netflix Explained: Racial Wealth Gap",
-      "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
-      "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
-      "clickUrl": "https://www.youtube.com/watch?v=Mqrhn8khGLM",
+      "title": "Why Protests and Riots Work",
+      "subtitle": "Riots are destructive, dangerous, and scary — but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
+      "imageUrl": "https://images.jacobinmag.com/wp-content/uploads/2020/06/01140041/GettyImages-1215982507.jpg",
+      "clickUrl": "https://www.vox.com/2015/4/30/8518681/protests-riots-work",
       "tags": [
-        "Watch",
-        "Netflix",
-        "Race",
+        "Vox",
+        "Read",
         "Educate"
       ],
       "priority": 10
@@ -31,52 +32,30 @@
   ],
   "2": [
     {
-      "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
-      "type": "act",
-      "title": "Open a random campaign to donate to",
-      "subtitle": "Take the effort of decision out of it -- tap here and we'll select a random campaign for you to support!",
-      "randomUrlList": [
-        "https://secure.actblue.com/donate/ms_blm_homepage_2019",
-        "https://www.gofundme.com/f/georgefloyd",
-        "https://freemindsbookclub.networkforgood.com/",
-        "https://policingequity.org/donate",
-        "https://secure.givelively.org/donate/the-bail-project",
-        "https://www.liberationlib.com/donate.html",
-        "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
-        "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
-        "https://secure.actblue.com/contribute/page/support-us?refcode=blmdigest",
-        "https://www.gofundme.com/f/minnesota-poc-business-support",
-        "http://www.blacktablearts.com/",
-        "https://abepmpls.org/donate",
-        "https://www.gofundme.com/f/i-run-with-maud",
-        "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
-        "https://chicagobond.org/donate/",
-        "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
-        "https://www.gofundme.com/f/kzzrd-justice-for-tiana"
-      ],
-      "info": "Update to the latest version of the app to get access to this feature",
+      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
+      "type": "educate",
+      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
+      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
+      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
       "tags": [
-        "Gofundme",
-        "Nonprofit",
-        "Bail funds",
-        "Random",
-        "Donate",
-        "Act"
+        "Listen",
+        "Podcast",
+        "Educate"
       ],
       "priority": 10
     },
     {
-      "id": "f098b6fa-9b10-4b1e-bf64-a8cf15f12b5e",
+      "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
       "type": "educate",
-      "title": "Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away",
-      "subtitle": "Microaggressions are defined as the everyday, subtle, intentional — and oftentimes unintentional — interactions or behaviors that communicate some sort of bias toward historically marginalized groups. Learn more in this podcast from NPR.",
-      "imageUrl": "https://media.npr.org/assets/img/2020/06/08/4_lifekit_final-copy_wide-009c69a2031c119a4c433755d56e25214e359a32-s1400-c85.jpg",
-      "clickUrl": "https://www.npr.org/2020/06/08/872371063/microaggressions-are-a-big-deal-how-to-talk-them-out-and-when-to-walk-away",
+      "title": "What Happened on May 25th?",
+      "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
+      "clickUrl": "https://www.justiceforbigfloyd.com/",
       "tags": [
         "Read",
-        "Listen",
-        "Microaggressions",
-        "NPR",
+        "Sign",
+        "Donate",
         "Educate"
       ],
       "priority": 10
@@ -849,6 +828,59 @@
   ],
   "25": [
     {
+      "id": "0e8434a1-1c03-441d-abbb-641c6267f0ea",
+      "type": "educate",
+      "title": "What Happened in Kenosha, WI?",
+      "subtitle": "Cellphone video of the incident shows police officers in Kenosha, Wisconsin shooting a Black man multiple times on August 23 as he tried to get into a vehicle. Read more about the incident and the protests that followed here.",
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200824021439-kenosha-police-shooting-0823-super-tease.jpg",
+      "clickUrl": "https://www.cnn.com/2020/08/24/us/kenosha-police-shooting-jacob-blake/index.html",
+      "tags": [
+        "Read",
+        "Watch",
+        "Kenosha",
+        "Wisconsin",
+        "Jacob",
+        "Jake",
+        "Blake",
+        "Educate"
+      ],
+      "priority": 9
+    },
+    {
+      "id": "98bc55c0-02cd-4eb1-95f7-a9492cbb7d22",
+      "type": "advocate",
+      "title": "Charge the cops who shot Jacob Blake",
+      "subtitle": "Jacob Blake, 29, was shot by Kenosha, Wisconsin police officers in the back 7 times on August 23, 2020. Officers were on the scene due to a fight, which Jacob Blake was trying to break up. The cops who shot him need to be charged. ",
+      "imageUrl": "https://assets.change.org/photos/1/hy/cp/AVHyCPjKBSyVyPc-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/tony-evers-charge-the-cops-who-shot-jacob-blake",
+      "tags": [
+        "Sign",
+        "Jacob",
+        "Jake",
+        "Blake",
+        "Advocate"
+      ],
+      "priority": 9
+    },
+    {
+      "id": "b41eab71-9d04-4d7a-8e26-27c84f1bfa77",
+      "type": "act",
+      "title": "Justice for Jacob Blake",
+      "subtitle": "Jacob Blake is a loving father of 6 that deserves proper medical attention and legal representation. The funds raised through this Gofundme will go toward Jacob’s medical bills, family expenses, legal representation, support for his children and therapy costs.",
+      "imageUrl": "https://images.gofundme.com/u8duSzyaLSlZw2AAnaxD5_3TEdw=/720x405/https://d2g8igdw686xgo.cloudfront.net/50669212_1598282954644748_r.jpg",
+      "clickUrl": "https://www.gofundme.com/f/justiceforjacobblake",
+      "tags": [
+        "Donate",
+        "Jake",
+        "Jacob",
+        "Blake",
+        "Act"
+      ],
+      "priority": 9
+    }
+  ],
+  "26": [
+    {
       "id": "cd70ab5a-c13f-43ab-afd5-f41c4a1ba7bc",
       "type": "advocate",
       "title": "Justice for Jacob Blake",
@@ -887,7 +919,9 @@
         "Act"
       ],
       "priority": 9
-    },
+    }
+  ],
+  "27": [
     {
       "id": "0e8434a1-1c03-441d-abbb-641c6267f0ea",
       "type": "educate",
@@ -906,68 +940,38 @@
         "Educate"
       ],
       "priority": 9
-    }
-  ],
-  "26": [
+    },
     {
-      "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
+      "id": "98bc55c0-02cd-4eb1-95f7-a9492cbb7d22",
+      "type": "advocate",
+      "title": "Charge the cops who shot Jacob Blake",
+      "subtitle": "Jacob Blake, 29, was shot by Kenosha, Wisconsin police officers in the back 7 times on August 23, 2020. Officers were on the scene due to a fight, which Jacob Blake was trying to break up. The cops who shot him need to be charged. ",
+      "imageUrl": "https://assets.change.org/photos/1/hy/cp/AVHyCPjKBSyVyPc-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/tony-evers-charge-the-cops-who-shot-jacob-blake",
+      "tags": [
+        "Sign",
+        "Jacob",
+        "Jake",
+        "Blake",
+        "Advocate"
+      ],
+      "priority": 9
+    },
+    {
+      "id": "b41eab71-9d04-4d7a-8e26-27c84f1bfa77",
       "type": "act",
-      "title": "Support the Equal Justice Initiative",
-      "subtitle": "Your contribution is critical to efforts to end mass incarceration and excessive punishment in the United States, challenge racial and economic injustice, and protect the basic human rights for the most vulnerable people in American society.",
-      "imageUrl": "https://assets.classy.org/5944270/124269ea-3270-11ea-8ff7-0e0c11758269.png",
-      "clickUrl": "https://support.eji.org/give/153413/#!/donation/checkout",
+      "title": "Justice for Jacob Blake",
+      "subtitle": "Jacob Blake is a loving father of 6 that deserves proper medical attention and legal representation. The funds raised through this Gofundme will go toward Jacob’s medical bills, family expenses, legal representation, support for his children and therapy costs.",
+      "imageUrl": "https://images.gofundme.com/u8duSzyaLSlZw2AAnaxD5_3TEdw=/720x405/https://d2g8igdw686xgo.cloudfront.net/50669212_1598282954644748_r.jpg",
+      "clickUrl": "https://www.gofundme.com/f/justiceforjacobblake",
       "tags": [
         "Donate",
-        "EJI",
-        "Just Mercy",
+        "Jake",
+        "Jacob",
+        "Blake",
         "Act"
       ],
-      "priority": 10
-    },
-    {
-      "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
-      "type": "educate",
-      "title": "Why Protests and Riots Work",
-      "subtitle": "Riots are destructive, dangerous, and scary — but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
-      "imageUrl": "https://images.jacobinmag.com/wp-content/uploads/2020/06/01140041/GettyImages-1215982507.jpg",
-      "clickUrl": "https://www.vox.com/2015/4/30/8518681/protests-riots-work",
-      "tags": [
-        "Vox",
-        "Read",
-        "Educate"
-      ],
-      "priority": 10
-    }
-  ],
-  "27": [
-    {
-      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
-      "type": "educate",
-      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
-      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
-      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
-      "tags": [
-        "Listen",
-        "Podcast",
-        "Educate"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
-      "type": "educate",
-      "title": "What Happened on May 25th?",
-      "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
-      "clickUrl": "https://www.justiceforbigfloyd.com/",
-      "tags": [
-        "Read",
-        "Sign",
-        "Donate",
-        "Educate"
-      ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "28": [

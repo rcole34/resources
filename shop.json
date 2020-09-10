@@ -1,5 +1,19 @@
 [
   {
+    "id": "0ec090d9-6d6d-4e1d-aa7f-aad07e1d5c02",
+    "type": "shop",
+    "title": "The Weave Zone",
+    "subtitle": "The Weave Zone has high-end and quality adult toys and hair, for prices that you can bare.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/files/Test_1000x1000.png",
+    "clickUrl": "https://www.theweavezone.com/",
+    "tags": [
+      "sex toys",
+      "wig",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
     "type": "shop",
     "title": "Shop Thoughtful",

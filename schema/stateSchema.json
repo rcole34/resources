@@ -77,6 +77,17 @@
           "type": "string",
           "description": "The resource's info."
         },
+        "moreInfo": {
+          "type": "string",
+          "description": "More information about the resource to show on the L2."
+        },
+        "products": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "$ref": "#/definitions/productInfo"
+          }
+        },
         "tags": {
           "type": "array",
           "items": {
@@ -141,6 +152,33 @@
         "body": {
           "type": "string",
           "description": "The text's body."
+        }
+      }
+    },
+    "productInfo": {
+      "title": "ProductInfo",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "imageUrl": {
+          "type": "string",
+          "description": "The product's image url"
+        },
+        "name": {
+          "type": "string",
+          "description": "The product's name"
+        },
+        "description": {
+          "type": "string",
+          "description": "The product's description"
+        },
+        "clickUrl": {
+          "type": "string",
+          "description": "The product's click url"
+        },
+        "shopName": {
+          "type": "string",
+          "description": "The product's shop name"
         }
       }
     }

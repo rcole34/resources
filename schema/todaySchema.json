@@ -185,6 +185,10 @@
           "type": "string",
           "description": "The resource's info."
         },
+        "moreInfo": {
+          "type": "string",
+          "description": "More information about the resource to show on the L2."
+        },
         "tags": {
           "type": "array",
           "items": {

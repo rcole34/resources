@@ -1,0 +1,376 @@
+{
+  "conditions": [
+    {
+      "name": "alabama",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['alabama'])",
+      "tagColor": "CYAN"
+    },
+    {
+      "name": "alaska",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['alaska'])"
+    },
+    {
+      "name": "arizona",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['arizona'])",
+      "tagColor": "BLUE"
+    },
+    {
+      "name": "arkansas",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['arkansas'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "california",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['california'])",
+      "tagColor": "LIME"
+    },
+    {
+      "name": "colorado",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['colorado'])",
+      "tagColor": "TEAL"
+    },
+    {
+      "name": "connecticut",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['connecticut'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "delaware",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['delaware'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "florida",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['florida'])"
+    },
+    {
+      "name": "georgia",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['georgia'])",
+      "tagColor": "TEAL"
+    },
+    {
+      "name": "hawaii",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['hawaii'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "idaho",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['idaho'])",
+      "tagColor": "ORANGE"
+    },
+    {
+      "name": "illinois",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['illinois'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "indiana",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['indiana'])",
+      "tagColor": "ORANGE"
+    },
+    {
+      "name": "iowa",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['iowa'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "kansas",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['kansas'])",
+      "tagColor": "PINK"
+    },
+    {
+      "name": "kentucky",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['kentucky'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "louisiana",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['louisiana'])",
+      "tagColor": "BLUE"
+    },
+    {
+      "name": "maine",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['maine'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "maryland",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['maryland'])",
+      "tagColor": "BLUE"
+    },
+    {
+      "name": "massachusetts",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['massachusetts'])",
+      "tagColor": "INDIGO"
+    },
+    {
+      "name": "michigan",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['michigan'])",
+      "tagColor": "LIME"
+    },
+    {
+      "name": "minnesota",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['minnesota'])",
+      "tagColor": "INDIGO"
+    },
+    {
+      "name": "mississippi",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['mississippi'])",
+      "tagColor": "BLUE"
+    },
+    {
+      "name": "missouri",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['missouri'])",
+      "tagColor": "BROWN"
+    },
+    {
+      "name": "montana",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['montana'])",
+      "tagColor": "CYAN"
+    },
+    {
+      "name": "nebraska",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['nebraska'])",
+      "tagColor": "LIME"
+    },
+    {
+      "name": "nevada",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['nevada'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "new hampshire",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['new hampshire'])",
+      "tagColor": "TEAL"
+    },
+    {
+      "name": "new jersey",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['new jersey'])",
+      "tagColor": "ORANGE"
+    },
+    {
+      "name": "new mexico",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['new mexico'])",
+      "tagColor": "PINK"
+    },
+    {
+      "name": "new york",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['new york'])",
+      "tagColor": "LIME"
+    },
+    {
+      "name": "north carolina",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['north carolina'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "north dakota",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['north dakota'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "ohio",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['ohio'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "oklahoma",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['oklahoma'])"
+    },
+    {
+      "name": "oregon",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['oregon'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "pennsylvania",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['pennsylvania'])",
+      "tagColor": "INDIGO"
+    },
+    {
+      "name": "rhode island",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['rhode island'])",
+      "tagColor": "CYAN"
+    },
+    {
+      "name": "south carolina",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['south carolina'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "south dakota",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['south dakota'])",
+      "tagColor": "CYAN"
+    },
+    {
+      "name": "tennessee",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['tennessee'])",
+      "tagColor": "BLUE"
+    },
+    {
+      "name": "texas",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['texas'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "utah",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['utah'])",
+      "tagColor": "BROWN"
+    },
+    {
+      "name": "vermont",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['vermont'])",
+      "tagColor": "PURPLE"
+    },
+    {
+      "name": "virginia",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['virginia'])"
+    },
+    {
+      "name": "washington",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['washington'])",
+      "tagColor": "GREEN"
+    },
+    {
+      "name": "west virginia",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['west virginia'])",
+      "tagColor": "CYAN"
+    },
+    {
+      "name": "wisconsin",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['wisconsin'])",
+      "tagColor": "INDIGO"
+    },
+    {
+      "name": "wyoming",
+      "expression": "app.userProperty['us_state'].exactlyMatches(['wymoing'])",
+      "tagColor": "TEAL"
+    }
+  ],
+  "parameters": {
+    "flags": {
+      "defaultValue": {
+        "value": "{\"settingsResourceSubmission\":true,\"settingsFeedback\":true,\"settingsShareApp\":true,\"settingsAcknowledgements\":true,\"settingsSubmitEmail\":true,\"showAppIntro\":true}"
+      }
+    }
+  },
+  "parameterGroups": {
+    "settings": {
+      "parameters": {
+        "resourceSubmissionLink": {
+          "defaultValue": {
+            "value": "https://forms.gle/7ob6SEAT2Xr93zC66"
+          }
+        },
+        "feedbackEmailInfo": {
+          "defaultValue": {
+            "value": "{\"recipients\":[\"blmdigestapp+feedback@gmail.com\"],\"subject\":\"BLM Digest app feedback\"}"
+          }
+        },
+        "appStoreUrl": {
+          "defaultValue": {
+            "value": "https://blmdigest.page.link/install"
+          }
+        },
+        "privacyPolicyLink": {
+          "defaultValue": {
+            "value": "https://rcole34.github.io/blmdigest/privacy.html"
+          }
+        },
+        "resourceBaseUrl": {
+          "defaultValue": {
+            "value": "https://rcole34.github.io/resources"
+          }
+        },
+        "appSharingLink": {
+          "defaultValue": {
+            "value": "https://blmdigest.page.link/share"
+          }
+        },
+        "acknowledgementsLink": {
+          "defaultValue": {
+            "value": "https://rcole34.github.io/blmdigest/acknowledgements.html"
+          }
+        },
+        "emailSubmissionLink": {
+          "defaultValue": {
+            "value": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfpP-CmK_kpRmknXnxOEHtyUQk0LwmDterraqm029OTLWbkqg"
+          }
+        },
+        "emailSubmissionQueryParam": {
+          "defaultValue": {
+            "value": "entry.856620109"
+          }
+        }
+      }
+    },
+    "filters": {
+      "parameters": {
+        "favoritesFilters": {
+          "defaultValue": {
+            "value": "[\"Educate\", \"Advocate\", \"Shop\", \"Act\"]"
+          }
+        },
+        "actFilters": {
+          "defaultValue": {
+            "value": "[\"Donate\", \"Protest\", \"Help\"]"
+          }
+        },
+        "shopFilters": {
+          "defaultValue": {
+            "value": "[\"Goods\", \"Services\"]"
+          }
+        },
+        "advocateFilters": {
+          "defaultValue": {
+            "value": "[\"Sign\", \"Email\", \"Call\"]"
+          }
+        },
+        "educateFilters": {
+          "defaultValue": {
+            "value": "[\"Read\", \"Listen\", \"Watch\"]"
+          }
+        },
+        "localFilters": {
+          "defaultValue": {
+            "value": "[\"Educate\", \"Advocate\", \"Shop\", \"Act\"]"
+          }
+        }
+      }
+    },
+    "lastUpdated": {
+      "parameters": {
+        "actResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1598325070"
+          }
+        },
+        "shopResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1603177380"
+          }
+        },
+        "advocateResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1598325070"
+          }
+        },
+        "educateResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1598289624"
+          }
+        },
+        "localResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1598163903"
+          }
+        },
+        "todayResourcesLastUpdated": {
+          "defaultValue": {
+            "value": "1598325070"
+          }
+        }
+      }
+    }
+  }
+}

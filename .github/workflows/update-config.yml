@@ -31,6 +31,8 @@ jobs:
         
       - name: Get Changed Files
         uses: lots0logs/gh-action-get-changed-files@2.1.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run a multi-line script
         run: |

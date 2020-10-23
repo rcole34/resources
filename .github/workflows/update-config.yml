@@ -36,8 +36,6 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          ls .
-          ls ..
-          cat ./files_modified.json
-          cat ../files_modified.json
-          which jq
+          ls ${HOME}
+          cat ${HOME}/files_modified.json
+

@@ -847,36 +847,26 @@
       "priority": 9
     },
     {
-      "id": "98bc55c0-02cd-4eb1-95f7-a9492cbb7d22",
-      "type": "advocate",
-      "title": "Charge the cops who shot Jacob Blake",
-      "subtitle": "Jacob Blake, 29, was shot by Kenosha, Wisconsin police officers in the back 7 times on August 23, 2020. Officers were on the scene due to a fight, which Jacob Blake was trying to break up. The cops who shot him need to be charged. ",
-      "imageUrl": "https://assets.change.org/photos/1/hy/cp/AVHyCPjKBSyVyPc-800x450-noPad.jpg",
-      "clickUrl": "https://www.change.org/p/tony-evers-charge-the-cops-who-shot-jacob-blake",
+      "id": "1443d5fc-61a8-434c-87ee-b75cc59d7fdc",
+      "type": "educate",
+      "title": "Sports Can Battle Racism Workshop",
+      "subtitle": "A workshop for coaches on how to ensure that sports is an inclusive environment for ALL athletes. ",
+      "imageUrl": "https://cdn1.sportngin.com/attachments/photo/6671/8422/pca_logo_web_large.png",
+      "clickUrl": "https://positivecoach.org/google-forms/new-sports-can-battle-racism-a-workshop-for-coaches/",
+      "moreInfo": "In this 90 minute workshop, coaches will have an interactive discussion on how to combat racial discrimination, champion moral courage and empower their programs to create positive change in their communities.",
       "tags": [
-        "Sign",
-        "Jacob",
-        "Jake",
-        "Blake",
-        "Advocate"
+        "Educate",
+        "Sports",
+        "workshop",
+        "coach",
+        "athlete",
+        "learn",
+        "listen",
+        "engage",
+        "positive",
+        "Educate"
       ],
-      "priority": 9
-    },
-    {
-      "id": "b41eab71-9d04-4d7a-8e26-27c84f1bfa77",
-      "type": "act",
-      "title": "Justice for Jacob Blake",
-      "subtitle": "Jacob Blake is a loving father of 6 that deserves proper medical attention and legal representation. The funds raised through this Gofundme will go toward Jacob’s medical bills, family expenses, legal representation, support for his children and therapy costs.",
-      "imageUrl": "https://images.gofundme.com/u8duSzyaLSlZw2AAnaxD5_3TEdw=/720x405/https://d2g8igdw686xgo.cloudfront.net/50669212_1598282954644748_r.jpg",
-      "clickUrl": "https://www.gofundme.com/f/justiceforjacobblake",
-      "tags": [
-        "Donate",
-        "Jake",
-        "Jacob",
-        "Blake",
-        "Act"
-      ],
-      "priority": 9
+      "priority": 10
     }
   ],
   "26": [

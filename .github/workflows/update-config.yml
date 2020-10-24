@@ -1,0 +1,41 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update Firebase Remote Config
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  pull_request:
+    branches: [ master ]
+    types: [ closed ]
+
+jobs:
+  update-config:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true && !contains(github.event.pull_request.labels.*.name, 'do not update config')
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Change directory to firebase
+        run: cd firebase
+        
+      - name: Install jq
+        run: sudo apt-get install jq
+        
+      - name: Get latest firebase remote config
+        uses: w9jds/firebase-action@v1.5.0
+        with:
+          args: remoteconfig:get -o remoteconfig.template.json --project support-the-movement
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        
+      - name: Get Changed Files
+        uses: lots0logs/gh-action-get-changed-files@2.1.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run a multi-line script
+        run: |
+          ls ${HOME}
+          cat ${HOME}/files_modified.json
+

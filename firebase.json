@@ -1,6 +1,5 @@
 {
   "remoteconfig": {
-    "template": "remoteconfig.template.json",
-    "predeploy": "sh updateConfigLastUpdated.sh"
+    "template": "remoteconfig.template.json"
   }
 }

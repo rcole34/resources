@@ -28,10 +28,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Copy modified_files.json to setup for firebase predeploy/deploy
-        run: cp ${HOME}/files_modified.json modified_files.json
+      - name: Do firebase predeploy setup
+        run: |
+          cp ${HOME}/files_modified.json modified_files.json
+          sudo apt-get install jq
+          sh updateConfigLastUpdated.sh
           
-      - name: Update and deploy firebase remote config
+      - name: Deploy firebase remote config
         uses: w9jds/firebase-action@v1.5.0
         with:
           args: deploy --project support-the-movement

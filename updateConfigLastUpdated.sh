@@ -1,5 +1,4 @@
 #! /bin/bash
-sudo apt-get install jq
 cp remoteconfig.template.json config.json
 echo "updating last updated config params"
 jq -c '.[]' modified_files.json | while read i; do

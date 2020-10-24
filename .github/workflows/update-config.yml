@@ -15,9 +15,6 @@ jobs:
     if: github.event.pull_request.merged == true && !contains(github.event.pull_request.labels.*.name, 'do not update config')
     steps:
       - uses: actions/checkout@v2
-
-      - name: Install jq
-        run: sudo apt-get install jq
         
       - name: Get latest firebase remote config
         uses: w9jds/firebase-action@v1.5.0

@@ -28,4 +28,4 @@ jq -c '.[]' modified_files.json | while read i; do
 		jq '.parameterGroups.lastUpdated.parameters.localResourcesLastUpdated.defaultValue.value = $timestamp' --arg timestamp $(date +%s) config.json > tmp.json && mv tmp.json config.json
 	fi
 done
-# mv config.json remoteconfig.template.json
+mv config.json remoteconfig.template.json

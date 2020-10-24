@@ -1,5 +1,27 @@
 [
   {
+    "id": "1443d5fc-61a8-434c-87ee-b75cc59d7fdc",
+    "type": "educate",
+    "title": "Sports Can Battle Racism Workshop",
+    "subtitle": "A workshop for coaches on how to ensure that sports is an inclusive environment for ALL athletes. ",
+    "imageUrl": "https://cdn1.sportngin.com/attachments/photo/6671/8422/pca_logo_web_large.png",
+    "clickUrl": "https://positivecoach.org/google-forms/new-sports-can-battle-racism-a-workshop-for-coaches/",
+    "moreInfo": "In this 90 minute workshop, coaches will have an interactive discussion on how to combat racial discrimination, champion moral courage and empower their programs to create positive change in their communities.",
+    "tags": [
+      "Educate",
+      "Sports",
+      "workshop",
+      "coach",
+      "athlete",
+      "learn",
+      "listen",
+      "engage",
+      "positive",
+      "Educate"
+    ],
+    "priority": 10
+  },
+  {
     "id": "0e8434a1-1c03-441d-abbb-641c6267f0ea",
     "type": "educate",
     "title": "What Happened in Kenosha, WI?",
@@ -16,7 +38,7 @@
       "Blake",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
@@ -30,7 +52,7 @@
       "Podcast",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
@@ -45,7 +67,7 @@
       "Equal Justice Initiative",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
@@ -60,7 +82,7 @@
       "Equal Justice Initiative",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
@@ -74,7 +96,7 @@
       "Read",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
@@ -89,7 +111,7 @@
       "Donate",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "1775f0e9-5c7b-4eab-a434-d853de9d52e1",
@@ -104,7 +126,7 @@
       "Election",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "4513aa25-29b0-400f-aa3c-93bebe03fae6",
@@ -118,7 +140,7 @@
       "White Ally Toolkit",
       "Educate"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",

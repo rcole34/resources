@@ -36,8 +36,11 @@ jobs:
 
       - name: Setup for firebase predeploy/deploy
         run: |
+          ls
           cd firebase
+          ls
           cp ${HOME}/files_modified.json modified_files.json
+          ls
           
       - name: Update and deploy firebase remote config
         uses: w9jds/firebase-action@v1.5.0

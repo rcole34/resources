@@ -19,6 +19,10 @@
     "act": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
+    },
+    "learn": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/resource" }
     }
   },
   "definitions": {
@@ -34,7 +38,7 @@
         "type": {
           "type": "string",
           "description": "The resource's type",
-          "enum": ["educate", "advocate", "act", "shop"]
+          "enum": ["educate", "advocate", "act", "shop", "learn"]
         },
         "title": {
           "type": "string",

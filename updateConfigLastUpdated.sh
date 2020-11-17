@@ -14,6 +14,10 @@ jq -c '.[]' modified_files.json | while read i; do
 	then
 		echo "updating educate"
 		jq '.parameterGroups.lastUpdated.parameters.educateResourcesLastUpdated.defaultValue.value = $timestamp' --arg timestamp $(date +%s) config.json > tmp.json && mv tmp.json config.json
+	elif [[ $i = \"learn.json\" ]]
+	then
+		echo "updating learn"
+		jq '.parameterGroups.lastUpdated.parameters.learnResourcesLastUpdated.defaultValue.value = $timestamp' --arg timestamp $(date +%s) config.json > tmp.json && mv tmp.json config.json
 	elif [[ $i = \"advocate.json\" ]]
 	then
 		echo "updating advocate"

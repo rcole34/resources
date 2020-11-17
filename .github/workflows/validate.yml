@@ -16,7 +16,7 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema/resourceArraySchema.json
-          INPUT_JSONS: ./educate.json,./advocate.json,./act.json,./shop.json
+          INPUT_JSONS: ./educate.json,./advocate.json,./act.json,./shop.json,./learn.json
           
       - name: Validate today resources JSON
         uses: docker://orrosenblatt/validate-json-action:latest

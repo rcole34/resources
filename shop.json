@@ -1,11 +1,728 @@
 [
   {
+    "id": "d21007a6-aa46-4a3f-85e8-e4d4ce7b843e",
+    "type": "shop",
+    "title": "Scent Affairs",
+    "subtitle": "Our goal is to continuously strive to make and provide a quality product. The goal, create a safe, effective, quality product with a long lasting scentual affect.",
+    "imageUrl": "https://img1.wsimg.com/isteam/ip/5ea6346b-225e-46e2-9c86-48aa90fa9dc8/Scent-Affairs-Logo.png/:/rs=h:320/qt=q:95",
+    "clickUrl": "https://scentaffairs.com/",
+    "tags": [
+      "Personal Fragrance",
+      "Home & Garden",
+      "Home Fragrance",
+      "Other",
+      "Miscellaneous",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "42f5fd7f-449e-469e-a064-b8ae8c365c3a",
+    "type": "shop",
+    "title": "Perfect Blue Alchemy",
+    "subtitle": "Perfect Blue Alchemy is handcrafted organic, vegan and natural perfumes, body products and home items made from organic essential oils and organic plant oils.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0123/9878/8698/products/20200913_192140_1296x.jpg?v=1600040065",
+    "clickUrl": "https://www.perfectbluealchemy.com/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Beardcare",
+      "Personal Fragrance",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d4ff5d49-3371-4d64-a9fa-93f6cef6f751",
+    "type": "shop",
+    "title": "Beija Flor Naturals",
+    "subtitle": "Beija-Flor Naturals has nearly a decade as a Curly Girl favorite product line in addition to skincare that is effective, exotic and unique in the green beauty market.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/MG_3025_2048x.jpg?v=1555990328",
+    "clickUrl": "https://www.beijaflornaturals.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Hair & Headwear",
+      "Haircare",
+      "Shampoo",
+      "Hair growth/repair",
+      "Home & Garden",
+      "Candles",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d61138b6-f0d4-4edd-a13e-6f6c238cc6b2",
+    "type": "shop",
+    "title": "Black Beard Brigade Men's Grooming Co.",
+    "subtitle": "We carry grooming products that are primarily geared towards the bearded community, but we also have women and children using them as well. Our oil, balm, and butter are excellent for the hair on your head, and the butter can also double as a lotion.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/PC_Butter_2048x.jpg?v=1547136674",
+    "clickUrl": "https://blackbeardbrigade.com/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Beardcare",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "9b4e17d4-84d7-4e57-8b60-98101277936d",
+    "type": "shop",
+    "title": "CarmaBella Skincare",
+    "subtitle": "CarmaBella Skincare is made for women who want the best skincare, without any artificial chemicals or unnecessary ingredients. When using our products, you don't have to choose between natural and luxurious.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/files/Radiance_Collection_2100x.png?v=1600554345",
+    "clickUrl": "https://carmabellaskincare.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Wellness",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "31f2eaa8-f4d3-4cac-b7de-ec394a671d70",
+    "type": "shop",
+    "title": "Elements of Aliel",
+    "subtitle": "Elements of Aliel is a collection of products that are gentle, yet effective and made with nature and love. We focus on ingredient quality to bring you plant powered goodness that rivals anything you an find on the market today.",
+    "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2020/03/20200321_195800.jpg?fit=1200%2C1200&ssl=1",
+    "clickUrl": "https://www.elementsofaliel.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2e8ab76e-65ef-4f8f-9f94-ded2c66d4987",
+    "type": "shop",
+    "title": "Harrison Blake Apparel",
+    "subtitle": "Harrison Blake Apparel has found a way to deliver high quality men's accessories at a great price. The style and variety of products are sure to please any gentleman. ",
+    "imageUrl": "https://harrisonblakeapparel.com/product_images/logolandscape_2_1438133768__57671.png",
+    "clickUrl": "https://harrisonblakeapparel.com/",
+    "tags": [
+      "Health & Beauty",
+      "Beardcare",
+      "Fashion",
+      "Footwear",
+      "Unisex",
+      "Accessories",
+      "Jewelry",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5c646015-b76e-4600-8cb4-020730208d5e",
+    "type": "shop",
+    "title": "Lizzie's All Natural Products",
+    "subtitle": "Here at Lizzie's All-natural Products, we create fresh, natural, toxin free products for your home and body. Our promise is to provide you with quality products that your skin will love and benefit from.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2451/3215/files/logo_500x.png?v=1572884688",
+    "clickUrl": "https://productsbylizzie.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Beardcare",
+      "Wellness",
+      "Home & Garden",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ff84fbc3-8909-415e-a17c-028d21f7de3d",
+    "type": "shop",
+    "title": "Marie Hunter Beauty",
+    "subtitle": "Cosmetics and Fragrances for the Modern Muse. Boldly empowering women with beauty, confidence and class since 2016.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1603309092423-RGCCK4D380NR0FUVSZ2U/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/Boss+Lady+1.jpg?format=2500w",
+    "clickUrl": "https://www.mariehunterbeauty.com/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Cosmetic",
+      "Makeup",
+      "Lip",
+      "Home & Garden",
+      "Candles",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d1a1d519-e309-482f-b9ee-65b96ce1e11c",
+    "type": "shop",
+    "title": "My Beautiful Fluff",
+    "subtitle": "Clothes designed with curves in mind. Each shirt is cut to accommodate curves and fluff with custom to cut to my size chart with sizes L to 5XL.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0034/7602/9504/files/static1.squarespace_7341156e-b477-427c-a6f0-d57aeda3b6e2@2x.png?v=1545404028",
+    "clickUrl": "https://mybeautifulfluff.com/",
+    "tags": [
+      "Health & Beauty",
+      "Cosmetic",
+      "Makeup",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Women’s Accessories",
+      "Jewelry",
+      "Office",
+      "Paper & Stationery",
+      "Notebooks",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0556671f-f1d8-4a8b-b861-45c0231a891a",
+    "type": "shop",
+    "title": "BLACK ON BLACK",
+    "subtitle": "Black On Black™ is beautifully designed clothing & accessories that are both clothing line AND protest sign. Black On Black™ is a social protest on clothing that De:Constructs the Construct.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/files/BlackOnBlack-Stack_Favicon_180x.png?v=1569464905",
+    "clickUrl": "https://www.blackonblackbk.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Men’s",
+      "Women’s",
+      "Childrens",
+      "Accessories",
+      "Handbags",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "9ed97b94-6515-4c02-b40f-f7a55c2b0f2e",
+    "type": "shop",
+    "title": "CurlyCoilyTresses",
+    "subtitle": "At CurlyCoilyTresses, we create products that help soothe scalps and moisturize and hydrate hair. We've helped thousands just like you to lengthen and strengthen their hair; soften, moisturize and hydrate their hair; and improve the overall appearance of their hair. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/files/241CD79F-6F0A-4B92-81F1-35F5105ABD03_928213d5-5b83-41bc-baa2-399776172c0e_600x.png?v=1588347259",
+    "clickUrl": "https://curlycoilytresses.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Haircare",
+      "Hair growth/repair",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4272fc10-829c-4e0d-a7c8-9f153dc770d9",
+    "type": "shop",
+    "title": "Loza Tam",
+    "subtitle": "Shop our collection of women's African Head Wraps. All of our head wraps & turbans are lined in satin to protect the hair against frizz, breakage and moisture loss.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/files/logo_140x@2x.jpg?v=1553685435",
+    "clickUrl": "https://lozatam.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "15e41e05-051e-4f5a-bd74-a2990be89c71",
+    "type": "shop",
+    "title": "Omalicha Naturals",
+    "subtitle": "Omalicha translates to beautiful in our native language of Igbo. We handcraft all natural, clean beauty products for the hair and skin designed to bring ones natural beauty to the forefront.",
+    "imageUrl": "https://static1.squarespace.com/static/5bad78a2da50d348cd5b424b/t/5f45e2947300a35275e38fec/1599258505424/?format=1500w",
+    "clickUrl": "https://www.omalichanaturals.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Hair & Headwear",
+      "Haircare",
+      "Hair growth/repair",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4c6fffdf-b559-44c8-b681-6161d7df9f8f",
+    "type": "shop",
+    "title": "AcARRE",
+    "subtitle": "AcARRE™ is a natural prestige brand of multi-use bioactive beauty products for the beauty minimalist to age beautifully, based on modernized African and Pacific Islander ancestry elements delivering multi-level benefits, bringing balance to the skin.",
+    "imageUrl": "https://www.acarre.co/wp-content/uploads/2020/10/AcARRE_LOGO_edited.png",
+    "clickUrl": "https://www.acarre.co/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Hair & Headwear",
+      "Haircare",
+      "Hair growth/repair",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "861ed4b7-9909-4b14-9c50-20ac157e2c68",
+    "type": "shop",
+    "title": "KAZMALEJE",
+    "subtitle": "At KAZMALEJE (pronounced cosmology), we are dedicated to creating innovative, lifestyle-amplifying tools and accessories to improve our customers' hair care and beauty regimens.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0206/0930/2592/files/Kazmaleje-Logo_Pronunciation-ROSE_1_170x@2x.png?v=1596674804",
+    "clickUrl": "https://www.kazmaleje.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Haircare",
+      "Hair Styling",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "93143335-7950-4d51-b442-740b14392528",
+    "type": "shop",
+    "title": "Yelani",
+    "subtitle": "Yelani products are specifically designed and created for women with naturally curly hair. The product line features chemical free hair care products made from 100% natural ingredients.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0023/4907/2429/files/WatermarkColor-DarkGreen--tshirt-closecrop_4414b360-fe72-4a89-a249-9ff8bee4eeb0_180x.jpg?v=1553482272",
+    "clickUrl": "https://www.yelani.com/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Beardcare",
+      "Cosmetic",
+      "Oral Care",
+      "Hair & Headwear",
+      "Haircare",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8adbf41e-7da6-43b5-be24-2957ccc9afdf",
+    "type": "shop",
+    "title": "Diva By Cindy",
+    "subtitle": "Diva is for a woman who wants : Beauty, Excellence and Elegance in her hair. \"DIVA\" stands for: Divine, Inspired, Virtuous and Annointed. Thank you for using Diva by Cindy... the secret to Longer, Healthier Hair.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0215/1430/t/11/assets/logo.png?v=11755564658054287330",
+    "clickUrl": "https://divabycindy.com/",
+    "tags": [
+      "Health & Beauty",
+      "Skincare",
+      "Hair & Headwear",
+      "Fashion",
+      "Pet",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a3304c7a-3a90-4ba4-b257-822fc60d3204",
+    "type": "shop",
+    "title": "Krem au Krem, LLC",
+    "subtitle": "Krem au Krem specialize in body butters, hair & body oils, lip balms, sugar scrubs, pomades, beard care, and much more! These products are 100% vegan, natural, plant-based, chemical/toxin free, cruelty free, & made with passion!",
+    "imageUrl": "https://img1.wsimg.com/isteam/ip/06716129-404e-4d09-ab02-33d45f7fa0c7/IMG_5528.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:2000,cg:true",
+    "clickUrl": "https://kremaukrem.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Beardcare",
+      "Feminine Care",
+      "Personal Fragrance",
+      "Hair & Headwear",
+      "Haircare",
+      "Shampoo",
+      "Conditioner",
+      "Hair growth/repair",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "aecab474-2d81-4785-905f-5d1ed1e8e806",
+    "type": "shop",
+    "title": "26 King Wavy Merch, LLC",
+    "subtitle": "All of our quality brushes are great brushes! They aren't just great for 360 waves. They, too, promote healthy hair in men, women and children, as well as healthy beards.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/files/oie_transparent_1_f7a964cd-9415-4523-96d6-7a8cd130a28c_550x.png?v=1595137863",
+    "clickUrl": "https://26kingwavymerch.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Hair & Headwear",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "90d252cc-3365-41d6-847b-4cff9adc27f6",
+    "type": "shop",
+    "title": "Southern Elegance Candle Co.",
+    "subtitle": "At Southern Elegance Candle Co., to be southern isn’t solely about where you’re from. Our collections are sure to please and will whisk you away to a special place of joy, love, and tranquility.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1007/6956/files/Logo_jpeg_410x.jpg?v=1494802377",
+    "clickUrl": "https://www.secandleco.com/",
+    "tags": [
+      "Home & Garden",
+      "Candles",
+      "Home Fragrance",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "86720ddb-4801-4c80-b5f8-7403ed52e052",
+    "type": "shop",
+    "title": "Amazing Essence",
+    "subtitle": "Amazing Essence is a Philadelphia based, one-woman small business built on a dream of entrepreneurship. Our handcrafted products are created using 100% soy wax without additives, natural (lead-free) cotton wick and high quality fragrance oils without phthalates or additives.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0246/2085/9441/files/2_2868ad75-53c7-41ac-87a3-8f95eab70723_400x.png?v=1572543631",
+    "clickUrl": "https://amazingessenceonline.com/",
+    "tags": [
+      "Home & Garden",
+      "Candles",
+      "Home Fragrance",
+      "Lifestyle",
+      "Wedding",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c92ee7fb-7fa3-4f12-a318-633178894663",
+    "type": "shop",
+    "title": "Kultured Misfits",
+    "subtitle": "Kultured Misfits is a lifestyle, sport and ready-to-wear brand based out of Atlanta, Georgia. With a heavy influence from culture found in music, film, and art, we are driven to create timeless work by portraying an aesthetic that is uniquely our own to impact our everyday life.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/files/Kultured-Misfits-logo-white-dropshadow_74855804-e89f-4e8b-8542-01b4404b62d2_400x.png?v=1511396097",
+    "clickUrl": "https://kulturedmisfits.com/",
+    "tags": [
+      "Home & Garden",
+      "Decor",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Men’s",
+      "Accessories",
+      "Handbags",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "40c618c5-0b92-4ed7-b736-2723311bfdfe",
+    "type": "shop",
+    "title": "Smell Good Spa",
+    "subtitle": "Established in 1998, we are purveyors of aromatic products for women who are making a conscientious change in their personal care products. Our products are the cherry-on-top for women who love to live good, feel good and smell good, wholesomely.",
+    "imageUrl": "http://smellgoodspa.com/image/catalog/site%20pics/website_logo.png",
+    "clickUrl": "http://smellgoodspa.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Home & Garden",
+      "Home Fragrance",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5c2099b6-a2e0-4ded-872e-b5cab8b47914",
+    "type": "shop",
+    "title": "Spoon & Theory Handmade",
+    "subtitle": "Spoon and Theory handmade is a black-owned creative arts, jewelry and aromatherapy goods store. We provide goods from upcycled leather to Eco-inspired laser cut jewelry + aromatherapy diffuser jewelry + aromatherapy body + home goods.",
+    "imageUrl": "https://assets.bigcartel.com/product_images/276862856/IMG_20200912_183910934~2.jpg?auto=format&fit=max",
+    "clickUrl": "https://spoonandtheory.bigcartel.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Wellness",
+      "Personal Fragrance",
+      "Home & Garden",
+      "Children",
+      "Fashion",
+      "Accessories",
+      "Lifestyle",
+      "Arts & Crafts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e0cba17a-2c9f-461f-9fb1-53433c370290",
+    "type": "shop",
+    "title": "The Green Laundress",
+    "subtitle": "The Green Laundress offers the best laundry products at the lowest prices online.",
+    "imageUrl": "https://www.thegreenlaundress.com/uploads/3/4/8/9/34896178/s674081517555465618_p5_i3_w640.jpeg",
+    "clickUrl": "https://www.thegreenlaundress.com/index.html",
+    "tags": [
+      "Home & Garden",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "917312b7-d059-4ac7-88d0-f6a8a3e4a0d6",
+    "type": "shop",
+    "title": "QuintesScential Candles",
+    "subtitle": "Since we love burning scented candles, we decided to embark on our journey of becoming Black chandlers. We decided, from the beginning, to use only the healthiest ingredients in anything that we make and sell. ",
+    "imageUrl": "https://www.quintesscentialcandles.com/uploads/b/74bb6510-0801-11ea-afbf-7df97ff3d321/Quintesscential%20Candles%20OFFICIAL.jpg?width=400",
+    "clickUrl": "https://www.quintesscentialcandles.com/",
+    "tags": [
+      "Home & Garden",
+      "Candles",
+      "Home Fragrance",
+      "Decor",
+      "Lifestyle",
+      "Arts & Crafts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d1009449-2280-4ab5-bbc6-5511aadc5576",
+    "type": "shop",
+    "title": "Soul Impactful",
+    "subtitle": "Soul Impactful strongly believes in the divine power of the universe and we also believe that every being has access to this Source. Our purpose is to provide you with tools to aid you in your spiritual journey and cheer on your glo' up!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/files/Logo_600x.png?v=1596441326",
+    "clickUrl": "https://soulimpactful.com/",
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Home & Garden",
+      "Candles",
+      "Decor",
+      "Fashion",
+      "Accessories",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "608379d8-ca73-4eae-b5fb-e784ee8f49bc",
+    "type": "shop",
+    "title": "Kintu New York",
+    "subtitle": "Kintu handbags are designed in New York, co-developed with global artisans, and made in Italy. The Kintu brand appeals to the dynamic, busy, urban woman who values quality and self-expression.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0878/3596/t/20/assets/logo-inverted.png?v=15770628166946491289",
+    "clickUrl": "https://www.kintunewyork.com/",
+    "tags": [
+      "Fashion",
+      "Handbags",
+      "Clothing",
+      "Handbag",
+      "Luxury",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1ca5a7dd-34b2-4b1b-a33a-bff84d32409d",
+    "type": "shop",
+    "title": "Namascents Candle Co",
+    "subtitle": "Namascents Candle Co crafts candles and home fragrance products for any space; welcoming peace, stillness and good thoughts. Our inspiration is nature, love + memories. We keep it clean + simple with a scentful twist.",
+    "imageUrl": "https://i.etsystatic.com/isla/68b3fa/29543082/isla_500x500.29543082_iy1wzavq.jpg?version=0",
+    "clickUrl": "https://www.etsy.com/shop/NamascentsCandleCo",
+    "tags": [
+      "Home & Garden",
+      "Candles",
+      "Home Fragrance",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "05217e46-84b2-4eb2-9a7c-024d3a1ee787",
+    "type": "shop",
+    "title": "Shades of My Melanin LLC",
+    "subtitle": "At Shades of My Melanin, our goal is to not only offer products that make you feel beautiful in your own skin but to offer products that tell a story for each and every person who wears them. We offer fun, colorful, and creative products that can be worn by all ages.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0423/9127/3623/files/Transparent_Logo_220x@2x.png?v=1594581650",
+    "clickUrl": "https://shadesofmymelanin.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Accessories",
+      "Jewelry",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b1c561d7-d39e-4f4b-af87-9c08845df026",
+    "type": "shop",
+    "title": "Designs by Tee LLC",
+    "subtitle": "Brooklyn Social Worker designing positive t-shirts and apparel. Supporting homeless children and families in NYC.",
+    "imageUrl": "https://static.wixstatic.com/media/7b61d3_6dd74325c33b4a60a5db849b48d275aa~mv2.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01/designsbyteelogo.webp",
+    "clickUrl": "https://www.designsbytee3.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Men’s",
+      "Women’s",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "929ceb4a-0831-4df1-899d-b3bd67c8e9be",
+    "type": "shop",
+    "title": "Grace X Originals LLC",
+    "subtitle": "Grace X Originals is a \"Slow Fashion\" Streetwear & Lifestyle Brand. We take our time to expertly hand-dye our textiles and apply high-end airbrush artistry to our designs with sustainable fashion practices foremost in mind.",
+    "imageUrl": "https://www.thenilelist.com/storage/app/product_photos/JxDNQRGm5P7A0KA2HMJNezsWSPmn1d5qDbJLgeep.jpeg",
+    "clickUrl": "https://www.gracexoriginals.com/?v=7516fd43adaa",
+    "tags": [
+      "Fashion",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f6983bb6-70ce-4822-9eb2-7514859b78c1",
+    "type": "shop",
+    "title": "glAze",
+    "subtitle": "glAze represents those that don't believe it takes much to create an amazing look. We are the stealthy, the un-gawdy, enjoy pale hues and monochromatic splendor yet can switch it up and get really BOLD!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2350/2503/files/08-31-2020_jewelry_glaze_225x@2x.png?v=1598902896",
+    "clickUrl": "https://glazedup.com/",
+    "tags": [
+      "Fashion",
+      "Accessories",
+      "Jewelry",
+      "Watches",
+      "Sunglasses",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e031c4cf-9ea5-4fae-b3d0-14c25ff33b8a",
+    "type": "shop",
+    "title": "NCMPRBL",
+    "subtitle": "NCMPRBL (pronounced: N-Com-Par-Bull) is a black doctor owned watch and fashion accessories brand. Our premium watches and accessories are designed with 316L stainless steel, water resistance, and levels of attention meant to exceed your expectations. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0278/2707/7225/files/dark_logo_transparent_background_x65@2x.png?v=1600661527",
+    "clickUrl": "https://ncmprblwatches.com/",
+    "tags": [
+      "Fashion",
+      "Watches",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "9e607346-8493-43fe-97d8-e9b3f6d8a759",
+    "type": "shop",
+    "title": "Taste by Dannie K",
+    "subtitle": "Taste by Dannie K is a black-owned lingerie company dedicated to the empowerment of women of all shades and sizes. It is our mission to help women realize that they are powerful beyond measure & that they don't have to tone down their super power of sexy to be taken seriously.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0021/8356/1251/files/TasteLogo_Gold_600x.jpg?v=1559713010",
+    "clickUrl": "https://tastebydanniek.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Lingerie",
+      "Women’s",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "15009f31-e10d-4879-a330-9e082d00aea5",
+    "type": "shop",
+    "title": "BAH NICA",
+    "subtitle": "Where the serene aquamarine seas meet the amber volcanic lava. Where resilience meets creative passion. In it's simplest form, it's truly the defining moment where elegance and excellence meet.",
+    "imageUrl": "https://static.wixstatic.com/media/6a4008_622754f30147423d85ad57b8bc90f11c~mv2.jpg/v1/fill/w_1000,h_666,al_c,q_85,usm_0.66_1.00_0.01/6a4008_622754f30147423d85ad57b8bc90f11c~mv2.webp",
+    "clickUrl": "https://www.bahnica.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Haircare",
+      "Hair Styling",
+      "Accessories",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cbcd6164-6117-4abc-8548-3972a7465cc4",
+    "type": "shop",
+    "title": "Jenks Fashionique",
+    "subtitle": "We are for the fashion forward confident woman who is living her life defined by her passions. We strive to provide fashionable high quality merchandise to those who want to look their best. We sell a selective quantity of each item and rarely restock more than once so that you will not have to worry about anyone else saying, \"Jenks\" (jynx) because she is wearing the same thing as you! We offer boutique shopping from the comfort of your own home!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2085/6135/files/IMG_20180830_011300_653_600x.jpg?v=1535676047",
+    "clickUrl": "https://jenksfashionique.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Handbags",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "238780d0-ec1a-4db2-bb30-18a6ba758aa7",
+    "type": "shop",
+    "title": "BLK & Proud Forever",
+    "subtitle": "BLK & Proud Forever was started in 2019 for a family that was in need of some custom apparel that could display their Black pride. Our goal is to provide some great BLK&Proud gear that supports, celebrates and amplifies the dopeness in being Blackity Black Black 365.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0429/4862/4543/files/Custom_Stationery_Discount_Etsy_Banner_1_255x@2x.png?v=1596065933",
+    "clickUrl": "https://blkproudforever.com/",
+    "tags": [
+      "Fashion",
+      "Tees",
+      "Clothing",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "32564743-1cfe-4e91-94d7-16cc3117ea83",
+    "type": "shop",
+    "title": "YTPshop - African Clothing",
+    "subtitle": "All YTPshop products are crafted by women in Nigeria and the fabrics are carefully sourced from West African markets. YTPshop products are made with high-quality material, cutting edge tailoring, vibrant colors, and are affordably priced.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1748/6087/products/WhatsApp_Image_2017-05-02_at_12.00.34_PM_02dba336-aa2b-42f1-8a19-985582ac45ef_grande.jpeg?v=1496449710",
+    "clickUrl": "https://www.ytpshop.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Accessories",
+      "Lifestyle",
+      "Wedding",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "0ec090d9-6d6d-4e1d-aa7f-aad07e1d5c02",
     "type": "shop",
     "title": "The Weave Zone",
     "subtitle": "The Weave Zone has high-end and quality adult toys and hair, for prices that you can bare.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/files/Test_1000x1000.png",
     "clickUrl": "https://www.theweavezone.com/",
+    "products": [
+      {
+        "name": "Toni Danaé",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/products/image_1354e50e-aa66-4f60-9c19-05b9bdffc73b_1500x.jpg?v=1568683499",
+        "description": "Every doll needs a great LOOSE WAVE unit in her collection! ",
+        "clickUrl": "https://www.theweavezone.com/collections/lace-wigs/products/toni-danae?variant=30248138047563",
+        "shopName": "The Weave Zone"
+      },
+      {
+        "name": "Blonde Straight",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/products/image_c8f84061-094d-43eb-8ab4-95c93ab4df1c_1800x.jpg?v=1568524133",
+        "description": "5A Quality  100% Human Hair Bundle | 10\"-26\"",
+        "clickUrl": "https://www.theweavezone.com/collections/blonde-bundles/products/blonde-straight-1?variant=28550821904459",
+        "shopName": "The Weave Zone"
+      },
+      {
+        "name": "GLAM Lashes",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/products/3_1800x.png?v=1588895762",
+        "description": "Add vibrancy to your finished look with a pair of GLAM lashes!",
+        "clickUrl": "https://www.theweavezone.com/products/glam-lashes?variant=32199477002315",
+        "shopName": "The Weave Zone"
+      }
+    ],
     "tags": [
       "sex toys",
       "wig",
@@ -20,6 +737,29 @@
     "subtitle": "thoughtful is a nonprofit that seeks to promote black businesses and create a one-stop-shop for consumers who want to vote with their wallets. thoughtful does not take any commissions off of the businesses it promotes, it is purely a hub designed to uplift and support established Black-owned businesses online.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1274679581518127104/Qb6pNclT.jpg",
     "clickUrl": "https://www.shopthoughtful.org/",
+    "products": [
+      {
+        "name": "Scrunchie Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1573/3569/products/AB3C2DD5-9741-4E13-9B12-0DD539131D68_530x.jpg?v=1588980534",
+        "description": "You're all set for gym class and everything in between with these soft scrunchie ponytail holder.",
+        "clickUrl": "https://beriqisu.com/collections/headbands/products/copy-of-scrunchie-set-8",
+        "shopName": "Shop Thoughtful "
+      },
+      {
+        "name": "Black Trans Lives",
+        "imageUrl": "https://c.bonfireassets.com/thumb/design-image/ccbf4525-6612-43b6-affd-fb7952bd6039/87c80c0e-7b1a-420a-81a9-654f101f643e/?size=900",
+        "description": "#BlackTransLivesMatter",
+        "clickUrl": "https://www.bonfire.com/black-trans-lives/",
+        "shopName": "Shop Thoughtful"
+      },
+      {
+        "name": "Mini-Electric Facial Cleansing Brush",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0110/1037/5739/products/product-image-1030698396_1080x.jpg?v=1595167903",
+        "description": "This cleansing silicone facial brush is designed specifically for glowing skincare.  The Mini- Electric Facial Cleansing Brush will give your skin a natural healthy luster, and repair to be smooth and youthful.",
+        "clickUrl": "https://www.realmconceptmarket.com/products/mini-electric-facial-cleansing-brush",
+        "shopName": "Shop Thoughtful"
+      }
+    ],
     "tags": [
       "Goods",
       "Services",
@@ -35,6 +775,29 @@
     "subtitle": "Post 21 was created by a Mother-Daughter duo who wanted a comprehensive marketplace that focused on products from Black-owned businesses. They felt strongly that there’s no reason why these products are consistently being discovered when they should be household names. So, they said let’s create the place we want to shop. ",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/articles/blogimage_11d64764-3a58-487b-a7f3-b9a0eb5aaa51_1200x.png",
     "clickUrl": "https://post21shop.com/",
+    "products": [
+      {
+        "name": "Dog Treat Poppers",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/products/vCSn3iTa0Y_2550x.jpg?v=1594274377",
+        "description": "All natural dog treat poppers. Comes in 3 delicious flavors. Peanut Butter",
+        "clickUrl": "https://post21shop.com/collections/pet/products/dog-treat-poppers",
+        "shopName": "Post 21"
+      },
+      {
+        "name": "B is for Black Boy",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/products/B3TPGcoaQ3_2000x.jpg?v=1601500419",
+        "description": "B is for Black Boy was written to celebrate the awe-inspiring nature of the Black male. It speaks life into our Black boys and empowers them to manifest their highest potential. It's intended to author and assert positive representation of Black boys to all audiences.",
+        "clickUrl": "https://post21shop.com/collections/kids/products/b-is-for-black-boy",
+        "shopName": "Post 21"
+      },
+      {
+        "name": "Pasties",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/products/DJ1bRZTmgt_2500x.jpg?v=1592266121",
+        "description": "Disposable petal shaped nipple pasties in packs of four. Disposable petal shaped nipple pasties in packs of four. Wear these petals under any clothing for extra coverage and a sleek smooth look.",
+        "clickUrl": "https://post21shop.com/collections/clothes/products/nipple-pastie",
+        "shopName": "Post 21"
+      }
+    ],
     "tags": [
       "Goods",
       "services",
@@ -77,8 +840,31 @@
     "type": "shop",
     "title": "VZN Clothing",
     "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
-    "imageUrl": "https://assets.bigcartel.com/theme_images/47514239/Screenshot_35.png?auto=format&fit=max&h=200&w=600",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0409/1677/9171/files/vznarylogotransparent_105x@2x.png?v=1593146597",
     "clickUrl": "https://www.vznclothing.com/products",
+    "products": [
+      {
+        "name": "Spread Love, Not Germs Heart Mask",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0409/1677/9171/products/SCREENSHOT2020-04-23AT4.34.04AM_1080x.jpg?v=1598576490",
+        "description": "Black mask with red and white embroidery ",
+        "clickUrl": "https://www.vznclothing.com/products/spread-love-not-germs-heart-mask",
+        "shopName": "VZN Clothing"
+      },
+      {
+        "name": "Tre Balloon Series 1.0 Tee",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0409/1677/9171/products/Image8-16-20at8.39PM_1080x.jpg?v=1597730406",
+        "description": "For the Tre Series, we follow the boy, Tre, on his path of following his dreams. The purpose of Tre being lifted by the balloons while holding the basketball is to inspire people to work towards their goals with the confidence of a child who is following their dreams.",
+        "clickUrl": "https://www.vznclothing.com/products/tre-balloon-series-1-0-tee?pr_prod_strat=copurchase&pr_rec_pid=5551508783267&pr_ref_pid=5599000199331&pr_seq=uniform",
+        "shopName": "VZN Clothing"
+      },
+      {
+        "name": "Memory Lane Poster Print",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0409/1677/9171/products/kobeposter_1080x.jpg?v=1598488701",
+        "description": "8 x 11 in 80 lb paper Oil painting print with a matte finish ",
+        "clickUrl": "https://www.vznclothing.com/products/memory-lane-poster-print",
+        "shopName": "VZN Clothing"
+      }
+    ],
     "tags": [
       "Clothing",
       "Goods",
@@ -110,6 +896,29 @@
     "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
     "clickUrl": "https://niathelocgod.myshopify.com/",
+    "products": [
+      {
+        "name": "Loc God Stimulating Oil 4oz",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_3cd9ce2b-73c9-40fa-bb25-c9a9f2621771_1080x.jpg?v=1590547679",
+        "description": "This stimulating oils is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lemongrass essential oils.  This product is extremely light and will leave your scalp itch free.",
+        "clickUrl": "https://shopniathelocgod.com/collections/all/products/loc-god-stimulating-oil-4oz",
+        "shopName": "Nia the Loc God"
+      },
+      {
+        "name": "The Loc God Hydration Mist 9oz",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_14ab4b74-644b-4777-a0df-f1e5827b9007_1080x.jpg?v=1590547715",
+        "description": "This hydration mist is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lavender essential oils.  This product will leave your hair super soft and give you an extra boost of hydration and shine.",
+        "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-hydration-mist-8oz",
+        "shopName": "Nia the Loc God"
+      },
+      {
+        "name": "The Loc God Scalp Renewal Cleansing Shampoo (Lemongrass)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_61a913ce-cfdf-458c-bff4-6a279274b6d2_1080x.jpg?v=1602250281",
+        "description": "Deep cleansing shampoo, with a luxurious smell that will leave your hair clean and not feeling stripped. This shampoo is 100% natural. It will help with dandruff, irritated and or itchy scalp.",
+        "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-scalp-renewal-cleansing-shampoo-lemongrass",
+        "shopName": "Nia the Loc God"
+      }
+    ],
     "tags": [
       "hair care",
       "locks",
@@ -124,26 +933,34 @@
     "type": "shop",
     "title": "Shoes by Londo",
     "subtitle": "Custom painted Vans and Air Force 1s.",
-    "imageUrl": "https://assets.bigcartel.com/theme_images/54183995/F27DB669-428A-4E46-AF97-9855A9523B3D_2.JPG?auto=format&fit=max&h=250&w=1300",
+    "imageUrl": "https://assets.bigcartel.com/theme_images/55937414/IMG_6653.png?auto=format&fit=max&h=250&w=1300",
     "clickUrl": "https://shoesbylondo.bigcartel.com/products",
+    "products": [
+      {
+        "name": "NAURTO V2",
+        "imageUrl": "https://assets.bigcartel.com/product_images/278211368/9E4DBAA6-D6C9-4ACA-BCBB-5B44F9EF57AC.jpeg?auto=format&fit=max&h=1000&w=1000",
+        "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
+        "clickUrl": "https://shoesbylondo.bigcartel.com/product/naurto-v2",
+        "shopName": "Shoes by Londo"
+      },
+      {
+        "name": "LV DRIP",
+        "imageUrl": "https://assets.bigcartel.com/product_images/277177268/6B571A80-1742-4C51-BDD6-BE79A8E21124.jpeg?auto=format&fit=max&h=1000&w=1000",
+        "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
+        "clickUrl": "https://shoesbylondo.bigcartel.com/product/lv-drip",
+        "shopName": "Shoes by Londo"
+      },
+      {
+        "name": "BARRY B. AND FRENZ",
+        "imageUrl": "https://assets.bigcartel.com/product_images/274771916/625CB4A8-AD8C-45A3-B9C0-B484CC378AAF.jpeg?auto=format&fit=max&h=1000&w=1000",
+        "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
+        "clickUrl": "https://shoesbylondo.bigcartel.com/product/barry-b-and-frenz",
+        "shopName": "Shoes by Londo"
+      }
+    ],
     "tags": [
       "Goods",
       "AF1",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "16b45694-7f4d-4789-8b43-58984377dcc0",
-    "type": "shop",
-    "title": "Arial Robinson",
-    "subtitle": "Along with being a student Arial is a Mixed Media Artist, 2019 Forbes 30 Under 30 Scholar, Published Author of \"The Modern Day Black Alphabet\" and Candidate for Miss North Carolina 2021.",
-    "imageUrl": "https://assets.lulu.com/cover_thumbs/1/4/1496v29d-front-shortedge-384.jpg",
-    "clickUrl": "https://www.arialrobinson.com/shop",
-    "tags": [
-      "Read",
-      "Goods",
-      "Kids' books",
       "Shop"
     ],
     "priority": 10
@@ -195,6 +1012,29 @@
     "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/files/brown_logo.png?v=1587514529",
     "clickUrl": "https://www.beautybakerie.com/",
+    "products": [
+      {
+        "name": "Chocolate Therapy Sugar Sticks",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/ChocolateTherapySwatch_800x800.progressive.jpg?v=1602889341",
+        "description": "A castor oil infused lip liner collection that delivers high-quality custom coverage while lining & defining your lip look. Just add 1/2 cup of sugar and everything will be pretty sweet! ",
+        "clickUrl": "https://www.beautybakerie.com/collections/sugar-sticks/products/chocolate-therapy-sugar-stick",
+        "shopName": "Beauty Bakerie"
+      },
+      {
+        "name": "Frozen Mini So Icy Illuminator",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/so_icy_mini_-_frozen_800x800.progressive.jpg?v=1575421223",
+        "description": "Our So Icy loose powder illuminators will give your cheeks #thatSNOWglow from iridescent, crushed-pearl pigment with high payoff. Best applied with a brush (but go ahead, dip your fingers in!)",
+        "clickUrl": "https://www.beautybakerie.com/collections/highlighters/products/frozen-so-icy-illuminator-mini",
+        "shopName": "Beauty Bakerie"
+      },
+      {
+        "name": "Blending Egg Beauty Sponges",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/Blending_Egg_Beauty_Sponges_Resized1024x1024_3_800x800.progressive.jpg?v=1569098207",
+        "description": "Cooked up with you in mind, Blending Egg Beauty Sponges were uniquely created to fit in the palm of your hand for seamless blending. Try a recipe with a dash or two of Cake Face Concealer and bake until your heart's content with Flour Setting Powder. Blending Eggs will be your new favorite tool for eggs-traordinary cakin' that's hard to beat! Hehe.",
+        "clickUrl": "https://www.beautybakerie.com/collections/bakeware/products/blending-egg-beauty-sponge",
+        "shopName": "Beauty Bakerie"
+      }
+    ],
     "tags": [
       "Goods",
       "Cosmetics",
@@ -244,6 +1084,29 @@
     "subtitle": "Not only are these toothbrushes more aesthetically pleasing, you differentiate each brush by its pattern and not by its color. Our company is proudly black owned and highlights oral health facts including a Black history fact that we all should know!",
     "imageUrl": "https://pbs.twimg.com/profile_images/826199582757359616/oOTZOGA9_400x400.jpg",
     "clickUrl": "https://coraloral.com/",
+    "products": [
+      {
+        "name": "Medium 4-Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/Toothbrush-Lineup-web_fb625235-ce50-4a9e-b844-1d942c4765f8_1024x1024@2x.jpg?v=1526081986",
+        "description": "A full brush head and precision cut bristles to reach the tooth's total surface. Gently cleans and massages gums, tongue and teeth. Medium bristles sure not to cause any damage or pain!",
+        "clickUrl": "https://coraloral.com/collections/frontpage/products/medium4pack",
+        "shopName": "Coral Oral"
+      },
+      {
+        "name": "Soft Single-Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/Brush-3-web_1024x1024@2x.jpg?v=1514389783",
+        "description": "A full brush head and precision cut bristles to reach the tooth's total surface. Gently cleans and massages gums, tongue and teeth. Soft bristles sure not to cause any damage or pain!",
+        "clickUrl": "https://coraloral.com/collections/shop/products/soft1pack",
+        "shopName": "Coral Oral"
+      },
+      {
+        "name": "Medium Single-Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/Brush-3-web_22385285-cc88-45d1-90f8-5c5a70c42d7f_1024x1024@2x.jpg?v=1592594382",
+        "description": "A full brush head and precision cut bristles to reach the tooth's total surface. Gently cleans and massages gums, tongue and teeth. Medium bristles sure not to cause any damage or pain!",
+        "clickUrl": "https://coraloral.com/collections/shop/products/mediumsinglepack",
+        "shopName": "Coral Oral"
+      }
+    ],
     "tags": [
       "Goods",
       "Black-owned",
@@ -260,6 +1123,29 @@
     "subtitle": "Stay clean, fresh, and balanced, even during your period with our natural menstrual products. Banish bacteria and cramps with herbal-infused, chemical-free sanitary pads and tampons that create a \"cooling\" effect that’s both protective and soothing.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/files/pull_to_quiz_x1000_911ef197-4530-4967-aba0-617f9e364ea6_x1000.jpg",
     "clickUrl": "https://thehoneypot.co/products",
+    "products": [
+      {
+        "name": "Menstrual Cup",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/products_menstrual-cup-size2_1512x.jpg?v=1583353010",
+        "description": "If tampons or pads aren't your \"cup\" of tea, reach for the Honey Pot Co Menstrual Cup: a convenient, sustainable alternative that's good for you and the earth.",
+        "clickUrl": "https://thehoneypot.co/products/menstrual-cup?variant=32066319745117",
+        "shopName": "The Honey Pot Company"
+      },
+      {
+        "name": "Mommy-to-Be Wash",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/Screen_Shot_2020-01-22_at_10.43.29_AM_1296x.png?v=1579707887",
+        "description": "Use our feminine hygiene wash during pregnancy to balance your pH, fight odor-causing bacteria, and calm discomfort while gently cleansing your honeypot.",
+        "clickUrl": "https://thehoneypot.co/products/mommy-to-be-wash?variant=13632434405469",
+        "shopName": "The Honey Pot Company"
+      },
+      {
+        "name": "Soothing Body Balm",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/12211_0069_Amazon_NEW_1296x.jpg?v=1575003798",
+        "description": "This body salve is infused with natural magnesium for menstrual cramps and 500 mg of broad-spectrum hemp distillate. This hemp and magnesium body balm does not contain THC.",
+        "clickUrl": "https://thehoneypot.co/products/soothing-body-balm",
+        "shopName": "The Honey Pot Company"
+      }
+    ],
     "tags": [
       "Goods",
       "Black-owned",
@@ -275,6 +1161,29 @@
     "subtitle": "Black-owned home decor store selling furniture, bed and bath products, planters, and more.",
     "imageUrl": "https://pbs.twimg.com/profile_images/991056542693670912/-EQ1TGki.jpg",
     "clickUrl": "https://www.jungalow.com/",
+    "products": [
+      {
+        "name": "Tigress Tangerine Rug by Justina Blakeney® X Loloi",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1398/8653/products/1111Untitled-1_4242602f-e755-444f-9a5b-7532ed727169_800x800.jpg?v=1595702871",
+        "description": "Hooked of 100% wool pile, the Tigress Collection brings the wild to the home. Designed by Justina Blakeney by Loloi, the collection brings saturated colors and illustrative designs for a true conversation piece in any space.",
+        "clickUrl": "https://www.jungalow.com/collections/rugs/products/tigress-tangerine-rug-by-justina-blakeney-x-loloi-pre-order",
+        "shopName": "Jungalow"
+      },
+      {
+        "name": "Mary Jane Hook Pillow by Justina Blakeney",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1398/8653/products/maryjane222_800x800.jpg?v=1604630866",
+        "description": "We love the bold contrasting colors of the teal leaf motif against the fresh peachy-orange. The square shape is easy to toss anywhere – a 'chill out chair', a cozy pillow pit on the floor... anywhere you imagine. Hint: This pillows makes for a rad gift for your mellow homies!",
+        "clickUrl": "https://www.jungalow.com/collections/pillows/products/mary-jane-hook-pillow-by-justina-blakeney",
+        "shopName": "Jungalow"
+      },
+      {
+        "name": "Berry Raffia Garland",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1398/8653/products/raffia_800x800.jpg?v=1605563775",
+        "description": "Make your wall, mantle or holiday tree pop with this raffia wall garland! This colorful and unique garland will bring joy to any room. Style it with vintage wall baskets or wall hangings to create a vibrant gallery style wall.",
+        "clickUrl": "https://www.jungalow.com/collections/new-1/products/berry-garland",
+        "shopName": "Jungalow"
+      }
+    ],
     "tags": [
       "Goods",
       "Home decor",
@@ -290,6 +1199,29 @@
     "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
     "clickUrl": "https://pur-home.com/",
+    "products": [
+      {
+        "name": "Dish Soap",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46563_1080x.jpg?v=1605144752",
+        "description": "PUR Home's All Natural Dish Soap Cuts through grease and dirt to leave all your dirty/greasy dishes clean, without drying out your hands. Made with both plant-based and biodegradable ingredients and scented with Pure Essential Oils. Safe to use around children and pets, and safe for our Planet.",
+        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/dish-soap",
+        "shopName": "PUR Home"
+      },
+      {
+        "name": "Multi-Surface Cleaner",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46586__02918_1080x.jpg?v=1605212187",
+        "description": "PUR Home's Multi-Surface Household Cleaner is a super cleaner for all of your surfaces, including your kitchen surfaces, base boards, refrigerator, bathroom surfaces and fixtures, inside your car. Safe enough for your little one's toys, crib and so much more. ",
+        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/34-oz-multi-surface-cleaner",
+        "shopName": "PUR Home"
+      },
+      {
+        "name": "Laundry Detergent",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46602_1080x.jpg?v=1605146515",
+        "description": "This Safe and Effective Liquid Laundry Detergent is perfect for those who are looking for a detergent that is sulfate-free and non-toxic. It does not contain a long list of harsh chemicals found in conventional brands.",
+        "clickUrl": "https://shoppurhome.com/collections/laundry/products/laundry-detergent-50-oz",
+        "shopName": "PUR Home"
+      }
+    ],
     "tags": [
       "Goods",
       "Black-owned",
@@ -305,6 +1237,29 @@
     "subtitle": "Riot Swim is an online designer swimwear and beachwear brand, offering an exclusive collection of bikinis, one piece swimsuits, and more.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7TCTDp264pOgf996YcMpfO2esASQzDZo7cw&usqp=CAU",
     "clickUrl": "https://www.riotswim.com/",
+    "products": [
+      {
+        "name": "Echo One Piece- Kiwi",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/image_69f4901b-dec2-4591-9f96-2695812f4b14_800x1026_crop_center@2x.jpg?v=1586042462",
+        "description": "Minimal coverage front and back. Doubles as bodysuit. Body sculpting. Fitted at waist to flatter curves.",
+        "clickUrl": "https://www.riotswim.com/products/pre-order-echo-one-piece-volt",
+        "shopName": "Riot Swim"
+      },
+      {
+        "name": "Pico Top-Chocolate",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/DSC_1346_81b3d8ea-9d96-4d67-81f9-1e5dda3b0265_800x1026_crop_center@2x.jpg?v=1581808878",
+        "description": "Full coverage top. Adjustable tie. Body sculpting. No Padding.",
+        "clickUrl": "https://www.riotswim.com/products/pico-top-chocolate",
+        "shopName": "Riot Swim"
+      },
+      {
+        "name": "Riot Crop Tee-Black",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/riot-swim00602_800x1026_crop_center@2x.jpg?v=1560833295",
+        "description": "Short-sleeve crop. Cotton tee. Round neck.",
+        "clickUrl": "https://www.riotswim.com/products/riot-crop-tee-black",
+        "shopName": "Riot Swim"
+      }
+    ],
     "tags": [
       "Goods",
       "swimwear",
@@ -320,6 +1275,29 @@
     "subtitle": "Bleu Jay's Gourmet Seasonings and More has been proudly providing high quality products and services since 2014. What differentiates us from other businesses is our ability to truly connect with our customers, and provide the exceptional, compassionate service they deserve. To learn more, simply browse through our site.",
     "imageUrl": "https://static.wixstatic.com/media/e59e06_58d4340428fc4f19820cb6175135da3f~mv2_d_3069_2301_s_2.jpg",
     "clickUrl": "https://bleujaysgourmet.wixsite.com/bleujaysgourmetsea-1/shop",
+    "products": [
+      {
+        "name": "Jerk seasoning",
+        "imageUrl": "https://static.wixstatic.com/media/e59e06_a0b882ff64d54a1d965d2ce8a2fe155f~mv2_d_2741_3520_s_4_2.jpg/v1/fill/w_1960,h_1102,al_c,q_85,usm_0.66_1.00_0.01/e59e06_a0b882ff64d54a1d965d2ce8a2fe155f~mv2_d_2741_3520_s_4_2.webp",
+        "description": "Our Jerk seasoning is full of bold flavors that bring the flavors to your palette and keep you wanting more. Whether you're eating chicken, oxtails, shrimp, or potato wedges, you will enjoy every bite. ",
+        "clickUrl": "https://bleujaysgourmet.wixsite.com/bleujaysgourmetsea-1/product-page/jerk-seasoning",
+        "shopName": " Bleu Jay's Gourmet Seasonings"
+      },
+      {
+        "name": "Apple Pie",
+        "imageUrl": "https://static.wixstatic.com/media/e59e06_e0ece7a12a7d46f2804cb5d6e082df8c~mv2_d_1825_2908_s_2.jpg/v1/fill/w_1825,h_1026,al_c,q_85/e59e06_e0ece7a12a7d46f2804cb5d6e082df8c~mv2_d_1825_2908_s_2.webp",
+        "description": "These prices bring out the sweet flavors of an apple. It can be used on apple pies, cobblers, oatmeal topping and baked apples.",
+        "clickUrl": "https://bleujaysgourmet.wixsite.com/bleujaysgourmetsea-1/product-page/apple-pie",
+        "shopName": " Bleu Jay's Gourmet Seasonings"
+      },
+      {
+        "name": "Greens (No Salt added)",
+        "imageUrl": "https://static.wixstatic.com/media/e59e06_0b16d0ce8b53406989ec334c6e28a9ff~mv2_d_2448_3264_s_4_2.jpg/v1/fill/w_1960,h_1102,al_c,q_85,usm_0.66_1.00_0.01/e59e06_0b16d0ce8b53406989ec334c6e28a9ff~mv2_d_2448_3264_s_4_2.webp",
+        "description": "A variety of flavors best used to add to your green vegetables. No Salt added for those who have health issues or diet restrictions. ",
+        "clickUrl": "https://bleujaysgourmet.wixsite.com/bleujaysgourmetsea-1/product-page/greens-no-salt-added",
+        "shopName": " Bleu Jay's Gourmet Seasonings"
+      }
+    ],
     "tags": [
       "Goods",
       "Black-owned",
@@ -335,6 +1313,29 @@
     "subtitle": "Plum Good locally produces, discriminately sources and proudly brings to market the highest quality culinary and restorative spices, herbs and tea blends available. Our mission is to help bring flavorful nutrition available to our customers.  We make All Natural rubs and blends, teas, jams and sauces.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1796/4623/files/PG_2.0_v9_800x@2x.png?v=1547175812",
     "clickUrl": "https://tasteplumgood.com/collections",
+    "products": [
+      {
+        "name": "Paprika Lime Blend",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f15e6c8c223b638ac427b75/1595300780861-U98042L4P63HQOFUOSRO/ke17ZwdGBToddI8pDm48kCAgykdLW9iAzCXIGQWv3UZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbNWIFdbAwZkj6QBZiniZ69MY7oti88DqO2IXex58sFjOpYghpI-Ha_TwZsqqmJXng/Framed+-+Spice+-+Paprika+Lime+Blend.png?format=1500w",
+        "description": "This SALT FREE blend of citrus, paprika, garlic, and lime gives color, zest, and mouth watering flavor to fish, chicken, and poultry.",
+        "clickUrl": "https://www.tasteplumgood.com/spices-herbs-rubs-blends/p/paprika-lime-blend",
+        "shopName": "Plum Good"
+      },
+      {
+        "name": "Organic Chai Tea",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f15e6c8c223b638ac427b75/1595295786066-HPE4MWJGBIIYVF3UTAL6/ke17ZwdGBToddI8pDm48kCAgykdLW9iAzCXIGQWv3UZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbNWIFdbAwZkj6QBZiniZ69MY7oti88DqO2IXex58sFjOpYghpI-Ha_TwZsqqmJXng/Framed+-+Tea+-+Organic+Chai.png?format=1500w",
+        "description": "Black Tea, Ginger, Cardamom, Cloves, Peppercorns Cinnamon",
+        "clickUrl": "https://www.tasteplumgood.com/tea/p/organic-chai-tea",
+        "shopName": "Plum Good"
+      },
+      {
+        "name": "Sweet & Hot Chocolate Sauce",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f15e6c8c223b638ac427b75/1597078923456-YPJ5S6WLVUBNOA8RNN4F/ke17ZwdGBToddI8pDm48kGxGMZxS8Qh8x8laUzd1VsBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFawEKF4GOyWInZ063bR2IgzXiPz3H4DbFB8l4A0PnJrB926scO3xePJoa6uVJa9B4/Framed+-+Sauce+-+Sweet+%26+Hot+Chocolate+Dessert+Sauce.png?format=1500w",
+        "description": "A culinary gourmet delight for cooks and foodies alike! Choice serrano and chocolate peppers, dark chocolate, balsamic vinegar, raw sugar, cardamom and water make a mouthwatering marinade, topping or accompaniment and make everything it comes into contact with delicious.",
+        "clickUrl": "https://www.tasteplumgood.com/sauces/p/sweet-hot-chocolate-sauce",
+        "shopName": "Plum Good"
+      }
+    ],
     "tags": [
       "Black-owned",
       "Goods",
@@ -351,6 +1352,29 @@
     "subtitle": "Red Bay Coffee is at the forefront of what we believe is the fourth wave of coffee—a firm commitment to ensure coffee production is not only high quality and sustainable, but a vehicle for diversity, inclusion, social and economic restoration, entrepreneurship, and environmental sustainability. We are foodies, artists, activists, community folk, and innovators who love, love, love what we do.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/files/RB_Logofinal_220x@2x.jpg?v=1551950251",
     "clickUrl": "https://www.redbaycoffee.com/collections/all",
+    "products": [
+      {
+        "name": "East Fourteenth",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/east-fourteenth-121172_900x.jpg?v=1605171886",
+        "description": "Tanzanian Dark Roast - Blackberry, Dark Chocolate, Date  East Fourteenth is an homage to a past heritage and a link to history in the making. It is the story of Oakland’s wide-reaching cultures and creeds.",
+        "clickUrl": "https://www.redbaycoffee.com/collections/coffee/products/east-fourteenth",
+        "shopName": "Red Bay Coffee"
+      },
+      {
+        "name": "Coffee Mug - Africa's Gift (Black)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/coffee-mug-africas-gift-black-124370_1080x.jpg?v=1603952793",
+        "description": "\"Coffee Africa's Gift to the World\" Coffee Mug - beautiful, stylish, black-on-black design with Red Bay Coffee logo - 12 ounces",
+        "clickUrl": "https://www.redbaycoffee.com/collections/drinkware/products/africas-gift-coffee-mug",
+        "shopName": "Red Bay Coffee"
+      },
+      {
+        "name": "Unisex Sweatshirt - Red Bay Spoon Logo - Gold",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/unisex-sweatshirt-red-bay-spoon-logo-gold-304488_1080x.jpg?v=1600192610",
+        "description": "\"Red Bay Spoon Logo\" Crewneck Unisex Sweatshirt - gold with black print; back Red Bay Coffee logo; 80/20 Poly-Cotton Blend. Locally sourced and screen printed in Oakland, CA.",
+        "clickUrl": "https://www.redbaycoffee.com/collections/apparel/products/unisex-sweatshirt-red-bay-spoon-logo-gold",
+        "shopName": "Red Bay Coffee"
+      }
+    ],
     "tags": [
       "Goods",
       "coffee",
@@ -368,6 +1392,29 @@
     "subtitle": "BLK & Bold welcomes the obligation to equip young people with tools to live their best lives and overcome familiar unfortunate circumstances by turning a daily ritual, enjoying a cup of coffee & tea, into a means of giving back. BLK & Bold pledges 5% of its profits to initiatives aligned to sustaining youth programming, enhancing workforce development, and eradicating youth homelessness.",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71F1tAiFHqL._SY445_.jpg",
     "clickUrl": "https://blkandbold.com/",
+    "products": [
+      {
+        "name": "La Guadalupe, Honduras - Single Origin (Direct Trade), Light Roast",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/2223/5445/products/2019_BLKandBOLD_prdct3_karlaconrad.com6488_1_1024x1024@2x.jpg?v=1568507580",
+        "description": "As these beans are directly sourced from Finca La Guadalupe, this single origin will satisfy your desire for a creamy bodied light roast. With undertones of caramel and honey, this will become your everyday coffee.",
+        "clickUrl": "https://blkandbold.com/products/la-guadalupe-honduras-singe-origin-direct-trade",
+        "shopName": "BLK & Bold"
+      },
+      {
+        "name": "Jasmine Loose Leaf Green Tea",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/2223/5445/products/2019_BLKandBOLD_prdct_1_6550_edit_copy_1024x1024@2x.jpg?v=1572806245",
+        "description": "Satisfy both smell and taste with this Jasmine Tea! Lightly smooth & sweet, it contains green tea leaves absorbed with fragrance from jasmine petals. This produces a cup that is very sensual with floral aromatics",
+        "clickUrl": "https://blkandbold.com/products/jasmine-tea",
+        "shopName": "BLK & Bold"
+      },
+      {
+        "name": "BLK & Bold Logo Dad Hats",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/2223/5445/products/image0_1024x1024@2x.jpg?v=1592588676",
+        "description": "2020 BLK & Bold Logo Dad Hat. Black/White/Yellow",
+        "clickUrl": "https://blkandbold.com/products/blk-bold-logo-dad-hats",
+        "shopName": "BLK & Bold"
+      }
+    ],
     "tags": [
       "Goods",
       "Black-owned",

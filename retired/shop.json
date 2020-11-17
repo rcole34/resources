@@ -1,1 +1,17 @@
-[]
+[
+	{
+    "id": "16b45694-7f4d-4789-8b43-58984377dcc0",
+    "type": "shop",
+    "title": "Arial Robinson",
+    "subtitle": "Along with being a student Arial is a Mixed Media Artist, 2019 Forbes 30 Under 30 Scholar, Published Author of \"The Modern Day Black Alphabet\" and Candidate for Miss North Carolina 2021.",
+    "imageUrl": "https://assets.lulu.com/cover_thumbs/1/4/1496v29d-front-shortedge-384.jpg",
+    "clickUrl": "https://www.arialrobinson.com/shop",
+    "tags": [
+      "Read",
+      "Goods",
+      "Kids' books",
+      "Shop"
+    ],
+    "priority": 10
+  }
+]

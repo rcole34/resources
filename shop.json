@@ -1,5 +1,1024 @@
 [
   {
+    "id": "bb67780b-640f-46d0-a843-6cd5fa9779ed",
+    "type": "shop",
+    "title": "Sugarfoots",
+    "subtitle": "Sugarfoots anchor product is a renowned child-safe, hand-crafted multi-ethnic rag doll, complemented by a children’s book series based on folktales from cultures around the world. Our mission is sustained by a performing arts summer camp for youth that sets the pace among competitors, inspiriting the imagination through creative storytelling, song and dance.",
+    "imageUrl": "https://static1.squarespace.com/static/5731c51bf699bbe62766423a/t/5731cf542eeb81368d601fd9/1602500960879/?format=1500w",
+    "clickUrl": "https://www.sugarfoots.com/",
+    "tags": [
+      "Children",
+      "Entertainment & Toys",
+      "Dolls",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f11fc7a7-4c50-478d-a1d7-565065a62450",
+    "type": "shop",
+    "title": "As I Am",
+    "subtitle": "As I Am hair is a natural hair care brand. It markets unique and exclusively formulated hair products. It consists of 11 products designed for tightly coiled hair made from the finest organic ingredients. The line then became a quick success.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2241/0171/files/New_As_I_Am_Logo-150px_100x@2x.png?v=1557528270",
+    "clickUrl": "https://asiamnaturally.com/collections/curl-color",
+    "tags": [
+      "Hair & Headwear",
+      "Haircare",
+      "Shampoo",
+      "Conditioner",
+      "Hair Styling",
+      "Hair growth/repair",
+      "Accessories",
+      "Entertainment & Toys",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "37960df1-7cdb-46a0-b736-37c1ce21e00a",
+    "type": "shop",
+    "title": "AuxGod",
+    "subtitle": "AUXGOD is a music battle card game that Rousseau created six months after quitting his job. Players dance, sing, and argue over yesterday’s classics and today’s hits. You’ll never have a wack party again!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/files/AUXGOD_Logo_140x@2x.png?v=1604282320",
+    "clickUrl": "https://auxgodgame.com/shop",
+    "tags": [
+      "Entertainment & Toys",
+      "Games",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d5988f13-c569-427b-ab3b-78936ccbb6e7",
+    "type": "shop",
+    "title": "Cuff",
+    "subtitle": "A platform for creating mature conversations through discussions of love and dating experiences.",
+    "imageUrl": "https://static1.squarespace.com/static/58fd1a74bf629ab224f1c169/t/5ab283286d2a7335b953b179/1594471099753/?format=1500w",
+    "clickUrl": "https://www.letscuff.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Adult (sex toys, etc)",
+      "Games",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "675cce32-8973-4437-9b3e-f8b8aefb0433",
+    "type": "shop",
+    "title": "Natural Cuties",
+    "subtitle": "Natural Cuties is a brand that promotes, encourages and highlights the beauty of African American hair in its natural state! #Iamanaturalcutie are you?",
+    "imageUrl": "http://www.iamanaturalcutie.com/wp-content/uploads/2017/08/logo2.png",
+    "clickUrl": "https://www.iamanaturalcutie.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Women’s",
+      "Accessories",
+      "Handbags",
+      "Entertainment & Toys",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "74411b46-c5b6-404d-a169-cdb7c272ef28",
+    "type": "shop",
+    "title": "Princess Omalie",
+    "subtitle": "Welcome To The Wonderful World Of Princess Omalie Unlock the magic and lore of The kingdom of IgboOrai, Africa’s oldest Monarchy and greatest dynasty of kings and queens! We’ve been waiting for you!",
+    "imageUrl": "https://princessomalie.com/wp-content/uploads/2017/11/Princess-Omalie-Logo_web.png",
+    "clickUrl": "https://princessomalie.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Basics",
+      "Childrens",
+      "Entertainment & Toys",
+      "Dolls",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c5282a86-2300-40a3-81b6-b5f4de6d4d0c",
+    "type": "shop",
+    "title": "Princess Planet",
+    "subtitle": "Princess Planet is a brand of children's entertainment that helps promote characters with diverse hair textures, skin tones, and cultural backgrounds.",
+    "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2015/12/new_header-1.jpg",
+    "clickUrl": "http://www.princessplanet.com/",
+    "tags": [
+      "Children",
+      "Entertainment & Toys",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f0c92baa-745b-4e3b-a736-00843e39c16d",
+    "type": "shop",
+    "title": "Bailee's Nail Box",
+    "subtitle": "Bailee's Nail Box is a FUN box for girls, created by 11 year old Bailee K. for girls ages 4 - 12 who love all things nails! Bailee's goal was to create memorable boxes filled with different tools for fun nail designs with an extra girly accessory with each box.",
+    "imageUrl": "https://cdn05.zipify.com/EPKeXWDA-L_GdVog3Y0oTPvmlVk=/fit-in/700x0/a91c7b1bd87348d2940d7a10a35e5450/bailee_s-nail-box-logo-02_300x.png",
+    "clickUrl": "http://www.BaileesNailBox.com/",
+    "tags": [
+      "Health & Beauty",
+      "Cosmetic",
+      "Nail",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Women’s",
+      "Accessories",
+      "Jewelry",
+      "Entertainment & Toys",
+      "Books",
+      "Stationary",
+      "Notebooks",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "eacbcc67-8f42-405f-ae8d-345cdf906996",
+    "type": "shop",
+    "title": "Bedroom Kandi",
+    "subtitle": "Welcome to Bedroom Kandi, where women, men, and their partners can pamper themselves with intimate luxury! At Bedroom Kandi, our mission is to destigmatize intimacy and self-love, promote sexual wellness and education, and empower entrepreneurs to find success and happiness in the business of pleasure.",
+    "imageUrl": "https://www.bedroomkandi.com/sca-dev-2018-2/img/BK-byKandi.png",
+    "clickUrl": "https://www.bedroomkandi.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Cosmetic",
+      "Makeup",
+      "Lip",
+      "Entertainment & Toys",
+      "Adult (sex toys, etc)",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "320e005d-a551-411a-ae45-11d874b2661c",
+    "type": "shop",
+    "title": "Blvck Spades",
+    "subtitle": "Blvck Spades playing cards is a customized deck designed for playing JJDD spades. Its creators made it in a way that makes it easier for individuals to learn to play.",
+    "imageUrl": "https://www.blvckspades.com/wp-content/uploads/2019/12/Blvck-Spades.png",
+    "clickUrl": "https://www.blvckspades.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Games",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "6baa3596-6f71-4c7d-a66e-da8a2bf96c57",
+    "type": "shop",
+    "title": "Puzzle Huddle",
+    "subtitle": "Kids grow up fast! Stay connected and hear about new puzzle designs and discounts. We promise not to spam you because we're too busy with potty training and coloring books.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/files/DSC_7504_720x.JPG?v=1519584724",
+    "clickUrl": "https://puzzlehuddle.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Childrens",
+      "Games",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f83beae5-fc01-43ca-8a57-b93c9330b70e",
+    "type": "shop",
+    "title": "StepStitches",
+    "subtitle": "Welcome to StepStitches where you can find unique keepsakes sure to delight. Each item is handmade with love and exquisite care. Both ready to ship and custom made items are available.",
+    "imageUrl": "https://static.wixstatic.com/media/0f70c8_97a68f7ef82a43f2a261f50c77f1a0e5~mv2.jpg/v1/fill/w_425,h_755,al_c,lg_1,q_80/StepStitches-Com_Banner%20crop%203.webp",
+    "clickUrl": "https://www.stepstitches.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Toys",
+      "Dolls",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ced5eb28-32c5-474a-b2d6-49b9f2158b03",
+    "type": "shop",
+    "title": "Sweet Pea Books Inc",
+    "subtitle": "Sweet Pea Books is dedicated to producing multicultural books that expose, inspire, amuse, and foster a love of reading in all children. Sweet Pea Books aims to promote the development of good character by teaching values through literature as well as expose young readers to different cultures.",
+    "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/216788.jpg",
+    "clickUrl": "https://www.sweetpeachildrensbooks.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2aa5def4-3eb2-4da7-82d2-02afbb100d3e",
+    "type": "shop",
+    "title": "Shy Chy Books",
+    "subtitle": "Shy Chy Books will offer a series of books all about encouraging children to be themselves and embracing their individuality. The first book, I can't, I can't... I CAN! is about a girl who desires to make friends and participate in different activities, but she is held back by her shyness. ",
+    "imageUrl": "https://shychybooks.com/wp-content/uploads/2019/10/5.png",
+    "clickUrl": "https://shychybooks.com/",
+    "tags": [
+      "Entertainment & Toys",
+      "Books",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b6a28341-dfdd-4cd6-b87f-89c7122a144b",
+    "type": "shop",
+    "title": "Camryn's Creations",
+    "subtitle": "Camryn Green is a 12 year old artist with a passion for painting. Camryn wants to share her gift with the world, will giving back, in the process. She loves to sketch and paint and her prize possession is her canvases!",
+    "imageUrl": "http://nebula.wsimg.com/e61ae6e58dfe41da0ac82f70d884a5e1?AccessKeyId=E2745D14BB80702B4768&disposition=0&alloworigin=1",
+    "clickUrl": "http://www.camrynscreations.com/",
+    "tags": [
+      "Fashion",
+      "Accessories",
+      "Handbags",
+      "Entertainment & Toys",
+      "Books",
+      "Arts & Crafts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c999f403-1bac-4338-b967-b36362a0bc50",
+    "type": "shop",
+    "title": "Coily and Cute",
+    "subtitle": "Sharee has loved art all her life and has taken every opportunity to study it. She runs one of the Black-owned companies where customers can buy art prints.",
+    "imageUrl": "https://static1.squarespace.com/static/54409174e4b01431efe2ef87/t/5b2077e82b6a28afecc7bec3/1602536841703/?format=750w",
+    "clickUrl": "https://www.shareemiller.com/shop-1",
+    "tags": [
+      "Entertainment & Toys",
+      "Books",
+      "Office",
+      "Paper & Stationery",
+      "Arts & Crafts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2074c63e-a45b-4f3f-b8a8-b3898c5be6eb",
+    "type": "shop",
+    "title": "Darlyng & Co.",
+    "subtitle": "The mission of Darlyng & Co. is to give parents one less thing to worry about when it comes to caring for their baby. We always have parents in mind in the design process and are proud to present products that are functional, toxin-free, sourced from high-quality materials, and aesthetically pleasing.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0721/4207/files/NewLogo_V4_c5632790-bd91-4f5a-aad3-1821448a5223_550x.jpg?v=1496773128",
+    "clickUrl": "https://www.darlyngandco.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Parenthood",
+      "Fashion",
+      "Clothing",
+      "Childrens",
+      "Entertainment & Toys",
+      "Toys",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f2ed9318-7acc-4e58-a944-5ef46a16afd9",
+    "type": "shop",
+    "title": "Double Dutch Dolls",
+    "subtitle": "Through Fashion and Fun encourage young girls to explore and appreciate each other’s differences and similarities. Beauty comes in all shades and the brand seeks to create a community that celebrates the multicultural beauty of every child. ",
+    "imageUrl": "https://i.ytimg.com/vi/mMu-VPRHayQ/mqdefault.jpg",
+    "clickUrl": "http://doubledutchdolls.com/",
+    "tags": [
+      "Children",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Women’s",
+      "Accessories",
+      "Jewelry",
+      "Entertainment & Toys",
+      "Dolls",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "54333f38-d9c2-47e5-8208-15e8e4605033",
+    "type": "shop",
+    "title": "Figgers Communication Inc.",
+    "subtitle": "Figgers Communication is where the entire buzz on the internet and social media comes to rest in your pocket! We are a telecommunications company that provides Cellular, Mobile Broadband, Home phone and international calling services.",
+    "imageUrl": "https://figgers.com/wp-content/uploads/2018/03/Figgers-Logo-White-Nav.png",
+    "clickUrl": "https://figgers.com/shop/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "85532694-ef82-4f68-aa78-64fcfa75e275",
+    "type": "shop",
+    "title": "Koils by Nature",
+    "subtitle": "It's the mission of Koils by Nature to provide beauty products, with highest quality plant-based ingredients, excellent customer service, and an educating, empowering, engaging our online community.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1170/9044/t/25/assets/logo.svg?v=15101238653082397518",
+    "clickUrl": "https://www.koilsbynature.com/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Beardcare",
+      "Hair & Headwear",
+      "Haircare",
+      "Shampoo",
+      "Conditioner",
+      "Hair Styling",
+      "Hair growth/repair",
+      "Parenthood",
+      "Accessories",
+      "Handbags",
+      "Electronics",
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ebbc04b1-856a-43b5-9fbe-7ac70ca4791f",
+    "type": "shop",
+    "title": "Puku",
+    "subtitle": "Puku was founded in the aftermath of Hurricane Sandy after experiencing the hardship of living without the power to charge phones. And just like the animal, it retains the same essential qualities such as Power, Beauty and Speed.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/files/PUKU_LOGO_FINAL_WEB_x320.png?v=1521400391",
+    "clickUrl": "https://www.gotpuku.com/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4cfde7e0-7b1c-403f-b862-6cfa2e5b8778",
+    "type": "shop",
+    "title": "Raycon",
+    "subtitle": "Raycon is built around the mission that everyone deserves to enjoy great audio. We believe amazing audio experiences inspire go-getters around the world and power their everyday lives.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/files/Raycon_Logo_Black_250x@2x.png?v=1558447342",
+    "clickUrl": "https://rayconglobal.com/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5393d2df-5e1f-48ce-8653-6fe9ad650667",
+    "type": "shop",
+    "title": "Sorella",
+    "subtitle": "Sorella was founded by two Boss Babes, Heather Sanders & Brittney Turner in 2012. We were 20 years old with no fashion background or training but a lot of hustle and drive! Starting with an inventory of 10 products and packing packages on the floor of our apartment, we never imagined how far we would get!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/files/Sorella-Logo_Black_410x.jpg?v=1593820512",
+    "clickUrl": "https://www.sosorella.com/",
+    "tags": [
+      "Accessories",
+      "Home & Garden",
+      "Fashion",
+      "Clothing",
+      "Basics",
+      "Swim",
+      "Men’s",
+      "Women’s",
+      "Jewelry",
+      "Handbags",
+      "Belts",
+      "Sunglasses",
+      "Office",
+      "Paper & Stationery",
+      "Notebooks",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7396b2fd-eecf-4f9b-8a4c-ae81ffa9af22",
+    "type": "shop",
+    "title": "EverHaven",
+    "subtitle": "I created EverHaven LLC because I wanted to offer my customers apparel and accessories that would allow them to \"live out loud.\" I absolutely love EVERYTHING about myself, and I want other people to feel just as proud of themselves. I hope to provide customers with a sense of pride in who they are.",
+    "imageUrl": "https://gentlemanaf.com/static/gaflogo1-93e4442bc763d731d913f086263fd00b.png",
+    "clickUrl": "https://gentlemanaf.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Basics",
+      "Men’s",
+      "Women’s",
+      "Unisex",
+      "Accessories",
+      "Handbags",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e3ea5686-8453-4c0b-8782-f922a78cf3cf",
+    "type": "shop",
+    "title": "RayTec Audio",
+    "subtitle": "RayTec, wherever you go, your soundtrack should follow. Music has changed the world. It's a form of expression and should be heard at the highest, premium level. When you hear music that you like, when you're listening to a book of your choosing, you get excited, or motivated or you may become active.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/files/raytecnew2_892a1b23-98a4-4ba5-b815-f77d3897d747_x200@2x.png?v=1588639268",
+    "clickUrl": "https://raytecaudio.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Unisex",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "77b389fb-3c75-4377-bd54-98b49e130b34",
+    "type": "shop",
+    "title": "The Afro Gypsy",
+    "subtitle": "I create jewelry and accessories that enhance the uniqueness of you; we like to call it Bohemian with an AFRO-tude! My work predominantly consist of leather and metalwork items. But, considering my love for the extraordinary, you may stumble upon many other new or vintage items that could steal your heart!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0407/6680/0034/files/The_Afro_Gypsy_Logo_1_360x.png?v=1597719296",
+    "clickUrl": "https://theafrogypsy.com/",
+    "tags": [
+      "Home & Garden",
+      "Decor",
+      "Fashion",
+      "Pet",
+      "Stationary",
+      "Notebooks",
+      "Sports & Outdoors",
+      "Electronics",
+      "Desserts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7ea2ca5e-0165-4eb0-aca9-e834087f28dc",
+    "type": "shop",
+    "title": "Grace & Styles Boutique",
+    "subtitle": "Grace & Styles Boutique is a provider of quality leather handbags and must-have accessories.  We provide a variety of colors and trendy styles at affordable prices to suite everyone!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/files/GSB_PNG_TRANSPARENT_BG_240x@2x.png?v=1579271847",
+    "clickUrl": "https://gracestylesboutique.com/",
+    "tags": [
+      "Fashion",
+      "Accessories",
+      "Handbags",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e5bfac69-cb72-4b07-96b1-501793e879f5",
+    "type": "shop",
+    "title": "I wear African",
+    "subtitle": "I Wear African is a campaign initiative created to promote and celebrate the contemporary African lifestyle by bringing the best quality Afrocentric brands to our fans.",
+    "imageUrl": "https://i0.wp.com/www.iwearafrican.com/wp-content/uploads/2018/10/IWAreclogo.png?fit=660%2C355&ssl=1",
+    "clickUrl": "https://www.iwearafrican.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Footwear",
+      "Toys",
+      "Dolls",
+      "Books",
+      "Notebooks",
+      "Sports & Outdoors",
+      "Electronics",
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "83fc7856-1a15-41d9-a280-0554ad318eff",
+    "type": "shop",
+    "title": "Fewer Cards",
+    "subtitle": "Fewer Cards is a touchless smart card that allows you to express yourself and share who you are with others by exchanging contact information, social media, and data seamlessly. The concept of Fewer Cards started from the fact that exchanging paper business cards is wasteful and cumbersome. ",
+    "imageUrl": "http://cdn.shopify.com/s/files/1/0508/0550/6201/files/red_yellow_blue_card_square_bright_1296x.png?v=1604959420",
+    "clickUrl": "http://fewer.cards/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b08a473d-aab7-4f72-b9f7-fbbcac02509b",
+    "type": "shop",
+    "title": "The Litty Lighters",
+    "subtitle": "Check out these cool Litty products. Each product aside from our accessories has either and LED touch or LED light. We strive to have eco-friendly, rechargeable, and safe, products for our customers.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0279/7895/6898/products/image_a3c8f291-3ef2-49ef-86bb-31b095df4aed_940x.jpg?v=1595727387",
+    "clickUrl": "https://thelittylighters.com/",
+    "tags": [
+      "Electronics",
+      "Miscellaneous",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7ff6e77a-28ee-4a86-b365-00e0f9623a1d",
+    "type": "shop",
+    "title": "D'Lashes",
+    "subtitle": "Take your eyelashes from thin unnoticeable eyelashes to rich, full, beautiful ones. Dionne’s Lashes are custom individual eyelash extensions that are attached to your natural eyelashes, lasting up to 6-8 weeks.",
+    "imageUrl": "https://www.dlashes.com/wordpress/images/logo.png",
+    "clickUrl": "https://www.dlashes.com/",
+    "tags": [
+      "Health & Beauty",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3e142338-25bc-42c3-81e2-df344fc705b8",
+    "type": "shop",
+    "title": " Ujamaa Lighting",
+    "subtitle": "Although light bulbs are considered a commodity, the Ujamaa Lighting brand aspires to bring its own unique take on the lighting industry. Founded in June 2019, Ujamaa Lighting, specializes residential, commercial, and industrial LED lighting solutions.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/files/UL_wording_WHITE_200x@2x.png?v=1594537730",
+    "clickUrl": "https://www.ujamaalighting.com/",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Men’s",
+      "Women’s",
+      "Unisex",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "796e8ce4-727a-45af-98a3-3bbf27912a17",
+    "type": "shop",
+    "title": "NSPRE Electronics",
+    "subtitle": "The NSPRE™ brand is built on and strives for creativity and culture. We create exciting, lifestyle, and innovative products that inspire everyday use. Our vision is to \"Inspire the culture through social technology\" to improve others' lifestyles and the way we access the world around us.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/files/small_NSPRE_icon-09_x50@2x.png?v=1599457535",
+    "clickUrl": "https://www.nspreelectronics.com/",
+    "tags": [
+      "Health & Beauty",
+      "Eye Care",
+      "Fashion",
+      "Accessories",
+      "Sunglasses",
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "52cf1b4e-5aae-4014-86e2-b99bc2c55f46",
+    "type": "shop",
+    "title": "HOUSE OF MARLEY",
+    "subtitle": "The House of Marley is built on the principles of superior quality, sustainability and a commitment to charitable causes. We are driven to enhance lives through great product experiences as well as using proceeds from product sales to support global reforestation through Project Marley. ",
+    "imageUrl": "https://www.thehouseofmarley.co.uk/skin/frontend/smartwave/marley/images/marley-header-logo.png",
+    "clickUrl": "https://www.thehouseofmarley.co.uk/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "74f1e0c8-1b44-42ef-bcd7-891881b1791e",
+    "type": "shop",
+    "title": "Mike D's BBQ",
+    "subtitle": "Mike D's BBQ is an award winning line of signature BBQ sauces and all-purpose dry rubs. Our sauces are a twist on the traditional BBQ sauce with some unique seasonings and spice levels.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1548/8983/files/MikeDsBBQ_logo_115x@2x.png?v=1519157075",
+    "clickUrl": "https://www.mikedsbbq.com/",
+    "tags": [
+      "Accessories",
+      "Food & Beverage",
+      "Condiments & Spices",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c698bc0d-d1e9-4345-abd1-949718fb356d",
+    "type": "shop",
+    "title": "Camella's Kitchen",
+    "subtitle": "Camella’s Kitchen is helping you to elevate your meals at home and on the go with our bold Caribbean flavors – we ship. We started Camella's Kitchen in order to honor the memory of and carry on lessons learned from Ms. Camella, our mother and grandmother respectively. ",
+    "imageUrl": "https://static1.squarespace.com/static/5c3f44fd50a54fd9909cb87b/t/5c6e1b5d652deaa4dc17addb/1605555549975/?format=1500w",
+    "clickUrl": "https://www.camellaskitchen.com/",
+    "tags": [
+      "Food & Beverage",
+      "Desserts",
+      "Condiments & Spices",
+      "Savory",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2aac972d-af06-4ebe-af4b-1c2e50dd824c",
+    "type": "shop",
+    "title": "Oh-Mazing!",
+    "subtitle": "Yes, we sell granola (it's quite tasty), but more importantly, we want to inspire you to live your life with purpose, passion, and to follow your dreams. Our products are here to bring the adventure back to snacking, and better yet, celebrate YOU when those dreams are achieved.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/files/OMLogo_OG_80x80in_-_Resized_3000_495x@2x.png?v=1595007737",
+    "clickUrl": "https://www.ohmazingfood.com/",
+    "tags": [
+      "Food & Beverage",
+      "Desserts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d369fe17-34db-442f-9764-d7b2a4510b32",
+    "type": "shop",
+    "title": "Shoe Crazy Wine",
+    "subtitle": "We work with the best vineyards in California to develop our unique blends. Our wines are created with women in mind. Owned and operated by a mother-daughter team, we understand that women face tough daily challenges. And we know we can tackle them together-with a great pair of shoes and a great wine!",
+    "imageUrl": "http://www.shoecrazywine.com/wp-content/uploads/2019/07/BellaBlack.png",
+    "clickUrl": "http://www.shoecrazywine.com/",
+    "tags": [
+      "Food & Beverage",
+      "Alcohol & Wine",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f9fa075c-8205-49ef-9f49-314cd4aa6b56",
+    "type": "shop",
+    "title": "The Honey Wine Company",
+    "subtitle": "Inspired by his country's national beverage t'ej (honey wine), Ayele realized that these flowering trees were an ideal source of nectar and pollen that bees use to make valuable honey.  This set Ayele on a quest to better understand the art and business of creating honey wine.",
+    "imageUrl": "https://www.beedvine.com/images/header.png",
+    "clickUrl": "https://www.beedvine.com/",
+    "tags": [
+      "Food & Beverage",
+      "Alcohol & Wine",
+      "Wedding",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b711f2ca-845a-4a50-81ac-4e7f3434a262",
+    "type": "shop",
+    "title": "Naja Tea",
+    "subtitle": "At Naja Tea, we stand for quality, integrity, and curiosity. We strive daily to maintain high standards in every aspect of our business. Our mission is to provide a positive, significant, and sensational experience with Naja Tea.",
+    "imageUrl": "https://najatea.com/wp-content/uploads/2016/05/logo-03.png",
+    "clickUrl": "https://najatea.com/",
+    "tags": [
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4e5d02f1-1a97-4746-9fb9-f67cfa3de8fa",
+    "type": "shop",
+    "title": "57 Chocolate",
+    "subtitle": "57 is the pioneer bean to bar chocolate business in Ghana. ’57 Chocolate is short for 1957, which is the year of Ghana’s independence. This venture uses resources grown within the country to create delicious treats. ",
+    "imageUrl": "https://static1.squarespace.com/static/56f1a6051d07c03a5818bc84/t/5f245d9669940e4b03d2b742/1605026258242/?format=1500w",
+    "clickUrl": "https://www.57chocolategh.com/",
+    "tags": [
+      "Food & Beverage",
+      "Desserts",
+      "Wedding",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cdd9b089-a0bd-422c-95b4-6c7df214e987",
+    "type": "shop",
+    "title": "Good Thoughts Tea Co",
+    "subtitle": "We are an all natural loose leaf tea company that is centered around the healing properties of herbs. Our main goal is to help heal from the inside out all while reawakening the conversation and experience of tea. Started in 2014 by Ebone’ McCloud, we are located in and operate from Chicago.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1590295085345-3N7T2QTS761M9CIVXXSR/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Love+Paula+.JPG?format=1500w",
+    "clickUrl": "https://www.goodthoughtsteaco.com/",
+    "tags": [
+      "Home & Garden",
+      "Home Fragrance",
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d8e9aa95-2cb2-49ae-9211-09b95a6e719c",
+    "type": "shop",
+    "title": "Ka'oir Fitness",
+    "subtitle": "Ka'oir Fitness, founded in 2011 by celebrity Keyshia Ka'oir is a fitness line of patented, trademarked fat burners to help people lose weight faster than ever.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/files/kaoir-fitness-logo-white_67f4b0ff-b6fd-4a32-97bb-2afc54a7290f_360x.png?v=1523565121",
+    "clickUrl": "https://kaoirfitness.com/",
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d8e9aa95-2cb2-49ae-9211-09b95a6e719c",
+    "type": "shop",
+    "title": "Ka'oir Fitness",
+    "subtitle": "Ka'oir Fitness, founded in 2011 by celebrity Keyshia Ka'oir is a fitness line of patented, trademarked fat burners to help people lose weight faster than ever.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/files/kaoir-fitness-logo-white_67f4b0ff-b6fd-4a32-97bb-2afc54a7290f_360x.png?v=1523565121",
+    "clickUrl": "https://kaoirfitness.com/",
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1182e348-c6a8-43dc-9555-2bfa0afd7ac5",
+    "type": "shop",
+    "title": "MoreFire! Hot Sauce",
+    "subtitle": "MoreFire! Hot Sauce is a concoction of spicy fiery goodness. For those who are serious about good quality food. We are 1st place nationwide award winning... so get on the winning Team. You need MoreFire! in your life!",
+    "imageUrl": "https://i1.wp.com/morefirehotsauce.com/wp-content/uploads/2018/12/MoreFireLOGO_ver3.1.2.2web.png?fit=229%2C72&ssl=1",
+    "clickUrl": "https://morefirehotsauce.com/",
+    "tags": [
+      "Fashion",
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8fc21345-a144-426e-9ef1-eed2d0b2d17e",
+    "type": "shop",
+    "title": "Abbey Creek Winery",
+    "subtitle": "Abbey Creek is the first black owned winery and vineyard in Oregons recorded history. We play hip hop in the tasting room and have a unconventional approach to the wine experience. Come see what \"The Crick Life\" is all about at abbeycreekvineyard.com",
+    "imageUrl": "https://www.abbeycreekvineyard.com/uploads/5/7/2/0/57208121/published/photo-jun-13-5-52-44-pm.png?1587528817",
+    "clickUrl": "https://www.abbeycreekvineyard.com/",
+    "tags": [
+      "Food & Beverage",
+      "Alcohol & Wine",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5e893f43-37ad-4949-9175-bf9e85581e36",
+    "type": "shop",
+    "title": "AIRIS FOODS",
+    "subtitle": "AIRIS FOODS are hand crafted food products that add flavor and flare to all your cooking and snacking needs. With both the home cook and the commercial chef in mind, owner Airis the Chef combines simple, wholesome ingredients to create BIG FLAVOR profiles. ",
+    "imageUrl": "https://assets.bigcartel.com/theme_images/35218102/Airs_Foods_logo.png?auto=format&fit=max&h=500&w=1800",
+    "clickUrl": "http://www.atcspiceblends.com/",
+    "tags": [
+      "Food & Beverage",
+      "Desserts",
+      "Condiments & Spices",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "de89b1cf-d838-4b3d-a2af-71c4fc3ae7a6",
+    "type": "shop",
+    "title": "Askanya",
+    "subtitle": "Les Chocolateries Askanya is Haiti’s first and only premier bean-to-bar chocolate company. We exclusively use Haitian cacao to produce our chocolates in our facility located in Ouanaminthe, Haiti.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/files/SEE_THROUGH_180x@2x.png?v=1542584453",
+    "clickUrl": "https://askanya.ht/?locale=en",
+    "tags": [
+      "Food & Beverage",
+      "Desserts",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0352a4ec-d3dc-47c1-a746-49b07e97b7b0",
+    "type": "shop",
+    "title": "Bamenda Coffee",
+    "subtitle": "Want to have the best coffee beans in Chicago, Illinois? Get them here at Bamenda Coffee, where our coffee comes fresh from the highlands of Bamenda, Africa, and Latin America. We bring you 100% Arabica and Robusta coffee that will surely make you ask for more.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0292/6775/5146/t/2/assets/main-logo.png?v=6003470205720830862",
+    "clickUrl": "https://bamendacoffee.myshopify.com/",
+    "tags": [
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8cab6c95-56c1-4a3a-abba-eb615001a13f",
+    "type": "shop",
+    "title": "Mystic Momma",
+    "subtitle": "Specializing in teas, tinctures, yoni steams, sitz baths, blends for hormone balance, reproductive health and womb wellness.",
+    "imageUrl": "https://static.wixstatic.com/media/4ffa98_83a054d4cc874b0bba857cd363e5daf0~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01/Untitled.webp",
+    "clickUrl": "https://www.mysticmomma.net/",
+    "tags": [
+      "Health & Beauty",
+      "Bath & Body",
+      "Skincare",
+      "Wellness",
+      "Parenthood",
+      "Food & Beverage",
+      "Coffee & Tea",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cbad14f1-cbc8-4112-8552-c6e7a2c90c7d",
+    "type": "shop",
+    "title": "Nikki Crisps",
+    "subtitle": "Delicious Plantain Crisps | Vegan and Gluten Free with No Preservatives. Proudly Made in Ghana.",
+    "imageUrl": "https://www.nikkiscrisps.com/template/img/nikkis-logo.png",
+    "clickUrl": "https://www.nikkiscrisps.com/",
+    "tags": [
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e35cd028-46f2-4584-a15a-f5fa8fcc230a",
+    "type": "shop",
+    "title": "Savor Seasoning Blends",
+    "subtitle": "Savor Seasonings blends are handcrafted creations by the Spencer family; Dulani, Lisa and Myles.",
+    "imageUrl": "https://static1.squarespace.com/static/57d70277725e252bea547232/t/5f028c3f6e62565b9d4e41dd/1601685497213/?format=original",
+    "clickUrl": "https://www.savorblends.com/shop-1",
+    "tags": [
+      "Food & Beverage",
+      "Condiments & Spices",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3a37b393-6c57-449b-a2d3-5d9cea518337",
+    "type": "shop",
+    "title": "Doe Wiz Apparel",
+    "subtitle": "Doe Wiz apparel was found by Kamar Doe Wiz Lewis. The term Doe came about from the street meaning \"Money,\" and the term \"Wiz\" short for wisdom. By combining the two terms, we have the name \"Doe Wiz\" which means \"A smart way to get money.\"",
+    "imageUrl": "https://static.wixstatic.com/media/3c8c0c_d261102a19b5423ab1b9e95c9126cc30~mv2.jpg/v1/fill/w_1634,h_1476,al_c,q_90/Doe%20Wiz%20Apparel%20Pink%20K%203%20Collection%202020.webp",
+    "clickUrl": "https://www.doewizapparel.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Fashion",
+      "Clothing",
+      "Men’s",
+      "Women’s",
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1c9e14e5-e0ca-4fac-9e98-4dad57456b1a",
+    "type": "shop",
+    "title": "Fishing Caddy",
+    "subtitle": "Our company is dedicated to bringing you the absolute best system for fishing and overall enjoyment of the sport.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/files/logo-opt_360x.png?v=1551459029",
+    "clickUrl": "https://thefishingcaddy.com/",
+    "tags": [
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "85816695-421d-4cf6-8580-2ef4aa809675",
+    "type": "shop",
+    "title": "Jarvis Boards",
+    "subtitle": "Jarvis Boards' mission has always been to craft paddle boards in Austin, Texas that are environmentally friendly, look great, and perform well. To accomplish this, we employ a wide range of techniques to craft our small-batch production wooden SUPs in our Austin studio.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/files/PNG_Transparent_410x.png?v=1537914246",
+    "clickUrl": "https://jarvisboards.com/",
+    "tags": [
+      "Home & Garden",
+      "Candles",
+      "Fashion",
+      "Clothing",
+      "Tees",
+      "Unisex",
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f01f191e-6e05-43c4-aae9-7a2be15e350d",
+    "type": "shop",
+    "title": "Lyfestyle Clothing",
+    "subtitle": "It’s our goal to produce quality clothing that embodies our inspirations of the moment. We only source premium fabrics, usually directly from NYC's garment district. All of our cut and sewn garments are made at our Brooklyn factory. We strive to build a strong brand by consistently making quality clothing that our customers can be proud to wear.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/files/GREENBOX_LOGO_360x.png?v=1545684962",
+    "clickUrl": "https://www.lyfestylenyc.shop/",
+    "tags": [
+      "Hair & Headwear",
+      "Accessories",
+      "Home & Garden",
+      "Candles",
+      "Children",
+      "Fashion",
+      "Clothing",
+      "Basics",
+      "Men’s",
+      "Women’s",
+      "Footwear",
+      "Unisex",
+      "Accessories",
+      "Handbags",
+      "Pet",
+      "Sports & Outdoors",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8871933c-4d48-49b0-8857-6b56818c6928",
+    "type": "shop",
+    "title": "Dynamic Confluence",
+    "subtitle": "I have items that I carry with me anywhere I go in case of an emergency. I couldn't find an emergency kit that was complete, so I made a few of my own. I hope people will find these items useful. It's better to have and not need, than need and not have.",
+    "imageUrl": "https://dynamic-confluence.square.site/uploads/b/5a7f9f5cec886fc4729616a0195f82089301a858c61958095385883d1fddd022/IMG_20190614_133819_057_1590348933.jpg?width=640",
+    "clickUrl": "https://dynamic-confluence.square.site/",
+    "tags": [
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d36291a6-7bd3-41cf-9ec1-d93aa382e501",
+    "type": "shop",
+    "title": "Hoodietowel",
+    "subtitle": "Super soft, absorbent microfiber towel. Sized just right for optimal flexibility 100% cotton. Machine wash. Imported",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0245/8019/4381/files/HoodieTowel-ht-logo_300x90@2x.png?v=1581952926",
+    "clickUrl": "https://thehoodietowel.com/",
+    "tags": [
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f406aece-963e-4b5e-a662-46659192f7ba",
+    "type": "shop",
+    "title": "POWERHANDZ",
+    "subtitle": "POWERHANDZ is a global company that manufactures unique skill development products used by thousands of professional and youth athletes in multiple sports.",
+    "imageUrl": "https://powerhandz.com/wp-content/uploads/2018/11/powerhandz.png",
+    "clickUrl": "https://powerhandz.com/",
+    "moreInfo": "POWERHANDZ is a global company that manufactures unique skill development products used by thousands of professional and youth athletes in multiple sports.",
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Men’s",
+      "Accessories",
+      "Sports & Outdoors",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "333819c8-4aab-4fac-9df1-4019027f4997",
+    "type": "shop",
+    "title": "NinetyNine Products",
+    "subtitle": "Our mission is to deliver functional & beautiful product that celebrate the people who help people. 99% of our marketing dollars will spotlight those individuals we believe do more than their fare share of shaping our communities in positive ways.",
+    "imageUrl": "https://static1.squarespace.com/static/5f93f50df350ae08e3dda652/t/5f9467a4be52035b2a5f7a54/1604080334384/?format=1500w",
+    "clickUrl": "https://ninetynineproducts.com/",
+    "tags": [
+      "Fashion",
+      "Footwear",
+      "Sports & Outdoors",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b080ae8a-b287-438b-b2b0-330eaf6877a5",
+    "type": "shop",
+    "title": "The Better Results",
+    "subtitle": "The Better Results Push bar was created to solve a Problem, the equipment has been patented and now the hopes in every one can benefit from the invention.",
+    "imageUrl": "https://irp-cdn.multiscreensite.com/bd0033c6/dms3rep/multi/desktop/Better+Results+logo2.png",
+    "clickUrl": "https://www.thebetterresults.com/",
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Sports & Outdoors",
+      "Lifestyle",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "d21007a6-aa46-4a3f-85e8-e4d4ce7b843e",
     "type": "shop",
     "title": "Scent Affairs",

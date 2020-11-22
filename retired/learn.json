@@ -1,1 +1,17 @@
-[]
+[
+	{
+    "id": "1775f0e9-5c7b-4eab-a434-d853de9d52e1",
+    "type": "learn",
+    "title": "COVID-19 Voting Information",
+    "subtitle": "As things change to help prevent the spread of COVID-19, make sure you have the latest voting information. Dates and deadlines are changing rapidly, so be sure to check with your state elections authority for the most up-to-date information.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1254799515543977985/AEAl9jW8.jpg",
+    "clickUrl": "https://www.rockthevote.org/how-to-vote/nationwide-voting-info/covid-19-voting-information/",
+    "tags": [
+      "Read",
+      "Vote",
+      "Election",
+      "learn"
+    ],
+    "priority": 10
+  }
+]

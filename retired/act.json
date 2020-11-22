@@ -1,1 +1,17 @@
-[]
+[
+	{
+    "id": "e9c4cf9e-e276-48cd-87c7-7bfef15598bf",
+    "type": "act",
+    "title": "Official George Floyd Memorial Fund",
+    "subtitle": "This fund is established to cover funeral and burial expenses, mental and grief counseling, lodging and travel for all court proceedings, and to assist his family in the days to come as they continue to seek justice for George. A portion of these funds will also go to the Estate of George Floyd for the benefit and care of his children and their educational fund.",
+    "imageUrl": "https://images.gofundme.com/K1iwc7iD8Sg-pzyEPNc_8qf8bes=/720x405/https://d2g8igdw686xgo.cloudfront.net/48345040_1590602439903874_r.jpeg",
+    "clickUrl": "https://www.gofundme.com/f/georgefloyd",
+    "tags": [
+      "Floyd",
+      "gofundme",
+      "Donate",
+      "Act"
+    ],
+    "priority": 10
+  },
+]

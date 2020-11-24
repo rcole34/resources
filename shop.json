@@ -5,7 +5,30 @@
     "title": "Sugarfoots",
     "subtitle": "Sugarfoots anchor product is a renowned child-safe, hand-crafted multi-ethnic rag doll, complemented by a children’s book series based on folktales from cultures around the world. Our mission is sustained by a performing arts summer camp for youth that sets the pace among competitors, inspiriting the imagination through creative storytelling, song and dance.",
     "imageUrl": "https://static1.squarespace.com/static/5731c51bf699bbe62766423a/t/5731cf542eeb81368d601fd9/1602500960879/?format=1500w",
-    "clickUrl": "https://www.sugarfoots.com/",
+    "clickUrl": "https://www.sugarfoots.com/shop-dolls",
+    "products": [
+      {
+        "name": "Cinnamon",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1463605393525-I7SC3IVCMY328UGGL5M0/ke17ZwdGBToddI8pDm48kMVdpQMTMPG1lF--Wz2zRppZw-zPPgdn4jUwVcJE1ZvWgCjmTad1QpYCGph9EV4QZUJFbgE-7XRK3dMEBRBhUpwcxiEwt91U58cqSP5DUKbySSu8skEb8GaxAPMSzfhNvP0jZI9UhINMx8du1022jU4/SugarfootsWebsitePhotos2013-009.jpg?format=1500w",
+        "description": "One of Sugarfoots' signature rag dolls. Colors and fabrics will vary with handcrafted items.",
+        "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/cinnamon-doll",
+        "shopName": "Sugarfoots"
+      },
+      {
+        "name": "Boy Dolls",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1463645817400-NMY1DO1AWBJNAC9LZLJJ/ke17ZwdGBToddI8pDm48kNOL1ae9Qi6Sl3zCX0RoF0dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzO8FkP601pRyPpZpbT5czISawJCDYvi3FLg7_b2wO08phOmFOKtt7m0Z1bEMtOkI0/cin_boysingle.png?format=1500w",
+        "description": "One of Sugarfoots' signature rag dolls. Colors and fabrics will vary with handcrafted items.",
+        "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/boy-doll",
+        "shopName": "Sugarfoots"
+      },
+      {
+        "name": "Black Lives Matter Sugarfoots Bistro 16oz Mugs",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1606139028849-56UGQEFB6YOPMNYB7ZK8/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Untitled+design.png?format=2500w",
+        "description": "What better way to show solidarity with Cocoa, Ginger and Cinnamon Black Lives Matter Sugarfoots Bistro Mugs!",
+        "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/black-lives-matter-sugarfoots-bistro-mugs",
+        "shopName": "Sugarfoots"
+      }
+    ],
     "tags": [
       "Children",
       "Entertainment & Toys",
@@ -21,7 +44,30 @@
     "title": "As I Am",
     "subtitle": "As I Am hair is a natural hair care brand. It markets unique and exclusively formulated hair products. It consists of 11 products designed for tightly coiled hair made from the finest organic ingredients. The line then became a quick success.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1128/3642/files/as_i_am_logo_large.jpg?10870755840914007522",
-    "clickUrl": "https://asiamnaturally.com/collections/curl-color",
+    "clickUrl": "https://asiamnaturally.com/collections/all",
+    "products": [
+      {
+        "name": "Coconut CoWash 16 oz",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2241/0171/products/62-AsIAm_r1_DFS_1025_1080x1080_1b3b928e-89c2-4224-b6b1-d2ea26c329d0.jpg?v=1600117851",
+        "description": "You already know it and your hair can feel it! CoWashing is the way to cleanse your hair most of the time. This light no-suds conditioning cream gently removes residue including all of the things you've used to style and maintain your coils and curls. Now it's time for a sparkling new beginning.",
+        "clickUrl": "https://asiamnaturally.com/products/coconut-cowash?variant=261852987410",
+        "shopName": "As I Am"
+      },
+      {
+        "name": "Coils & Curls Care Package",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2241/0171/products/Coils-_-Curls-package-760x760.jpg?v=1593017120",
+        "description": "Experience the superb performance of As I Am® products with this economical starter set. Designed to nurture and style the texture that’s naturally yours.",
+        "clickUrl": "https://asiamnaturally.com/products/coils-curls-care-package?variant=262684442642",
+        "shopName": "As I Am"
+      },
+      {
+        "name": "Moisturizing Hand Sanitizer",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2241/0171/products/AIA-Moisturizing-Hand-Sanitizer-760x760.jpg?v=1593016793",
+        "description": "Kills 99.99% Of All Common Germs. Eliminates Bacteria On Skin. Anti Microbial. Contains 62% Ethyl Alcohol. Fragrance Free. Unscented. Enriched with Aloe Vera, Betaine, and Glycerin. 73% Increase in Skin Hydration. This Gentle formula Improves Skin Health by 41%",
+        "clickUrl": "https://asiamnaturally.com/products/moisturizing-hand-sanitizer?variant=31790131281956",
+        "shopName": "As I Am"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Haircare",
@@ -42,6 +88,29 @@
     "subtitle": "AUXGOD is a music battle card game that Rousseau created six months after quitting his job. Players dance, sing, and argue over yesterday’s classics and today’s hits. You’ll never have a wack party again!",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjzmX_zI9GjrNFDLUDmtL_9wOTvJ7e6YSfQ&usqp=CAU",
     "clickUrl": "https://auxgodgame.com/shop",
+    "products": [
+      {
+        "name": "AuxGod: Hip Hop + RNB",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/hiphopcover2_square-1_1800x1800.jpg?v=1604291610",
+        "description": "Bring the intensity that Drake brought to Meek Mill at your next party. The pack contains over 100 Hip Hop & RNB cards + 15 bonus cards; Pop, Rock & Country.",
+        "clickUrl": "https://auxgodgame.com/products/auxgod-hip-hop-rnb",
+        "shopName": "AuxGod"
+      },
+      {
+        "name": "AuxGod: Pop Music Edition",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/POP_Square_1800x1800.jpg?v=1604291756",
+        "description": "The pack contains over 100 Pop Music cards + 15 bonus cards; Hip Hop & RNB, Rock & Country. Your favorites are all here from the Backstreet Boys to Rihanna! Thousands of song options to play in response to our cards so, What You Waiting For?",
+        "clickUrl": "https://auxgodgame.com/products/auxgod-game-pop-music-edition",
+        "shopName": "AuxGod"
+      },
+      {
+        "name": "AuxGod: Country Music Edition",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/country_square_1800x1800.jpg?v=1604319606",
+        "description": "The pack contains over 100 Country Music cards + 15 bonus cards; Hip Hop & RNB, Rock & POP. Your favorites are all here from Garth Brooks to Luke Bryan. Thousands of song options to play in response to our cards so, are we gonna do this or what?",
+        "clickUrl": "https://auxgodgame.com/products/auxgod-country-pre-order",
+        "shopName": "AuxGod"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Games",
@@ -55,7 +124,7 @@
     "title": "Cuff",
     "subtitle": "A platform for creating mature conversations through discussions of love and dating experiences.",
     "imageUrl": "https://static1.squarespace.com/static/58fd1a74bf629ab224f1c169/t/5c2932d0f950b760dd52d0c5/1546203862399/Cuff.jpg?format=1500w",
-    "clickUrl": "https://www.letscuff.com/",
+    "clickUrl": "https://www.letscuff.com/store",
     "tags": [
       "Entertainment & Toys",
       "Adult (sex toys, etc)",
@@ -69,8 +138,31 @@
     "type": "shop",
     "title": "Natural Cuties",
     "subtitle": "Natural Cuties is a brand that promotes, encourages and highlights the beauty of African American hair in its natural state! #Iamanaturalcutie are you?",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2198/5517/files/9781537049724_p0_v2_s550x406_compact.jpg?v=1547331217",
-    "clickUrl": "https://www.iamanaturalcutie.com/",
+    "imageUrl": "http://www.iamanaturalcutie.com/wp-content/uploads/2017/08/logo2.png",
+    "clickUrl": "https://www.iamanaturalcutie.com/merchandise/",
+    "products": [
+      {
+        "name": "I am a Natural Cutie Book",
+        "imageUrl": "https://www.iamanaturalcutie.com/wp-content/uploads/2016/04/book.png",
+        "description": "Phoenix is excited about rocking her big afro puffs on the first day of Kindergarten. After hearing the other girls make fun of her puffs she is ready to go home. She will soon learn just what it means to be a NATURAL Cutie!",
+        "clickUrl": "https://www.iamanaturalcutie.com/merchandise/i-am-a-natural-cutie-book/",
+        "shopName": "Natural Cuties"
+      },
+      {
+        "name": "Drawstring Bag",
+        "imageUrl": "https://www.iamanaturalcutie.com/wp-content/uploads/2018/01/mockup-a119d310.jpg",
+        "description": "Combine your love for vibrant prints and a sporty style with a cool drawstring bag. It’s a must-have gym essential that can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps.",
+        "clickUrl": "https://www.iamanaturalcutie.com/merchandise/drawstring-bag/",
+        "shopName": "Natural Cuties"
+      },
+      {
+        "name": "Mug",
+        "imageUrl": "https://www.iamanaturalcutie.com/wp-content/uploads/2018/01/mockup-dc9566a1.jpg",
+        "description": "Whether you’re drinking your morning coffee, your evening tea, or something in between – this mug’s for you! It’s sturdy and glossy with a vivid print that’ll withstand the microwave and dishwasher.",
+        "clickUrl": "https://www.iamanaturalcutie.com/merchandise/mug/",
+        "shopName": "Natural Cuties"
+      }
+    ],
     "tags": [
       "Fashion",
       "Clothing",
@@ -90,7 +182,30 @@
     "title": "Princess Omalie",
     "subtitle": "Welcome To The Wonderful World Of Princess Omalie Unlock the magic and lore of The kingdom of IgboOrai, Africa’s oldest Monarchy and greatest dynasty of kings and queens! We’ve been waiting for you!",
     "imageUrl": "https://princessomalie.com/wp-content/uploads/2017/11/Princess-Omalie-Logo_web.png",
-    "clickUrl": "https://princessomalie.com/",
+    "clickUrl": "https://princessomalie.com/shop",
+    "products": [
+      {
+        "name": "Princess Omalie Doll – Gala Edition",
+        "imageUrl": "https://princessomalie.com/wp-content/uploads/2018/10/Doll-32-for-amazon.jpg",
+        "description": "Princess Omalie comes from a royal lineage of beautiful elegant women and embodies the kindness, confidence and excitement of young girls today. In this Gala Edition, she is exquisitely dressed and coiffed.",
+        "clickUrl": "https://princessomalie.com/product/princess-omalie-doll-gala-edition",
+        "shopName": "Princess Omalie"
+      },
+      {
+        "name": "Princess Omalie Doll – Coronation Edition",
+        "imageUrl": "https://princessomalie.com/wp-content/uploads/2017/11/Doll.jpg",
+        "description": "Princess Omalie comes from a royal lineage of beautiful elegant women and embodies the kindness, confidence and excitement of young girls today. In this Coronation Edition, she is exquisitely dressed and coifed in a rich, soft cape and a smooth silky costume, designed by \"Atelier de Babazongo\" – dressmakers of the Royal family. As a treat, she holds a special key as your invitation to unlock the magic of her kingdom.",
+        "clickUrl": "https://princessomalie.com/product/princess-omalie-doll",
+        "shopName": "Princess Omalie"
+      },
+      {
+        "name": "Princess Omalie, The Coronation And The Polka Dot Lamb",
+        "imageUrl": "https://princessomalie.com/wp-content/uploads/2018/11/Princess-Omalie-Book-1-cover-cropped.jpg",
+        "description": "Princess Omalie of the African kingdom of IgboOrai could be the happiest girl on the planet — except that her family has been under a curse. Unless the curse of the Goliath beetle necklace is lifted, Omalie’s father might die in a horrible freak accident. He might never be crowned king. Omalie worries about her family, and about her own safety; how will she ever lead a peaceful happy life, have friends, and go to school?",
+        "clickUrl": "https://princessomalie.com/product/princess-omalie-coronation-polka-dot-lamb-adventures-princess-omalie-volume-1-paperback",
+        "shopName": "Princess Omalie"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",
@@ -112,7 +227,30 @@
     "title": "Princess Planet",
     "subtitle": "Princess Planet is a brand of children's entertainment that helps promote characters with diverse hair textures, skin tones, and cultural backgrounds.",
     "imageUrl": "https://pbs.twimg.com/profile_images/830422179460308993/zUXnSynO_400x400.jpg",
-    "clickUrl": "http://www.princessplanet.com/",
+    "clickUrl": "http://www.princessplanet.com/product-category/books/",
+    "products": [
+      {
+        "name": "An Octet of Odes – Volume 1",
+        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2015/10/book-vol1-e1455377626871.jpg",
+        "description": "An Octet of Odes Volume One is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
+        "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol1/",
+        "shopName": "Princess Planet"
+      },
+      {
+        "name": "An Octet of Odes – Volume 2",
+        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2015/10/book-vol2-e1455377672570.jpg",
+        "description": "An Octet of Odes Volume Two is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun.",
+        "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol2/",
+        "shopName": "Princess Planet"
+      },
+      {
+        "name": "Princess Planet: Coloring book",
+        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2016/01/book-coloring-book.jpg",
+        "description": "The Princess Planet Coloring Book showcases sixteen unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
+        "clickUrl": "http://www.princessplanet.com/product/princess-planet-coloring-book/",
+        "shopName": "Princess Planet"
+      }
+    ],
     "tags": [
       "Children",
       "Entertainment & Toys",
@@ -127,7 +265,30 @@
     "title": "Bailee's Nail Box",
     "subtitle": "Bailee's Nail Box is a FUN box for girls, created by 11 year old Bailee K. for girls ages 4 - 12 who love all things nails! Bailee's goal was to create memorable boxes filled with different tools for fun nail designs with an extra girly accessory with each box.",
     "imageUrl": "https://cdn05.zipify.com/EPKeXWDA-L_GdVog3Y0oTPvmlVk=/fit-in/700x0/a91c7b1bd87348d2940d7a10a35e5450/bailee_s-nail-box-logo-02_300x.png",
-    "clickUrl": "http://www.BaileesNailBox.com/",
+    "clickUrl": "https://www.baileesnailbox.com/collections/all",
+    "products": [
+      {
+        "name": "Bailee's Bundle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/products/3_d03230bd-31b2-4ffa-9d71-c2bee07f4969_1024x1024@2x.png?v=1602636004",
+        "description": "Two safe non-toxic polishes - Bailee's Spark & Rose Shimmer. Nail polish ring holder. All natural hand scrub, made by Bailee, that will leave your hands smooth, moisturized and exfoliated.",
+        "clickUrl": "https://www.baileesnailbox.com/products/bailees-bundle",
+        "shopName": "Bailee's Nail Box"
+      },
+      {
+        "name": "Christmas Scrunchie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/products/srunchie_1024x1024@2x.jpg?v=1590951717",
+        "description": "We have a variety of different colored Christmas scrunchies! Let us send you one!",
+        "clickUrl": "https://www.baileesnailbox.com/products/christmas-scrunchie",
+        "shopName": "Bailee's Nail Box"
+      },
+      {
+        "name": "My Beauty Secret is Gratitude",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/products/mockup-ddfc9a28_1024x1024@2x.jpg?v=1575931676",
+        "description": "You've now found the staple t-shirt of your wardrobe. It's made of a thicker, heavier cotton, but it's still soft and comfy. And the double stitching on the neckline and sleeves add more durability to what is sure to be a favorite!",
+        "clickUrl": "https://www.baileesnailbox.com/products/my-beauty-secret-is-gratitude-1",
+        "shopName": "Bailee's Nail Box"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Cosmetic",
@@ -172,7 +333,30 @@
     "title": "Blvck Spades",
     "subtitle": "Blvck Spades playing cards is a customized deck designed for playing JJDD spades. Its creators made it in a way that makes it easier for individuals to learn to play.",
     "imageUrl": "https://pbs.twimg.com/media/D4QO8PjWkAEkcxL.jpg",
-    "clickUrl": "https://www.blvckspades.com/",
+    "clickUrl": "https://www.blvckspades.com/shop/",
+    "products": [
+      {
+        "name": "2 Blvck Spades Decks",
+        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/07/2-decks-b.jpg?fit=2611%2C2526&ssl=1",
+        "description": "2 Blvck Spades Decks",
+        "clickUrl": "https://www.blvckspades.com/product/2-blvck-spades-decks/",
+        "shopName": "Blvck Spades"
+      },
+      {
+        "name": "6ft Phone Charger",
+        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/09/6-ft-iPhone.jpg?fit=1500%2C1500&ssl=1",
+        "description": "These 6ft chargers are lightweight, stylish, and ensure that you never have to sit next to a wall outlet to charge your phone again.",
+        "clickUrl": "https://www.blvckspades.com/product/6ft-phone-charger/",
+        "shopName": "Blvck Spades"
+      },
+      {
+        "name": "Blvck Sleeve Hoodie",
+        "imageUrl": "https://i1.wp.com/www.blvckspades.com/wp-content/uploads/2019/12/Blck-BLVCK-sleeve.jpg?fit=1500%2C1500&ssl=1",
+        "description": "Blvck Sleeve Hoodie. Actual hoodie style/color may be slightly different than shown.",
+        "clickUrl": "https://www.blvckspades.com/product/blvcksleevehoodie/",
+        "shopName": "Blvck Spades"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Games",
@@ -186,7 +370,30 @@
     "title": "Puzzle Huddle",
     "subtitle": "Kids grow up fast! Stay connected and hear about new puzzle designs and discounts. We promise not to spam you because we're too busy with potty training and coloring books.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/files/DSC_7504_720x.JPG?v=1519584724",
-    "clickUrl": "https://puzzlehuddle.com/",
+    "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock",
+    "products": [
+      {
+        "name": "XL Chemistry Girl Kids' Puzzle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/products/DSC_2117_2048x.JPG?v=1569407865",
+        "description": "The XL Chemistry Girls' Puzzle was created to inspire and affirm children using a creative format. This puzzle measures 14n x 19.5in, includes 100 pieces, and is constructed from sturdy cardboard similar to most puzzles sold in stores. Depending on a child’s fine motor skills, the puzzle can be ideal toddlers or young children.",
+        "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock/products/xl-chemistry-girl-kids-puzzle-14in-x-19-5in-w-100-pieces",
+        "shopName": "Puzzle Huddle"
+      },
+      {
+        "name": "Future President - Oval Office",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/products/IMG_4669_2048x.jpg?v=1604637757",
+        "description": "The Future President - Oval Office Puzzle measures 12in x 16.5in, includes 54 pieces, and is constructed from sturdy cardboard similar to most puzzles sold in stores. Depending on a child’s development and fine motor skills, this puzzle can be ideal toddlers or young children.",
+        "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock/products/future-president-oval-office-10-5in-x-42in-w-42-pieces",
+        "shopName": "Puzzle Huddle"
+      },
+      {
+        "name": "XL Noah's Ark Kids' Puzzle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/products/image_51880914-ba2c-446d-b4f7-afbc4e25d116_2048x.jpg?v=1591539609",
+        "description": "The XL Noah's Ark Kids Puzzle was created to inspire and affirm children using a creative format. This puzzle measures 14in x 19.5in, includes 100 pieces, and is constructed from sturdy cardboard similar to most puzzles sold in stores. Depending on a child’s fine motor skills, the puzzle can be ideal toddlers or young children.",
+        "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock/products/xl-noahs-ark-kids-puzzle-14in-x-19-5in-w-100-pieces",
+        "shopName": "Puzzle Huddle"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Childrens",
@@ -201,7 +408,30 @@
     "title": "StepStitches",
     "subtitle": "Welcome to StepStitches where you can find unique keepsakes sure to delight. Each item is handmade with love and exquisite care. Both ready to ship and custom made items are available.",
     "imageUrl": "https://static.wixstatic.com/media/0f70c8_97a68f7ef82a43f2a261f50c77f1a0e5~mv2.jpg/v1/fill/w_425,h_755,al_c,lg_1,q_80/StepStitches-Com_Banner%20crop%203.webp",
-    "clickUrl": "https://www.stepstitches.com/",
+    "clickUrl": "https://www.etsy.com/shop/stepstitches/",
+    "products": [
+      {
+        "name": "Black Rag Doll - Raggedy Ann Doll",
+        "imageUrl": "https://i.etsystatic.com/12661079/r/il/c5162d/2267275685/il_1588xN.2267275685_tk3c.jpg",
+        "description": "Cinnamon Annie® is a delightful vintage style doll with a modern twist. This Raggedy Ann style doll is dressed in a pretty floral navy and yellow dress with matching hair bow. Doll dress and hair bow are removable.",
+        "clickUrl": "https://www.etsy.com/listing/553525535/black-rag-doll-raggedy-ann-doll?ref=shop_home_feat_1",
+        "shopName": "StepStitches"
+      },
+      {
+        "name": "Raggedy Andy Doll - Boy Doll",
+        "imageUrl": "https://i.etsystatic.com/12661079/r/il/6e453e/2533982118/il_1588xN.2533982118_1fqm.jpg",
+        "description": "Cinnamon Andrew is a fun vintage style doll with a modern twist. This Raggedy Andy style doll is dressed in light blue overalls with a white shirt and dark blue bow tie. Doll clothes are removable.",
+        "clickUrl": "https://www.etsy.com/listing/661177469/raggedy-andy-doll-boy-doll-african?ref=shop_home_feat_3",
+        "shopName": "StepStitches"
+      },
+      {
+        "name": "Personalized Raggedy Ann Doll",
+        "imageUrl": "https://i.etsystatic.com/12661079/r/il/3be010/2530708502/il_1588xN.2530708502_gcue.jpg",
+        "description": "If you would like a name embroidered on the doll's dress, please choose that option AND write the name or phrase in the Note to Seller box during check-out.  She is Made to Order and will take approximately two weeks to complete before shipping.",
+        "clickUrl": "https://www.etsy.com/listing/870919615/personalized-raggedy-ann-doll-cinnamon?ref=shop_home_feat_2",
+        "shopName": "StepStitches"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Toys",
@@ -216,7 +446,30 @@
     "title": "Sweet Pea Books Inc",
     "subtitle": "Sweet Pea Books is dedicated to producing multicultural books that expose, inspire, amuse, and foster a love of reading in all children. Sweet Pea Books aims to promote the development of good character by teaching values through literature as well as expose young readers to different cultures.",
     "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/216788.jpg",
-    "clickUrl": "https://www.sweetpeachildrensbooks.com/",
+    "clickUrl": "https://www.sweetpeachildrensbooks.com/store/c1/Featured_Products.html",
+    "products": [
+      {
+        "name": "D Is For Dragon Fruit (Hardcover)",
+        "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/9037056_orig.jpg",
+        "description": "D is for Dragon Fruit is a vibrantly illustrated, exotic fruit alphabet book that exposes children to a variety of nutritious fruits, reinforces the alphabet and expands a child’s knowledge of the world.",
+        "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p3/D_is_for_Dragon_Fruit_%28hardcover%29_%2ADomestic_Shipping_included.html",
+        "shopName": "Sweet Pea Books Inc"
+      },
+      {
+        "name": "When Mama Braids My Hair (Hardcover)",
+        "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p12_i1_w611.jpeg",
+        "description": "When Mama Braids My Hair captures a young girl’s experience of having her hair braided and the bond it creates with her mother. The tradition of African hair braiding is more than just a Sunday routine. Come join Nikki on an adventure as she is transformed into an Egyptian queen, a Nigerian goddess, a Zulu warrior, and a Maasai girl.",
+        "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p12/When_Mama_Braids_My_Hair_%28hardcover%29_%2ADomestic_Shipping_Included.html",
+        "shopName": "Sweet Pea Books Inc"
+      },
+      {
+        "name": "Elephants Don't Have Stripes! (COMING SOON!)",
+        "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p8_i1_w612.jpeg",
+        "description": "Elephants Don’t Have Stripes! Deep in the valley, in the dry grasslands of the African savanna, a young elephant admires other animals for their beauty. He yearns to look and act more like them. One by one, each wish comes true and the young elephant couldn’t be happier.",
+        "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p8/Elephants_Don%27t_Have_Stripes%21_%28COMING_SOON%21%29.html",
+        "shopName": "Sweet Pea Books Inc"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Books",
@@ -245,6 +498,29 @@
     "subtitle": "Sharee has loved art all her life and has taken every opportunity to study it. She runs one of the Black-owned companies where customers can buy art prints.",
     "imageUrl": "https://static1.squarespace.com/static/54409174e4b01431efe2ef87/t/5b2077e82b6a28afecc7bec3/1602536841703/?format=750w",
     "clickUrl": "https://www.shareemiller.com/shop-1",
+    "products": [
+      {
+        "name": "Quarantine Sticker Sheet",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1598833602162-HMD83T0ITT7Z260WP35D/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/IMG_0404.JPG?format=1000w",
+        "description": "Cute self-care, quarantine inspired sticker set. Decorate your planner, notebooks, or anything you want to stick a sticker on!",
+        "clickUrl": "https://www.shareemiller.com/shop-1/quarentine-sticker-sheet",
+        "shopName": "Coily and Cute"
+      },
+      {
+        "name": "I Love My Hair Sticker",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1596469558502-ZVFOGHB5TAWI99E5VPHJ/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/IMG_0401.JPG?format=1000w",
+        "description": "Looking for a cute sticker to show how much you love your hair? Well, look no further! ",
+        "clickUrl": "https://www.shareemiller.com/shop-1/i-love-my-hair-a-sticker",
+        "shopName": "Coily and Cute"
+      },
+      {
+        "name": "Naturalista Pin",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1577398511925-2Y0X7GJO8OQRM4S8I57H/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/IMG_4771.JPG?format=1500w",
+        "description": "Pop your collar and add some flair with this naturalista pin. Rose gold and black pin.",
+        "clickUrl": "https://www.shareemiller.com/shop-1/naturalista-pin",
+        "shopName": "Coily and Cute"
+      }
+    ],
     "tags": [
       "Entertainment & Toys",
       "Books",
@@ -262,6 +538,29 @@
     "subtitle": "The mission of Darlyng & Co. is to give parents one less thing to worry about when it comes to caring for their baby. We always have parents in mind in the design process and are proud to present products that are functional, toxin-free, sourced from high-quality materials, and aesthetically pleasing.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0721/4207/files/NewLogo_V4_c5632790-bd91-4f5a-aad3-1821448a5223_550x.jpg?v=1496773128",
     "clickUrl": "https://www.darlyngandco.com/",
+    "products": [
+      {
+        "name": "Kids Hair Care Kits",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0721/4207/products/Darlyng_CoKIDSHAIRCAREKITS_1400x.png?v=1604802292",
+        "description": "Try our kid-friendly haircare kits curated for your Darlyng to grow and maintain healthy hair.",
+        "clickUrl": "https://www.darlyngandco.com/collections/new-arrival/products/kids-hair-care-kits-1?variant=34879062966406",
+        "shopName": "Darlyng & Co."
+      },
+      {
+        "name": "Muslin Newborn Swaddle Blanket",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0721/4207/products/feather_swaddle_blanket-removebg-preview_0ffa834f-de60-44f8-8ff2-4978d64e23ed_1400x.png?v=1584743544",
+        "description": "These soft cuddly blankets can be used in a variety of ways like a car seat cover, nursing, playtime, tummy time, stroller rides, receiving blanket and more.",
+        "clickUrl": "https://www.darlyngandco.com/collections/nursery/products/classic-muslin-newborn-swaddle-blanket?variant=31457542996102",
+        "shopName": "Darlyng & Co."
+      },
+      {
+        "name": "Teether Plush Sensory Toy- Glow in the dark",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0721/4207/products/yummy_buddy_teether_plush_toy-_sensory_plush_toy-autism_1400x.jpg?v=1526687421",
+        "description": "Yummy Buddy is designed to engage vision, auditory and fine motor skills from infant to toddler and beyond. Bright, contrasting patterns will fascinate baby as eyesight develops, and they can discover new sounds, colors, and textures before. There’s a multi-purpose clip designed for strollers or diaper bags so it can travel with you. Exploring role play fun at home and on the go. Yummy Buddy has crinkly ears, both chewable \"glow\" silicone hands, teething bib, multiple colors, and chimes when shaken, too! The perfect sensory chew toy.",
+        "clickUrl": "https://www.darlyngandco.com/collections/playtime/products/yummy-buddy-teether-plush-toy?variant=32607679815",
+        "shopName": "Darlyng & Co."
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",
@@ -281,7 +580,30 @@
     "title": "Double Dutch Dolls",
     "subtitle": "Through Fashion and Fun encourage young girls to explore and appreciate each other’s differences and similarities. Beauty comes in all shades and the brand seeks to create a community that celebrates the multicultural beauty of every child. ",
     "imageUrl": "https://i.ytimg.com/vi/mMu-VPRHayQ/mqdefault.jpg",
-    "clickUrl": "http://doubledutchdolls.com/",
+    "clickUrl": "http://doubledutchdolls.com/shop/",
+    "products": [
+      {
+        "name": "18\" African American Fashion Doll- Zaria Bradley",
+        "imageUrl": "http://doubledutchdolls.com/wp-content/uploads/Zaria-main-product-shot-300x450.jpg",
+        "description": "Hi! My name is Zaria Bradley. I am Kaila’s levelheaded, laidback twin-sister. My personal style is \"classic cool\". I’m into Soccer, Science, and keeping Kaila out of trouble, which is a huge job. I am in the 8th grade at Stylesboro Middle school. I am Captain of the Stingrays soccer team, President of the Science Club. I’ve got my future all planned out with a soccer scholarship, HBCU undergrad and med school.",
+        "clickUrl": "http://doubledutchdolls.com/product/18-african-american-fashion-doll-zaria-bradley/",
+        "shopName": "Double Dutch Dolls"
+      },
+      {
+        "name": "18\" African American Fashion Doll- Kaila Bradley",
+        "imageUrl": "http://doubledutchdolls.com/wp-content/uploads/Kaila-main-product-shot-300x450.jpg",
+        "description": "Hi! My name is Kaila Bradley and I love fashion. I am the creative mind behind the Double Dutch Dolls hip style. A budding fashionista, I design all of our clothes and have plans to launch my own fashion line, named none other than \"Double Dutch Dolls\" in honor of me and my also fabulous sister, Zaria. I am in the 8th grade at Stylesboro Middle school and Co-captain of the Stingrays Cheerleading team.",
+        "clickUrl": "http://doubledutchdolls.com/product/18african-american-fashion-doll-kaila-bradley/",
+        "shopName": "Double Dutch Dolls"
+      },
+      {
+        "name": "Double Dutch Dolls Book 1- \"Double Dare\"",
+        "imageUrl": "http://doubledutchdolls.com/wp-content/uploads/book1cover1-300x300.jpg",
+        "description": "Navigating middle school can be tricky. But, 14-year old twins Kaila and Zaria Bradley, known to everyone as the Double Dutch Dolls, seem to have it all figured out.",
+        "clickUrl": "http://doubledutchdolls.com/product/double-dutch-dolls-book-1-double-dare/",
+        "shopName": "Double Dutch Dolls"
+      }
+    ],
     "tags": [
       "Children",
       "Fashion",
@@ -315,7 +637,30 @@
     "title": "Koils by Nature",
     "subtitle": "It's the mission of Koils by Nature to provide beauty products, with highest quality plant-based ingredients, excellent customer service, and an educating, empowering, engaging our online community.",
     "imageUrl": "https://pbs.twimg.com/profile_images/839306915532402689/eGK-b4Gb_400x400.jpg",
-    "clickUrl": "https://www.koilsbynature.com/",
+    "clickUrl": "https://www.koilsbynature.com/collections/hair-care",
+    "products": [
+      {
+        "name": "Ultimate Beard Kit",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1170/9044/products/KBN-lifestyle-images-5.jpg?v=1603130178",
+        "description": "The Koils by Nature Beard Kit is an all-natural and certified vegan line of skin and hair care products developed exclusively for men. Gentle enough to use every day, and infused with soft, fresh scents, the kit includes the dual-action beard and face cleanser and shaving foam, a moisturizer, beard butter, and oil. When used regularly, each item works together to give your skin the moisture and healing it needs, so your beard can thrive - and look good as it grows. If you’ve experienced a dry, patchy beard, or are ready to finally see those pesky razor bump scars go away, we’ve got you! ",
+        "clickUrl": "https://www.koilsbynature.com/collections/hair-care/products/ultimate-beard-kit?variant=3165144088597",
+        "shopName": "Koils by Nature"
+      },
+      {
+        "name": "Nourishing Hair and Body Butter Marvelous Mango",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1170/9044/products/NourishingHairandBodyButterMarvelousMango_400x_crop_center.png?v=1600480731",
+        "description": "Nourishing Hair & Body Butter is made from the best butters & oils nature provides, it will moisturize, revitalize, heal, and protect your hair and skin. The lightly scented fresh mango scent will have you thinking of a tropical island! This butter smells delightful, please do not ingest, for external use only.",
+        "clickUrl": "https://www.koilsbynature.com/collections/hair-care/products/nourishing-hair-and-body-butter-marvelous-mango?variant=23937243718",
+        "shopName": "Koils by Nature"
+      },
+      {
+        "name": "Sage & Lemongrass Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1170/9044/products/400x400sageandleemongrass_1_400x_crop_center.png?v=1604024437",
+        "description": "Moisturized hair is healthy hair. When your natural hair is dry, it's frustrating and feels like a problem you'll never solve. Our Sage & Lemongrass Collection offers the hydration your dehydrated curls need.",
+        "clickUrl": "https://www.koilsbynature.com/collections/hair-care/products/new-sage-lemongrass-collection?variant=31420517646411",
+        "shopName": "Koils by Nature"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -341,7 +686,30 @@
     "title": "Puku",
     "subtitle": "Puku was founded in the aftermath of Hurricane Sandy after experiencing the hardship of living without the power to charge phones. And just like the animal, it retains the same essential qualities such as Power, Beauty and Speed.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/files/PUKU_LOGO_FINAL_WEB_x320.png?v=1521400391",
-    "clickUrl": "https://www.gotpuku.com/",
+    "clickUrl": "https://www.gotpuku.com/collections/all",
+    "products": [
+      {
+        "name": "Puku Light - Charger",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/Pink_dae53de9-f379-45d8-9d3f-aed275535c13_1050x.jpg?v=1510253485",
+        "description": "For the fashion-forward trendsetters who love technology and appreciate sleek design, Puku Light is a must-have portable charger to stay connected on the go.",
+        "clickUrl": "https://www.gotpuku.com/products/puku-light",
+        "shopName": "Puku"
+      },
+      {
+        "name": "Puku G8 - Earphones",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/puku-earphones_1050x.jpg?v=1509390430",
+        "description": "Enjoy music on the go or make phone calls with these tangle-free and high-resolution in-ear headphones.",
+        "clickUrl": "https://www.gotpuku.com/products/puku-earphones",
+        "shopName": "Puku"
+      },
+      {
+        "name": "Puku 12S Pro - Charger",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/electric-blue_d4cabf4a-6ca3-4d67-8105-8a5b3d49668e_1050x.jpg?v=1509404370",
+        "description": "Traveling long distances or for long periods of time can be an arduous process, but thankfully, with Puku 12S, keeping all your mobile devices charged along the way doesn’t have to be.",
+        "clickUrl": "https://www.gotpuku.com/products/puku-pro-1",
+        "shopName": "Puku"
+      }
+    ],
     "tags": [
       "Electronics",
       "Shop"
@@ -354,7 +722,30 @@
     "title": "Raycon",
     "subtitle": "Raycon is built around the mission that everyone deserves to enjoy great audio. We believe amazing audio experiences inspire go-getters around the world and power their everyday lives.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/files/Raycon_Logo_Black_250x@2x.png?v=1558447342",
-    "clickUrl": "https://rayconglobal.com/",
+    "clickUrl": "https://rayconglobal.com/collections/all",
+    "products": [
+      {
+        "name": "The Everyday E25 Earbuds",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/E25_black_front_1_180x.png?v=1589454571",
+        "description": "Our most compact wireless earbuds for your everyday grind. Designed to deliver more powerful sound than any earbuds of its size.",
+        "clickUrl": "https://rayconglobal.com/collections/all/products/e25-true-wireless-earbuds?variant=29457527963671",
+        "shopName": "Raycon"
+      },
+      {
+        "name": "The Trendsetter H20 Headphones",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/H20---Black---Angle-1_180x.png?v=1595962985",
+        "description": "Choose what you hear with superior noise cancellation that enhances sound quality while blocking outside distractions. Push the boundaries and find your flow with fully immersive surround sound.",
+        "clickUrl": "https://rayconglobal.com/collections/all/products/the-trendsetter-h20-headphones?variant=31258859044887",
+        "shopName": "Raycon"
+      },
+      {
+        "name": "The Runner's Belt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/MG_9494_180x.png?v=1598032021",
+        "description": "A nifty and lightweight belt to fuel your workouts. Hold your smartphone, Raycon earbuds, and other daily essentials for your run or gym sessions. ",
+        "clickUrl": "https://rayconglobal.com/collections/all/products/the-runners-belt?variant=31675383349271",
+        "shopName": "Raycon"
+      }
+    ],
     "tags": [
       "Electronics",
       "Shop"
@@ -368,6 +759,29 @@
     "subtitle": "Sorella was founded by two Boss Babes, Heather Sanders & Brittney Turner in 2012. We were 20 years old with no fashion background or training but a lot of hustle and drive! Starting with an inventory of 10 products and packing packages on the floor of our apartment, we never imagined how far we would get!",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/files/Sorella-Logo_Black_410x.jpg?v=1593820512",
     "clickUrl": "https://www.sosorella.com/",
+    "products": [
+      {
+        "name": "Orange Tie Dye Pant Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/products/s2778_2000x.jpg?v=1598307366",
+        "description": "Orange Tie Dye Pant Set",
+        "clickUrl": "https://www.sosorella.com/collections/sale/products/orange-tie-dye-pant-set",
+        "shopName": "Sorella"
+      },
+      {
+        "name": "Nude Square Toe Heeled Sandal",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/products/s0547_2000x.jpg?v=1602885226",
+        "description": "Our Nude Square Toe Heeled Sandal will accompany any outfit just perfectly. A thong style sandal featuring a square toe front with the overall perfect nude to match all your fits.",
+        "clickUrl": "https://www.sosorella.com/collections/shoes/products/nude-thong-heeled-sandal",
+        "shopName": "Sorella"
+      },
+      {
+        "name": "Swish Seen It All T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/products/11_271e99cf-2a20-48b2-bb9e-2e0d361b7560_2000x.jpg?v=1594931574",
+        "description": "Shirt reads \"I'm familiar with every ghetto\". Shirts run oversize. For regular fit, we recommend going a size down",
+        "clickUrl": "https://www.sosorella.com/collections/swish/products/swish-seen-it-all-t-shirt",
+        "shopName": "Sorella"
+      }
+    ],
     "tags": [
       "Accessories",
       "Home & Garden",
@@ -392,21 +806,37 @@
   {
     "id": "7396b2fd-eecf-4f9b-8a4c-ae81ffa9af22",
     "type": "shop",
-    "title": "EverHaven",
-    "subtitle": "I created EverHaven LLC because I wanted to offer my customers apparel and accessories that would allow them to \"live out loud.\" I absolutely love EVERYTHING about myself, and I want other people to feel just as proud of themselves. I hope to provide customers with a sense of pride in who they are.",
+    "title": "Gentleman AF",
+    "subtitle": "Gentleman AF is a beard care line featuring a beard wash, beard oils, and beard balms for classy men with a dash of savagery.",
     "imageUrl": "https://gentlemanaf.com/static/gaflogo1-93e4442bc763d731d913f086263fd00b.png",
-    "clickUrl": "https://gentlemanaf.com/",
+    "clickUrl": "https://gentlemanaf.com/products/",
+    "products": [
+      {
+        "name": "Beard Balms",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/usual_balm.jpg?v=1576609690",
+        "description": "Scoop a dime sized amount of beard balm with your finger and place it in the palm of your hands. Rub it between both palms until it melts. Apply it to your beard, comb it down and style as desired.",
+        "clickUrl": "https://gentlemanaf.com/beard-balms",
+        "shopName": "Gentleman AF"
+      },
+      {
+        "name": "Beard Wash",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/beard_wash1.jpg?v=1576608682",
+        "description": "Wet your face and neck, place a small amount of beard wash in the palm of your hands and massage it into your beard and face, including your neck. Rinse your beard thoroughly.",
+        "clickUrl": "https://gentlemanaf.com/beard-wash",
+        "shopName": "Gentleman AF"
+      },
+      {
+        "name": "Beard Oils",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/Usual_Oil.jpg?v=1576616038",
+        "description": "Shake well before use. Drop a dime sized amount of beard oil in the palm of your hands. Rub your hands and apply the oil from your skin to the tip of your beard.",
+        "clickUrl": "https://gentlemanaf.com/beard-oils",
+        "shopName": "Gentleman AF"
+      }
+    ],
     "tags": [
-      "Fashion",
-      "Clothing",
-      "Tees",
-      "Basics",
-      "Men’s",
-      "Women’s",
-      "Unisex",
-      "Accessories",
-      "Handbags",
-      "Electronics",
+      "Health & Beuty",
+      "Skincare",
+      "Beardcare",
       "Shop"
     ],
     "priority": 10
@@ -417,7 +847,30 @@
     "title": "RayTec Audio",
     "subtitle": "RayTec, wherever you go, your soundtrack should follow. Music has changed the world. It's a form of expression and should be heard at the highest, premium level. When you hear music that you like, when you're listening to a book of your choosing, you get excited, or motivated or you may become active.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/files/raytecnew2_892a1b23-98a4-4ba5-b815-f77d3897d747_x200@2x.png?v=1588639268",
-    "clickUrl": "https://raytecaudio.com/",
+    "clickUrl": "https://raytecaudio.com/collections/all",
+    "products": [
+      {
+        "name": "RayTec Airpods",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/IMG_8408_1_2048x.jpg?v=1597545048",
+        "description": "Ideal for hands free activities: Exercising, phone calls, music, working, audio books, and tuning the world out!",
+        "clickUrl": "https://raytecaudio.com/collections/all/products/raytec-airpods",
+        "shopName": "RayTec Audio"
+      },
+      {
+        "name": "RayTec Watch6 — Black Case",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/Untitleddesign_90_1296x.jpg?v=1605470497",
+        "description": "Make bluetooth calls through your watch for hands free communication. Read messages and notifications through this watch: Facebook, Instagram, Whatsapp and more.",
+        "clickUrl": "https://raytecaudio.com/collections/all/products/raytec-smart-watch-watch6",
+        "shopName": "RayTec Audio"
+      },
+      {
+        "name": "RayTec-C10 Headphones",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/IMG-20191022-204302-297_1080x.jpg?v=1591881575",
+        "description": "Comfy on the ears, Adjustable to fit on your head, Foldable, Chargeable, Super bass",
+        "clickUrl": "https://raytecaudio.com/collections/all/products/raytec",
+        "shopName": "RayTec Audio"
+      }
+    ],
     "tags": [
       "Fashion",
       "Clothing",

@@ -14,4 +14,35 @@
     ],
     "priority": 10
   },
+  {
+    "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
+    "type": "act",
+    "title": "Center for Black Equity",
+    "subtitle": "The Center for Black Equity is the National leader in connecting members of the Black LGBTQ+ community with information and resources to educate, engage and empower their fight for equity and access.",
+    "imageUrl": "https://www.capitalpride.org/wp-content/uploads/Center_Black_Equity_logo_square.png",
+    "clickUrl": "https://centerforblackequity.org/donate/",
+    "tags": [
+      "Donate",
+      "LGBTQ+",
+      "Intersectionality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
+    "type": "act",
+    "title": "Justice for Tianna (Donate for Legal Costs)",
+    "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
+    "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
+    "clickUrl": "https://www.gofundme.com/f/kzzrd-justice-for-tiana",
+    "tags": [
+      "Donate",
+      "Tianna",
+      "SLO",
+      "police",
+      "Act"
+    ],
+    "priority": 10
+  }
 ]

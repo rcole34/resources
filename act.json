@@ -13,7 +13,7 @@
       "Blake",
       "Act"
     ],
-    "priority": 8
+    "priority": 10
   },
   {
     "id": "1af28c42-f05e-48d5-bef0-0fe2b1335fe2",
@@ -31,22 +31,7 @@
       "Blake",
       "Act"
     ],
-    "priority": 8
-  },
-  {
-    "id": "3cc55f63-c2e0-4682-a06b-fff82dc7e25b",
-    "type": "act",
-    "title": "Center for Black Equity",
-    "subtitle": "The Center for Black Equity is the National leader in connecting members of the Black LGBTQ+ community with information and resources to educate, engage and empower their fight for equity and access.",
-    "imageUrl": "https://www.capitalpride.org/wp-content/uploads/Center_Black_Equity_logo_square.png",
-    "clickUrl": "https://centerforblackequity.org/donate/",
-    "tags": [
-      "Donate",
-      "LGBTQ+",
-      "Intersectionality",
-      "Act"
-    ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "e5a83362-ae46-4014-bca5-182acea4f578",
@@ -61,7 +46,7 @@
       "Education",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
@@ -76,7 +61,7 @@
       "Just Mercy",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "033d5551-c913-4bb0-9377-b318f49e6421",
@@ -89,7 +74,7 @@
       "Donate",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
@@ -103,7 +88,7 @@
       "NFL",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "1f7cfcdb-7fec-41cd-a5f9-86d340c35888",
@@ -117,22 +102,6 @@
       "Support",
       "Vote",
       "Ballot",
-      "Act"
-    ],
-    "priority": 9
-  },
-  {
-    "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
-    "type": "act",
-    "title": "Justice for Tianna (Donate for Legal Costs)",
-    "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
-    "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
-    "clickUrl": "https://www.gofundme.com/f/kzzrd-justice-for-tiana",
-    "tags": [
-      "Donate",
-      "Tianna",
-      "SLO",
-      "police",
       "Act"
     ],
     "priority": 10
@@ -149,7 +118,7 @@
       "tips",
       "Act"
     ],
-    "priority": 0
+    "priority": 10
   },
   {
     "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
@@ -160,9 +129,9 @@
       "https://secure.actblue.com/donate/ms_blm_homepage_2019",
       "https://freemindsbookclub.networkforgood.com/",
       "https://policingequity.org/donate",
-      "https://secure.givelively.org/donate/the-bail-project",
+      "https://bailproject.org/?form=donate",
       "https://www.liberationlib.com/donate.html",
-      "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
+      "https://www.innocenceproject.org/donate",
       "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
       "https://secure.actblue.com/contribute/page/support-us?refcode=blmdigest",
       "https://www.gofundme.com/f/minnesota-poc-business-support",
@@ -171,8 +140,7 @@
       "https://www.gofundme.com/f/i-run-with-maud",
       "https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.9455541.1027522363.1591037092-128121824.1591037092",
       "https://chicagobond.org/donate/",
-      "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
-      "https://www.gofundme.com/f/kzzrd-justice-for-tiana"
+      "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"
     ],
     "info": "Update to the latest version of the app to get access to this feature",
     "tags": [
@@ -183,7 +151,7 @@
       "Donate",
       "Act"
     ],
-    "priority": 9
+    "priority": 10
   },
   {
     "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
@@ -234,7 +202,7 @@
     "title": "The Bail Project",
     "subtitle": "The Bail Project™ National Revolving Bail Fund is on a mission to combat mass incarceration and reshape the pretrial system in the United States. 100% of online donations are used to bring people home. Since bail money comes back to us when cases close, we're able to recycle every dollar donated at least twice per year.",
     "imageUrl": "https://pbs.twimg.com/profile_images/928396415792971776/B1ru32wF.jpg",
-    "clickUrl": "https://secure.givelively.org/donate/the-bail-project",
+    "clickUrl": "https://bailproject.org/?form=donate",
     "tags": [
       "Bail",
       "Nonprofit",
@@ -265,7 +233,7 @@
     "title": "Innocence Project",
     "subtitle": "Donate to help free the innocent in 2020. Be a part of the Innocence Project’s groundbreaking work to free innocent people and transform the legal system. With your support, we can do even more in 2020 — donate today.",
     "imageUrl": "https://www.innocenceproject.org/wp-content/uploads/2019/04/thumbnail-small.png",
-    "clickUrl": "https://www.innocenceproject.org/donate/?f_src=FY20_web_x_gen_nmat_campTop000Button_Main",
+    "clickUrl": "https://www.innocenceproject.org/donate",
     "tags": [
       "Bail",
       "Nonprofit",
@@ -300,7 +268,8 @@
       "police reform",
       "actblue",
       "Donate",
-      "Act"
+      "Act",
+      "Vote"
     ],
     "priority": 10
   },
@@ -326,7 +295,7 @@
     "title": "National Bail Out",
     "subtitle": "National Bail Out is a Black-led and Black-centered collective of abolitionist organizers, lawyers and activists building a community-based movement to support our folks and end systems of pretrial detention and ultimately mass incarceration. We are people who have been impacted by cages — either by being in them ourselves or witnessing our families and loved ones be encaged. We are queer, trans, young, elder, and immigrant.",
     "imageUrl": "https://actblue-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/22829/header/image_url/nboactbluebanner.png",
-    "clickUrl": "https://secure.actblue.com/donate/national-bail-out-1?amount=$100",
+    "clickUrl": "https://secure.actblue.com/donate/national-bail-out-1?refcode=blmdigest",
     "tags": [
       "bail",
       "actblue",
@@ -346,6 +315,272 @@
       "Help",
       "Code",
       "Support",
+      "Volunteer",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "98bc55c0-02cd-4eb1-95f7-a9492cbb7d22",
+    "type": "act",
+    "title": "Charge the cops who shot Jacob Blake",
+    "subtitle": "Jacob Blake, 29, was shot by Kenosha, Wisconsin police officers in the back 7 times on August 23, 2020. Officers were on the scene due to a fight, which Jacob Blake was trying to break up. The cops who shot him need to be charged. ",
+    "imageUrl": "https://assets.change.org/photos/1/hy/cp/AVHyCPjKBSyVyPc-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/tony-evers-charge-the-cops-who-shot-jacob-blake",
+    "tags": [
+      "Sign",
+      "Jacob",
+      "Jake",
+      "Blake",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
+    "type": "act",
+    "title": "Support our Young Protest Leaders #freetianna",
+    "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
+    "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/slo-county-district-attorney-support-our-young-protest-leaders",
+    "tags": [
+      "Sign",
+      "Tianna",
+      "SLO",
+      "peaceful protest",
+      "police",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",
+    "type": "act",
+    "title": "Justice for George Floyd",
+    "subtitle": "Reach the attention of Mayor Jacob Frey and DA Mike Freeman to beg to have the officers involved in this disgusting situation fired and for charges to be filed immediately.",
+    "imageUrl": "https://assets.change.org/photos/0/la/lt/mylaLTYqhScqWHI-800x450-noPad.jpg?1590516227",
+    "clickUrl": "https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd",
+    "tags": [
+      "George Floyd",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3815c05d-f604-4306-8431-f260f1d296aa",
+    "type": "act",
+    "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
+    "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
+    "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
+    "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
+    "tags": [
+      "Police",
+      "Minnesota",
+      "MN",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cbbf6fd6-c1c0-4acf-a755-0837fea6b1ed",
+    "type": "act",
+    "title": "#JusticeforBre: Police officers who killed Breonna Taylor must be FIRED.",
+    "subtitle": "Call for the three police officers responsible for the death of Breonna Taylor to be fired and charged for murder.",
+    "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/Actionkit.jpg",
+    "clickUrl": "https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired",
+    "tags": [
+      "Breonna Taylor",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2010dcdc-8593-4283-98d0-2434e0da1971",
+    "type": "act",
+    "title": "Fight for Breonna",
+    "subtitle": "Breonna survived the frontlines of a pandemic that disproportionately kills Black people, only to have her life stolen by police. Take Action.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ebafb89d75bc12ca3897a1a/1589315548487-BEQ2W2D4ARXHT2QMDTOT/ke17ZwdGBToddI8pDm48kKbTw0ia4WdGkh48BIKpgP5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEEZR9t5sHqbjiHi0OYvkuUc_LAkmd_MXQliowrWFNlnvsx_YZgDp-9o3pOVQ1j0lQ/Image-from-iOS-3-Cropped.jpg",
+    "clickUrl": "https://justiceforbreonna.org/",
+    "tags": [
+      "Breonna Taylor",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8bc94352-854b-4b04-ac17-c09e611856a2",
+    "type": "act",
+    "title": "Defund12.org",
+    "subtitle": "Email and mail government officials and council members to reallocate egregious police budgets towards education, social services, and dismantling racial injustice.",
+    "imageUrl": "https://wjla.com/resources/media/9f511569-c92a-4d26-a1df-98d4a538e127-large3x4_GettyImages1248266118.jpg?1591896691229",
+    "clickUrl": "https://defund12.org/",
+    "tags": [
+      "Defund the police",
+      "Email",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
+    "type": "act",
+    "title": "Justice for Julius Jones",
+    "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
+    "emailInfo": {
+      "recipients": [
+        "Boardmembers@ppb.ok.gov"
+      ],
+      "subject": "Justice for Julius Jones",
+      "messageBody": "<p>Dear Oklahoma Pardon &amp; Parole Board members,</p>  <p>I strongly feel that Julius Darius Jones (# 270147) was wrongfully convicted of murder and sentenced to death in 2002. A crime for which he has always maintained his innocence.</p>  <p>Jones, a black 19 year old man, was arrested in 1999 for shooting white insurance executive Paul Scott Howell in Edmond, Oklahoma. At the time of his arrest, Julius was a successful athlete and honor student on scholarship at the University of Oklahoma.</p>  <p>Recently, new evidence of racial bias in the Jones&rsquo; case has been uncovered by the ABC documentary, &ldquo;The Last Defense.&rdquo;</p>  <p>One day after the documentary finale aired (7-25-18), the Oklahoma Criminal Court of Appeals released a document indicating they could take a look at the Jones&rsquo; case.</p>  <p>There are many factors that were overlooked and never presented during the Julius Jones trial.<br> 1. Jones&rsquo; attorney during the trial was inexperienced by his own admission and this was his first death penalty case.<br> 2. Several key pieces of evidence were never presented to the jury.<br> 3. Tunnel vision set in and the police and prosecutor ignored evidence pointing to others as the shooter.<br> 4. The court ignored an alleged racial statement made by one of the jurors<br> 5. The jury judged Jones based on his race.<br> After viewing the recent ABC documentary, &ldquo;The Last Defense,&rdquo; I am even more convinced than ever of Julius&rsquo; innocence and that he should be given a new trial. I also ask that District Attorney David Prater release Julius Jones&rsquo; case files to his attorneys in order to promote public trust in both the criminal justice system and in Julius Jones&rsquo;s case.</p>  <p>We all have all heard the phrase &lsquo;beyond a shadow of doubt.&rsquo; To me, there is more than a shadow of doubt in this case.</p>  <p>Please, I ask that you do whatever is within your power to support Julius Jones&rsquo; Clemency Petition and see that this injustice &ndash; the wrongful conviction of Julius Jones &ndash; is overturned.</p>  <p>Thank you,<br> [Your Name]<br> [Your location]</p>",
+      "isHtml": true
+    },
+    "tags": [
+      "Wrongful conviction",
+      "Email",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2e43e12c-a850-4762-93c4-0c9b84868cf4",
+    "type": "act",
+    "title": "Ban or Restrict Tear Gas",
+    "subtitle": "The use of tear gas has been banned and is illegal in war. This same tear gas is used by the law enforcement, to control unarmed crowds protesting for the BLM movement. Tear gas is also used for border control and is thrown at innocent migrants who are unarmed and pose no sudden threat to anyone in the vicinity. ",
+    "imageUrl": "https://assets.change.org/photos/7/qf/ns/CxQFnsFkeBSTXsL-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/ban-or-restrict-tear-gas",
+    "tags": [
+      "Tear gas",
+      "Sign",
+      "protests",
+      "police brutality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0d6db1e2-2bc7-4ffa-8125-5e64255f0197",
+    "type": "act",
+    "title": "Reopen Sandra Bland's Case",
+    "subtitle": "Sandra Bland was arrested for a traffic stop on July 10, 2015 by Brian Encinia.  She was found dead in her cell three days later. Encinia was never indicted, in spite of the fact, that he physically assaulted her her on camera. There is a new video that has come to light, which may have been hidden from the grand jury.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandra_Bland_re-crop.jpg/180px-Sandra_Bland_re-crop.jpg",
+    "clickUrl": "https://www.change.org/p/texas-governor-i-want-sandra-bland-s-case-reopened",
+    "tags": [
+      "Death",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "b18107e2-84ea-4ba4-b249-18ac6a4d744e",
+    "type": "act",
+    "title": "Classify White Supremacist Groups as Domestic Terrorist Organizations",
+    "subtitle": "Request a new legal requirement to register, classify, and subsequently surveil white supremacist organizations as domestic terrorist organizations. By classifying these groups as intimidating to the American population and dangerous to human life, the institutions responsible for protecting citizens against such groups will have the necessary information and resources to prevent further destruction carried out by these violent terrorist groups.",
+    "imageUrl": "https://assets.change.org/photos/4/bb/uc/QqbbUCcfLkgAZfm-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/clare-linkins-executive-director-of-national-counterterrorism-center-lift-the-hoods-classify-white-supremacist-groups-as-domestic-terrorist-organizations",
+    "tags": [
+      "Sign",
+      "KKK",
+      "White supremacy",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "199d2ba3-7307-4f9f-9873-ff414e80f7c7",
+    "type": "act",
+    "title": "Justice for the Murder of Rayshard Brooks",
+    "subtitle": "Rayshard Brooks, an unarmed, 27 year old Black man was murdered after 3 officers responded to complaints of him sleeping in his vehicle in the Wendy’s parking lot. After struggling with the officers, Brooks began to run for his life, when he was shot in the back more than once.",
+    "imageUrl": "https://assets.change.org/photos/9/eb/kf/kHeBkFeOlDpegnQ-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/atlanta-police-department-justice-for-the-murder-of-rayshard-brooks",
+    "tags": [
+      "Sign",
+      "police brutality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "673836b8-a976-4683-815f-1a66394c358c",
+    "type": "act",
+    "title": "End Police Militarization and Over-Policing",
+    "subtitle": "The tragic and unnecessary killings of George Floyd, Breonna Taylor, Tony McDade – and countless Black people at the hands of law enforcement – confirms what we've known for too long: Lawmakers must take serious action to fix the racist policing systems in our country.",
+    "imageUrl": "https://action.aclu.org/files/aclu/police_defunding_action_1160x650.jpg",
+    "clickUrl": "https://action.aclu.org/send-message/congress-end-police-militarization-and-over-policing-our-communities-now",
+    "tags": [
+      "Sign",
+      "ACLU",
+      "police brutality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7bc3f17e-b631-40dd-b3cb-76255770846e",
+    "type": "act",
+    "title": "Abolish Prison Labor in the USA",
+    "subtitle": "Prison labor is a form of modern American slavery used by multiple large corporations across the world. Under the 13th Amendment to the United States Constitution, slavery was merely reformed rather than abolished. Racial justice in the USA cannot be achieved until prison labor is abolished completely.",
+    "imageUrl": "https://assets.change.org/photos/9/kz/mn/SjKzMNrHLXfZhNL-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/federal-bureau-of-prisons-abolish-prison-labour-in-the-usa",
+    "tags": [
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d0311ed1-fc26-4f5f-8966-47307cfb3e63",
+    "type": "act",
+    "title": "Justice for Tete Gulley",
+    "subtitle": "Tete Gulley was a 31 year old queer Black transient. She was also known by some of her family as Otis. She was found hanging from a tree on the evening of May 27th 2019 in Rocky Butte Park. The cause of death was determined to be suicide at the scene but there is evidence of foul play.",
+    "imageUrl": "https://assets.change.org/photos/3/bb/ok/xgBBOKLXGIFcDIM-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/portland-police-bureau-justice-for-tete",
+    "tags": [
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e4f4c4d4-282c-4ecd-af98-3663167962c4",
+    "type": "act",
+    "title": "Justice for Dominique Fells",
+    "subtitle": "June 9th, another black trans woman named Dominique Fells was murdered and thrown in a river. The violence against black trans women needs to stop. We cannot allow for the murder of this young woman to go unpunished.",
+    "imageUrl": "https://assets.change.org/photos/0/wk/vj/GwWKVjJXItZfLjw-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/philadelphia-police-department-justice-for-dominique-fells",
+    "tags": [
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d7078827-a920-47bf-8e80-91ecd315bc6f",
+    "type": "act",
+    "title": "Justice for Lakeith Smith",
+    "subtitle": "Lakeith Smith, now 20, was charged with the murder of his friend, A’Donte Washington when he was only 15— a crime he did not commit. A'donte died at the hands of a policeman, after the police fired 4 rounds into him - and he currently walks free.",
+    "imageUrl": "https://assets.change.org/photos/9/dg/ac/XedGaCQhAKkytGa-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/united-states-supreme-court-justice-for-lakeith-smith",
+    "tags": [
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "6e0d8fe3-55da-43b3-8e2c-d822139455c0",
+    "type": "act",
+    "title": "Justice For Tony McDade",
+    "subtitle": "Tony McDade was a transgender black man who got killed by police in Tallahassee. Sign this petition and encourage others to do so as well to get his name out there.",
+    "imageUrl": "https://assets.change.org/photos/5/iw/ta/hGIWtaAaRuIKGJv-800x450-noPad.jpg",
+    "clickUrl": "https://www.change.org/p/justice-for-tony-mcdade",
+    "tags": [
+      "Sign",
       "Act"
     ],
     "priority": 10

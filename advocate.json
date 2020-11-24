@@ -13,29 +13,7 @@
       "Blake",
       "Advocate"
     ],
-    "priority": 8
-  },
-  {
-    "id": "cd70ab5a-c13f-43ab-afd5-f41c4a1ba7bc",
-    "type": "advocate",
-    "title": "Justice for Jacob Blake",
-    "subtitle": "Text Jake to 55156 to demand the immediate firing and arrest of the officer who attempted to murder him.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Color_of_Change_logo_2020.png",
-    "textInfo": {
-      "recipients": [
-        "55156"
-      ],
-      "body": "JAKE"
-    },
-    "tags": [
-      "Text",
-      "Sign",
-      "Jacob Blake",
-      "Kenosha",
-      "Wisconsin",
-      "Advocate"
-    ],
-    "priority": 8
+    "priority": 10
   },
   {
     "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
@@ -50,41 +28,6 @@
       "SLO",
       "peaceful protest",
       "police",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
-    "type": "advocate",
-    "title": "Email for Tianna Arata",
-    "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
-    "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
-    "emailInfo": {
-      "recipients": [
-        "ddow@co.slo.ca.us",
-        "fisherlaw78@yahoo.com"
-      ],
-      "subject": "We demand that all charges against Tianna Arata be dropped",
-      "messageBody": "<p>Hi, my name is [Your name]</p>  <p>I am contacting you regarding the arrest of local leader and activist Tianna Arata. Tianna is an extremely brave young person who has put her body on the line for her community, peacefully protesting throughout the past weeks against systemic racism and white supremacy. Tianna has a long history of being an activist and has always advocated for those in marginalized communities in every aspect of her life.</p>  <p>The SLO protests have been extremely peaceful, and the night of her arrest was no different. On July 21, after the protest was winding down, Tianna was forcefully and violently arrested by six police officers. Witnesses say she was with friends, putting their stuff back into their cars. She was charged with five counts, including two felonies, one of which was inciting a riot. All reporting on this night of protests say it was extremely peaceful.</p>  <p>It is obvious that the city of SLO is violently targeting this leader of the local Black Lives Matter movement in an attempt to quell resistance to racism and oppression. She has never advocated for any sort of violence in her protests, for this reason exactly. Leaders, especially young Black women, are often targeted simply for standing up for their lives and rights, and trying to better their communities. It is abhorrent that SLO is participating in this display of state violence and white supremacy. Because of this, I demand that all charges be dropped against Tianna and she be returned to her family immediately.</p>  <p>Tianna is innocent. I stand with her and reaffirm that her life and freedom matters, as well as the lives of all Black SLO residents. Correct your mistakes. Listen to your people. Do better.</p>  <p>As of Monday, August 10th, the charges against Tianna have been increased to four felony counts of false imprisonment, one count of felony conspiracy, and three misdemeanors. Tianna faces up to FIFTEEN years in prison because of these ludicrous charges. Facing these charges and possibly being convicted is leading, and will lead to, devastating repercussions for Tianna. Already, she is dealing with extreme anxiety, harassment, feeling unsafe in her own home and community, and more. Her future will be destroyed. Her dreams will be squashed. She is a leader, a student, an extremely hard worker, a beacon of joy and light, an athlete, a creative, a daughter, and most of all a person. Again, these charges will destroy Tianna's life. Drop them immediately.</p>  <p>Sincerely,</p>  <p>[Your name]</p>",
-      "isHtml": true
-    },
-    "tags": [
-      "Email",
-      "SLO",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "ed4c3a84-1178-42e4-99c4-00a92e704a8d",
-    "type": "advocate",
-    "title": "Justice for Breonna Taylor - White House Petition",
-    "subtitle": "Sign the White House petition to demand justice for Breonna Taylor.",
-    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
-    "clickUrl": "https://petitions.whitehouse.gov/petition/justice-breonna-taylor-5",
-    "tags": [
-      "Sign",
       "Advocate"
     ],
     "priority": 10
@@ -148,20 +91,6 @@
     "priority": 10
   },
   {
-    "id": "6f2848b7-9e6b-4949-9c1b-25f5461984db",
-    "type": "advocate",
-    "title": "Call to demand justice for Breonna Taylor",
-    "subtitle": "Call 502-735-1784 to tell key decision-makers that the police who murdered Breonna Taylor must be arrested immediately.",
-    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
-    "phoneNumber": "5027351784",
-    "tags": [
-      "Call",
-      "Breonna Taylor",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
     "id": "8bc94352-854b-4b04-ac17-c09e611856a2",
     "type": "advocate",
     "title": "Defund12.org",
@@ -170,27 +99,6 @@
     "clickUrl": "https://defund12.org/",
     "tags": [
       "Defund the police",
-      "Email",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "0fe85092-35bb-4667-82ef-90d661129a4f",
-    "type": "advocate",
-    "title": "Email the mayor of Louisville",
-    "subtitle": "Send a pre-filled email to Mayor Fischer of Louisville, KY to demand he holds the officers who killed Breonna Taylor accountable.",
-    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
-    "emailInfo": {
-      "recipients": [
-        "greg.fischer@louisvilleky.gov"
-      ],
-      "subject": "Accountability for Breonna Taylor",
-      "messageBody": "<p>Mayor Fischer,</p>  <p>Like thousands of people across the country, I was appalled to hear about Breonna Taylor's murder on March 13th. Echoing the requests of Louisville community organizers, the following demands must be met to ensure that the officers responsible for Breonna's death are held accountable for their brash, reprehensible actions:</p>  <ol><li>Your office and the Louisville City Council must address the use of force by the Louisville Metro Police</li> <li>The officers that killed Breonna (Sgt. Jonathan Mattingly, Detective Brett Hankison, and Detective Myles Cosgrove) must be fired, and have their pensions revoked</li> <li>Ensure that all necessary information is provided to a local, independent civilian community police accountability council</li> <li>Create policy for a transparent investigation process due to law enforcement misconduct</li> <li>Appoint a special prosecutor to bring forward charges against the officers and oversee all parts of this case</li></ol> <p>It is imperative that you condemn the actions of these officers. Raids cannot be performed with a shoot first, ask questions later mentality. Too many lives have been lost this way, and too often \"danger\" is determined by deeply entrenched racial biases, not actual threat level.</p> <p>It is a tragedy that Breonna Taylor is not alive today. Police must be held to a higher standard than this. I trust that your office and the involved parties will do the right thing.</p>  <p>Sincerely,</p> <p>[Your name] from [Your location]</p>",
-      "isHtml": true
-    },
-    "tags": [
-      "Breonna Taylor",
       "Email",
       "Advocate"
     ],
@@ -213,109 +121,6 @@
     "tags": [
       "Wrongful conviction",
       "Email",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "2eb65d38-ca24-4906-8937-79895abea10e",
-    "type": "advocate",
-    "title": "Protect Protestors from Federal Officers",
-    "subtitle": "The goal of this petition is to stop federal officers from detaining protestors in Portland, Oregon. These officers are arresting peaceful protestors in unmarked vehicles without identifying themselves. Gov. Kate Brown has described this as a \"blatant abuse of power\".",
-    "imageUrl": "https://static.change.org/favicon/favicon-400x400.png",
-    "clickUrl": "https://www.change.org/p/department-of-homeland-security-stop-federal-officers-from-interfering-in-portland-protests",
-    "tags": [
-      "Sign",
-      "Portland",
-      "kidnap",
-      "Change.org",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
-    "type": "advocate",
-    "title": "Justice for George Floyd",
-    "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
-    "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
-    "textInfo": {
-      "recipients": [
-        "668366"
-      ],
-      "body": "JUSTICE"
-    },
-    "tags": [
-      "Email",
-      "Sign",
-      "Floyd",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "285fe12e-0619-46a1-9029-a3b1d08225e2",
-    "type": "advocate",
-    "title": "Justice for George Floyd",
-    "subtitle": "Text FLOYD to 55156 to demand every cop involved in the murder of George Floyd be charged without bail.",
-    "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
-    "textInfo": {
-      "recipients": [
-        "55156"
-      ],
-      "body": "FLOYD"
-    },
-    "tags": [
-      "Email",
-      "Sign",
-      "Floyd",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "e576ecad-eee4-472b-96fd-c2d27c96e90c",
-    "type": "advocate",
-    "title": "Justice for Breonna Taylor",
-    "subtitle": "Text ENOUGH to 55156 to demand that the officers involved in the murder of Breonna Taylor be charged.",
-    "imageUrl": "https://static.limportante.fr//img/downloaded/square/9/0/907e79155ce93878be472cbfbc94fe19.jpeg",
-    "textInfo": {
-      "recipients": [
-        "55156"
-      ],
-      "body": "ENOUGH"
-    },
-    "tags": [
-      "Sign",
-      "Email",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "675834e1-3d99-43a9-8b31-f3262dbe6b9b",
-    "type": "advocate",
-    "title": "Justice for Toyin Salau",
-    "subtitle": "Oluwatoyin “Toyin” Salau was a 19-year old black woman whose life was tragically taken by an unknown man. Salau was an avid protestor for the Black Lives Matter movement, and was also battling homelessness.",
-    "imageUrl": "https://assets.change.org/photos/7/fq/qh/fsfQqHmaqAYHFFH-800x450-noPad.jpg",
-    "clickUrl": "https://www.change.org/p/tallahassee-police-to-bring-her-justice",
-    "tags": [
-      "Sign",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "4339a350-ddf0-48b1-92e8-bbf2b1bc5678",
-    "type": "advocate",
-    "title": "Tell Congress to protect Black voters",
-    "subtitle": "The ability to vote for people and policies that respect Black lives has always been a matter of life and death. But this year, certain accommodations for voters are urgently needed to protect our health and our rights from the COVID-19 outbreak and increases in violent rhetoric and behavior targeting Black people.",
-    "imageUrl": "https://static.colorofchange.org/static/v3/images/logo-graphic.png",
-    "clickUrl": "https://act.colorofchange.org/sign/heroesactpetition-congress",
-    "tags": [
-      "Sign",
-      "Vote",
-      "HEROES act",
       "Advocate"
     ],
     "priority": 10
@@ -416,20 +221,6 @@
     "clickUrl": "https://www.change.org/p/portland-police-bureau-justice-for-tete",
     "tags": [
       "Sign",
-      "Advocate"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "47d52aaa-26e3-46dd-8afb-5f478b360169",
-    "type": "advocate",
-    "title": "Abolish The Law Enforcement Officers' Bill of Rights",
-    "subtitle": "Officers should not be held above the law or its people, they should not be given special immunity and neither should the government. We should not fear our government, elected officials, military and law enforcement officers. Everyone should be held accountable for their actions.",
-    "imageUrl": "https://assets.change.org/photos/2/js/bp/PHJSBPatdQoGvhA-800x450-noPad.jpg",
-    "clickUrl": "https://www.change.org/p/the-people-abolish-the-law-enforcement-officers-bill-of-rights-leobr-or-leobor",
-    "tags": [
-      "Sign",
-      "Police brutality",
       "Advocate"
     ],
     "priority": 10

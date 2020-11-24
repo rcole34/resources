@@ -712,17 +712,15 @@
     "priority": 10
   },
   {
-    "id": "d8e9aa95-2cb2-49ae-9211-09b95a6e719c",
+    "id": "149971c0-ffc6-47c3-bc8f-db0bbdc49bea",
     "type": "shop",
-    "title": "Ka'oir Fitness",
-    "subtitle": "Ka'oir Fitness, founded in 2011 by celebrity Keyshia Ka'oir is a fitness line of patented, trademarked fat burners to help people lose weight faster than ever.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/files/kaoir-fitness-logo-white_67f4b0ff-b6fd-4a32-97bb-2afc54a7290f_360x.png?v=1523565121",
-    "clickUrl": "https://kaoirfitness.com/",
+    "title": "Maeday Gourmet Sauces and Rubs",
+    "subtitle": "All of our barbecue sauces are gluten free and made without high fructose corn syrup. If you read our ingredient list you won’t find anything that you will have to google to figure out what it is and what the effects will be on your body. We believe that the cleaner the ingredients then the cleaner the taste.",
+    "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/cropped-Allprod.2018.jpg",
+    "clickUrl": "https://www.maedaybbq.com/",
     "tags": [
-      "Health & Beauty",
-      "Wellness",
       "Food & Beverage",
-      "Coffee & Tea",
+      "Condiments & Spices",
       "Shop"
     ],
     "priority": 10

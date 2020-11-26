@@ -47,7 +47,7 @@
   "2": [
     {
       "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
-      "type": "educate",
+      "type": "learn",
       "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
       "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
@@ -55,13 +55,13 @@
       "tags": [
         "Listen",
         "Podcast",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
-      "type": "educate",
+      "type": "learn",
       "title": "What Happened on May 25th?",
       "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
@@ -70,7 +70,7 @@
         "Read",
         "Sign",
         "Donate",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -111,7 +111,7 @@
   "4": [
     {
       "id": "fc8f3fcf-6013-49fc-8f19-70ab221b41de",
-      "type": "educate",
+      "type": "learn",
       "title": "Did you really just say that?",
       "subtitle": "Here's advice on how to confront microaggressions, whether you're a target, bystander or perpetrator",
       "imageUrl": "https://www.apa.org/images/2017-01-micoraggression_tcm7-211877.jpg",
@@ -120,13 +120,13 @@
         "Read",
         "Article",
         "Microaggressions",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "c2971b03-df1a-43f6-aa26-cc5a8fc1e560",
-      "type": "educate",
+      "type": "learn",
       "title": "Not all Black people are African American. Here's the difference.",
       "subtitle": "Black Lives Matter protests have opened up conversations about the history of privilege, racism, and the lived experiences and identities of black people in America. Now, the distinction between \"Black\" and \"African American\" has become a prominent conversation on social media.",
       "imageUrl": "https://pbs.twimg.com/media/EaO0hvbXsAgNTHz?format=jpg&name=360x360",
@@ -135,7 +135,7 @@
         "Read",
         "Article",
         "CBS News",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -159,7 +159,7 @@
     },
     {
       "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
-      "type": "educate",
+      "type": "learn",
       "title": "The Case for Reparations",
       "subtitle": "Two hundred fifty years of slavery. Ninety years of Jim Crow. Sixty years of separate but equal. Thirty-five years of racist housing policy. Until we reckon with our compounding moral debts, America will never be whole.",
       "imageUrl": "https://cdn.theatlantic.com/thumbor/t4pvjoz7Wf91fkWzHoxyxhBDfkM=/media/img/2015/08/26/reparations_2/original.jpg",
@@ -170,7 +170,7 @@
         "Atlantic",
         "Article",
         "Coates",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -178,7 +178,7 @@
   "6": [
     {
       "id": "3815c05d-f604-4306-8431-f260f1d296aa",
-      "type": "advocate",
+      "type": "act",
       "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
       "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
       "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
@@ -188,7 +188,7 @@
         "Minnesota",
         "MN",
         "Sign",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     },
@@ -228,7 +228,7 @@
     },
     {
       "id": "35de3191-81a3-46cf-9613-c9b58d7163be",
-      "type": "educate",
+      "type": "learn",
       "title": "The Hate U Give",
       "subtitle": "Based on the best-selling novel, The Hate U Give tells the story of Starr Carter, who lives in two worlds: the poor, black neighborhood where she resides and the mostly white prep school she attends. This uneasy balance is shattered when she witnesses the fatal shooting of her childhood friend by a policeman. Facing pressures from all sides, Starr must find her voice and stand up for what’s right.",
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
@@ -237,7 +237,7 @@
         "Watch",
         "Movie",
         "Police brutality",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -245,7 +245,7 @@
   "8": [
     {
       "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
-      "type": "educate",
+      "type": "learn",
       "title": "Find Your Representatives",
       "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
       "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",
@@ -255,7 +255,7 @@
         "representatives",
         "senator",
         "congress",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -278,7 +278,7 @@
   "9": [
     {
       "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
-      "type": "advocate",
+      "type": "act",
       "title": "Justice for Julius Jones",
       "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
@@ -293,7 +293,7 @@
       "tags": [
         "Wrongful conviction",
         "Email",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     },
@@ -318,7 +318,7 @@
   "10": [
     {
       "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
-      "type": "educate",
+      "type": "learn",
       "title": "Learn about Julius Jones",
       "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
       "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
@@ -326,13 +326,13 @@
       "tags": [
         "Listen",
         "podcast",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "98689647-3988-4845-adc5-7fa30d642159",
-      "type": "educate",
+      "type": "learn",
       "title": "Learn about Julius Jones",
       "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
@@ -341,7 +341,7 @@
         "Julius Jones",
         "Watch",
         "documentary",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -349,7 +349,7 @@
   "11": [
     {
       "id": "4e6edfeb-0518-4f1f-86dc-104020869481",
-      "type": "educate",
+      "type": "learn",
       "title": "Seeing White Podcast Series",
       "subtitle": "Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.",
       "imageUrl": "https://www.uncsa.edu/mysa/img/announcements/2019/seeing-white.jpg",
@@ -358,13 +358,13 @@
         "Listen",
         "white privilege",
         "podcast",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
-      "type": "advocate",
+      "type": "act",
       "title": "Justice for George Floyd",
       "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
       "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
@@ -378,7 +378,7 @@
         "Email",
         "Sign",
         "Floyd",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     }
@@ -386,7 +386,7 @@
   "12": [
     {
       "id": "1743325b-7077-4fa4-b9bb-0f76df036d84",
-      "type": "educate",
+      "type": "learn",
       "title": "1619 Podcast",
       "subtitle": "An audio series from The Times observing the 400th anniversary of the beginning of American slavery.",
       "imageUrl": "https://static01.nyt.com/images/2019/09/11/podcasts/1619-album-art/1619-album-art-thumbLarge.jpg",
@@ -396,7 +396,7 @@
         "Slavery",
         "History",
         "Podcast",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -439,7 +439,7 @@
   "13": [
     {
       "id": "ec824ef5-ceda-4656-babf-5cf4999f539d",
-      "type": "educate",
+      "type": "learn",
       "title": "The Costs of Racism to White People",
       "subtitle": "We tend to think of racism as a problem for people of color and something we should be concerned about for their sake. However, the costs of racism to white people are devastating, especially to those of us without the money and power to buffer their effects.",
       "clickUrl": "http://paulkivel.com/wp-content/uploads/2015/07/thecostsofracism.pdf",
@@ -447,13 +447,13 @@
         "Read",
         "White privilege",
         "costs",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "25907769-5c6f-4481-bcce-ea36a57208ce",
-      "type": "educate",
+      "type": "learn",
       "title": "Accountability in a Time of Justice",
       "subtitle": "Accountability is a well-worn word in social justice circles. We have worked hard to figure out what accountability means to us as we attempt to walk our social justice talk.",
       "clickUrl": "http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/accountability.jjo.drworks.pdf",
@@ -461,7 +461,7 @@
         "Read",
         "Accountability",
         "Justice",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -469,7 +469,7 @@
   "14": [
     {
       "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
-      "type": "educate",
+      "type": "learn",
       "title": "Just Mercy: A Story of Justice and Redemption",
       "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
       "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
@@ -480,7 +480,7 @@
         "criminal justice",
         "prison",
         "read",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -524,7 +524,7 @@
     },
     {
       "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
-      "type": "educate",
+      "type": "learn",
       "title": "Ava DuVernay's \"13th\"",
       "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
       "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
@@ -533,7 +533,7 @@
         "Watch",
         "Documentary",
         "Netflix",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     }
@@ -541,7 +541,7 @@
   "16": [
     {
       "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
-      "type": "educate",
+      "type": "learn",
       "title": "Seven factors that contribute to American racism",
       "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
       "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
@@ -552,20 +552,20 @@
         "Article",
         "Racism",
         "Steven Roberts",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "6e0d8fe3-55da-43b3-8e2c-d822139455c0",
-      "type": "advocate",
+      "type": "act",
       "title": "Justice For Tony McDade",
       "subtitle": "Tony McDade was a transgender black man who got killed by police in Tallahassee. Sign this petition and encourage others to do so as well to get his name out there.",
       "imageUrl": "https://assets.change.org/photos/5/iw/ta/hGIWtaAaRuIKGJv-800x450-noPad.jpg",
       "clickUrl": "https://www.change.org/p/justice-for-tony-mcdade",
       "tags": [
         "Sign",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     }
@@ -573,7 +573,7 @@
   "17": [
     {
       "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
-      "type": "advocate",
+      "type": "act",
       "title": "Support our Young Protest Leaders #freetianna",
       "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
       "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
@@ -584,7 +584,7 @@
         "SLO",
         "peaceful protest",
         "police",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     },
@@ -607,7 +607,7 @@
   "18": [
     {
       "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
-      "type": "advocate",
+      "type": "act",
       "title": "Email for Tianna Arata",
       "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
       "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
@@ -623,7 +623,7 @@
       "tags": [
         "Email",
         "SLO",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     },
@@ -645,7 +645,7 @@
   "19": [
     {
       "id": "a7c42355-0ee1-4c64-bc54-7c44901bb0ff",
-      "type": "educate",
+      "type": "learn",
       "title": "What I am learning from my white grandchildren",
       "subtitle": "Are we in a post-racial society? Do we want to be? Anthony Peterson, an African American, draws from current research and from conversations with his Anglo American grandchildren to address truths about race in 21st century America.",
       "imageUrl": "https://www.worldcityweb.com/wp-content/uploads/2018/08/tedx-logo.png",
@@ -654,7 +654,7 @@
         "Watch",
         "TEDx",
         "Anthony Peterson",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -710,7 +710,7 @@
   "21": [
     {
       "id": "b6d4684a-bb43-4add-aa86-a1ae10ffe3b5",
-      "type": "educate",
+      "type": "learn",
       "title": "Microaggressions Matter",
       "subtitle": "They may not always be ill-intentioned, but the slights illuminate deeper problems in America.",
       "imageUrl": "https://psychologybenefits.files.wordpress.com/2014/03/gradpsychblog-microaggressions.jpg",
@@ -721,13 +721,13 @@
         "Microaggressions",
         "Atlantic",
         "Simba",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
     {
       "id": "0fe85092-35bb-4667-82ef-90d661129a4f",
-      "type": "advocate",
+      "type": "act",
       "title": "Email the mayor of Louisville",
       "subtitle": "Send a pre-filled email to Mayor Fischer of Louisville, KY to demand he holds the officers who killed Breonna Taylor accountable.",
       "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
@@ -742,7 +742,7 @@
       "tags": [
         "Breonna Taylor",
         "Email",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     }
@@ -750,7 +750,7 @@
   "22": [
     {
       "id": "64fe1ce4-c9ec-4449-aed0-8f2bb77b9b88",
-      "type": "educate",
+      "type": "learn",
       "title": "How to be an Antiracist",
       "subtitle": "This conversation with professor Ibram X. Kendi was recorded during the 2019 Aspen Ideas Festival in Aspen, Colorado. In it, he explores what an antiracist society might look like, how we can play an active role in building it, and what being an antiracist in your own context might mean.",
       "imageUrl": "https://i.ytimg.com/vi/A13Dimiqdus/hqdefault.jpg",
@@ -758,7 +758,7 @@
       "tags": [
         "Watch",
         "Ibram X. Kendi",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -780,7 +780,7 @@
   "23": [
     {
       "id": "02aa0341-bb34-4dd7-8052-66cbda1f3f9f",
-      "type": "educate",
+      "type": "learn",
       "title": "What Anti-racist Teachers Do Differently",
       "subtitle": "They view the success of black students as central to the success of their own teaching. Read more from Pirette McKamey, principal of San Francisco’s Mission High School and an anti-racist educator for more than 30 years.",
       "imageUrl": "https://cdn.theatlantic.com/thumbor/fDSzluF9pCIjCG5tCXHu81BLXXc=/1440x810/media/img/mt/2020/06/AniRacistTeacherNew-1/original.jpg",
@@ -788,7 +788,7 @@
       "tags": [
         "Read",
         "Article",
-        "Educate"
+        "learn"
       ],
       "priority": 10
     },
@@ -975,14 +975,14 @@
     },
     {
       "id": "1443d5fc-61a8-434c-87ee-b75cc59d7fdc",
-      "type": "educate",
+      "type": "learn",
       "title": "Sports Can Battle Racism Workshop",
       "subtitle": "A workshop for coaches on how to ensure that sports is an inclusive environment for ALL athletes. ",
       "imageUrl": "https://cdn1.sportngin.com/attachments/photo/6671/8422/pca_logo_web_large.png",
       "clickUrl": "https://positivecoach.org/google-forms/new-sports-can-battle-racism-a-workshop-for-coaches/",
       "moreInfo": "In this 90 minute workshop, coaches will have an interactive discussion on how to combat racial discrimination, champion moral courage and empower their programs to create positive change in their communities.",
       "tags": [
-        "Educate",
+        "learn",
         "Sports",
         "workshop",
         "coach",
@@ -991,7 +991,7 @@
         "listen",
         "engage",
         "positive",
-        "Educate"
+        "learn"
       ],
       "priority": 11
     }
@@ -1623,14 +1623,14 @@
     },
     {
       "id": "d7078827-a920-47bf-8e80-91ecd315bc6f",
-      "type": "advocate",
+      "type": "act",
       "title": "Justice for Lakeith Smith",
       "subtitle": "Lakeith Smith, now 20, was charged with the murder of his friend, A’Donte Washington when he was only 15— a crime he did not commit. A'donte died at the hands of a policeman, after the police fired 4 rounds into him - and he currently walks free.",
       "imageUrl": "https://assets.change.org/photos/9/dg/ac/XedGaCQhAKkytGa-800x450-noPad.jpg",
       "clickUrl": "https://www.change.org/p/united-states-supreme-court-justice-for-lakeith-smith",
       "tags": [
         "Sign",
-        "Advocate"
+        "act"
       ],
       "priority": 10
     }

@@ -1,5 +1,57 @@
 [
   {
+    "id": "f38a64b7-7d10-40dd-865a-ca8d3db096dc",
+    "type": "shop",
+    "title": "Ashay by the Bay",
+    "subtitle": "We are an Independent Minority Owned Business and Deborah Day is the Founder and CEO. She opened the business in 2000 and started selling books online in 2002, establishing Ashay by the Bay as a Book Reseller that Specializes in African American and Multi-Cultural Children’s Books, Baby-3 and K-12 for Schools and Organizations.  We sell a Diverse Selection of books to both the Consumer and Business Markets and we Build Custom Collections for School and Classroom Libraries.  We also sell Gift Cards provide and we are the publishers of the Mindful Messages Curriculum.  Our home office is located in Vallejo, California. and we sell books throughout the US, Canada and select Markets around the world.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1212145038/Ashay_logo_FCS.JPG",
+    "clickUrl": "https://ashaybythebay.com/",
+    "tags": [
+      "Books",
+      "Read",
+      "Entertainment & Toys",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cec864f1-0525-49dc-861f-44482b5c48de",
+    "type": "shop",
+    "title": "Feed Love",
+    "subtitle": "Our mission is to create a culture, through quality apparel, where seeing, being and feeding love, can change the world.",
+    "imageUrl": "https://static1.squarespace.com/static/5bd921393c3a532204faff71/t/5eb0fafdb6165a7ec3030af0/1601655514609/?format=1500w",
+    "clickUrl": "https://lovechangesworlds.com/shop",
+    "products": [
+      {
+        "name": "Original Hoodie",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1581582979877-E3OEYJJ4LE72MDOUKR2X/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmjw4y9jm25X_CplAKqpK2fkSw6YcmP1xW_gG8HCptQz72szHi8Rk0JAosDC56jamZ/F4FCBADE-3F90-466F-BCE0-F951349D730A.jpeg?format=2500w",
+        "description": "The \"Original Hoodie\" is a part of the very first feed love collection. This sweatshirt includes the signature embroidered Feed Love logo on the front, and the screen-printed world logo on the back.",
+        "clickUrl": "https://lovechangesworlds.com/shop/original-hoodie",
+        "shopName": "Feed Love"
+      },
+      {
+        "name": "Feed Love Pride Sticker",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1594238547738-QRM8MSEY2MBDRTV52TPL/ke17ZwdGBToddI8pDm48kJRsEtw8WA_UJ9QXrXFxQy17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fIa6FrD2UVhHivx3O01HYc2Ih6B6P4I_ZLXoIFGeAcg1A/NEW+PRIDE+LOGO.jpg?format=2500w",
+        "description": "In our continued effort to spread love and provide support to the marginalized communities of this world, the Feed Love team has decided to partner with Solve for X Mutual Aid in celebrating the LGBTQ+ community! 100% of the proceeds from this sticker will go to Solve for X Mutual Aid.",
+        "clickUrl": "https://lovechangesworlds.com/shop/feed-love-pride-sticker-new-pride-colors",
+        "shopName": "Feed Love"
+      },
+      {
+        "name": "Heart-to-Heart Oversized Cropped Tee",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1598024432003-X2GN2J23B2166SZZ7MY4/ke17ZwdGBToddI8pDm48kOa7Iz_C5051U03SkiNK2m57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmnhdptcuU1alwky_sWs380pyOeXNuqQ6zqQ4L0lHeosPdkdPf-avg3EbCjWHvCi1L/IMG_7135.JPG?format=2500w",
+        "description": "Introducing the \"Heart-to-Heart\" oversized cropped tee to the Summer 2020 release. This tee features the Heart-to-Heart logo embroidered on middle chest area as well as a collection of Feed Love messages screen-printed on the lower back.",
+        "clickUrl": "https://lovechangesworlds.com/shop/heart-to-heart-oversized-cropped-teee",
+        "shopName": "Feed Love"
+      }
+    ],
+    "tags": [
+      "Clothes",
+      "Fashion",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "bb67780b-640f-46d0-a843-6cd5fa9779ed",
     "type": "shop",
     "title": "Sugarfoots",
@@ -138,7 +190,7 @@
     "type": "shop",
     "title": "Natural Cuties",
     "subtitle": "Natural Cuties is a brand that promotes, encourages and highlights the beauty of African American hair in its natural state! #Iamanaturalcutie are you?",
-    "imageUrl": "http://www.iamanaturalcutie.com/wp-content/uploads/2017/08/logo2.png",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2198/5517/files/9781537049724_p0_v2_s550x406_compact.jpg?v=1547331217",
     "clickUrl": "https://www.iamanaturalcutie.com/merchandise/",
     "products": [
       {
@@ -231,21 +283,21 @@
     "products": [
       {
         "name": "An Octet of Odes – Volume 1",
-        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2015/10/book-vol1-e1455377626871.jpg",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRG2ccdQpGo1Jf6kmE33B2ZpucBV5QVey-Qw&usqp=CAU",
         "description": "An Octet of Odes Volume One is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
         "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol1/",
         "shopName": "Princess Planet"
       },
       {
         "name": "An Octet of Odes – Volume 2",
-        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2015/10/book-vol2-e1455377672570.jpg",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKGFx0O7YoE_95GbAPce8CMQiK5DKjESXnfBDbo6tTkSWXe2Y_hmEJ7Kg6Q&usqp=CAc",
         "description": "An Octet of Odes Volume Two is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun.",
         "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol2/",
         "shopName": "Princess Planet"
       },
       {
         "name": "Princess Planet: Coloring book",
-        "imageUrl": "http://www.princessplanet.com/wp-content/uploads/2016/01/book-coloring-book.jpg",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47oyYuyDroUmjSpQzfnE73i8md0TXK_ULZ4PbB2Nquzdtx7rHhuAqjJbtxL0&usqp=CAc",
         "description": "The Princess Planet Coloring Book showcases sixteen unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
         "clickUrl": "http://www.princessplanet.com/product/princess-planet-coloring-book/",
         "shopName": "Princess Planet"
@@ -886,7 +938,30 @@
     "title": "The Afro Gypsy",
     "subtitle": "I create jewelry and accessories that enhance the uniqueness of you; we like to call it Bohemian with an AFRO-tude! My work predominantly consist of leather and metalwork items. But, considering my love for the extraordinary, you may stumble upon many other new or vintage items that could steal your heart!",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0407/6680/0034/files/The_Afro_Gypsy_Logo_1_360x.png?v=1597719296",
-    "clickUrl": "https://theafrogypsy.com/",
+    "clickUrl": "https://theafrogypsy.com/collections",
+    "products": [
+      {
+        "name": "Unisex African Bead Bracelets paired with Lava or Wood Beads",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0407/6680/0034/products/PSX_20200924_112629_1080x.jpg?v=1600965061",
+        "description": "African Bead Bracelets paired with Lava or Wood Beads. Sultry and handsome, these bracelets are all hand made with stretch cord.",
+        "clickUrl": "https://theafrogypsy.com/collections/bracelets/products/unisex-african-bead-bracelets-paired-with-lava-or-wood-beads",
+        "shopName": "The Afro Gypsy"
+      },
+      {
+        "name": "Handmade Journal",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0407/6680/0034/products/il_fullxfull.1140936946_ba3b_1080x.jpg?v=1597977446",
+        "description": "Handmade journal covered in luxurious upcycled upholstery with a hand sewn leather trim. This 96-page journal is ready to hold your secrets and hear your dreams. 3.75\" w × 6.7\" h.",
+        "clickUrl": "https://theafrogypsy.com/collections/lifestyle/products/handmade-journal-covered-in-luxurious-upcycled-upholstery-with-a-hand-sewn-leather-trim",
+        "shopName": "The Afro Gypsy"
+      },
+      {
+        "name": "Large Amethyst Pendant Necklace",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0407/6680/0034/products/20200930_100935_1080x.jpg?v=1601480834",
+        "description": "Hand wired Large Amethyst pendant necklace with 14K Antiqued GP chain and findings.",
+        "clickUrl": "https://theafrogypsy.com/collections/necklace/products/large-amethyst-pendant-necklace-with-14k-antiqued-gp-chain-and-findings",
+        "shopName": "The Afro Gypsy"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Decor",
@@ -907,7 +982,30 @@
     "title": "Grace & Styles Boutique",
     "subtitle": "Grace & Styles Boutique is a provider of quality leather handbags and must-have accessories.  We provide a variety of colors and trendy styles at affordable prices to suite everyone!",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/files/GSB_PNG_TRANSPARENT_BG_240x@2x.png?v=1579271847",
-    "clickUrl": "https://gracestylesboutique.com/",
+    "clickUrl": "https://gracestylesboutique.com/collections/all",
+    "products": [
+      {
+        "name": "Clear handbag in blue and black",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/9CB2EDA1-D532-47A1-A61E-F9CA1C497342_1800x1800.jpg?v=1573765248",
+        "description": "Made with PVC clear outside shell and vegan leather.  Interior pounch is made with faux snakeskin print and pebbled texture.   Comes with adjustable shoulder strap that extends to 52 inches.",
+        "clickUrl": "https://gracestylesboutique.com/products/clear-handbag-in-blue-and-black",
+        "shopName": "Grace & Styles Boutique"
+      },
+      {
+        "name": "Ellie Leather Tote Handbag",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/CDA8046B-4FAF-41DD-9333-79A93A229DB7_1800x1800.jpg?v=1580786227",
+        "description": "The “Ellie” brings real elegance and style with an accentuated flower and metallic color.  Tote has a curvy top that gives even more style.",
+        "clickUrl": "https://gracestylesboutique.com/products/ellie-leather-tote-handbag",
+        "shopName": "Grace & Styles Boutique"
+      },
+      {
+        "name": "Men business genuine leather backpack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/D31E13BF-96D6-44F3-A59E-E787C5DD4876_1800x1800.jpg?v=1582081329",
+        "description": "Men carry all backpack style business bag. Made with genuine leather. Show up to your meeting in style.",
+        "clickUrl": "https://gracestylesboutique.com/collections/men-s-collection/products/men-business-genuine-leather-backpack-in-tan-1",
+        "shopName": "Grace & Styles Boutique"
+      }
+    ],
     "tags": [
       "Fashion",
       "Accessories",
@@ -920,10 +1018,33 @@
   {
     "id": "e5bfac69-cb72-4b07-96b1-501793e879f5",
     "type": "shop",
-    "title": "I wear African",
+    "title": "I Wear African",
     "subtitle": "I Wear African is a campaign initiative created to promote and celebrate the contemporary African lifestyle by bringing the best quality Afrocentric brands to our fans.",
     "imageUrl": "https://i0.wp.com/www.iwearafrican.com/wp-content/uploads/2018/10/IWAreclogo.png?fit=660%2C355&ssl=1",
     "clickUrl": "https://www.iwearafrican.com/",
+    "products": [
+      {
+        "name": "Hector Rectangular Indoor Lumbar Pillow",
+        "imageUrl": "https://i0.wp.com/www.iwearafrican.com/wp-content/uploads/2016/10/Mistana1.jpg?fit=600%2C600&ssl=1",
+        "description": "Artfully inspiring and beautiful, the Lumbar Pillow bolsters your home instantly and effortlessly while evoking bohemian style. Made in the USA, the classic rectangular silhouette of the pillow is filled with a feather down insert and is covered with a quality linen blend fabric.",
+        "clickUrl": "https://www.iwearafrican.com/product/hector-rectangular-indoor-lumbar-pillow/",
+        "shopName": "I Wear African"
+      },
+      {
+        "name": "African Print Dashiki T-Shirt White",
+        "imageUrl": "https://i1.wp.com/www.iwearafrican.com/wp-content/uploads/2018/10/Diyanu1.jpeg?fit=914%2C1280&ssl=1",
+        "description": "The D’iyanu white dashiki t-shirt is perfect for those hot summer days! Stay cool and look great with this dashiki t-shirt which features an ultra soft feel and unique center front and sleeve details. This will become an instant favorite in your closet, and one of your most worn shirts in the hot summer!",
+        "clickUrl": "https://www.iwearafrican.com/product/mens-white-african-print-dashiki-t-shirt/",
+        "shopName": "I Wear African"
+      },
+      {
+        "name": "Women African Print Yellow Long Puff Sleeve Dress",
+        "imageUrl": "https://i0.wp.com/www.iwearafrican.com/wp-content/uploads/2019/02/ShopLolater1.jpg?fit=1731%2C2560&ssl=1",
+        "description": "Handmade, 100% cotton, Afronista dress. Available in sizes 2-14.",
+        "clickUrl": "https://www.iwearafrican.com/product/women-african-print-yellow-long-puff-sleeve-dress/",
+        "shopName": "I Wear African"
+      }
+    ],
     "tags": [
       "Fashion",
       "Clothing",
@@ -944,7 +1065,7 @@
     "type": "shop",
     "title": "Fewer Cards",
     "subtitle": "Fewer Cards is a touchless smart card that allows you to express yourself and share who you are with others by exchanging contact information, social media, and data seamlessly. The concept of Fewer Cards started from the fact that exchanging paper business cards is wasteful and cumbersome. ",
-    "imageUrl": "http://cdn.shopify.com/s/files/1/0508/0550/6201/files/red_yellow_blue_card_square_bright_1296x.png?v=1604959420",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0508/0550/6201/files/red_yellow_blue_card_square_bright_1296x.png?v=1604959420",
     "clickUrl": "http://fewer.cards/",
     "tags": [
       "Electronics",
@@ -958,7 +1079,30 @@
     "title": "The Litty Lighters",
     "subtitle": "Check out these cool Litty products. Each product aside from our accessories has either and LED touch or LED light. We strive to have eco-friendly, rechargeable, and safe, products for our customers.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0279/7895/6898/products/image_a3c8f291-3ef2-49ef-86bb-31b095df4aed_940x.jpg?v=1595727387",
-    "clickUrl": "https://thelittylighters.com/",
+    "clickUrl": "https://thelittylighters.com/collections/all",
+    "products": [
+      {
+        "name": "Litty Leashes",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0279/7895/6898/products/image_26285de2-c8cd-405d-a2b0-9810181f617e_940x.jpg?v=1600720661",
+        "description": "The Original Lighter Leash is the world famous lighter on a retractable reel! It's made to hold a Litty Lighter. The clip on the back fits snugly to your belt, pocket, edges of your pants, purse, trunks, and just about any where, giving you quick and easy access to your lighter with a three foot reach.",
+        "clickUrl": "https://thelittylighters.com/products/litty-leashes",
+        "shopName": "The Litty Lighters"
+      },
+      {
+        "name": "Litty Lighters",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0279/7895/6898/products/image_a3c8f291-3ef2-49ef-86bb-31b095df4aed_940x.jpg?v=1595727387",
+        "description": "The original Litty Lighter.",
+        "clickUrl": "https://thelittylighters.com/products/litty-lighters",
+        "shopName": "The Litty Lighters"
+      },
+      {
+        "name": "Litty Sanitizers",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0279/7895/6898/products/image_ed83ac9d-8b76-408b-99f5-f8032461446a_750x.jpg?v=1605615413",
+        "description": "Stay safe with our rechargeable mist sanitizers, especially in times like this with COVID-19. 50% alcohol / 50% peroxide or whatever mix you want to refill it with. Charger does come included.",
+        "clickUrl": "https://thelittylighters.com/products/litty-sanitizers",
+        "shopName": "The Litty Lighters"
+      }
+    ],
     "tags": [
       "Electronics",
       "Miscellaneous",
@@ -972,7 +1116,30 @@
     "title": "D'Lashes",
     "subtitle": "Take your eyelashes from thin unnoticeable eyelashes to rich, full, beautiful ones. Dionne’s Lashes are custom individual eyelash extensions that are attached to your natural eyelashes, lasting up to 6-8 weeks.",
     "imageUrl": "https://www.dlashes.com/wordpress/images/logo.png",
-    "clickUrl": "https://www.dlashes.com/",
+    "clickUrl": "https://www.dlashes.com/shop-dlashes/",
+    "products": [
+      {
+        "name": "D'Ultra Matte Lipstick",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/960w/products/61/273/DL_ultra_matte_lip_coff_infrared_96691_v3_web_1000__08780.1600075783.jpg?c=2",
+        "description": "You want Luxurious, creamy lipstick with a modern matte finish? Well, this Matte Lipstick Delivers saturated color, intense hydration and extended wear, for soft, smooth, beautiful lips. Just enough \"Pop\" to go with your D'Lashes!",
+        "clickUrl": "https://shop.dlashes.com/dultra-matte-lipstick/",
+        "shopName": "D'Lashes"
+      },
+      {
+        "name": "D'Luscious",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/1280x1280/products/44/176/Untitled_copy_80343__06132.1596609403.jpg?c=2",
+        "description": "Be bold and rock a standout look with a little help from the D’Luscious lashes. These dark strip lashes open and enhance your eyes by creating a fuller, thicker lash look.",
+        "clickUrl": "https://shop.dlashes.com/dluscious/",
+        "shopName": "D'Lashes"
+      },
+      {
+        "name": "Black Luxury Edition Candle",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/960w/products/71/331/11183_101_Amazon__97055.1600929031.jpg?c=2",
+        "description": "This New D'Lashes Black Luxury Candle is the convergence of artistic souls who share a singular desire to create. Free of constraint and compromise. Fusing years of experience in the world of Beauty and Eyelashes.",
+        "clickUrl": "https://shop.dlashes.com/black-luxury-edition-candle/",
+        "shopName": "D'Lashes"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Shop"
@@ -982,10 +1149,33 @@
   {
     "id": "3e142338-25bc-42c3-81e2-df344fc705b8",
     "type": "shop",
-    "title": " Ujamaa Lighting",
+    "title": "Ujamaa Lighting",
     "subtitle": "Although light bulbs are considered a commodity, the Ujamaa Lighting brand aspires to bring its own unique take on the lighting industry. Founded in June 2019, Ujamaa Lighting, specializes residential, commercial, and industrial LED lighting solutions.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1303695288687878150/xTl8bENm_400x400.jpg",
-    "clickUrl": "https://www.ujamaalighting.com/",
+    "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog",
+    "products": [
+      {
+        "name": "Ujamaa Smart LED Light Bulb",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/SmartBulbMockup_2000x.jpg?v=1596502157",
+        "description": "Our customers spoke, and we listened!  Ujamaa Lighting is proud to introduce our version of the Smart Light.",
+        "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/ujamaa-smart-led-light-bulb",
+        "shopName": "Ujamaa Lighting"
+      },
+      {
+        "name": "#BLACKOUT T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/mockup-3b7421e3_2000x.jpg?v=1591126417",
+        "description": "The #BLACKOUT movement was organized to bring awareness to police brutality and racism towards the African-American people. This t-shirt was designed in honor of the efforts to bring peace and equality to Black people worldwide.",
+        "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/blackout-t-shirt",
+        "shopName": "Ujamaa Lighting"
+      },
+      {
+        "name": "Ujamaa Hoodie (Word Logo - Gold)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/9f65c5a9ba825ce3bb75545d58bb1444_2000x.jpg?v=1597844309",
+        "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+        "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/ujamaa-hoodie-word-logo-gold",
+        "shopName": "Ujamaa Lighting"
+      }
+    ],
     "tags": [
       "Fashion",
       "Clothing",
@@ -1004,7 +1194,30 @@
     "title": "NSPRE Electronics",
     "subtitle": "The NSPRE™ brand is built on and strives for creativity and culture. We create exciting, lifestyle, and innovative products that inspire everyday use. Our vision is to \"Inspire the culture through social technology\" to improve others' lifestyles and the way we access the world around us.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/files/small_NSPRE_icon-09_x50@2x.png?v=1599457535",
-    "clickUrl": "https://www.nspreelectronics.com/",
+    "clickUrl": "https://www.nspreelectronics.com/collections/all",
+    "products": [
+      {
+        "name": "Inferno Bluetooth® Polarized Sunglasses",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/inferno_4d7a2112-45ee-47a6-b41b-f8f9d3e269e0_2048x.png?v=1605365451",
+        "description": "No earplugs or ear coverings. Open concept sound with privacy. Designed with Ultra Modern materials and a lightweight frame design. Connects to any mobile device with Bluetooth® ability.",
+        "clickUrl": "https://www.nspreelectronics.com/products/inferno-bluetooth%C2%AE-glasses",
+        "shopName": "NSPRE Electronics"
+      },
+      {
+        "name": "NX Pro Plus LE (128G)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/DSC09681_1_900x.png?v=1605304700",
+        "description": "The (Limited Edition) NSPRE™ NX Pro Plus Cotton Candy is an extension of the original NX Pro. It is 6.5 Inches, has a much slimmer frame of 8.0mm, and 3D curved glass back finish.",
+        "clickUrl": "https://www.nspreelectronics.com/products/nx-pro-plus-limited-edition",
+        "shopName": "NSPRE Electronics"
+      },
+      {
+        "name": "NSPRE™ MicroSDHC - 128GB",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/SDXardmockup2_1728x.jpg?v=1599557176",
+        "description": "Record and transfer videos, photos, music, files and more from Micro SD enabled host devices such as Android smartphones and tablets, action and surveillance cameras, drones, computers and more.",
+        "clickUrl": "https://www.nspreelectronics.com/products/nspre%E2%84%A2-microsdhc-128gb",
+        "shopName": "NSPRE Electronics"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Eye Care",
@@ -1017,25 +1230,35 @@
     "priority": 10
   },
   {
-    "id": "52cf1b4e-5aae-4014-86e2-b99bc2c55f46",
-    "type": "shop",
-    "title": "HOUSE OF MARLEY",
-    "subtitle": "The House of Marley is built on the principles of superior quality, sustainability and a commitment to charitable causes. We are driven to enhance lives through great product experiences as well as using proceeds from product sales to support global reforestation through Project Marley. ",
-    "imageUrl": "https://www.thehouseofmarley.co.uk/skin/frontend/smartwave/marley/images/marley-header-logo.png",
-    "clickUrl": "https://www.thehouseofmarley.co.uk/",
-    "tags": [
-      "Electronics",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "74f1e0c8-1b44-42ef-bcd7-891881b1791e",
     "type": "shop",
     "title": "Mike D's BBQ",
     "subtitle": "Mike D's BBQ is an award winning line of signature BBQ sauces and all-purpose dry rubs. Our sauces are a twist on the traditional BBQ sauce with some unique seasonings and spice levels.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1548/8983/files/MikeDsBBQ_logo_115x@2x.png?v=1519157075",
-    "clickUrl": "https://www.mikedsbbq.com/",
+    "clickUrl": "https://www.mikedsbbq.com/collections/frontpage",
+    "products": [
+      {
+        "name": "BIG Sauce Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1548/8983/products/image_08f69a95-61c9-4e83-8ef0-95da26232e66_1400x.jpg?v=1531567866",
+        "description": "Mike D's BIG Sauce is our twist on a traditional BBQ Sauce. It has the perfect blend of smoky and sweet just like our rub. There is a small hint of heat to balance the flavors, but it is a very mild sauce overall.",
+        "clickUrl": "https://www.mikedsbbq.com/collections/frontpage/products/big-sauce-set",
+        "shopName": "Mike D's BBQ"
+      },
+      {
+        "name": "Rub Master Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1548/8983/products/Mike_Ds_BBQ-15_1400x.jpg?v=1531567864",
+        "description": "Are you a master with the dry rub? This set allows you to use both award winning rubs on large and small meals like the master you are! This set contains one of each large rub (10.24 ounces)!",
+        "clickUrl": "https://www.mikedsbbq.com/collections/frontpage/products/rub-master-set",
+        "shopName": "Mike D's BBQ"
+      },
+      {
+        "name": "Throw Some D's On It T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1548/8983/products/spod-1050249966-2-1_1400x.png?v=1580506224",
+        "description": "Rep your favorite BBQ brand and let everyone know they need to \"Throw Some D's On It\"",
+        "clickUrl": "https://www.mikedsbbq.com/collections/apparel/products/throw-some-ds-on-it-t-shirt",
+        "shopName": "Mike D's BBQ"
+      }
+    ],
     "tags": [
       "Accessories",
       "Food & Beverage",
@@ -1050,7 +1273,30 @@
     "title": "Camella's Kitchen",
     "subtitle": "Camella’s Kitchen is helping you to elevate your meals at home and on the go with our bold Caribbean flavors – we ship. We started Camella's Kitchen in order to honor the memory of and carry on lessons learned from Ms. Camella, our mother and grandmother respectively. ",
     "imageUrl": "https://static1.squarespace.com/static/5c3f44fd50a54fd9909cb87b/t/5c6e1b5d652deaa4dc17addb/1605555549975/?format=1500w",
-    "clickUrl": "https://www.camellaskitchen.com/",
+    "clickUrl": "https://www.camellaskitchen.com/shop",
+    "products": [
+      {
+        "name": "Caribbean Holiday Box",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1605555488048-ZDY2NTE5ALT01TTRZTYP/ke17ZwdGBToddI8pDm48kFj5W396ntPbLSkYjwN2Jdl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUNe3m3u1dYWoTZOsV10loclyfiZD31sczTnjU4lrD-9E8Dhi5lIXKj5XtUVuYW2VQ/20201116_132839.jpg?format=2500w",
+        "description": "Celebrate like a Trinidadian and parang with us for the holidays! We’ve got a selection of seasonal sauces, must-have staples like our marinade, and a special snack as well.",
+        "clickUrl": "https://www.camellaskitchen.com/shop/caribbean-holiday-box",
+        "shopName": "Camella's Kitchen"
+      },
+      {
+        "name": "Spicy Mango Chutney",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1602119610961-DR9FFTVSKD49QCYLYWSX/ke17ZwdGBToddI8pDm48kAadsa1u1mTNSOYA_ZGC7oF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmjJyaSXAwc_BJvYKv4pjNul4F3H0DGKPg9wzBptDR2mTiBkkwud46dkB9FzGEKG8u/CamellasKitchenWB-21%2525255B1%2525255D.jpg?format=1500w",
+        "description": "Savory mango sauce that’s a combo of fruity and spicy. Use this condiment to liven up your gatherings or just keep it for yourself 😉. This mango chutney will be a spicy hit!",
+        "clickUrl": "https://www.camellaskitchen.com/shop/spicy-mango-chutney",
+        "shopName": "Camella's Kitchen"
+      },
+      {
+        "name": "Caribbean Fruit Cake",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1603734283580-6NX9WW9S1SPMA7GQCNK8/ke17ZwdGBToddI8pDm48kLJqKR-9oNL6Z28GNa2Q6VR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR1sWYTpzw_Vaaj-benbsYndq1_KaLu4BVCr5GOg0JqpStYJm84BCOqZ2_xlFW2BRQ/20201025_185115.jpg?format=1500w",
+        "description": "Traditional Caribbean fruit cake (black cake) enhanced with tropical spices and preserved with rum. Just a small slice of this decadent cake will transport you to the islands!",
+        "clickUrl": "https://www.camellaskitchen.com/shop/caribbean-fruit-cake",
+        "shopName": "Camella's Kitchen"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Desserts",
@@ -1066,7 +1312,30 @@
     "title": "Oh-Mazing!",
     "subtitle": "Yes, we sell granola (it's quite tasty), but more importantly, we want to inspire you to live your life with purpose, passion, and to follow your dreams. Our products are here to bring the adventure back to snacking, and better yet, celebrate YOU when those dreams are achieved.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/files/OMLogo_OG_80x80in_-_Resized_3000_495x@2x.png?v=1595007737",
-    "clickUrl": "https://www.ohmazingfood.com/",
+    "clickUrl": "https://www.ohmazingfood.com/collections/all",
+    "products": [
+      {
+        "name": "Original Recipe",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_4_-_2_1024x1024.JPG?v=1554125033",
+        "description": "The Original Recipe blend has a sweet caramel flavor that makes it simply delicious. There are so many ways to enjoy this treat--topping on your yogurt, adding some crunch to your favorite ice cream, or creating a crust for a cheesecake.",
+        "clickUrl": "https://www.ohmazingfood.com/products/handmade-granola",
+        "shopName": "Oh-Mazing!"
+      },
+      {
+        "name": "Lemon Bar",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_8_2_1024x1024.JPG?v=1554124952",
+        "description": "Lemon Bar will please the palate of all lemon lovers and add a refreshing flavor to a bowl of oatmeal or a new bite to your favorite cheesecake recipe.",
+        "clickUrl": "https://www.ohmazingfood.com/products/snackable-granola-lemon-bar",
+        "shopName": "Oh-Mazing!"
+      },
+      {
+        "name": "Caribbean Delight",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_6_-_2_1024x1024.JPG?v=1554124790",
+        "description": "Caribbean Delight is our first vegan product. The ingredients include coconut oil, grated coconut, and a touch of raisins that will make your palate dance. Not to mention, you will immediately be reminded of that time you went on an island vacation.",
+        "clickUrl": "https://www.ohmazingfood.com/products/caribbean-delight-vegan",
+        "shopName": "Oh-Mazing!"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Desserts",
@@ -1081,6 +1350,29 @@
     "subtitle": "We work with the best vineyards in California to develop our unique blends. Our wines are created with women in mind. Owned and operated by a mother-daughter team, we understand that women face tough daily challenges. And we know we can tackle them together-with a great pair of shoes and a great wine!",
     "imageUrl": "https://storage.googleapis.com/cdn.vinoshipper.com/wine/25283/548f38db-b3e6-4c72-a4e1-40a37ea5f976.jpg",
     "clickUrl": "http://www.shoecrazywine.com/",
+    "products": [
+      {
+        "name": "Naked Strawberry Passion Sangria ( Non-Alcohol)",
+        "imageUrl": "https://img-production-vinoshipper.s3.amazonaws.com/winery/1686/a20ed9bf-5c4f-4156-8080-26d7867d4070.jpg",
+        "description": "Our Hand Crafted , scintillating Sweet Sangria created from superior ingredients with tangy citrus notes and hints of strawberry pie. Pairs with chocolate, ham, bacon wrapped scallops and key lime pie. Enjoy “As Is” or add seltzer, Shoe Crazy's Sparkling Strawberry Rose wine, or your favorite spirits.",
+        "clickUrl": "https://vinoshipper.com/shop/shoe_crazy_wine/naked_strawberry_passion_sangria_50655?list=",
+        "shopName": "Shoe Crazy Wine"
+      },
+      {
+        "name": "Sparkling Brut",
+        "imageUrl": "https://storage.googleapis.com/cdn.vinoshipper.com/wine/7af588b8-f898-456b-ac77-ac8d49697834.jpg",
+        "description": "Our Brut is exceptional. This demi-sec has a light golden color with aromas of green apple and nectarine with an eﬀervescence of bubbles. On the palate Note of honey crisp apples and pears. Great wine to be enjoyed year-round! Celebrate every occasion!",
+        "clickUrl": "https://vinoshipper.com/shop/shoe_crazy_wine/shoe_crazy_sparkling_brut_42409?list=",
+        "shopName": "Shoe Crazy Wine"
+      },
+      {
+        "name": "Sparkling Peach Mango",
+        "imageUrl": "https://storage.googleapis.com/cdn.vinoshipper.com/wine/25280/2a69995e-f2ed-48e8-8fea-8d6725452343.jpg",
+        "description": "A beautiful orange hue that is accentuated by tiny bubbles. Inviting aromas of succulent peach & sweet mango entwine.",
+        "clickUrl": "https://vinoshipper.com/shop/shoe_crazy_wine/sparkling_peach_mango_36747?list=",
+        "shopName": "Shoe Crazy Wine"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Alcohol & Wine",
@@ -1094,7 +1386,30 @@
     "title": "The Honey Wine Company",
     "subtitle": "Inspired by his country's national beverage t'ej (honey wine), Ayele realized that these flowering trees were an ideal source of nectar and pollen that bees use to make valuable honey.  This set Ayele on a quest to better understand the art and business of creating honey wine.",
     "imageUrl": "https://i.pinimg.com/280x280_RS/13/05/2b/13052b5fbc135b3db2b7c97fa4bbfc0f.jpg",
-    "clickUrl": "https://www.beedvine.com/",
+    "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/",
+    "products": [
+      {
+        "name": "Brut 750ml Honey Wine",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1267295721.jpg",
+        "description": "The world standard for premium dry honey wine. Barrel aged in 100% French oak. Crisp, dry, and complex but with no bitter tannins.  Imbibers who enjoy drier cocktails or cider, pilsner style beers, and a variety of grape wine will appreciate versatile \"Brut.\"",
+        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/Brut-750ml-Honey-Wine-p32213003",
+        "shopName": "The Honey Wine Company"
+      },
+      {
+        "name": "Demi Sec Sparkling 750ml Honey Wine",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1063981974.jpg",
+        "description": "The world standard sweeter sparkling honey wine and the world’s first and only Charmat method honey wine (less yeasty and more ‘fruit forward’ than the Champagne method - most perfect for delicate honey wine - especially a sweeter honey wine).",
+        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/Demi-Sec-Sparkling-750ml-Honey-Wine-p137615944",
+        "shopName": "The Honey Wine Company"
+      },
+      {
+        "name": "Wancha (Grape Wine) 2016 Cabernet Sauvignon 750ml",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1259865955.jpg",
+        "description": "Produced from certified organic grapes from North Ponderosa Vineyards in the Sierra Foothills, this 2017 Cabernet Sauvignon explodes with deep fruit flavors and aromas of plum, blackberry, and raisins. The silky smooth mouth feel ends with a dry, subtle, medium tannin finish. Aged for 14 Months in two year old French Oak Barrels (65%) and 35% New American Oak Barrels. Cellared and bottled in Sonoma County, 14% ABV.",
+        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/WANCHA-GRAPE-WINE-2016-Cabernet-Sauvignon-750ml-p134427578",
+        "shopName": "The Honey Wine Company"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Alcohol & Wine",
@@ -1109,7 +1424,30 @@
     "title": "Naja Tea",
     "subtitle": "At Naja Tea, we stand for quality, integrity, and curiosity. We strive daily to maintain high standards in every aspect of our business. Our mission is to provide a positive, significant, and sensational experience with Naja Tea.",
     "imageUrl": "https://najatea.com/wp-content/uploads/2016/05/logo-03.png",
-    "clickUrl": "https://najatea.com/",
+    "clickUrl": "https://najatea.com/shop-teas/",
+    "products": [
+      {
+        "name": "English Breakfast Tea",
+        "imageUrl": "https://najatea.com/wp-content/uploads/2020/04/English-Breakfast.png",
+        "description": "This is a full-bodied, robust, rich and blended to go well with milk and sugar and will give you an energy boost while boosting your immune system.",
+        "clickUrl": "https://najatea.com/product/english-breakfast/",
+        "shopName": "Naja Tea"
+      },
+      {
+        "name": "Brew-In-Cup with Stainless Infuser & Lid",
+        "imageUrl": "https://najatea.com/wp-content/uploads/2020/11/832-CRB-1.jpg",
+        "description": "A simple design to enjoy loose leaf tea by the cup. Lucidity Brew-in-Cup is a wonderful addition to home and office.",
+        "clickUrl": "https://najatea.com/product/lucidity-brew-in-cup-with-stainless-infuser-and-lid/",
+        "shopName": "Naja Tea"
+      },
+      {
+        "name": "Biscotti Bites",
+        "imageUrl": "https://najatea.com/wp-content/uploads/2020/10/TheBiteCoBiscottiALL.jpg",
+        "description": "A traditional Biscotti recipe modernized using organic, wholesome ingredients and served in smaller, melt-in-your-mouth, bite-sized pieces.",
+        "clickUrl": "https://najatea.com/product/biscotti-bites/",
+        "shopName": "Naja Tea"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Coffee & Tea",
@@ -1121,9 +1459,32 @@
     "id": "4e5d02f1-1a97-4746-9fb9-f67cfa3de8fa",
     "type": "shop",
     "title": "57 Chocolate",
-    "subtitle": "57 is the pioneer bean to bar chocolate business in Ghana. ’57 Chocolate is short for 1957, which is the year of Ghana’s independence. This venture uses resources grown within the country to create delicious treats. ",
+    "subtitle": "57 is the pioneer bean to bar chocolate business in Ghana. ’57 Chocolate is short for 1957, which is the year of Ghana’s independence. This venture uses resources grown within the country to create delicious treats.",
     "imageUrl": "https://static1.squarespace.com/static/56f1a6051d07c03a5818bc84/t/5f245d9669940e4b03d2b742/1605026258242/?format=1500w",
     "clickUrl": "https://www.57chocolategh.com/",
+    "products": [
+      {
+        "name": "Chocolate Chips",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1595439069548-MV3956AMKK9XL1ZRMNYL/ke17ZwdGBToddI8pDm48kL4WrIntsHuCODFzGytxs8sUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcw31z2cKmL83lZVTgYf1Shcnt0pzT4b-h8WwoQ3rX-86z0Q_QpJgDA4jmv5AtYw-J/760ac0dd-fcb5-4736-9353-3213b131de95.JPG?format=1000w",
+        "description": "Get them in dark chocolate (71.5%) or milk chocolate (49%)",
+        "clickUrl": "https://www.57chocolategh.com/",
+        "shopName": "57 Chocolate"
+      },
+      {
+        "name": "Adinkra Bars",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1592441844538-5WVKT6V123BFMSCMPRH4/ke17ZwdGBToddI8pDm48kBtpJ0h6oTA_T7DonTC8zFdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIWkiAYz5ghgEgSGJuDQ4e1ZKXpRdhEMT7SgthRpD0vyIKMshLAGzx4R3EDFOm1kBS/a+variety+.jpg?format=1000w",
+        "description": "Our Adinkra bars are beautiful bite-sized bars engraved with visual symbols originally created by the Ashanti of Ghana. A minimum of 2 chocolates and a maximum of 6 fit in our adinkra boxes. They are perfect for a quick treat and come in dark, milk, white, mocha latte, bissap, and moringa.",
+        "clickUrl": "https://www.57chocolategh.com/",
+        "shopName": "57 Chocolate"
+      },
+      {
+        "name": "Chocolate Gift Box",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1571798936590-IY755OTY15WA3FDPS1Z7/ke17ZwdGBToddI8pDm48kBtpJ0h6oTA_T7DonTC8zFdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIWkiAYz5ghgEgSGJuDQ4e1ZKXpRdhEMT7SgthRpD0vyIKMshLAGzx4R3EDFOm1kBS/67916040_2913449195546325_1001204121337856000_n.jpg?format=1000w",
+        "description": "Get a set of 6 or 12 bars to give as a gift to the chocolate-lover in your life.",
+        "clickUrl": "https://www.57chocolategh.com/",
+        "shopName": "57 Chocolate"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Desserts",
@@ -1138,7 +1499,30 @@
     "title": "Good Thoughts Tea Co",
     "subtitle": "We are an all natural loose leaf tea company that is centered around the healing properties of herbs. Our main goal is to help heal from the inside out all while reawakening the conversation and experience of tea. Started in 2014 by Ebone’ McCloud, we are located in and operate from Chicago.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1590295085345-3N7T2QTS761M9CIVXXSR/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Love+Paula+.JPG?format=1500w",
-    "clickUrl": "https://www.goodthoughtsteaco.com/",
+    "clickUrl": "https://www.goodthoughtsteaco.com/blends",
+    "products": [
+      {
+        "name": "Cinammon Chai",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1590294935695-P01QW690MAHM2A2TIW0L/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Cinnamon+Chai.JPG?format=1000w",
+        "description": "Cinnamon Chai is our take on the classic chai blend. Benefits: aids digestion, promotes a peace of mind, antioxidant support.",
+        "clickUrl": "https://www.goodthoughtsteaco.com/blends/cinnamonchai",
+        "shopName": "Good Thoughts Tea Co"
+      },
+      {
+        "name": "Half Rising",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1589999624206-4OJFAZ2AWNFUE3RL6Y9D/ke17ZwdGBToddI8pDm48kEx3vQSOiI-UqeZqEXmC-hF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-dKChJYHnAGnaVhaB2hrDJJ_TDa7_pLr0Xfx_CbbAHbA/9B1916E5-FB60-4AD8-A47A-2F07FF24C759?format=1000w",
+        "description": "Half Rising is a beautifully aromatic cup of oolong tea mixed with kaffir lime leaves and other sweet surprises. Benefits: aids in relieving stress, improves mental health, promotes healthy skin.",
+        "clickUrl": "https://www.goodthoughtsteaco.com/blends/2020/5/20/dqdyolldkwjcmfs92tc4iijlnhlkhh",
+        "shopName": "Good Thoughts Tea Co"
+      },
+      {
+        "name": "Tea Spoon Set",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1600870169121-Y3ZXFJ0SPW08SWZM5EJZ/ke17ZwdGBToddI8pDm48kFuGur7JQpdTSiuV84DQQNl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUA-jlFni2KUKJEeN-ELAeE5if9nxWhWz2YJkqk7mMBv5xRGc48DGhDdOj1ofCDSxQ/1B9A90F0-7D5E-48B2-AF18-C1B42F0AF5CD?format=1000w",
+        "description": "These delightful beauties are great for the perfect scoops of our loose leaf tea blends. With each set comes two sizes.",
+        "clickUrl": "https://www.goodthoughtsteaco.com/blends/2020/9/23/ljyp04vh30lk65r94hxryww68xwms0",
+        "shopName": "Good Thoughts Tea Co"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Home Fragrance",
@@ -1154,7 +1538,30 @@
     "title": "Ka'oir Fitness",
     "subtitle": "Ka'oir Fitness, founded in 2011 by celebrity Keyshia Ka'oir is a fitness line of patented, trademarked fat burners to help people lose weight faster than ever.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/files/kaoir-fitness-logo-white_67f4b0ff-b6fd-4a32-97bb-2afc54a7290f_360x.png?v=1523565121",
-    "clickUrl": "https://kaoirfitness.com/",
+    "clickUrl": "https://kaoirfitness.com/collections/all-products",
+    "products": [
+      {
+        "name": "Ka'oir Waist Eraser™",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/IMG_0629_940x.jpg?v=1551421268",
+        "description": "Ka'oir Waist Eraser™ will have your waist, stomach & back looking amazing. This is a unisex fitness product which burns belly & back fat, sheds excess water and shrinks waist size....all while allowing your abs to be more visible. It allows you to spot train your stomach, back  & waist. ",
+        "clickUrl": "https://kaoirfitness.com/collections/all-products/products/ka-oir-waist-eraser%E2%84%A2",
+        "shopName": "Ka'oir Fitness"
+      },
+      {
+        "name": "Ka'oir Body Sweat™",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/Kaoir_Waist_Eraser_1-24-19-148_750x.JPEG?v=1551420622",
+        "description": "The Ka'oir Body Sweat is a state of the art \"sweat\" suit. It is very stretchy, flexible & comfortable for any workout. KA'OIR Body Sweat will make you sweat tremendously, your metabolism will increase, you will burn calories, lose weight & shed water!",
+        "clickUrl": "https://kaoirfitness.com/collections/all-products/products/ka-oir-body-sweat%E2%84%A2",
+        "shopName": "Ka'oir Fitness"
+      },
+      {
+        "name": "Ka'oir Slimming Tea",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/teasqf_940x.jpg?v=1524140344",
+        "description": "KA’OIR Slimming Tea is a loose leaf tea packed in individual nylon tea bags that contains a powerful blend of natural ingredients to help slim your body! Each package includes 14 bags (78.4 grams) of detox tea, and is meant to be used every day or every other day.",
+        "clickUrl": "https://kaoirfitness.com/collections/all-products/products/kaoir-slimming-tea",
+        "shopName": "Ka'oir Fitness"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Wellness",
@@ -1170,7 +1577,30 @@
     "title": "Maeday Gourmet Sauces and Rubs",
     "subtitle": "All of our barbecue sauces are gluten free and made without high fructose corn syrup. If you read our ingredient list you won’t find anything that you will have to google to figure out what it is and what the effects will be on your body. We believe that the cleaner the ingredients then the cleaner the taste.",
     "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/cropped-Allprod.2018.jpg",
-    "clickUrl": "https://www.maedaybbq.com/",
+    "clickUrl": "https://www.maedaybbq.com/store/",
+    "products": [
+      {
+        "name": "Original Maeday BBQ Sauce",
+        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/SweetOri.2.2018-768x960.jpg",
+        "description": "Original Maeday BBQ Sauce",
+        "clickUrl": "https://www.maedaybbq.com/store/",
+        "shopName": "Maeday Gourmet Sauces and Rubs"
+      },
+      {
+        "name": "Caribbean Flame Maeday BBQ Sauce (Spicy)",
+        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/CaribbeanFlame.2018-768x960.jpg",
+        "description": "Caribbean Flame Maeday BBQ Sauce (Spicy)",
+        "clickUrl": "https://www.maedaybbq.com/store/",
+        "shopName": "Maeday Gourmet Sauces and Rubs"
+      },
+      {
+        "name": "Summer Sizzle Meat Rub",
+        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/Summersizzle.2018-768x960.jpg",
+        "description": "Summer Sizzle Meat Rub",
+        "clickUrl": "https://www.maedaybbq.com/store/",
+        "shopName": "Maeday Gourmet Sauces and Rubs"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Condiments & Spices",
@@ -1184,7 +1614,30 @@
     "title": "MoreFire! Hot Sauce",
     "subtitle": "MoreFire! Hot Sauce is a concoction of spicy fiery goodness. For those who are serious about good quality food. We are 1st place nationwide award winning... so get on the winning Team. You need MoreFire! in your life!",
     "imageUrl": "https://i1.wp.com/morefirehotsauce.com/wp-content/uploads/2018/12/MoreFireLOGO_ver3.1.2.2web.png?fit=229%2C72&ssl=1",
-    "clickUrl": "https://morefirehotsauce.com/",
+    "clickUrl": "https://shop.igotthatfire.com/",
+    "products": [
+      {
+        "name": "MoreFire! Hot Sauce (Original)",
+        "imageUrl": "https://shop.igotthatfire.com/wp-content/uploads/sites/18/2019/04/MoreFireHotSauceBottle_2019_web.jpg",
+        "description": "5 oz bottle of the multi-award winning Goldson’s MoreFire! Hot Sauce… Ay Yo! I GOT THAT FIRE!",
+        "clickUrl": "https://shop.igotthatfire.com/product/5oz-bottle-morefire-hot-sauce/",
+        "shopName": "MoreFire! Hot Sauce"
+      },
+      {
+        "name": "MoreFire! Pepper Sauce (Louisiana Style)",
+        "imageUrl": "https://shop.igotthatfire.com/wp-content/uploads/sites/18/2018/12/167-5oz-Bottle-%E2%80%93-MoreFire-Hot-Sauce.jpg",
+        "description": "5 oz bottle of the 1st place Award Winning MoreFire! Pepper Sauce… Ay Yo! I GOT THAT FIRE!",
+        "clickUrl": "https://shop.igotthatfire.com/product/morefire-pepper-sauce-5oz-bottle/",
+        "shopName": "MoreFire! Hot Sauce"
+      },
+      {
+        "name": "I Got That Fire! T-Shirt – Box block",
+        "imageUrl": "https://shop.igotthatfire.com/wp-content/uploads/sites/18/2018/11/158-Hot-Sauce-T-Shirt-White-Box-Design.jpg",
+        "description": "I Got That Fire! T-Shirt – Box block",
+        "clickUrl": "https://shop.igotthatfire.com/product/i-got-that-fire-t-shirt-box-block/",
+        "shopName": "MoreFire! Hot Sauce"
+      }
+    ],
     "tags": [
       "Fashion",
       "Food & Beverage",
@@ -1198,7 +1651,30 @@
     "title": "Abbey Creek Winery",
     "subtitle": "Abbey Creek is the first black owned winery and vineyard in Oregons recorded history. We play hip hop in the tasting room and have a unconventional approach to the wine experience. Come see what \"The Crick Life\" is all about at abbeycreekvineyard.com",
     "imageUrl": "https://www.abbeycreekvineyard.com/uploads/5/7/2/0/57208121/published/photo-jun-13-5-52-44-pm.png?1587528817",
-    "clickUrl": "https://www.abbeycreekvineyard.com/",
+    "clickUrl": "https://abbeycreekvineyard.orderport.net/wines/Current-Releases",
+    "products": [
+      {
+        "name": "2018 Sparkling Blanc de Noir #JanelleMonáe",
+        "imageUrl": "https://filemanager.orderport.net/AbbeyCreekVineyard/Catalog/ca4cc611-1822-41c8-b9cb-84b7a57f231d-Large.png?ts=637418946003680423",
+        "description": "Sparkling. Full of life. This wine is here to celebrate uniqueness and individuality without sacraficing community. No one can be just like you, you can't be like anyone else but that doesn't mean we are alone. Raise a glass and give a toast to the greatness that is you. ",
+        "clickUrl": "https://abbeycreekvineyard.orderport.net/product-details/0225/2018-Sparkling-Blanc-de-Noir-%23JanelleMonae",
+        "shopName": "Abbey Creek Winery"
+      },
+      {
+        "name": "2019 Pinot Noir Rose #Ohufancyhuh",
+        "imageUrl": "https://filemanager.orderport.net/AbbeyCreekVineyard/Catalog/8ecb00ea-9e5c-4655-b6b8-3d365b05f7d3-Large.jpg?ts=637418946003680423",
+        "description": "What makes you feel like a goddess? What makes you feel like the man? Get yourself a bottle of this uniquely shaped magnum, post a pic on Instagram with the hashtag #OhUFancyHuh, tag us (@abbeycreekwine), and show us your fancy!!",
+        "clickUrl": "https://abbeycreekvineyard.orderport.net/product-details/0216/2019-Pinot-Noir-Rose-%23Ohufancyhuh",
+        "shopName": "Abbey Creek Winery"
+      },
+      {
+        "name": "Sparkling Pinot Gris #Shining",
+        "imageUrl": "https://filemanager.orderport.net/AbbeyCreekVineyard/Catalog/9512f872-17d2-4e59-a8cc-5990919b6df3-Large.jpg?ts=637418946003836684",
+        "description": "If I scream out \"I'm sorry Ms. Jackson\" and you don't say \"Ooooo, I am for real\", we ain't friends. I don't need that type of negative energy.",
+        "clickUrl": "https://abbeycreekvineyard.orderport.net/product-details/0071/Sparkling-Pinot-Gris-%23Shining",
+        "shopName": "Abbey Creek Winery"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Alcohol & Wine",
@@ -1209,10 +1685,10 @@
   {
     "id": "5e893f43-37ad-4949-9175-bf9e85581e36",
     "type": "shop",
-    "title": "AIRIS FOODS",
-    "subtitle": "AIRIS FOODS are hand crafted food products that add flavor and flare to all your cooking and snacking needs. With both the home cook and the commercial chef in mind, owner Airis the Chef combines simple, wholesome ingredients to create BIG FLAVOR profiles. ",
+    "title": "Airis Foods",
+    "subtitle": "Airis Foods are hand crafted food products that add flavor and flare to all your cooking and snacking needs. With both the home cook and the commercial chef in mind, owner Airis the Chef combines simple, wholesome ingredients to create BIG FLAVOR profiles. ",
     "imageUrl": "https://assets.bigcartel.com/theme_images/35218102/Airs_Foods_logo.png?auto=format&fit=max&h=500&w=1800",
-    "clickUrl": "http://www.atcspiceblends.com/",
+    "clickUrl": "http://www.atcspiceblends.com/products",
     "tags": [
       "Food & Beverage",
       "Desserts",
@@ -1227,7 +1703,30 @@
     "title": "Askanya",
     "subtitle": "Les Chocolateries Askanya is Haiti’s first and only premier bean-to-bar chocolate company. We exclusively use Haitian cacao to produce our chocolates in our facility located in Ouanaminthe, Haiti.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0059/8926/9617/articles/ASKANYA_LOGO_BLACK_1402x.jpg?v=1573192784",
-    "clickUrl": "https://askanya.ht/?locale=en",
+    "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection",
+    "products": [
+      {
+        "name": "Bouquet Vert",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/products/image_8ec335b6-f880-411e-b798-5b0aa198a2a6_1080x.jpg?v=1594988117",
+        "description": "Bouquet Vert is our Lime Chocolate Bar - a dark and rich cacao bar infused with with mellow, floral and citrus - feels like a rich earth and lime trees in full bloom. There are notes of candied lime and something toasty. It's a slow melt, but that only helps savoring each new layer of flavor.",
+        "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection/products/bouquet-vert",
+        "shopName": "Askanya"
+      },
+      {
+        "name": "The Haiti Duo #1: Paradis Chocolates & Cremas Liqueur",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/products/Abs2M_3PA_08adb2b0-041a-422d-86c0-9fb06eda0f58_1080x.jpg?v=1585280439",
+        "description": "Includes 3 Askanya Chocolates (2oz/each): Paradis (47% Cacao) and 2 Absalon Chocolate Cremas Liqueur (1oz/each)",
+        "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection/products/the-haiti-duo-1-paradis-chocolates-cremas-liqueur",
+        "shopName": "Askanya"
+      },
+      {
+        "name": "Wanga Nègès",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/products/image_28d1cab4-708c-40f5-acf8-8ee5916ec595_1080x.jpg?v=1578186414",
+        "description": "Wanga Nègès is creamy and smooth, with a rich, chocolate taste and a complex mélange, from caramel to dried fruit.",
+        "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection/products/wanga-neges",
+        "shopName": "Askanya"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Desserts",
@@ -1241,7 +1740,30 @@
     "title": "Bamenda Coffee",
     "subtitle": "Want to have the best coffee beans in Chicago, Illinois? Get them here at Bamenda Coffee, where our coffee comes fresh from the highlands of Bamenda, Africa, and Latin America. We bring you 100% Arabica and Robusta coffee that will surely make you ask for more.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0292/6775/5146/t/2/assets/main-logo.png?v=6003470205720830862",
-    "clickUrl": "https://bamendacoffee.myshopify.com/",
+    "clickUrl": "https://bamendacoffee.com/pages/products",
+    "products": [
+      {
+        "name": "Green Coffee Beans, 100% Arabica",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0292/6775/5146/products/81atH55OGcL._SL1500_1920x.jpg",
+        "description": "During the Process, the fruit part is stripped away and the seed inside is dried to leave raw green coffee beans. The roasted beans are ground and brewed to make our favorite drink.",
+        "clickUrl": "https://bamendacoffee.com/products/green-coffee-beans",
+        "shopName": "Bamenda Coffee"
+      },
+      {
+        "name": "The Chicago Dark",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0292/6775/5146/products/Chicago-Dark_1920x.jpg?v=1596893993",
+        "description": "During the Process, the fruit part is stripped away and the seed inside is dried to leave raw green coffee beans. The roasted beans are ground and brewed to make our favorite drink.",
+        "clickUrl": "https://bamendacoffee.com/products/the-chicago-dark",
+        "shopName": "Bamenda Coffee"
+      },
+      {
+        "name": "Leshey Towels, \"Kitchen Bar Mop\" Cleaning towels",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0292/6775/5146/products/Leshey-Bar-Mop-1-1_1920x.jpg?v=1596401644",
+        "description": "Leshey Towels, \"Kitchen Bar Mop\" cleaning towels, (12 Pack, 16 x 19) Amazing quality. Pure cotton white towels, restaurant cleaning towels, \"shop towels\" and rags - Bulk \"Bar mops towels\" set.",
+        "clickUrl": "https://bamendacoffee.com/products/leshey-towels-kitchen-bar-mop-cleaning-towels-12-pack-16-x-19-amazing-quality-pure-cotton-white-towels-restaurant-cleaning-towels-shop-towels-and-rags-bulkbar-mops-towels-set",
+        "shopName": "Bamenda Coffee"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Coffee & Tea",
@@ -1255,7 +1777,30 @@
     "title": "Mystic Momma",
     "subtitle": "Specializing in teas, tinctures, yoni steams, sitz baths, blends for hormone balance, reproductive health and womb wellness.",
     "imageUrl": "https://static.wixstatic.com/media/4ffa98_83a054d4cc874b0bba857cd363e5daf0~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01/Untitled.webp",
-    "clickUrl": "https://www.mysticmomma.net/",
+    "clickUrl": "https://www.mysticmommaherbals.com/",
+    "products": [
+      {
+        "name": "Vital-A-Tea",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/Vitalatea-2_940x.jpg?v=1530812658",
+        "description": "In TCM, the heart is said to house the Shen. Shen is best described as the spirit/soul, but also encompasses the  mind. So what better way to revitalize Shen then to experience this high vitamin and mineral tea full of heart healthy herbs!",
+        "clickUrl": "https://www.mysticmommaherbals.com/collections/herbal-teas/products/vital-a-tea",
+        "shopName": "Mystic Momma"
+      },
+      {
+        "name": "Ultimate Gold body butter",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/UltimateGold_940x.jpg?v=1534953342",
+        "description": "This hydrating aloe and shea body butter is an indulgent treat for the body.  Layer over skin after a warm shower. May refrigerate this body butter for a cooling effect and longer shelf life.",
+        "clickUrl": "https://www.mysticmommaherbals.com/collections/salves-creams/products/ultimate-gold-massage-cream",
+        "shopName": "Mystic Momma"
+      },
+      {
+        "name": "Cleansing Herbs",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/CleansingHerbs-1_940x.jpg?v=1535131969",
+        "description": "The Mystic Momma Cleansing Herbs includes a strong dose of herbs to help clean out the uterus and improve blood circulation to the mid-section. The herbs included promote circulation, balance the vaginal flora, improve scent, tighten skin, clear out excess mucus and nourish the reproductive organs.",
+        "clickUrl": "https://www.mysticmommaherbals.com/collections/self-care/products/cleansing-herbs-1",
+        "shopName": "Mystic Momma"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -1269,25 +1814,35 @@
     "priority": 10
   },
   {
-    "id": "cbad14f1-cbc8-4112-8552-c6e7a2c90c7d",
-    "type": "shop",
-    "title": "Nikki Crisps",
-    "subtitle": "Delicious Plantain Crisps | Vegan and Gluten Free with No Preservatives. Proudly Made in Ghana.",
-    "imageUrl": "https://www.nikkiscrisps.com/template/img/nikkis-logo.png",
-    "clickUrl": "https://www.nikkiscrisps.com/",
-    "tags": [
-      "Food & Beverage",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "e35cd028-46f2-4584-a15a-f5fa8fcc230a",
     "type": "shop",
     "title": "Savor Seasoning Blends",
     "subtitle": "Savor Seasonings blends are handcrafted creations by the Spencer family; Dulani, Lisa and Myles.",
     "imageUrl": "https://static1.squarespace.com/static/57d70277725e252bea547232/t/5f028c3f6e62565b9d4e41dd/1601685497213/?format=original",
     "clickUrl": "https://www.savorblends.com/shop-1",
+    "products": [
+      {
+        "name": "Rubbed: Honey, It's BBQ",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/57d70277725e252bea547232/1591418382724-NLBAVBX50M9YZ2CSB7Q8/ke17ZwdGBToddI8pDm48kAJSP1hEY-HIPkpO4FFcczF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ4NPyVZ4SNJq7PY1pOeGcPq7bJhxQeSx6v4ZzFFLbLpA/IMG_8588.jpg?format=2500w",
+        "description": "A honey based rub for your ribs, ham salmon. The honey base will give your meats a nice crispy, caramel crust.",
+        "clickUrl": "https://www.savorblends.com/shop-1/brown-sugar-baby-rub-8oz-jar",
+        "shopName": "Savor Seasoning Blends"
+      },
+      {
+        "name": "Truffle Butter",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/57d70277725e252bea547232/1583888192055-GMY2U4M4P6JEV9ECVT1M/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Truffle+Butter.jpg?format=2500w",
+        "description": "Sweet cream butter, blended with Italian black truffles and truffle salt. Your potatoes, beef, pork, veggies, sourdough bread, pasta, seafood, rice and your tummy will thank you!",
+        "clickUrl": "https://www.savorblends.com/shop-1/truffle-butter-8oz-bk7lb",
+        "shopName": "Savor Seasoning Blends"
+      },
+      {
+        "name": "Vampire Salt (6oz Grinder)",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/57d70277725e252bea547232/1534917388432-EY0Q77WFXXDJQII7KN94/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/IMG_9674.jpg?format=2500w",
+        "description": "A blend of garlic cloves and sea salt. It's just that simple. Try it on everything; soups, sauces, poultry, pork, beef, mashed potatoes, veggies. ",
+        "clickUrl": "https://www.savorblends.com/shop-1/vampire-salt-6oz-grinder",
+        "shopName": "Savor Seasoning Blends"
+      }
+    ],
     "tags": [
       "Food & Beverage",
       "Condiments & Spices",
@@ -1301,7 +1856,30 @@
     "title": "Doe Wiz Apparel",
     "subtitle": "Doe Wiz apparel was found by Kamar Doe Wiz Lewis. The term Doe came about from the street meaning \"Money,\" and the term \"Wiz\" short for wisdom. By combining the two terms, we have the name \"Doe Wiz\" which means \"A smart way to get money.\"",
     "imageUrl": "https://static.wixstatic.com/media/3c8c0c_d261102a19b5423ab1b9e95c9126cc30~mv2.jpg/v1/fill/w_1634,h_1476,al_c,q_90/Doe%20Wiz%20Apparel%20Pink%20K%203%20Collection%202020.webp",
-    "clickUrl": "https://www.doewizapparel.com/",
+    "clickUrl": "https://www.doewizapparel.com/shop",
+    "products": [
+      {
+        "name": "DWA Cream or White Hoodie",
+        "imageUrl": "https://static.wixstatic.com/media/3c8c0c_6759d38e34e543879462f0e7a3f032eb~mv2.jpg",
+        "description": "Casual spot pullover hoodie - loose fit. Choosing this stylish pull over hoodie will add comfort good for exercise, fitness, workout, running, jogging, sportswear etc.",
+        "clickUrl": "https://www.doewizapparel.com/product-page/dwa-cream-or-wheat-hoodie",
+        "shopName": "Doe Wiz Apparel"
+      },
+      {
+        "name": "DWA Grape Purple Yellow Cropped Top Set",
+        "imageUrl": "https://static.wixstatic.com/media/3c8c0c_26eb94db4d84411e9c696115c1305973~mv2.jpg",
+        "description": "Casual sport sweat suit round neck pullover top long pants, loose fit. Choosing this stylish two-piece suit will make you more attractive. Suit casual, exercise, fitness, workout, running, jogging, sportswear etc.",
+        "clickUrl": "https://www.doewizapparel.com/product-page/grape-purple-yellow-cropped-top-set",
+        "shopName": "Doe Wiz Apparel"
+      },
+      {
+        "name": "DWA Varsity Set Red",
+        "imageUrl": "https://static.wixstatic.com/media/3c8c0c_0e2fb3e4d7324a848448928d55334484~mv2.jpg",
+        "description": "Snap closure. Contrast sleeves. Knitted collar, cuffs and waistband with stripe details. Press-stud closure. Contrast studs. Hidden ear phone loops.",
+        "clickUrl": "https://www.doewizapparel.com/product-page/dwa-varsity-set-red",
+        "shopName": "Doe Wiz Apparel"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",
@@ -1320,7 +1898,30 @@
     "title": "Fishing Caddy",
     "subtitle": "Our company is dedicated to bringing you the absolute best system for fishing and overall enjoyment of the sport.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/files/logo-opt_360x.png?v=1551459029",
-    "clickUrl": "https://thefishingcaddy.com/",
+    "clickUrl": "https://thefishingcaddy.com/collections/all",
+    "products": [
+      {
+        "name": "2 Pack Best Sellers Save on Shipping",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/products/image_1080x.jpg?v=1549762812",
+        "description": "One Camo XL (Padded Seat) and Blue Ice XL (Padded Swivel Seat) our best sellers! Save on shipping & The perfect. Gift idea for anyone who loves fishing.",
+        "clickUrl": "https://thefishingcaddy.com/products/2-pack-best-seller",
+        "shopName": "Fishing Caddy"
+      },
+      {
+        "name": "Deck and Patio Cupholder 2 Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/products/image_d2e863e8-bc20-4542-86c6-87201c12d00e_1080x.jpg?v=1595010099",
+        "description": "Easily Mount and Store a XL Beverage Holder. Never worry about Spilled Drinks Again.",
+        "clickUrl": "https://thefishingcaddy.com/products/deck-and-patio-cupholder-2-pack",
+        "shopName": "Fishing Caddy"
+      },
+      {
+        "name": "Single Rod Holder Attachment",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/products/image_5bf79ace-4c7a-418d-ae5a-da7740e79cd3_1080x.jpg?v=1568298381",
+        "description": "Easily Mount a Single Rod Holder to your favorite outdoors location. Fits most rods from Ultra Light to Medium Action.",
+        "clickUrl": "https://thefishingcaddy.com/products/single-rod-holder",
+        "shopName": "Fishing Caddy"
+      }
+    ],
     "tags": [
       "Sports & Outdoors",
       "Shop"
@@ -1334,6 +1935,29 @@
     "subtitle": "Jarvis Boards' mission has always been to craft paddle boards in Austin, Texas that are environmentally friendly, look great, and perform well. To accomplish this, we employ a wide range of techniques to craft our small-batch production wooden SUPs in our Austin studio.",
     "imageUrl": "https://pbs.twimg.com/profile_images/474414056850210818/G9WqlvOX.jpeg",
     "clickUrl": "https://jarvisboards.com/",
+    "products": [
+      {
+        "name": "Hollow Core Paddle Board Frame Kits",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/Paddle_board_frame_kit-5_2000x.jpg?v=1573677840",
+        "description": "There is something magical about creating something with your own two hands. Building your own hollow core paddle board will be one of the most rewarding projects that you'll tackle.",
+        "clickUrl": "https://jarvisboards.com/collections/paddle-board-kits/products/hollow-core-paddle-board-frame-kits",
+        "shopName": "Jarvis Boards"
+      },
+      {
+        "name": "Let's Surf Y'all! Dad hat",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/mockup-6d7670fe_2000x.jpg?v=1553022867",
+        "description": "Let's Surf Y'all! Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. Available in khaki and light blue. ",
+        "clickUrl": "https://jarvisboards.com/collections/gear/products/lets-surf-yall-dad-hat",
+        "shopName": "Jarvis Boards"
+      },
+      {
+        "name": "Surf Wax Candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/Surf_wax_candles-3_2000x.jpg?v=1543458689",
+        "description": "We teamed up with our friends at Jimbo's Surf Wax to create a unique line of surf wax candles. Each candle is slow cooked over a wood stove in Maine using surf wax and a hint of coconut. ",
+        "clickUrl": "https://jarvisboards.com/collections/gear/products/surf-wax-candle-1",
+        "shopName": "Jarvis Boards"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Candles",
@@ -1353,6 +1977,29 @@
     "subtitle": "It’s our goal to produce quality clothing that embodies our inspirations of the moment. We only source premium fabrics, usually directly from NYC's garment district. All of our cut and sewn garments are made at our Brooklyn factory. We strive to build a strong brand by consistently making quality clothing that our customers can be proud to wear.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/files/GREENBOX_LOGO_360x.png?v=1545684962",
     "clickUrl": "https://www.lyfestylenyc.shop/",
+    "products": [
+      {
+        "name": "Taffy Multicolor Lyfestyle Sweatsuit",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/TaffyMultiSuit_940x.jpg?v=1605258530",
+        "description": "Chenille Patch. True to Size. Made in Brooklyn. Available in other colors.",
+        "clickUrl": "https://www.lyfestylenyc.shop/products/taffy-multicolor-lyfestyle-sweatsuit",
+        "shopName": "Lyfestyle Clothing"
+      },
+      {
+        "name": "Black Mock Neck Multicolor Dress",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/WebsiteDress_750x.jpg?v=1583914307",
+        "description": "Chenille Patch. 94.5% Rayon / 5.5% Spandex. Fitted. Sewn in Brooklyn",
+        "clickUrl": "https://www.lyfestylenyc.shop/products/black-mock-neck-multicolor-dress",
+        "shopName": "Lyfestyle Clothing"
+      },
+      {
+        "name": "Serpent Lyfestyle Hoody",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/RedSerpent_940x.jpg?v=1571917392",
+        "description": "8oz Mid-Weight Fleece. Velvet Print. True to Size. Printed in Brooklyn",
+        "clickUrl": "https://www.lyfestylenyc.shop/products/multicolor-lyfestyle-hoodies-1",
+        "shopName": "Lyfestyle Clothing"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",
@@ -1407,8 +2054,30 @@
     "title": "POWERHANDZ",
     "subtitle": "POWERHANDZ is a global company that manufactures unique skill development products used by thousands of professional and youth athletes in multiple sports.",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR5S_AK_QokDNLqav8IWDDYmI0TnVLaCPOzw&usqp=CAU",
-    "clickUrl": "https://powerhandz.com/",
-    "moreInfo": "POWERHANDZ is a global company that manufactures unique skill development products used by thousands of professional and youth athletes in multiple sports.",
+    "clickUrl": "https://shop.powerhandz.com/",
+    "products": [
+      {
+        "name": "Basketball Gift Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0724/7557/products/BASKETBALLGiftset_e7a95167-7230-4781-ae17-4677e68b8faf_grande.jpg?v=1605728082",
+        "description": "Set includes POWERHANDZ Gloves, DribbleSleeve, Wristband, and Bag",
+        "clickUrl": "https://shop.powerhandz.com/collections/all/products/ph-basketball-gift-set-3",
+        "shopName": "POWERHANDZ"
+      },
+      {
+        "name": "Football Gift Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0724/7557/products/FOOTBALLGiftset_18b55aa0-956f-4a21-8f92-8c6f728a8ce2_grande.jpg?v=1605898605",
+        "description": "Set includes POWERHANDZ Gloves, Wristband, and Bag.",
+        "clickUrl": "https://shop.powerhandz.com/collections/all/products/ph-power-football-gift-set",
+        "shopName": "POWERHANDZ"
+      },
+      {
+        "name": "POWERHANDZ Resistance Bands and Sliders",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0724/7557/products/POWERPACKGiftsetNEWBANDS_grande.jpg?v=1605905539",
+        "description": "Set includes 5 resistance bands, 2 sliding disks, and a bag for storage.",
+        "clickUrl": "https://shop.powerhandz.com/collections/all/products/powerpack-gift-set-1",
+        "shopName": "POWERHANDZ"
+      }
+    ],
     "tags": [
       "Fashion",
       "Clothing",
@@ -1441,7 +2110,30 @@
     "title": "The Better Results",
     "subtitle": "The Better Results Push bar was created to solve a Problem, the equipment has been patented and now the hopes in every one can benefit from the invention.",
     "imageUrl": "https://irp-cdn.multiscreensite.com/bd0033c6/dms3rep/multi/desktop/Better+Results+logo2.png",
-    "clickUrl": "https://www.thebetterresults.com/",
+    "clickUrl": "https://www.thebetterresults.com/store/",
+    "products": [
+      {
+        "name": "Gun Metal Grey",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/17069376/1057753927.jpg",
+        "description": "BR is the 1st high quality one-piece close grip push-up bar. . The BR Push-up Bar gives you the proper diamond shape push-up form without hurting or straining your wrist. Use of BR provides definition in chest and tricep areas.",
+        "clickUrl": "https://www.thebetterresults.com/store/Gun-Metal-Grey-p136971326",
+        "shopName": "The Better Results"
+      },
+      {
+        "name": "Apple Red",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/17069376/1094300050.jpg",
+        "description": "BR is the 1st high quality one-piece close grip push-up bar. . The BR Push-up Bar gives you the proper diamond shape push-up form without hurting or straining your wrist. Use of BR provides definition in chest and tricep areas.",
+        "clickUrl": "https://www.thebetterresults.com/store/Apple-Red-p141978962",
+        "shopName": "The Better Results"
+      },
+      {
+        "name": "Sapphire Blue",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/17069376/1094450080.jpg",
+        "description": "BR is the 1st high quality one-piece close grip push-up bar. . The BR Push-up Bar gives you the proper diamond shape push-up form without hurting or straining your wrist. Use of BR provides definition in chest and tricep areas.",
+        "clickUrl": "https://www.thebetterresults.com/store/Sapphire-Blue-p142015816",
+        "shopName": "The Better Results"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Wellness",
@@ -1457,7 +2149,7 @@
     "title": "Scent Affairs",
     "subtitle": "Our goal is to continuously strive to make and provide a quality product. The goal, create a safe, effective, quality product with a long lasting scentual affect.",
     "imageUrl": "https://img1.wsimg.com/isteam/ip/5ea6346b-225e-46e2-9c86-48aa90fa9dc8/Scent-Affairs-Logo.png/:/rs=h:320/qt=q:95",
-    "clickUrl": "https://scentaffairs.com/",
+    "clickUrl": "https://scentaffairs.com/shop-1",
     "tags": [
       "Personal Fragrance",
       "Home & Garden",
@@ -1474,7 +2166,30 @@
     "title": "Perfect Blue Alchemy",
     "subtitle": "Perfect Blue Alchemy is handcrafted organic, vegan and natural perfumes, body products and home items made from organic essential oils and organic plant oils.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0123/9878/8698/products/20200913_192140_1296x.jpg?v=1600040065",
-    "clickUrl": "https://www.perfectbluealchemy.com/",
+    "clickUrl": "https://www.perfectbluealchemy.com/collections",
+    "products": [
+      {
+        "name": "Elevate Body Butter",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0123/9878/8698/products/20200618_234456_1080x.jpg?v=1592539283",
+        "description": "This isn't your run of the mill basic body butter. Blended here is the magic of raw, unrefined shea butter, coconut oil, babassu and tamanu oils with soothing arrowroot and our Elevate fragrance you know and love. Glow different!",
+        "clickUrl": "https://www.perfectbluealchemy.com/collections/new-special/products/elevate-body-butter",
+        "shopName": "Perfect Blue Alchemy"
+      },
+      {
+        "name": "The Essentials Kit",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0123/9878/8698/products/20200222_180305_1080x.jpg?v=1582550661",
+        "description": "Everyone can benefit from essential oils in the home. We offer you The Essentials Kit - a kit of 3 of the most widely used essential oils, organic of course, to use in your home diffuser or oil-capable humidifier, in the shower and bath and more.",
+        "clickUrl": "https://www.perfectbluealchemy.com/collections/new-special/products/pure-organic-essential-oils",
+        "shopName": "Perfect Blue Alchemy"
+      },
+      {
+        "name": "Vestige Cologne",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0123/9878/8698/products/Vestige_1080x.jpg?v=1584998494",
+        "description": "Vestige is our premier men's fragrance, incorporating a delicious blend of Sandalwood, Pine, Basil, Orange and Fir essential oils. Vestige uplifts, excites and inspires fresh perspective.",
+        "clickUrl": "https://www.perfectbluealchemy.com/collections/mens-products/products/vestige",
+        "shopName": "Perfect Blue Alchemy"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Skincare",
@@ -1491,6 +2206,29 @@
     "subtitle": "Beija-Flor Naturals has nearly a decade as a Curly Girl favorite product line in addition to skincare that is effective, exotic and unique in the green beauty market.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/MG_3025_2048x.jpg?v=1555990328",
     "clickUrl": "https://www.beijaflornaturals.com/",
+    "products": [
+      {
+        "name": "Body and Hair Honey",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/Image-from-iOS-e1531872423734-600x759_1080x.jpg?v=1593301267",
+        "description": "Moisturizing Butter + Oils blend to give a nourishing sheen to skin and hair.  Only a little goes a long way and the fragrance is divine.",
+        "clickUrl": "https://www.beijaflornaturals.com/collections/hair/products/body-and-hair-honey",
+        "shopName": "Beija Flor Naturals"
+      },
+      {
+        "name": "Acai Mango Lotion",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/Beija_Flor_Naturals-3474-Edit-Edit_2048x.jpg?v=1559100212",
+        "description": "The acai mango lotion is a rich and creamy facial moisturizer that is perfect for all skin types. This water-based product absorbs perfectly, and includes the all powerful acai and mango extracts, murumuru butter, rosemary and orange essential oils.",
+        "clickUrl": "https://www.beijaflornaturals.com/collections/face/products/acai-mango-lotion",
+        "shopName": "Beija Flor Naturals"
+      },
+      {
+        "name": "Handmade Soy Candle: Plum",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/20180412_125912_900x.jpg?v=1596401951",
+        "description": "Juicy Fruit fragrance without being too sticky sweet. This plum inspired candle features notes of peace, apple, strawberry, jasmine and vanilla.  Clean burning soy candle. 90 Hour Burn Time.",
+        "clickUrl": "https://www.beijaflornaturals.com/collections/home/products/handmade-soy-candle-tobacco",
+        "shopName": "Beija Flor Naturals"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -1511,7 +2249,30 @@
     "title": "Black Beard Brigade Men's Grooming Co.",
     "subtitle": "We carry grooming products that are primarily geared towards the bearded community, but we also have women and children using them as well. Our oil, balm, and butter are excellent for the hair on your head, and the butter can also double as a lotion.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/PC_Butter_2048x.jpg?v=1547136674",
-    "clickUrl": "https://blackbeardbrigade.com/",
+    "clickUrl": "https://blackbeardbrigade.com/collections/all",
+    "products": [
+      {
+        "name": "Tanzanian Sun Premium Beard Butter",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123607_1_2048x.jpg?v=1547136920",
+        "description": "Black Beard Brigade's beard butter is designed to feel more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard. Soothes and replenishes dry, damaged hair with natural lipid-rich botanicals. Adds the finishing touches for beard renewal and restoration.",
+        "clickUrl": "https://blackbeardbrigade.com/collections/all/products/tanzanian-sun-beard-butter",
+        "shopName": "Black Beard Brigade Men's Grooming Co."
+      },
+      {
+        "name": "Premium Classic Beard Oil",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123328_2048x.jpg?v=1547136709",
+        "description": "Black Beard Brigade's beard oil is designed to tone, nourish, and clear the skin underneath the beard. It feels more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard.",
+        "clickUrl": "https://blackbeardbrigade.com/collections/all/products/premium-classic-beard-oil",
+        "shopName": "Black Beard Brigade Men's Grooming Co."
+      },
+      {
+        "name": "GL Long Sleeve Shirts",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/ad66bf4b078f4743d47e66a7682a7997_2048x.png?v=1590602548",
+        "description": "This well-loved favorite features a classic crew neck, long sleeves, and superior combed and ring-spun jersey cotton. Solid colors are made from 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz, while Athletic Heather is made from 90% Airlume combed and ring-spun cotton and 10% poly blend.",
+        "clickUrl": "https://blackbeardbrigade.com/collections/all/products/gl-long-sleeve-shirts",
+        "shopName": "Black Beard Brigade Men's Grooming Co."
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Skincare",
@@ -1526,7 +2287,30 @@
     "title": "CarmaBella Skincare",
     "subtitle": "CarmaBella Skincare is made for women who want the best skincare, without any artificial chemicals or unnecessary ingredients. When using our products, you don't have to choose between natural and luxurious.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/files/Radiance_Collection_2100x.png?v=1600554345",
-    "clickUrl": "https://carmabellaskincare.com/",
+    "clickUrl": "https://carmabellaskincare.com/collections/all",
+    "products": [
+      {
+        "name": "Brightening Turmeric Clay Mask",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/Mockup-TurmericMask_1200x.png?v=1600456050",
+        "description": "Want an instant glow? We have the perfect natural skincare product to help you achieve it. The Brightening Turmeric Clay Mask instantly brightens dull, tired skin and restores your skins healthy complexion over time.",
+        "clickUrl": "https://carmabellaskincare.com/products/turmeric-clay-mask",
+        "shopName": "CarmaBella Skincare"
+      },
+      {
+        "name": "HydroSurge Moisturizing Gel",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/HydroSurgeMoisturizer-1_1200x.png?v=1600459319",
+        "description": "The HydroSurge Moisturizing Gel replenishes water and helps to improve your skin's moisture barrier, resulting in smooth, hydrated skin. This addictively refreshing gel leaves skin plump, dewy, and glowing.",
+        "clickUrl": "https://carmabellaskincare.com/products/moisturesurge-moisturizing-ge",
+        "shopName": "CarmaBella Skincare"
+      },
+      {
+        "name": "The Essential Bath & Body Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/B_BKitcopy1_1200x.png?v=1600460592",
+        "description": "The Essential Bath & Body Set is a nourishing collection that will leave your skin feeling soft and moisturized all day. This set includes the Natural Sugar Based Body Wash, a bath puff, and the Nourishing Shea Body Lotion.",
+        "clickUrl": "https://carmabellaskincare.com/products/essential-bath-body-set?variant=31148334841920",
+        "shopName": "CarmaBella Skincare"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -1542,7 +2326,30 @@
     "title": "Elements of Aliel",
     "subtitle": "Elements of Aliel is a collection of products that are gentle, yet effective and made with nature and love. We focus on ingredient quality to bring you plant powered goodness that rivals anything you an find on the market today.",
     "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2020/03/20200321_195800.jpg?fit=1200%2C1200&ssl=1",
-    "clickUrl": "https://www.elementsofaliel.com/",
+    "clickUrl": "https://www.elementsofaliel.com/product-category/face/",
+    "products": [
+      {
+        "name": "Glow Essence",
+        "imageUrl": "https://i0.wp.com/www.elementsofaliel.com/wp-content/uploads/2018/08/Glow-Essence.jpg?fit=640%2C640&ssl=1",
+        "description": "This multitasking master is all you need to moisturize, soften texture, reduce appearance of dark spots and fine lines due to dryness, and even skin tone. This lightweight but powerful formula delivers a healthy dose of vitamins and minerals that are quickly absorbed by the skin.",
+        "clickUrl": "https://www.elementsofaliel.com/product/glow-serum/",
+        "shopName": "Elements of Aliel"
+      },
+      {
+        "name": "Love Cleanser",
+        "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2016/07/love-cleanser.jpg?fit=640%2C640&ssl=1",
+        "description": "Our Love Cleanser is a gentle cream cleanser that deep cleans pores and gently exfoliates the skin. The combination of pure African Black Soap, hibiscus and organic cocoa powder work to clear breakouts, reduce the appearance of dark spots and moisturize the skin.",
+        "clickUrl": "https://www.elementsofaliel.com/product/love-cleanser/",
+        "shopName": "Elements of Aliel"
+      },
+      {
+        "name": "Bed Time Beauty Kit",
+        "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2020/10/Bed-Time-Beauty-Kit.jpg?fit=800%2C800&ssl=1",
+        "description": "Elevate your nighttime beauty routine with this bundle of products designed to detoxify, nourish and refresh the skin. In just 10 minutes a night you can wake up glowing.",
+        "clickUrl": "https://www.elementsofaliel.com/product/bed-time-beauty-kit/",
+        "shopName": "Elements of Aliel"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -1559,6 +2366,29 @@
     "subtitle": "Harrison Blake Apparel has found a way to deliver high quality men's accessories at a great price. The style and variety of products are sure to please any gentleman. ",
     "imageUrl": "https://harrisonblakeapparel.com/product_images/logolandscape_2_1438133768__57671.png",
     "clickUrl": "https://harrisonblakeapparel.com/",
+    "products": [
+      {
+        "name": "Berry Dot Necktie",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2024/images/5288/IMG_8382__17397.1606260888.500.750.JPG?c=2",
+        "description": "A great microfiber necktie - in a beautiful design and color scheme = priceless! Grab yours now. Get compliments later...",
+        "clickUrl": "https://harrisonblakeapparel.com/berry-dot-necktie/",
+        "shopName": "Harrison Blake Apparel"
+      },
+      {
+        "name": "Black Tooth Bow Tie",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2148/images/5648/Rich____plainnameguy_-_A23829C7-C8B0-461A-8900-8EB408A39870__40414.1598846644.500.750.jpg?c=2",
+        "description": "A self-tied bow tie is a classic accessory that everyone needs in their wardrobe. Handmade quality is what you'll find in all our neckwear offerings.",
+        "clickUrl": "https://harrisonblakeapparel.com/black-tooth-bow-tie/",
+        "shopName": "Harrison Blake Apparel"
+      },
+      {
+        "name": "Gold Circle and Star Earrings",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/1715/images/4288/Attachment_1556500459__47592.1556690321.500.750.jpg?c=2",
+        "description": "Unique, Elegant and Simple design. Add a nice touch to complete your look for any occasion. All of our jewelry is silver or gold plated and hypoallergenic.",
+        "clickUrl": "https://harrisonblakeapparel.com/gold-circle-and-star-earrings/",
+        "shopName": "Harrison Blake Apparel"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Beardcare",
@@ -1577,7 +2407,30 @@
     "title": "Lizzie's All Natural Products",
     "subtitle": "Here at Lizzie's All-natural Products, we create fresh, natural, toxin free products for your home and body. Our promise is to provide you with quality products that your skin will love and benefit from.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/2451/3215/files/logo_500x.png?v=1572884688",
-    "clickUrl": "https://productsbylizzie.com/",
+    "clickUrl": "https://productsbylizzie.com/collections/all",
+    "products": [
+      {
+        "name": "Eczema Butter & Oatmeal Soap Bundle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2451/3215/products/IMG-7081_1.jpg?v=1599759088",
+        "description": "Save $$ when you bundle our Best Selling Original Unscented Eczema Butter and Oatmeal & Honey Soap. Both are great for eczema, nourishing, smooths skin, helps reduce inflammation/flare ups, lighten dark marks and soothes skin.",
+        "clickUrl": "https://productsbylizzie.com/products/eczema-soap-set",
+        "shopName": "Lizzie's All Natural Products"
+      },
+      {
+        "name": "Eczema Oil",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2451/3215/products/IMG_1355_1_720x.jpg?v=1575629504",
+        "description": "If you have tried our Eczema Butter, then you will LOVE this eczema oil. Our 8 ounce bottle of eczema oil is has all the amazing ingredients like our eczema butter does, just in the oil form. Allow the power of nature to nurture your eczema with our all-natural eczema butter.",
+        "clickUrl": "https://productsbylizzie.com/products/eczema-oil",
+        "shopName": "Lizzie's All Natural Products"
+      },
+      {
+        "name": "Essential Oil",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2451/3215/products/48020AC9.jpg?v=1585190545",
+        "description": "All of our essential oils are pure therapeutic grade and offer various health benefits.",
+        "clickUrl": "https://productsbylizzie.com/products/essential-oil",
+        "shopName": "Lizzie's All Natural Products"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -1595,7 +2448,30 @@
     "title": "Marie Hunter Beauty",
     "subtitle": "Cosmetics and Fragrances for the Modern Muse. Boldly empowering women with beauty, confidence and class since 2016.",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1603309092423-RGCCK4D380NR0FUVSZ2U/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/Boss+Lady+1.jpg?format=2500w",
-    "clickUrl": "https://www.mariehunterbeauty.com/",
+    "clickUrl": "https://www.mariehunterbeauty.com/mhbstore",
+    "products": [
+      {
+        "name": "Boss Lady Lipstick",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1606358592453-ZG5NSITDBEIJH3ELSTHW/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/1C5F5DA1-663E-4927-9425-76A8C97CDF75?format=2500w",
+        "description": "Intense matte, super-rich formula delivers vibrant color with a velvety texture and long lasting comfort. A nourishing blend of oils and butters condition and soften lips. Advanced humectants deliver powerful hydration to help keep lips moist and supple.",
+        "clickUrl": "https://www.mariehunterbeauty.com/mhbstore/intense-matte-lipstick-boss-lady",
+        "shopName": "Marie Hunter Beauty"
+      },
+      {
+        "name": "Desert Sun Lipgloss",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1604154597422-J9UNL3F8QG1P4C555O8Y/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/20F759C1-BBB7-4461-8B09-5644CFF383F9?format=2500w",
+        "description": "Lip Plumping Peptide Complex Maxi helps to stimulate collagen for a voluptuous look. Marine Filling Collagen Micro-Spheres instantly plump and hydrate. Mango, Kokam & Shea Butter hydrate and condition the lips while Vitamins A, C & E provide antioxidants to help protect lips from free radical damage.",
+        "clickUrl": "https://www.mariehunterbeauty.com/mhbstore/lip-gloss-desert-sun",
+        "shopName": "Marie Hunter Beauty"
+      },
+      {
+        "name": "Deep Hydration Cream",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1602771788382-P01LO0JKOJGZ8UIMFF85/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/MHB-SC-9.jpg?format=2500w",
+        "description": "A daily moisturizer for intense hydration. A lightweight, quick absorbing cream that transforms skin into a supple, healthier looking appearance.",
+        "clickUrl": "https://www.mariehunterbeauty.com/skincarestore/deep-hydration-cream",
+        "shopName": "Marie Hunter Beauty"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Skincare",
@@ -1614,7 +2490,7 @@
     "title": "My Beautiful Fluff",
     "subtitle": "Clothes designed with curves in mind. Each shirt is cut to accommodate curves and fluff with custom to cut to my size chart with sizes L to 5XL.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0034/7602/9504/files/static1.squarespace_7341156e-b477-427c-a6f0-d57aeda3b6e2@2x.png?v=1545404028",
-    "clickUrl": "https://mybeautifulfluff.com/",
+    "clickUrl": "https://mybeautifulfluff.com/collections",
     "tags": [
       "Health & Beauty",
       "Cosmetic",
@@ -1634,10 +2510,33 @@
   {
     "id": "0556671f-f1d8-4a8b-b861-45c0231a891a",
     "type": "shop",
-    "title": "BLACK ON BLACK",
+    "title": "Black on Black",
     "subtitle": "Black On Black™ is beautifully designed clothing & accessories that are both clothing line AND protest sign. Black On Black™ is a social protest on clothing that De:Constructs the Construct.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/files/BlackOnBlack-Stack_Favicon_180x.png?v=1569464905",
-    "clickUrl": "https://www.blackonblackbk.com/",
+    "clickUrl": "https://www.blackonblackbk.com/collections",
+    "products": [
+      {
+        "name": "\"Anti-Racist Social Club\" Throw Pillows",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/pro-previews494408479_1024x1024@2x.png?v=1597330801",
+        "description": "These cozy throw pillows feature high-quality fabric and prints that will upgrade your space. Zippered cover care instructions: machine wash in cold water using mild detergent and gentle cycle only, hang to dry.",
+        "clickUrl": "https://www.blackonblackbk.com/collections/allies-champions/products/anti-racist-social-club-throw-pillows",
+        "shopName": "Black on Black"
+      },
+      {
+        "name": "\"Juneteenth\" - Unisex T",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/0012_BXB-BC3001HTHR_JUNETEENTH_1024x1024@2x.jpg?v=1568835457",
+        "description": "Juneteenth is the oldest known celebration commemorating the ending of slavery in the United States.  Dating back to 1865, it was on June 19th that the Union soldiers, led by Major General Gordon Granger, landed at Galveston, Texas with news that the war had ended and that the enslaved were now free.",
+        "clickUrl": "https://www.blackonblackbk.com/collections/classics/products/juneteenth-unisex-t",
+        "shopName": "Black on Black"
+      },
+      {
+        "name": "\"Energy I Be On AKA Black Powered\" - Unisex Long-Sleeved T",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/EP3_0014_BXB-BC3501BLK_EIBO_1024x1024@2x.png?v=1570992286",
+        "description": "\"Black Powered\" T-Shirt - When I think about the greatness of us and all that we've been able to become DESPITE all that we've been through and STILL going through, one reason that is specific to us is, US.",
+        "clickUrl": "https://www.blackonblackbk.com/collections/new-designs/products/energy-i-be-on-unisex-long-sleeved-t",
+        "shopName": "Black on Black"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",
@@ -1660,7 +2559,30 @@
     "title": "CurlyCoilyTresses",
     "subtitle": "At CurlyCoilyTresses, we create products that help soothe scalps and moisturize and hydrate hair. We've helped thousands just like you to lengthen and strengthen their hair; soften, moisturize and hydrate their hair; and improve the overall appearance of their hair. ",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/files/241CD79F-6F0A-4B92-81F1-35F5105ABD03_928213d5-5b83-41bc-baa2-399776172c0e_600x.png?v=1588347259",
-    "clickUrl": "https://curlycoilytresses.com/",
+    "clickUrl": "https://curlycoilytresses.com/collections/shop-all",
+    "products": [
+      {
+        "name": "Enrich Moisturizer Styler + Organic Pumpkin Seed Oil Serum + Nourish Treatment Masque",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/products/curlycoilytresses-enrich-moisturizer-styler-nourish-treatment-masque-organic-pumpkin-seed-oil-serum-fragrance-free-878651_1080x.jpg?v=1600046409",
+        "description": "Our best selling kit! Our customers say our products leave their hair soft, hydrated, moisturized and touchably luscious! And you get all this without fragrance headaches! It's true! We avoid all fragrances and focus on what really matters, eliminating dryness and getting lasting moisture, even days after wash day!",
+        "clickUrl": "https://curlycoilytresses.com/collections/shop-all/products/enrich-nourish-pumpkin",
+        "shopName": "CurlyCoilyTresses"
+      },
+      {
+        "name": "Travel + Discovery Enrich Moisturizer Styler + Nourish Treatment Masque",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/products/curlycoilytresses-travel-discovery-enrich-moisturizer-styler-nourish-treatment-masque-fragrance-free-487253_1080x.jpg?v=1603350287",
+        "description": "A top selling kit! Our customers say our products leave their hair soft, hydrated, moisturized and touchably luscious! And you get all this without fragrance headaches! It's true! We avoid all fragrances and focus on what really matters, eliminating dryness and getting lasting moisture, even days after wash day!",
+        "clickUrl": "https://curlycoilytresses.com/collections/shop-all/products/travel-discovery-enrich-nourish",
+        "shopName": "CurlyCoilyTresses"
+      },
+      {
+        "name": "Organic Pumpkin Seed Oil Serum + Enrich Moisturizer Styler",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/products/curlycoilytresses-enrich-moisturizer-styler-organic-pumpkin-seed-oil-serum-fragrance-free-924034_1080x.jpg?v=1600046413",
+        "description": "A top selling kit! Our customers say our products leave their hair soft, hydrated, moisturized and touchably luscious! And you get all this without fragrance headaches! It's true! We avoid all fragrances and focus on what really matters, eliminating dryness and getting lasting moisture, even days after wash day!",
+        "clickUrl": "https://curlycoilytresses.com/collections/shop-all/products/enrich-pumpkin",
+        "shopName": "CurlyCoilyTresses"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Haircare",
@@ -1676,6 +2598,29 @@
     "subtitle": "Shop our collection of women's African Head Wraps. All of our head wraps & turbans are lined in satin to protect the hair against frizz, breakage and moisture loss.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/files/logo_140x@2x.jpg?v=1553685435",
     "clickUrl": "https://lozatam.com/",
+    "products": [
+      {
+        "name": "Black Satin Head Wrap",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-satin-front-knot-headwrap-model_1080x.jpg?v=1604290984",
+        "description": "Black, Pre-tied Satin Turban Head Wrap is made completely of black satin to prevent friction between the cotton fabric and your fragile hair strands. Features an elastic band in the back to ensure a the turban stays secure on your head.",
+        "clickUrl": "https://lozatam.com/collections/classic/products/black-pretied-head-wrap-for-women",
+        "shopName": "Loza Tam"
+      },
+      {
+        "name": "Faiza Turban Headband",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/faiza-turban-headband-top_1080x.jpg?v=1603899140",
+        "description": "Black, purple, and lemon yellow headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands.  Turban headband is perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
+        "clickUrl": "https://lozatam.com/collections/headbands/products/faiza-turban-headband-1",
+        "shopName": "Loza Tam"
+      },
+      {
+        "name": "Lulu African Headband",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-white-headband-for-curly-hair_1080x.jpg?v=1603898384",
+        "description": "Black, white, and grey African Printed Head Wrap Headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands. Perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
+        "clickUrl": "https://lozatam.com/collections/headbands/products/lulu-black-white-african-headband",
+        "shopName": "Loza Tam"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Accessories",

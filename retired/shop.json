@@ -31,5 +31,31 @@
       "Shop"
     ],
     "priority": 10
+  },
+  {
+    "id": "52cf1b4e-5aae-4014-86e2-b99bc2c55f46",
+    "type": "shop",
+    "title": "House of Marley",
+    "subtitle": "The House of Marley is built on the principles of superior quality, sustainability and a commitment to charitable causes. We are driven to enhance lives through great product experiences as well as using proceeds from product sales to support global reforestation through Project Marley. ",
+    "imageUrl": "https://www.thehouseofmarley.co.uk/skin/frontend/smartwave/marley/images/marley-header-logo.png",
+    "clickUrl": "https://www.thehouseofmarley.co.uk/",
+    "tags": [
+      "Electronics",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cbad14f1-cbc8-4112-8552-c6e7a2c90c7d",
+    "type": "shop",
+    "title": "Nikki Crisps",
+    "subtitle": "Delicious Plantain Crisps | Vegan and Gluten Free with No Preservatives. Proudly Made in Ghana.",
+    "imageUrl": "https://www.nikkiscrisps.com/template/img/nikkis-logo.png",
+    "clickUrl": "https://www.nikkiscrisps.com/",
+    "tags": [
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
   }
 ]

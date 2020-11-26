@@ -37,10 +37,10 @@
         "shopName": "Feed Love"
       },
       {
-        "name": "Heart-to-Heart Oversized Cropped Tee",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1598024432003-X2GN2J23B2166SZZ7MY4/ke17ZwdGBToddI8pDm48kOa7Iz_C5051U03SkiNK2m57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmnhdptcuU1alwky_sWs380pyOeXNuqQ6zqQ4L0lHeosPdkdPf-avg3EbCjWHvCi1L/IMG_7135.JPG?format=2500w",
-        "description": "Introducing the \"Heart-to-Heart\" oversized cropped tee to the Summer 2020 release. This tee features the Heart-to-Heart logo embroidered on middle chest area as well as a collection of Feed Love messages screen-printed on the lower back.",
-        "clickUrl": "https://lovechangesworlds.com/shop/heart-to-heart-oversized-cropped-teee",
+        "name": "Unconditional Lovers Hoodie",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1606341134925-O5LSUUSY9XZGANBWMG8O/ke17ZwdGBToddI8pDm48kDzSZ2RUJPueXSnZMwWaeHR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fJ9fYTeFD0mwPtBWPNhwDufsOWs2VgLGrIU-W0iMnuwSA/4276FC3E-03EA-40C4-93EC-09E6B9648848-5AC8E77C-3525-4757-A65F-2B7653381E9A.JPG?format=2500w",
+        "description": "The \"Unconditional Lover Hoodie\" displays the signature Feed Love heart logo embroidered on the left chest and the unconditional lover logo screen-printed on the back.",
+        "clickUrl": "https://lovechangesworlds.com/shop/unconditional-lover-hoodie",
         "shopName": "Feed Love"
       }
     ],
@@ -2634,7 +2634,30 @@
     "title": "Omalicha Naturals",
     "subtitle": "Omalicha translates to beautiful in our native language of Igbo. We handcraft all natural, clean beauty products for the hair and skin designed to bring ones natural beauty to the forefront.",
     "imageUrl": "https://static1.squarespace.com/static/5bad78a2da50d348cd5b424b/t/5f45e2947300a35275e38fec/1599258505424/?format=1500w",
-    "clickUrl": "https://www.omalichanaturals.com/",
+    "clickUrl": "https://www.omalichanaturals.com/shop-1",
+    "products": [
+      {
+        "name": "Honey Pomegranate Facial Scrub",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bad78a2da50d348cd5b424b/1588739700850-A629L997PJRQ1MG02NIR/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/IMG_2768.jpg?format=1500w",
+        "description": "Our Honey Pomegranate Facial scrub is formulated with natural oils for a gentle exfoliation. Honey is a natural humectant that utilizes its dual properties of draw in moisture and locking it in. After one use, you will notice an immediate difference in your skins texture.",
+        "clickUrl": "https://www.omalichanaturals.com/shop-1/pomegranate-honey-facial-scrub",
+        "shopName": "Omalicha Naturals"
+      },
+      {
+        "name": "Lavender Cucumber Bliss facial toner",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bad78a2da50d348cd5b424b/1588739200075-L16OPJASIYKBJHP5VO45/ke17ZwdGBToddI8pDm48kBQ_OmUn0XNjqwyBYOIFwXV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p5uBJOnOmCWBN4JfYsIDyRB3ELHLLET9s1anQygWAMDSh6zbPa8Vo37A4r2-aOSIQ/IMG_2745.jpg?format=1500w",
+        "description": "Our Lavender Cucumber Bliss facial toner soothes and restores balance to the skin. Its non-alcoholic astringent fights breakouts without drying the skin.",
+        "clickUrl": "https://www.omalichanaturals.com/shop-1/lavander-cucumber-bliss-facial-toner",
+        "shopName": "Omalicha Naturals"
+      },
+      {
+        "name": "Avocado Mango Deep Treatment Mask",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bad78a2da50d348cd5b424b/1588741852384-VQ5SK19YWWQGXAQIPBIO/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/IMG_2792.jpg?format=1500w",
+        "description": "Our Avocado Mango Deep Treatment Mask is a thick, creamy deep conditioner fortified with luscious oils, botanical extracts and soft butters. It is used after cleansing the hair to impart moisture and elasticity back into your strands.",
+        "clickUrl": "https://www.omalichanaturals.com/shop-1/avocado-mango-deep-treatment-hair-mask",
+        "shopName": "Omalicha Naturals"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -2670,6 +2693,29 @@
     "subtitle": "At KAZMALEJE (pronounced cosmology), we are dedicated to creating innovative, lifestyle-amplifying tools and accessories to improve our customers' hair care and beauty regimens.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0206/0930/2592/files/Kazmaleje-Logo_Pronunciation-ROSE_1_170x@2x.png?v=1596674804",
     "clickUrl": "https://www.kazmaleje.com/",
+    "products": [
+      {
+        "name": "KurlsPlus Paddle Comb",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0206/0930/2592/products/kurlsplus_paddlecomb_1_1200x1700_ceae43c9-7c41-43e8-822e-a8d040b20adf_1200x.jpg?v=1565138905",
+        "description": "Our KurlsPlus Paddle Comb is great for detangling all hair types, lengths and thickness. It is the ultimate power tool that will allow you to detangle, blow dry, massage and style all in ONE!",
+        "clickUrl": "https://www.kazmaleje.com/collections/kurls-plus-detanglers/products/kurls-plus-detangler-paddle-comb",
+        "shopName": "KAZMALEJE"
+      },
+      {
+        "name": "KurlsPlus Pick",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0206/0930/2592/products/Pick_1200x1700_v3_1200x.jpeg?v=1565138950",
+        "description": "Our KurlsPlus Pick is great for short cuts or adding volume after a braid out, twist out or roller set. It's the ideal styling companion for travelers or on-the-go curlistas who need to refresh their hair throughout the day.",
+        "clickUrl": "https://www.kazmaleje.com/collections/kurls-plus-detanglers/products/kurls-plus-detangler-pick",
+        "shopName": "KAZMALEJE"
+      },
+      {
+        "name": "KurlsPlus Comb",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0206/0930/2592/products/kurlsplus_comb_1_1200x1700_a3a8d429-4c98-4ff0-ad39-4970dab3ae7d_1200x.jpg?v=1565138848",
+        "description": "Meet our KurlsPlus Comb. Our Comb is great for detangling hair of all lengths that is normal to thick in density with minimal stress on your hair whether wet or dry. It's also great for raking through heat styled curls to create a feathered look or detangling wigs/extensions without disrupting the curl pattern too much resulting in unwanted frizz.",
+        "clickUrl": "https://www.kazmaleje.com/collections/kurls-plus-detanglers/products/kurls-plus-detangler-comb",
+        "shopName": "KAZMALEJE"
+      }
+    ],
     "tags": [
       "Hair & Headwear",
       "Haircare",
@@ -2686,6 +2732,29 @@
     "subtitle": "Yelani products are specifically designed and created for women with naturally curly hair. The product line features chemical free hair care products made from 100% natural ingredients.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0023/4907/2429/files/WatermarkColor-DarkGreen--tshirt-closecrop_4414b360-fe72-4a89-a249-9ff8bee4eeb0_180x.jpg?v=1553482272",
     "clickUrl": "https://www.yelani.com/",
+    "products": [
+      {
+        "name": "Moisture Blast Conditioning Shampoo",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/4907/2429/products/TWOMoisture_blast_hair_natural_curly_yelani_1024x1024@2x.png?v=1555902864",
+        "description": "Infused with natural and top quality ingredients known for their moisturizing properties, our Moisture Blast Conditioning Shampoo gently hydrates, strengthens, deeply moisturizes and revitalizes dull and dry hair.",
+        "clickUrl": "https://www.yelani.com/collections/bohemian-collection-natural-hair-care/products/shampoo-dry-curly-hair-loss-plant-based",
+        "shopName": "Yelani"
+      },
+      {
+        "name": "Herbal Beard Oil",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/4907/2429/products/Beard-oil-herbal-yelani-natural-plant_1024x1024@2x.png?v=1553379604",
+        "description": "Infused with a refreshing blend of all natural ingredients – grape seed, natural oils, essential fatty acids, jojoba and vitamin E – Yelani Men Beard Oil is essential for your beard needs.",
+        "clickUrl": "https://www.yelani.com/collections/yelani-men-beard-care-plant-based-natural/products/herbal-beard-oil-yelani-men",
+        "shopName": "Yelani"
+      },
+      {
+        "name": "Hand Sanitizer - Rosemary",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/4907/2429/products/Untitleddesign_29_1024x1024@2x.png?v=1587577692",
+        "description": "Our 8 oz,  liquid hand sanitizer is easily applied with a fine mist spray. It contains 70% alcohol and ships from within the USA.",
+        "clickUrl": "https://www.yelani.com/collections/frontpage/products/hand-sanitizer-rosemary",
+        "shopName": "Yelani"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Skincare",
@@ -2703,9 +2772,32 @@
     "id": "8adbf41e-7da6-43b5-be24-2957ccc9afdf",
     "type": "shop",
     "title": "Diva By Cindy",
-    "subtitle": "Diva is for a woman who wants : Beauty, Excellence and Elegance in her hair. \"DIVA\" stands for: Divine, Inspired, Virtuous and Annointed. Thank you for using Diva by Cindy... the secret to Longer, Healthier Hair.",
+    "subtitle": "Diva is for a woman who wants: Beauty, Excellence and Elegance in her hair. \"DIVA\" stands for: Divine, Inspired, Virtuous and Annointed. Thank you for using Diva by Cindy... the secret to Longer, Healthier Hair.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0215/1430/t/11/assets/logo.png?v=11755564658054287330",
-    "clickUrl": "https://divabycindy.com/",
+    "clickUrl": "https://divabycindy.com/collections/all?sort_by=best-selling",
+    "products": [
+      {
+        "name": "Super-Gro Haridress",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0215/1430/products/DIVA_4_oz_Super_Gro_Hairdress_330x1024.jpg?v=1549750894",
+        "description": "Apply to scalp and temples for thinning hair to promote optimal hair growth. It tingles promoting circulation and healthy hair. Contains Shea Butter, Horse Tail, Menthol and Chamomile. Dry, Itchy, Flaky scalp is a thing of the past.",
+        "clickUrl": "https://divabycindy.com/products/diva-by-cindy-super-gro-hairdress",
+        "shopName": "Diva By Cindy"
+      },
+      {
+        "name": "Leave-In Detangling Conditioner",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0215/1430/products/Leave-In_330x1024.jpg?v=1542493690",
+        "description": "The DIVA BY CINDY Leave-In Detangler eliminates dryness, brittleness, and limpness; and is especially good on over processed, dull hair. Penetrates the hair shaft quickly while detangling and adding sheen making it excellent for fine, limp hair and ideal for wraps and roller sets.",
+        "clickUrl": "https://divabycindy.com/products/leave-in-detangling-conditioner",
+        "shopName": "Diva By Cindy"
+      },
+      {
+        "name": "KURL POP Curl Hydration",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0215/1430/products/DIVA_4_oz_Curl_Pop_330x1024.jpg?v=1549750887",
+        "description": "This Leave in formula will leave your curls soft, moisturized and bouncy. Great on all curl types, can be used to define curls, twist and reactivate curls.",
+        "clickUrl": "https://divabycindy.com/products/kurl-pop",
+        "shopName": "Diva By Cindy"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Skincare",
@@ -2722,7 +2814,30 @@
     "title": "Krem au Krem, LLC",
     "subtitle": "Krem au Krem specialize in body butters, hair & body oils, lip balms, sugar scrubs, pomades, beard care, and much more! These products are 100% vegan, natural, plant-based, chemical/toxin free, cruelty free, & made with passion!",
     "imageUrl": "https://img1.wsimg.com/isteam/ip/06716129-404e-4d09-ab02-33d45f7fa0c7/IMG_5528.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:2000,cg:true",
-    "clickUrl": "https://kremaukrem.com/",
+    "clickUrl": "https://kremaukrem.com/products-%2F-services",
+    "products": [
+      {
+        "name": "Whipped Body & Hair Butter",
+        "imageUrl": "https://img1.wsimg.com/isteam/ip/06716129-404e-4d09-ab02-33d45f7fa0c7/ols/ABE6DE55-E329-44F4-A3F5-A58FDA391E50.jpeg",
+        "description": "Homemade whipped body butter with all-natural ingredients designed to keep your skin hydrated, youthful, and healthy. This butter has many benefits to use such as relieving sensitive skin conditions such as dry skin, eczema, baby rashes, hyper-pigmentation, discoloration, bug bites, dark marks, stretch marks, etc.",
+        "clickUrl": "https://kremaukrem.com/shop/ols/products/whipped-body-butter",
+        "shopName": "Krem au Krem, LLC"
+      },
+      {
+        "name": "Scented Pomade",
+        "imageUrl": "https://img1.wsimg.com/isteam/ip/06716129-404e-4d09-ab02-33d45f7fa0c7/ols/45F44A7A-BDF1-4B0D-9C8B-9543FE4569E5.jpeg",
+        "description": "Pomades are a great supplemental moisturizer (for body butter) in the summer months. This can be shipped in the mail without being affected by the heat. It is multi-use and can be used to moisturize your lips, hands, skin, hair, and beards!",
+        "clickUrl": "https://kremaukrem.com/shop/ols/products/pre-order-pomade",
+        "shopName": "Krem au Krem, LLC"
+      },
+      {
+        "name": "Lip Balm",
+        "imageUrl": "https://img1.wsimg.com/isteam/ip/06716129-404e-4d09-ab02-33d45f7fa0c7/ols/2115907E-3334-44F7-A6B8-B9C29C3A977D.jpeg",
+        "description": "Organic Natural Lip Balm that is homemade and great for dry lips or any lips. The ingredients listed below were all included to keep your lips smooth, full, and healthy even after application!",
+        "clickUrl": "https://kremaukrem.com/shop/ols/products/strawberry-lip-balm",
+        "shopName": "Krem au Krem, LLC"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -2745,7 +2860,30 @@
     "title": "26 King Wavy Merch, LLC",
     "subtitle": "All of our quality brushes are great brushes! They aren't just great for 360 waves. They, too, promote healthy hair in men, women and children, as well as healthy beards.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/files/oie_transparent_1_f7a964cd-9415-4523-96d6-7a8cd130a28c_550x.png?v=1595137863",
-    "clickUrl": "https://26kingwavymerch.com/",
+    "clickUrl": "https://26kingwavymerch.com/collections/all",
+    "products": [
+      {
+        "name": "Premium Long Handle Brush",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/2R0C9010_1400x.jpg?v=1588137766",
+        "description": "Medium-Hard Brush. This brush is made with nylon bristles and is great for waves, wolfing and natural hair.",
+        "clickUrl": "https://26kingwavymerch.com/products/long-handle-brush",
+        "shopName": "26 King Wavy Merch, LLC"
+      },
+      {
+        "name": "Baby Blue Compression Cap",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/IMG_3804_1400x.jpg?v=1598419895",
+        "description": "Our 2-6 King Wavy Wave Cap is designed to give the ultimate compression. Combined with any of our durags to achieve your maximum 360, 540, 720 wave potential.",
+        "clickUrl": "https://26kingwavymerch.com/products/baby-blue-compression-cap",
+        "shopName": "26 King Wavy Merch, LLC"
+      },
+      {
+        "name": "Black and Red Silk Durag",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/Designer_Durags_4_1400x.jpg?v=1603404525",
+        "description": "Designer Silk Durag",
+        "clickUrl": "https://26kingwavymerch.com/products/designer-2-silk-durag",
+        "shopName": "26 King Wavy Merch, LLC"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -2762,6 +2900,29 @@
     "subtitle": "At Southern Elegance Candle Co., to be southern isn’t solely about where you’re from. Our collections are sure to please and will whisk you away to a special place of joy, love, and tranquility.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1007/6956/files/Logo_jpeg_410x.jpg?v=1494802377",
     "clickUrl": "https://www.secandleco.com/",
+    "products": [
+      {
+        "name": "Tumbler Candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1007/6956/products/HeidelbergerPhotography-18_2000x.jpg?v=1580741348",
+        "description": "Modern Values. Southern Charm. This collection of candles feature 12 fragrant scents.",
+        "clickUrl": "https://www.secandleco.com/collections/signature-scents/products/tumbler-all-country-living-quick-order",
+        "shopName": "Southern Elegance Candle Co."
+      },
+      {
+        "name": "Large 16oz Mason Jar Candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1007/6956/products/HeidelbergerPhotography-53_2000x.jpg?v=1585070417",
+        "description": "Modern Values. Southern Charm This collection of candles feature 12 fragrant scents.",
+        "clickUrl": "https://www.secandleco.com/collections/signature-scents/products/large-16-oz-mason-jar-all-signature-scents-collection-quick-order",
+        "shopName": "Southern Elegance Candle Co."
+      },
+      {
+        "name": "Signature Year Round Scents Diffuser with Reeds",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1007/6956/products/SE1-6squaresmall_2000x.jpg?v=1603118098",
+        "description": "A Reed Diffuser is a great solution for offices, small rooms, or any place when a flame isn't desired. Each Reed Diffuser is a 6-ounce square glass bottle with a replaceable seal. Each bottle comes with its own set of 8 reeds. ",
+        "clickUrl": "https://www.secandleco.com/collections/diffuser-with-reeds/products/year-round-scents",
+        "shopName": "Southern Elegance Candle Co."
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Candles",
@@ -2776,7 +2937,30 @@
     "title": "Amazing Essence",
     "subtitle": "Amazing Essence is a Philadelphia based, one-woman small business built on a dream of entrepreneurship. Our handcrafted products are created using 100% soy wax without additives, natural (lead-free) cotton wick and high quality fragrance oils without phthalates or additives.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0246/2085/9441/files/2_2868ad75-53c7-41ac-87a3-8f95eab70723_400x.png?v=1572543631",
-    "clickUrl": "https://amazingessenceonline.com/",
+    "clickUrl": "https://amazingessenceonline.com/collections/all",
+    "products": [
+      {
+        "name": "25 oz. Triple Wick Candle Bowl",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0246/2085/9441/products/IMG_3831_2000x.jpg?v=1589247705",
+        "description": "The Amazing Essence 25 oz. candle bowls are handcrafted using natural soy wax, high quality fragrance oils without phthalates and a natural cotton wick to ensure a clean, toxic-free burn in your home or office. ",
+        "clickUrl": "https://amazingessenceonline.com/products/25-oz-triple-wick-candle-bowl",
+        "shopName": "Amazing Essence"
+      },
+      {
+        "name": "4oz. Linen Spray",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0246/2085/9441/products/IMG_3873_2000x.jpg?v=1572907204",
+        "description": "Mist our handcrafted linen sprays into the air liberally to Relax, Balance or Uplift your senses. When misting Linen, Spray 7 inches away and only on washable fabric. Contains essential oils/highly quality fragrance oils.",
+        "clickUrl": "https://amazingessenceonline.com/products/4oz-linen-spray",
+        "shopName": "Amazing Essence"
+      },
+      {
+        "name": "8oz. Herbal Candles",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0246/2085/9441/products/IMG_3802_2000x.jpg?v=1572907205",
+        "description": "The Amazing Essence 8 oz. herbal candles are handcrafted using natural soy wax, and fused with dried herbs, high quality fragrance oils without phthalates and a natural cotton wick to ensure a clean, toxic-free burn in your home or office. Approx 40hr of burn time.",
+        "clickUrl": "https://amazingessenceonline.com/products/8oz-herbal-candles",
+        "shopName": "Amazing Essence"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Candles",
@@ -2793,7 +2977,30 @@
     "title": "Kultured Misfits",
     "subtitle": "Kultured Misfits is a lifestyle, sport and ready-to-wear brand based out of Atlanta, Georgia. With a heavy influence from culture found in music, film, and art, we are driven to create timeless work by portraying an aesthetic that is uniquely our own to impact our everyday life.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/files/Kultured-Misfits-logo-white-dropshadow_74855804-e89f-4e8b-8542-01b4404b62d2_400x.png?v=1511396097",
-    "clickUrl": "https://kulturedmisfits.com/",
+    "clickUrl": "https://kulturedmisfits.com/collections/all",
+    "products": [
+      {
+        "name": "Kultured Misfits Tracksuit (Crew + Joggers)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/products/BA495412-C0F1-4D98-B9FE-1D299521DF45-2_5000x.jpg?v=1606372143",
+        "description": "Classic Kultured Misfits tracksuIt set with matching crewneck and jogger pants in black. A comfortable cotton mix jogger, featuring embroidered Kultured Misfits logo on the left chest and thigh. Drawstring waist and cuffed hems.",
+        "clickUrl": "https://kulturedmisfits.com/collections/all/products/kultured-misfits-tracksuit-crew-joggers",
+        "shopName": "Kultured Misfits"
+      },
+      {
+        "name": "Legalize Free College (Do Tha Right Thang) T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/products/KM-Site-Product-Shots--LFC_5000x.png?v=1569202984",
+        "description": "Every sale of a Legalize Free College product will contribute to the \"Legalize Free College Scholarship\"!",
+        "clickUrl": "https://kulturedmisfits.com/collections/all/products/legalize-free-college-do-tha-right-thang",
+        "shopName": "Kultured Misfits"
+      },
+      {
+        "name": "MISFIT Embossed Crewneck",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/products/IMG_0244_5000x.jpg?v=1574827830",
+        "description": "Premium crewneck is cut from French terry jersey. With the embossed cursive logo adds a signature finishing touch to its classic design.",
+        "clickUrl": "https://kulturedmisfits.com/collections/all/products/misfit-embossed-crewneck",
+        "shopName": "Kultured Misfits"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Decor",
@@ -2831,7 +3038,30 @@
     "title": "Spoon & Theory Handmade",
     "subtitle": "Spoon and Theory handmade is a black-owned creative arts, jewelry and aromatherapy goods store. We provide goods from upcycled leather to Eco-inspired laser cut jewelry + aromatherapy diffuser jewelry + aromatherapy body + home goods.",
     "imageUrl": "https://assets.bigcartel.com/product_images/276862856/IMG_20200912_183910934~2.jpg?auto=format&fit=max",
-    "clickUrl": "https://spoonandtheory.bigcartel.com/",
+    "clickUrl": "https://spoonandtheory.bigcartel.com/products",
+    "products": [
+      {
+        "name": "Jubilee Ankara Face Mask with Nose Bridge",
+        "imageUrl": "https://assets.bigcartel.com/product_images/272455847/IMG_20200805_173218061_HDR~2.jpg?auto=format&fit=max&w=1300",
+        "description": "Secure, then fasten the double strings around the base of head for comfortable yet snug fit, eliminating irritation behind ears. Minneapolis mask makers, quality face masks.",
+        "clickUrl": "https://spoonandtheory.bigcartel.com/product/jubilee-ankara-face-mask",
+        "shopName": "Spoon & Theory Handmade"
+      },
+      {
+        "name": "Nove Abstract Color Block Wood Earrings",
+        "imageUrl": "https://assets.bigcartel.com/product_images/275769764/IMG_20200903_194309934~2.jpg?auto=format&fit=max&w=1300",
+        "description": "Royal Purple, turquoise, with antique bronze. Handmade in the Midwest and ready-to-ship in 3-5 days.",
+        "clickUrl": "https://spoonandtheory.bigcartel.com/product/nova-wood-earrings",
+        "shopName": "Spoon & Theory Handmade"
+      },
+      {
+        "name": "Oatmeal and Spice Moisturizing Body Bar",
+        "imageUrl": "https://assets.bigcartel.com/product_images/274874315/IMG_20200827_191253539~2.jpg?auto=format&fit=max&w=1300",
+        "description": "This soap is great for those with suffer from dry skin. With warm hints of cinnamon and clove, the mild creamy exfoliating lather leaves skin feel smooth, soft and smelling delicious.",
+        "clickUrl": "https://spoonandtheory.bigcartel.com/product/oatmeal-spice-soap",
+        "shopName": "Spoon & Theory Handmade"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Bath & Body",
@@ -2853,7 +3083,30 @@
     "title": "The Green Laundress",
     "subtitle": "The Green Laundress offers the best laundry products at the lowest prices online.",
     "imageUrl": "https://www.thegreenlaundress.com/uploads/3/4/8/9/34896178/s674081517555465618_p5_i3_w640.jpeg",
-    "clickUrl": "https://www.thegreenlaundress.com/index.html",
+    "clickUrl": "https://www.thegreenlaundress.com/buy-now.html",
+    "products": [
+      {
+        "name": "Tub Scrub",
+        "imageUrl": "https://www.thegreenlaundress.com/uploads/3/4/8/9/34896178/s674081517555465618_p5_i3_w2560.jpeg",
+        "description": "Our Tub Scrub will have your tub as well as your whole bathroom sparkling and smelling fresh and clean! 1-2 heaping spoonfuls with a little water is all you need!",
+        "clickUrl": "https://www.thegreenlaundress.com/store/p5/Tub_Scrub.html",
+        "shopName": "The Green Laundress"
+      },
+      {
+        "name": "Laundry Soap",
+        "imageUrl": "https://www.thegreenlaundress.com/uploads/3/4/8/9/34896178/s674081517555465618_p7_i2_w566.jpeg",
+        "description": "Our 24 ounce bag of Laundry Soap will have your clothes smelling fresh without any lingering artificial fragrances like commercial detergent. Great for those with sensitive skin!",
+        "clickUrl": "https://www.thegreenlaundress.com/store/p7/Laundry_Soap.html",
+        "shopName": "The Green Laundress"
+      },
+      {
+        "name": "Multi-Purpose Spray",
+        "imageUrl": "https://www.thegreenlaundress.com/uploads/3/4/8/9/34896178/s674081517555465618_p12_i1_w640.jpeg",
+        "description": "There's no mystery in the name! Our 16 ounce Multi Purpose Spray can be used to clean just about anything.",
+        "clickUrl": "https://www.thegreenlaundress.com/store/p12/Multi_Purpose_Spray.html",
+        "shopName": "The Green Laundress"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Shop"
@@ -2866,7 +3119,30 @@
     "title": "QuintesScential Candles",
     "subtitle": "Since we love burning scented candles, we decided to embark on our journey of becoming Black chandlers. We decided, from the beginning, to use only the healthiest ingredients in anything that we make and sell. ",
     "imageUrl": "https://www.quintesscentialcandles.com/uploads/b/74bb6510-0801-11ea-afbf-7df97ff3d321/Quintesscential%20Candles%20OFFICIAL.jpg?width=400",
-    "clickUrl": "https://www.quintesscentialcandles.com/",
+    "clickUrl": "https://www.quintesscentialcandles.com/shop/signature/2",
+    "products": [
+      {
+        "name": "Earthy",
+        "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p117_i2_w2992.jpeg?width=2560",
+        "description": "Earthy is a sensual fragrance that lives up to its name. Our Earthy is aromatic, woodsy, and intoxicating, with a prominent sandalwood base, complemented by layers of sage, spice, and amber.",
+        "clickUrl": "https://www.quintesscentialcandles.com/product/earthy/117?cp=true&sa=false&sbp=false&q=false&category_id=2",
+        "shopName": "QuintesScential Candles"
+      },
+      {
+        "name": "Sweet Dreams",
+        "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p121_i2_w2992.jpeg?width=2560",
+        "description": "Ready for bed? Time to unwind from a hectic day? Escape with gentle notes of lavender on your pillow with the crisp scent of freshly washed linen.",
+        "clickUrl": "https://www.quintesscentialcandles.com/product/sweet-dreams/121?cp=true&sa=false&sbp=false&q=false&category_id=2",
+        "shopName": "QuintesScential Candles"
+      },
+      {
+        "name": "Pleasantry",
+        "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p1_i7_w2992.jpeg?width=2560",
+        "description": "Our Pleasantry is a proven pleaser, combining a patented odor neutralizing technology with a crisp, clean fragrance that brings to mind fresh linens drying on the line. Pleasantry doesn't just cover up unwanted smells, it cancels them out.",
+        "clickUrl": "https://www.quintesscentialcandles.com/product/pleasantry/1?cp=true&sa=false&sbp=false&q=false&category_id=2",
+        "shopName": "QuintesScential Candles"
+      }
+    ],
     "tags": [
       "Home & Garden",
       "Candles",
@@ -2884,7 +3160,30 @@
     "title": "Soul Impactful",
     "subtitle": "Soul Impactful strongly believes in the divine power of the universe and we also believe that every being has access to this Source. Our purpose is to provide you with tools to aid you in your spiritual journey and cheer on your glo' up!",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/files/Logo_600x.png?v=1596441326",
-    "clickUrl": "https://soulimpactful.com/",
+    "clickUrl": "https://soulimpactful.com/collections/all",
+    "products": [
+      {
+        "name": "Chalcedony 108 Bead Meditation Bracelet",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/chalcedony-108-bead-meditation-bracelet-lotus-charm-756.jpg?v=1601073701",
+        "description": "A quiet moment of reflection, gratitude, and visualization is sometimes all that is needed to redirect your mentality in a positive manner.",
+        "clickUrl": "https://soulimpactful.com/products/chalcedony-108-bead-meditation-bracelet?variant=15392205176877",
+        "shopName": "Soul Impactful"
+      },
+      {
+        "name": "Black Jasper Tumbled Stone",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/black-jasper-tumbled-stone-rock-gemstone-plant-397.jpg?v=1600771585",
+        "description": "Black Jasper is a highly protective stone that is excellent for grounding the energies of people who may experience being off with the fairies. It can also help in earthing higher vibrations.",
+        "clickUrl": "https://soulimpactful.com/products/black-jasper-tumbled-stone",
+        "shopName": "Soul Impactful"
+      },
+      {
+        "name": "Bloom and Monk Incense Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/bloom-and-monk-incense-collection-lotus-pond-candle-aquatic-plant-583_1200x.jpg?v=1600770777",
+        "description": "Each incense holder is made with exquisite workmanship that creates a meditative effect.",
+        "clickUrl": "https://soulimpactful.com/products/bloom-and-monk-incense-collection?variant=29230807482413",
+        "shopName": "Soul Impactful"
+      }
+    ],
     "tags": [
       "Health & Beauty",
       "Wellness",

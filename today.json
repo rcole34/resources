@@ -60,33 +60,89 @@
       "priority": 10
     },
     {
-      "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
-      "type": "learn",
-      "title": "What Happened on May 25th?",
-      "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
-      "clickUrl": "https://www.justiceforbigfloyd.com/",
+      "id": "5c2099b6-a2e0-4ded-872e-b5cab8b47914",
+      "type": "shop",
+      "title": "Spoon & Theory Handmade",
+      "subtitle": "Spoon and Theory handmade is a black-owned creative arts, jewelry and aromatherapy goods store. We provide goods from upcycled leather to Eco-inspired laser cut jewelry + aromatherapy diffuser jewelry + aromatherapy body + home goods.",
+      "imageUrl": "https://assets.bigcartel.com/product_images/276862856/IMG_20200912_183910934~2.jpg?auto=format&fit=max",
+      "clickUrl": "https://spoonandtheory.bigcartel.com/products",
+      "products": [
+        {
+          "name": "Jubilee Ankara Face Mask with Nose Bridge",
+          "imageUrl": "https://assets.bigcartel.com/product_images/272455847/IMG_20200805_173218061_HDR~2.jpg?auto=format&fit=max&w=1300",
+          "description": "Secure, then fasten the double strings around the base of head for comfortable yet snug fit, eliminating irritation behind ears. Minneapolis mask makers, quality face masks.",
+          "clickUrl": "https://spoonandtheory.bigcartel.com/product/jubilee-ankara-face-mask",
+          "shopName": "Spoon & Theory Handmade"
+        },
+        {
+          "name": "Nove Abstract Color Block Wood Earrings",
+          "imageUrl": "https://assets.bigcartel.com/product_images/275769764/IMG_20200903_194309934~2.jpg?auto=format&fit=max&w=1300",
+          "description": "Royal Purple, turquoise, with antique bronze. Handmade in the Midwest and ready-to-ship in 3-5 days.",
+          "clickUrl": "https://spoonandtheory.bigcartel.com/product/nova-wood-earrings",
+          "shopName": "Spoon & Theory Handmade"
+        },
+        {
+          "name": "Oatmeal and Spice Moisturizing Body Bar",
+          "imageUrl": "https://assets.bigcartel.com/product_images/274874315/IMG_20200827_191253539~2.jpg?auto=format&fit=max&w=1300",
+          "description": "This soap is great for those with suffer from dry skin. With warm hints of cinnamon and clove, the mild creamy exfoliating lather leaves skin feel smooth, soft and smelling delicious.",
+          "clickUrl": "https://spoonandtheory.bigcartel.com/product/oatmeal-spice-soap",
+          "shopName": "Spoon & Theory Handmade"
+        }
+      ],
       "tags": [
-        "Read",
-        "Sign",
-        "Donate",
-        "learn"
+        "Health & Beauty",
+        "Bath & Body",
+        "Wellness",
+        "Personal Fragrance",
+        "Home & Garden",
+        "Children",
+        "Fashion",
+        "Accessories",
+        "Lifestyle",
+        "Arts & Crafts",
+        "Shop"
       ],
       "priority": 10
     }
   ],
   "3": [
     {
-      "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
+      "id": "917312b7-d059-4ac7-88d0-f6a8a3e4a0d6",
       "type": "shop",
-      "title": "MoonXCosmetics",
-      "subtitle": "Handmade vegan skincare for all skin types.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
-      "clickUrl": "https://shopmoonxcosmetics.com/",
+      "title": "QuintesScential Candles",
+      "subtitle": "Since we love burning scented candles, we decided to embark on our journey of becoming Black chandlers. We decided, from the beginning, to use only the healthiest ingredients in anything that we make and sell. ",
+      "imageUrl": "https://www.quintesscentialcandles.com/uploads/b/74bb6510-0801-11ea-afbf-7df97ff3d321/Quintesscential%20Candles%20OFFICIAL.jpg?width=400",
+      "clickUrl": "https://www.quintesscentialcandles.com/shop/signature/2",
+      "products": [
+        {
+          "name": "Earthy",
+          "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p117_i2_w2992.jpeg?width=2560",
+          "description": "Earthy is a sensual fragrance that lives up to its name. Our Earthy is aromatic, woodsy, and intoxicating, with a prominent sandalwood base, complemented by layers of sage, spice, and amber.",
+          "clickUrl": "https://www.quintesscentialcandles.com/product/earthy/117?cp=true&sa=false&sbp=false&q=false&category_id=2",
+          "shopName": "QuintesScential Candles"
+        },
+        {
+          "name": "Sweet Dreams",
+          "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p121_i2_w2992.jpeg?width=2560",
+          "description": "Ready for bed? Time to unwind from a hectic day? Escape with gentle notes of lavender on your pillow with the crisp scent of freshly washed linen.",
+          "clickUrl": "https://www.quintesscentialcandles.com/product/sweet-dreams/121?cp=true&sa=false&sbp=false&q=false&category_id=2",
+          "shopName": "QuintesScential Candles"
+        },
+        {
+          "name": "Pleasantry",
+          "imageUrl": "https://www.quintesscentialcandles.com/uploads/1/1/0/6/110689657/s285856053779909437_p1_i7_w2992.jpeg?width=2560",
+          "description": "Our Pleasantry is a proven pleaser, combining a patented odor neutralizing technology with a crisp, clean fragrance that brings to mind fresh linens drying on the line. Pleasantry doesn't just cover up unwanted smells, it cancels them out.",
+          "clickUrl": "https://www.quintesscentialcandles.com/product/pleasantry/1?cp=true&sa=false&sbp=false&q=false&category_id=2",
+          "shopName": "QuintesScential Candles"
+        }
+      ],
       "tags": [
-        "Goods",
-        "Black-owned",
-        "skincare",
+        "Home & Garden",
+        "Candles",
+        "Home Fragrance",
+        "Decor",
+        "Lifestyle",
+        "Arts & Crafts",
         "Shop"
       ],
       "priority": 10
@@ -177,33 +233,62 @@
   ],
   "6": [
     {
-      "id": "3815c05d-f604-4306-8431-f260f1d296aa",
-      "type": "act",
-      "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
-      "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
-      "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
-      "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
+      "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
+      "type": "learn",
+      "title": "Covid-19’s Impact on People in Prison",
+      "subtitle": "People who are incarcerated are at great risk of sickness and death as a result of the Covid-19 pandemic and more must be done to release people who are imprisoned and are not a threat to public safety or are elderly or infirm.",
+      "imageUrl": "https://eji.org/wp-content/uploads/2020/05/alabama-prison-1900-1000.jpg",
+      "clickUrl": "https://eji.org/news/covid-19s-impact-on-people-in-prison/",
       "tags": [
-        "Police",
-        "Minnesota",
-        "MN",
-        "Sign",
-        "act"
+        "Read",
+        "EJI",
+        "Equal Justice Initiative",
+        "learn"
       ],
       "priority": 10
     },
     {
-      "id": "536444de-6ba4-4fe2-9d00-d969d0e1f73a",
+      "id": "0556671f-f1d8-4a8b-b861-45c0231a891a",
       "type": "shop",
-      "title": "Nia the Loc God",
-      "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
-      "clickUrl": "https://niathelocgod.myshopify.com/",
+      "title": "Black on Black",
+      "subtitle": "Black On Black™ is beautifully designed clothing & accessories that are both clothing line AND protest sign. Black On Black™ is a social protest on clothing that De:Constructs the Construct.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/files/BlackOnBlack-Stack_Favicon_180x.png?v=1569464905",
+      "clickUrl": "https://www.blackonblackbk.com/collections",
+      "products": [
+        {
+          "name": "\"Anti-Racist Social Club\" Throw Pillows",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/pro-previews494408479_1024x1024@2x.png?v=1597330801",
+          "description": "These cozy throw pillows feature high-quality fabric and prints that will upgrade your space. Zippered cover care instructions: machine wash in cold water using mild detergent and gentle cycle only, hang to dry.",
+          "clickUrl": "https://www.blackonblackbk.com/collections/allies-champions/products/anti-racist-social-club-throw-pillows",
+          "shopName": "Black on Black"
+        },
+        {
+          "name": "\"Juneteenth\" - Unisex T",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/0012_BXB-BC3001HTHR_JUNETEENTH_1024x1024@2x.jpg?v=1568835457",
+          "description": "Juneteenth is the oldest known celebration commemorating the ending of slavery in the United States.  Dating back to 1865, it was on June 19th that the Union soldiers, led by Major General Gordon Granger, landed at Galveston, Texas with news that the war had ended and that the enslaved were now free.",
+          "clickUrl": "https://www.blackonblackbk.com/collections/classics/products/juneteenth-unisex-t",
+          "shopName": "Black on Black"
+        },
+        {
+          "name": "\"Energy I Be On AKA Black Powered\" - Unisex Long-Sleeved T",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1219/9576/products/EP3_0014_BXB-BC3501BLK_EIBO_1024x1024@2x.png?v=1570992286",
+          "description": "\"Black Powered\" T-Shirt - When I think about the greatness of us and all that we've been able to become DESPITE all that we've been through and STILL going through, one reason that is specific to us is, US.",
+          "clickUrl": "https://www.blackonblackbk.com/collections/new-designs/products/energy-i-be-on-unisex-long-sleeved-t",
+          "shopName": "Black on Black"
+        }
+      ],
       "tags": [
-        "hair care",
-        "locks",
-        "dreads",
-        "Goods",
+        "Hair & Headwear",
+        "Accessories",
+        "Fashion",
+        "Clothing",
+        "Tees",
+        "Men’s",
+        "Women’s",
+        "Childrens",
+        "Accessories",
+        "Handbags",
+        "Lifestyle",
         "Shop"
       ],
       "priority": 10
@@ -211,17 +296,43 @@
   ],
   "7": [
     {
-      "id": "f049ba99-7c54-414d-a49f-8b7354cd5bb1",
+      "id": "2e8ab76e-65ef-4f8f-9f94-ded2c66d4987",
       "type": "shop",
-      "title": "VZN Clothing",
-      "subtitle": "Our clothing is made to motivate you to visualize your goals and remain persistent through adversity. Vision is not simply seeing with the eyes, but rather creating a positive image and experience for your future success with your mind. By following your vision with action and remaining persistent through adversity, we believe anything is possible. ",
-      "imageUrl": "https://assets.bigcartel.com/theme_images/47514239/Screenshot_35.png?auto=format&fit=max&h=200&w=600",
-      "clickUrl": "https://www.vznclothing.com/products",
+      "title": "Harrison Blake Apparel",
+      "subtitle": "Harrison Blake Apparel has found a way to deliver high quality men's accessories at a great price. The style and variety of products are sure to please any gentleman. ",
+      "imageUrl": "https://harrisonblakeapparel.com/product_images/logolandscape_2_1438133768__57671.png",
+      "clickUrl": "https://harrisonblakeapparel.com/",
+      "products": [
+        {
+          "name": "Berry Dot Necktie",
+          "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2024/images/5288/IMG_8382__17397.1606260888.500.750.JPG?c=2",
+          "description": "A great microfiber necktie - in a beautiful design and color scheme = priceless! Grab yours now. Get compliments later...",
+          "clickUrl": "https://harrisonblakeapparel.com/berry-dot-necktie/",
+          "shopName": "Harrison Blake Apparel"
+        },
+        {
+          "name": "Black Tooth Bow Tie",
+          "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2148/images/5648/Rich____plainnameguy_-_A23829C7-C8B0-461A-8900-8EB408A39870__40414.1598846644.500.750.jpg?c=2",
+          "description": "A self-tied bow tie is a classic accessory that everyone needs in their wardrobe. Handmade quality is what you'll find in all our neckwear offerings.",
+          "clickUrl": "https://harrisonblakeapparel.com/black-tooth-bow-tie/",
+          "shopName": "Harrison Blake Apparel"
+        },
+        {
+          "name": "Gold Circle and Star Earrings",
+          "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/1715/images/4288/Attachment_1556500459__47592.1556690321.500.750.jpg?c=2",
+          "description": "Unique, Elegant and Simple design. Add a nice touch to complete your look for any occasion. All of our jewelry is silver or gold plated and hypoallergenic.",
+          "clickUrl": "https://harrisonblakeapparel.com/gold-circle-and-star-earrings/",
+          "shopName": "Harrison Blake Apparel"
+        }
+      ],
       "tags": [
-        "Clothing",
-        "Goods",
-        "Black-owned",
-        "Vznary",
+        "Health & Beauty",
+        "Beardcare",
+        "Fashion",
+        "Footwear",
+        "Unisex",
+        "Accessories",
+        "Jewelry",
         "Shop"
       ],
       "priority": 10
@@ -244,17 +355,22 @@
   ],
   "8": [
     {
-      "id": "cfbd31e5-c8e2-4cdf-bc6c-9e2eee2a9992",
+      "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",
       "type": "learn",
-      "title": "Find Your Representatives",
-      "subtitle": "Here you can find your representatives, how to contact them, bills they’ve introduced, committees they serve on, and political contributions they’ve received.",
-      "imageUrl": "https://actionnetwork.org/user_files/user_files/000/021/603/original/CCStar.png",
-      "clickUrl": "https://www.commoncause.org/find-your-representative",
+      "title": "Land Acknowledgement App",
+      "subtitle": "Text the name of a city and state to 907-312-5085 to find out the Indigenous people of that place.",
+      "imageUrl": "https://nativegov.org/wp-content/uploads/2019/10/Copy-of-Native-Land-Facebook-Event-Photo-1-copy.png",
+      "textInfo": {
+        "recipients": [
+          "907-312-5085"
+        ],
+        "body": "[Your location]"
+      },
       "tags": [
-        "Search",
-        "representatives",
-        "senator",
-        "congress",
+        "Text",
+        "native",
+        "american",
+        "indian",
         "learn"
       ],
       "priority": 10
@@ -298,18 +414,40 @@
       "priority": 10
     },
     {
-      "id": "b47d6c57-8764-4109-be7b-40be57e235e8",
+      "id": "9b4e17d4-84d7-4e57-8b60-98101277936d",
       "type": "shop",
-      "title": "Inn8 Apparel",
-      "subtitle": "Your mind. Your body. Your individuality. Your imperfections. These are the things you are born with. They are innate. Embrace them. They are yours. Celebrate them. They are yours. Love them. They are you. ",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/files/IMG_5009_cc07be08-c97c-43f4-9ddd-f35c2cf858b9_125x@2x.jpg?v=1590635132",
-      "clickUrl": "https://inn8apparel.com/",
+      "title": "CarmaBella Skincare",
+      "subtitle": "CarmaBella Skincare is made for women who want the best skincare, without any artificial chemicals or unnecessary ingredients. When using our products, you don't have to choose between natural and luxurious.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/files/Radiance_Collection_2100x.png?v=1600554345",
+      "clickUrl": "https://carmabellaskincare.com/collections/all",
+      "products": [
+        {
+          "name": "Brightening Turmeric Clay Mask",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/Mockup-TurmericMask_1200x.png?v=1600456050",
+          "description": "Want an instant glow? We have the perfect natural skincare product to help you achieve it. The Brightening Turmeric Clay Mask instantly brightens dull, tired skin and restores your skins healthy complexion over time.",
+          "clickUrl": "https://carmabellaskincare.com/products/turmeric-clay-mask",
+          "shopName": "CarmaBella Skincare"
+        },
+        {
+          "name": "HydroSurge Moisturizing Gel",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/HydroSurgeMoisturizer-1_1200x.png?v=1600459319",
+          "description": "The HydroSurge Moisturizing Gel replenishes water and helps to improve your skin's moisture barrier, resulting in smooth, hydrated skin. This addictively refreshing gel leaves skin plump, dewy, and glowing.",
+          "clickUrl": "https://carmabellaskincare.com/products/moisturesurge-moisturizing-ge",
+          "shopName": "CarmaBella Skincare"
+        },
+        {
+          "name": "The Essential Bath & Body Set",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0015/2371/2067/products/B_BKitcopy1_1200x.png?v=1600460592",
+          "description": "The Essential Bath & Body Set is a nourishing collection that will leave your skin feeling soft and moisturized all day. This set includes the Natural Sugar Based Body Wash, a bath puff, and the Nourishing Shea Body Lotion.",
+          "clickUrl": "https://carmabellaskincare.com/products/essential-bath-body-set?variant=31148334841920",
+          "shopName": "CarmaBella Skincare"
+        }
+      ],
       "tags": [
-        "Goods",
-        "Trevor Stanback",
-        "clothing",
-        "art",
-        "inn8apparel",
+        "Health & Beauty",
+        "Bath & Body",
+        "Skincare",
+        "Wellness",
         "Shop"
       ],
       "priority": 10
@@ -317,15 +455,16 @@
   ],
   "10": [
     {
-      "id": "61a8055c-5c25-4b51-a314-682ca6d81cef",
+      "id": "c0833883-101d-4d68-a788-f237223e0968",
       "type": "learn",
-      "title": "Learn about Julius Jones",
-      "subtitle": "Listen to the Jason Flom & Kim Kardashian West talk about Julius Jones’ story.",
-      "imageUrl": "https://mma.prnewswire.com/media/1028239/A8B9F095_C011_4F62_B74C_277951B28CBC.jpg",
-      "clickUrl": "https://www.wrongfulconvictionpodcast.com/podcast/s11e1-wrongful-conviction-with-jason-flom-julius-jones-with-kim-kardashian-west",
+      "title": "Netflix Explained: Racial Wealth Gap",
+      "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
+      "clickUrl": "https://www.youtube.com/watch?v=Mqrhn8khGLM",
       "tags": [
-        "Listen",
-        "podcast",
+        "Watch",
+        "Netflix",
+        "Race",
         "learn"
       ],
       "priority": 10
@@ -363,22 +502,16 @@
       "priority": 10
     },
     {
-      "id": "869d8ebd-1071-4876-864d-ded1d8d85273",
+      "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
       "type": "act",
-      "title": "Justice for George Floyd",
-      "subtitle": "Text JUSTICE to 668366 to demand every cop involved in the murder of George Floyd be charged without bail.",
-      "imageUrl": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/5/31/126fc46c83ae4d71b837f22c720d0041_18.jpg",
-      "textInfo": {
-        "recipients": [
-          "668366"
-        ],
-        "body": "JUSTICE"
-      },
+      "title": "Know Your Rights Camp",
+      "subtitle": "Colin Kaepernick's organization's mission is to advance the liberation and well-being of Black and Brown communities through education, self-empowerment, mass-mobilization and the creation of new systems that elevate the next generation of change leaders.",
+      "imageUrl": "https://static.wixstatic.com/media/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png/v1/fit/w_2500,h_1330,al_c/81db51_69fb97e8ab054a5182776756759f1a82~mv2.png",
+      "clickUrl": "https://www.knowyourrightscamp.com/?form=KnowYourRightsCamp",
       "tags": [
-        "Email",
-        "Sign",
-        "Floyd",
-        "act"
+        "Donate",
+        "NFL",
+        "Act"
       ],
       "priority": 10
     }

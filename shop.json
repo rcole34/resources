@@ -1,5 +1,43 @@
 [
   {
+    "id": "2acab6df-a464-4707-ae3d-4a91e080aa4f",
+    "type": "shop",
+    "title": "McBride Sisters Winery",
+    "subtitle": "Since 2005, The McBride Sisters’ mission has become clear—to transform the industry, lead by example, and cultivate community, one delcious glass of wine, at a time.",
+    "imageUrl": "https://media.glassdoor.com/sqll/2521945/mcbride-sisters-collection-squarelogo-1553218651524.png",
+    "clickUrl": "https://www.mcbridesisters.com/Wine-Shop/All-Wines",
+    "products": [
+      {
+        "name": "McBride Sisters Collection Black Girl Magic 2018 California Merlot",
+        "imageUrl": "https://www.mcbridesisters.com/assets/images/products/pictures/BGM_MERLOT_cork_2020.png",
+        "description": "This juicy and sensational wine is a classic Merlot, sophisticated for the wine connoisseur and delicious for the wine novices.",
+        "clickUrl": "https://www.mcbridesisters.com/product/McBride-Sisters-Collection-Black-Girl-Magic-2018-California-Merlot",
+        "shopName": "McBride Sisters Winery"
+      },
+      {
+        "name": "McBride Sisters Collection Black Girl Magic NV New Zealand Sparkling Brut",
+        "imageUrl": "https://www.mcbridesisters.com/assets/images/products/pictures/BGMSparklingBrut.png",
+        "description": "Your new favorite sparkling wine. Pop the bubbly for any celebration or for the days you want to feel extra fancy. You deserve it.",
+        "clickUrl": "https://www.mcbridesisters.com/product/McBride-Sisters-Collection-Black-Girl-Magic-NV-New-Zealand-Sparkling-Brut",
+        "shopName": "McBride Sisters Winery"
+      },
+      {
+        "name": "SHE CAN 4-Pack Sampler",
+        "imageUrl": "https://www.mcbridesisters.com/assets/images/products/pictures/SHECANSamplerPack2.jpg",
+        "description": "Yes SHE CAN have it all! Enjoy our most popular sampler including one of each flavor. Four cans is the equivalent of two bottles of wine and an amazing value for these delicious wines and spritzers.",
+        "clickUrl": "https://www.mcbridesisters.com/product/SHE-CAN-4-Pack-Sampler-Copy",
+        "shopName": "McBride Sisters Winery"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Wine",
+      "Alcohol",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "f38a64b7-7d10-40dd-865a-ca8d3db096dc",
     "type": "shop",
     "title": "Ashay by the Bay",

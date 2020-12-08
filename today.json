@@ -376,6 +376,26 @@
       "priority": 10
     },
     {
+      "id": "7b75c283-a0ad-46e0-b803-eb8ed9ec916b",
+      "type": "act",
+      "title": "Demand Justice for Casey Christian Goodson Jr",
+      "subtitle": "On Friday, December 4th, 23 year-old Casey Christian Goodson Jr, was shot three times in the back and murdered by police. They mistook his subway sandwich for a gun. Sign this petition to demand justice.",
+      "imageUrl": "https://assets.change.org/photos/5/sm/rg/ulSmrgTeYmhtlNr-800x450-noPad.jpg?1607147886",
+      "clickUrl": "https://www.change.org/p/demand-justice-for-casey-christian-goodson-jr",
+      "tags": [
+        "Police brutality",
+        "petition",
+        "BLM",
+        "Casey Christian",
+        "Goodson",
+        "Sign",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
+  "9": [
+    {
       "id": "a42accf4-fc0c-43ac-b826-72e187a09aee",
       "type": "act",
       "title": "Black Lives Matter",
@@ -387,29 +407,6 @@
         "BLM",
         "Donate",
         "Act"
-      ],
-      "priority": 10
-    }
-  ],
-  "9": [
-    {
-      "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
-      "type": "act",
-      "title": "Justice for Julius Jones",
-      "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
-      "emailInfo": {
-        "recipients": [
-          "Boardmembers@ppb.ok.gov"
-        ],
-        "subject": "Justice for Julius Jones",
-        "messageBody": "<p>Dear Oklahoma Pardon &amp; Parole Board members,</p>  <p>I strongly feel that Julius Darius Jones (# 270147) was wrongfully convicted of murder and sentenced to death in 2002. A crime for which he has always maintained his innocence.</p>  <p>Jones, a black 19 year old man, was arrested in 1999 for shooting white insurance executive Paul Scott Howell in Edmond, Oklahoma. At the time of his arrest, Julius was a successful athlete and honor student on scholarship at the University of Oklahoma.</p>  <p>Recently, new evidence of racial bias in the Jones&rsquo; case has been uncovered by the ABC documentary, &ldquo;The Last Defense.&rdquo;</p>  <p>One day after the documentary finale aired (7-25-18), the Oklahoma Criminal Court of Appeals released a document indicating they could take a look at the Jones&rsquo; case.</p>  <p>There are many factors that were overlooked and never presented during the Julius Jones trial.<br> 1. Jones&rsquo; attorney during the trial was inexperienced by his own admission and this was his first death penalty case.<br> 2. Several key pieces of evidence were never presented to the jury.<br> 3. Tunnel vision set in and the police and prosecutor ignored evidence pointing to others as the shooter.<br> 4. The court ignored an alleged racial statement made by one of the jurors<br> 5. The jury judged Jones based on his race.<br> After viewing the recent ABC documentary, &ldquo;The Last Defense,&rdquo; I am even more convinced than ever of Julius&rsquo; innocence and that he should be given a new trial. I also ask that District Attorney David Prater release Julius Jones&rsquo; case files to his attorneys in order to promote public trust in both the criminal justice system and in Julius Jones&rsquo;s case.</p>  <p>We all have all heard the phrase &lsquo;beyond a shadow of doubt.&rsquo; To me, there is more than a shadow of doubt in this case.</p>  <p>Please, I ask that you do whatever is within your power to support Julius Jones&rsquo; Clemency Petition and see that this injustice &ndash; the wrongful conviction of Julius Jones &ndash; is overturned.</p>  <p>Thank you,<br> [Your Name]<br> [Your location]</p>",
-        "isHtml": true
-      },
-      "tags": [
-        "Wrongful conviction",
-        "Email",
-        "act"
       ],
       "priority": 10
     },
@@ -647,10 +644,34 @@
       "subtitle": "Riot Swim is an online designer swimwear and beachwear brand, offering an exclusive collection of bikinis, one piece swimsuits, and more.",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7TCTDp264pOgf996YcMpfO2esASQzDZo7cw&usqp=CAU",
       "clickUrl": "https://www.riotswim.com/",
+      "products": [
+        {
+          "name": "Echo One Piece- Kiwi",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/image_69f4901b-dec2-4591-9f96-2695812f4b14_800x1026_crop_center@2x.jpg?v=1586042462",
+          "description": "Minimal coverage front and back. Doubles as bodysuit. Body sculpting. Fitted at waist to flatter curves.",
+          "clickUrl": "https://www.riotswim.com/products/pre-order-echo-one-piece-volt",
+          "shopName": "Riot Swim"
+        },
+        {
+          "name": "Pico Top-Chocolate",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/DSC_1346_81b3d8ea-9d96-4d67-81f9-1e5dda3b0265_800x1026_crop_center@2x.jpg?v=1581808878",
+          "description": "Full coverage top. Adjustable tie. Body sculpting. No Padding.",
+          "clickUrl": "https://www.riotswim.com/products/pico-top-chocolate",
+          "shopName": "Riot Swim"
+        },
+        {
+          "name": "Riot Crop Tee-Black",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/riot-swim00602_800x1026_crop_center@2x.jpg?v=1560833295",
+          "description": "Short-sleeve crop. Cotton tee. Round neck.",
+          "clickUrl": "https://www.riotswim.com/products/riot-crop-tee-black",
+          "shopName": "Riot Swim"
+        }
+      ],
       "tags": [
         "Goods",
         "swimwear",
         "Black-owned",
+        "Fashion",
         "Shop"
       ],
       "priority": 10

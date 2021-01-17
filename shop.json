@@ -1,5 +1,232 @@
 [
   {
+    "id": "4bed42f4-d9c7-4a70-9de5-a286f2851ea3",
+    "type": "shop",
+    "title": "Diarrablu",
+    "subtitle": "The Diarrablu mission is to iterate for sustainability while highlighting the African continent’s rich colors and unique patterns through practical and versatile pieces designed using mathematical concepts or algorithms.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/582621534541365248/Tl4eCf9H_400x400.jpg",
+    "clickUrl": "https://diarrablu.com/collections/all",
+    "products": [
+      {
+        "name": "Sustainable Mailys Dress - Noir",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/sustainable-mailys-dress-noir-923504_1400x.jpg?v=1610233764",
+        "description": "Sustainable, artisanal and size inclusive, the Mailys Dress is easily convertible into over 19 different styles. This garment is a comfortable and versatile dress thoughtfully designed to fit all body shapes and sizes.",
+        "clickUrl": "https://diarrablu.com/collections/all/products/sustainable-marieme-dress-noir",
+        "shopName": "Diarrablu"
+      },
+      {
+        "name": "Headwrap - Suto",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/headwrap-suto-748233_1400x.jpg?v=1605475071",
+        "description": "These statement pieces are part of our zero-waste sustainable approach as we believe in maximizing the usage of all our fabrics.",
+        "clickUrl": "https://diarrablu.com/collections/headwraps/products/headwrap-suto",
+        "shopName": "Diarrablu"
+      },
+      {
+        "name": "Hidden in Ocho Rios | Art Print",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/hidden-in-ocho-rios-art-print-624831_1400x.jpg?v=1605428407",
+        "description": "In this piece, we daydream of an impromptu retreat in Ocho Rios, Jamaica in a hidden tree-house covered in palm leaves.",
+        "clickUrl": "https://diarrablu.com/collections/art-print/products/hidden-in-ocho-rios",
+        "shopName": "Diarrablu"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Health & Beauty",
+      "Hair & Headwear",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "006177fb-89a5-488d-8427-f2fe53972923",
+    "type": "shop",
+    "title": "Buttaz & Wax",
+    "subtitle": "Buttaz & Wax is a handcrafted body butter and personal care line that came about after founder Keisha Marie made one of her body butters and her eight year old daughter looked up at her and said \"mommy these are good, you should sell them\".",
+    "imageUrl": "https://static1.squarespace.com/static/5aa0b268266c073befc14b96/t/5d439d231c750b000123cbdb/1607121991126/",
+    "clickUrl": "https://www.buttazandwax.com/shop-1",
+    "products": [
+      {
+        "name": "Coco Loco Body Butter",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1595280684537-ZDX242ERPP5BEEPE4CPB/ke17ZwdGBToddI8pDm48kCEFq_oazn5De8mJpwkPItR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0rQeu_A0VlcGJEiWdfSJ_zWJPyccyhLsRqCQ7hBhEQ354ieVp43wRU5I-IbiR8JdvA/5546D894-D32C-4F30-B89B-48C7F976ECD5?format=2500w",
+        "description": "Apply to any area of the body as needed. Best used after a shower when skin is still a bit damp. The butters and oils will lock moisture from shower into your skin.",
+        "clickUrl": "https://www.buttazandwax.com/shop/2020/1/22/pinr1xx8jh4swmyd2kbohmrfgc8871",
+        "shopName": "Buttaz & Wax"
+      },
+      {
+        "name": "Beard Oil",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1591823734037-48JITVNB7NAKUBHUDSHD/ke17ZwdGBToddI8pDm48kNUky3PFTqx_idkNr2ps9mJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URdr5HHUe4_PRMaj8Fu9nJu4yZCaSehhZL-O1iV9_j60FK4eMZgYA6RDahiKMr8qgw/32D1EBF6-23BA-4158-BF4A-BD1D2B20A8A2?format=2500w",
+        "description": "Work 3-5 drops of our beard oil into your hair revive your beard. Best used right after a shower while your beard is still damp",
+        "clickUrl": "https://www.buttazandwax.com/body-oil/2020/6/10/b76xl9u0ju07agr5ngce6wkf0cqub1",
+        "shopName": "Buttaz & Wax"
+      },
+      {
+        "name": "Lavender Soap",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1606495216416-FLAWLSTFKD2QU3Y7Y3BY/ke17ZwdGBToddI8pDm48kKM3lx6XFhHTEZMPV5TaiAt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWfLt1VJr1P6wGqPq8iJja5CpNU86IchLhWbP563_FYgDypYv5Z9qB9WFs-NjPCfmw/3B4BB9C2-F66D-427B-81F0-F5FC54DDFCE4?format=2500w",
+        "description": "Our Lavender handcrafted soap, just like our Lavender bathsalts, smells like calming Lavender.",
+        "clickUrl": "https://www.buttazandwax.com/soaps/lavender",
+        "shopName": "Buttaz & Wax"
+      }
+    ],
+    "tags": [
+      "Home & Garden",
+      "Health & Beauty",
+      "Wellness",
+      "Hair & Headwear",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "bde84c3b-67b1-4182-ac62-7d8185efac10",
+    "type": "shop",
+    "title": "Mutt's Sauce",
+    "subtitle": "In 1956, Mutt got the idea to make a sauce he could use for every meal. Mutt’s sauce was a multi-purpose specialty sauce, infusing sweet, tangy and a little bit of heat into each spoonful.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/files/MuttsSauce-Logo_Final_large_x200_23273ed6-3844-4ebe-a419-3190328e10f8_2500x.png?v=1570408895",
+    "clickUrl": "https://www.muttssauce.com/collections/all",
+    "products": [
+      {
+        "name": "Combo 3 Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/products/3pack_Original_2048x.png?v=1599933446",
+        "description": "BEST VALUE! Try all three: Original, Sweet N Spicy, Ghost Pepper",
+        "clickUrl": "https://www.muttssauce.com/products/combo3pack",
+        "shopName": "Mutt's Sauce"
+      },
+      {
+        "name": "Deluxe Spices 3 Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/products/4_2048x.png?v=1609462040",
+        "description": "It took 7 years to decide on what flavors to introduce in our spice line. These spices are unique because when paired with Mutt's Sauce, you can create three limited edition flavors.",
+        "clickUrl": "https://www.muttssauce.com/products/spices",
+        "shopName": "Mutt's Sauce"
+      },
+      {
+        "name": "Deluxe Combo Pack — Sauce + Spices",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/products/DELUXECOMBOPACK_2048x.png?v=1610392120",
+        "description": "This is the ultimate gift for Cooking with Mutt's Sauce!  Try the sauces:  Gluten Free Original, Sweet N Spicy, and Ghost Pepper, as well as our new line of spices: Berbere, Garlic Ghost Pepper, and Onion Pepper.",
+        "clickUrl": "https://www.muttssauce.com/products/deluxecombopack",
+        "shopName": "Mutt's Sauce"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Army veteran",
+      "rubs",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "da66dce9-0098-4317-bcfd-b17c0a03399f",
+    "type": "shop",
+    "title": "Sienna Sauce",
+    "subtitle": "The award winning Sienna Sauce comes in 3 delicious flavors for every palette. Tangy (the original flavor), Lemon Pepper and Spicy. The Lemon Pepper and Spicy flavors are made with the original flavor being the base of those Sauces. Sienna Sauce has WOWed so many customers, the family based company had to create a subscription program so the Sienna Sauce addicts wouldn’t run out of their favorite sauces. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/files/Sienna_Sauce_Logo_2019_2_540x.PNG?v=1600482363",
+    "clickUrl": "https://siennasauce.com/collections/all",
+    "products": [
+      {
+        "name": "Sienna Sauce 2 Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/NEW2packbottlestangylemonpepper-2_1024x1024@2x.png?v=1604331898",
+        "description": "This gourmet sauce has No High Fructose Corn Syrup and is Gluten-Free. It combines the perfect blend of sweet with a hint of tangy serving as a perfect complement to chicken, pork, beef, or seafood that has been fried, smoked, baked, or grilled.",
+        "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/2pack-tangy-spicy",
+        "shopName": "Sienna Sauce"
+      },
+      {
+        "name": "Sienna Sauce 3 Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/subscriptionBOX_1024x1024@2x.png?v=1594786988",
+        "description": "This gourmet sauce has No High Fructose Corn Syrup and is Gluten-Free. It combines the perfect blend of sweet with a hint of tangy serving as a perfect complement to chicken, pork, beef, or seafood that has been fried, smoked, baked, or grilled.",
+        "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/sienna-wings-sauce",
+        "shopName": "Sienna Sauce"
+      },
+      {
+        "name": "Digital Sauce Lovers E-Book",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/Attachment_1593756123_1024x1024@2x.png?v=1595545537",
+        "description": "Sienna Sauce has released its first e-cookbook! This digital flavor manual has 4 amazing recipes by celebrity chef, Jabril Riddick, Along with the champion recipe from Sienna Sauce's Virtual Cook-Off.",
+        "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/digital-sauce-lovers-e-book",
+        "shopName": "Sienna Sauce"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cf5e1008-ff67-4f49-9530-455a7ed24710",
+    "type": "shop",
+    "title": "Sade Baron",
+    "subtitle": "Sade and Rachel are a mother-daughter duo creating high-performance body care products that make your skin feel great. As a 100% woman-owned business, they select every ingredient in their products. Everything is handmade, carefully packaged, and personally checked for impeccable quality.",
+    "imageUrl": "https://www.leapingbunny.org/sites/default/files/styles/brand_logo/public/brand_logo/Sadebaronlogo.png?itok=Ae64_itE",
+    "clickUrl": "https://www.sadebaron.com/collections/all",
+    "products": [
+      {
+        "name": "Body Care Set 1 - Normal Skin",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/Set-3-NormalSkinwo_bff2aa71-d525-46ce-9e61-b01408422b3f_1125x2000.png?v=1570068057",
+        "description": "The essentials kit features everything you need to keep maintain your skin health. Start with a new skinfood routine and feed it nutrient-rich superfoods all day, every day.",
+        "clickUrl": "https://www.sadebaron.com/products/body-care-set-1-normal-skin",
+        "shopName": "Sade Baron"
+      },
+      {
+        "name": "Go Clean Starter Kit | Body Care Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/SadeBaron_StarterKit_1_500x889.jpg?v=1596753684",
+        "description": "With this Go Clean Body Care Starter Set you can finally remove excessive ingredients and chemicals from your daily body care routine. With Sade Baron, all of our products are 100% vegan, made with clean ingredients to work for most skin types, so you can trust that you'll find great products to work for you.",
+        "clickUrl": "https://www.sadebaron.com/products/go-clean-body-care-starter-kit",
+        "shopName": "Sade Baron"
+      },
+      {
+        "name": "Fragrance Free Body Wash",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/LuftCleanser_1oz_1125x1999.png?v=1569153937",
+        "description": "A light face and body wash suitable for everyday use. This fragrance-free body wash is perfect for babies, children and adults with reactive and sensitive skin. With superfats galore like avocado oil, olive oil and more, this liquid castile soap will leave your skin hydrated day after day.",
+        "clickUrl": "https://www.sadebaron.com/products/fragrance-free-castile-liquid-soap",
+        "shopName": "Sade Baron"
+      }
+    ],
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4da4d91c-a4ed-484d-b912-2b1015e79daa",
+    "type": "shop",
+    "title": "Knock Your Socks Off",
+    "subtitle": "Created from an appreciation for high-quality socks that make a lasting impression and backed by years of retail buying experience, Knock Your Socks Off (aka KYSO) was founded in 2016 in Toronto, Canada.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/files/KYSO_logo_7a59c074-89bc-473a-8399-15ba317d1334_260x@2x.png?v=1603643020",
+    "clickUrl": "https://shopkyso.com/collections/all",
+    "products": [
+      {
+        "name": "Above the Clouds Women's Ankle Socks",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/Above_the_clouds_DSC_0697_1080x.png?v=1594033286",
+        "description": "Ultra soft fabric, made from a blend of 80% combed cotton. Fits just above the ankle. Fits Women's shoe size 6-11",
+        "clickUrl": "https://shopkyso.com/products/above-the-clouds-womens-ankle-socks",
+        "shopName": "Knock Your Socks Off"
+      },
+      {
+        "name": "Basketball Cotton Socks",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/DSC_0672_1080x.jpg?v=1594207119",
+        "description": "Ultra soft fabric, made from a blend of 80% combed cotton. Fits mid-calf length. Fits US men shoe size 7-12",
+        "clickUrl": "https://shopkyso.com/products/basketball-cotton-socks",
+        "shopName": "Knock Your Socks Off"
+      },
+      {
+        "name": "Cherry Dress Socks",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/IMG_7971_1080x.jpg?v=1569209844",
+        "description": "Sweet, sweet cherries! Made from a blend of combed cotton, spandex and elastin. Fits men's shoe size 9-12 and women's shoe size 7-10",
+        "clickUrl": "https://shopkyso.com/products/cherry-dress-socks",
+        "shopName": "Knock Your Socks Off"
+      }
+    ],
+    "tags": [
+      "Shoes",
+      "Socks",
+      "Fashion",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "2acab6df-a464-4707-ae3d-4a91e080aa4f",
     "type": "shop",
     "title": "McBride Sisters Winery",

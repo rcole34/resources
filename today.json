@@ -760,38 +760,64 @@
   ],
   "18": [
     {
-      "id": "eb109fd5-1cc5-4200-a5e6-347af6cd3aac",
+      "id": "08962702-2149-41e3-ba09-653b636525ac",
       "type": "act",
-      "title": "Email for Tianna Arata",
-      "subtitle": "Email San Luis Obispo District Attorney Dan Dow to demand that the charges against Tianna Arata are dropped",
-      "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
-      "emailInfo": {
-        "recipients": [
-          "ddow@co.slo.ca.us",
-          "fisherlaw78@yahoo.com"
-        ],
-        "subject": "We demand that all charges against Tianna Arata be dropped",
-        "messageBody": "<p>Hi, my name is [Your name]</p>  <p>I am contacting you regarding the arrest of local leader and activist Tianna Arata. Tianna is an extremely brave young person who has put her body on the line for her community, peacefully protesting throughout the past weeks against systemic racism and white supremacy. Tianna has a long history of being an activist and has always advocated for those in marginalized communities in every aspect of her life.</p>  <p>The SLO protests have been extremely peaceful, and the night of her arrest was no different. On July 21, after the protest was winding down, Tianna was forcefully and violently arrested by six police officers. Witnesses say she was with friends, putting their stuff back into their cars. She was charged with five counts, including two felonies, one of which was inciting a riot. All reporting on this night of protests say it was extremely peaceful.</p>  <p>It is obvious that the city of SLO is violently targeting this leader of the local Black Lives Matter movement in an attempt to quell resistance to racism and oppression. She has never advocated for any sort of violence in her protests, for this reason exactly. Leaders, especially young Black women, are often targeted simply for standing up for their lives and rights, and trying to better their communities. It is abhorrent that SLO is participating in this display of state violence and white supremacy. Because of this, I demand that all charges be dropped against Tianna and she be returned to her family immediately.</p>  <p>Tianna is innocent. I stand with her and reaffirm that her life and freedom matters, as well as the lives of all Black SLO residents. Correct your mistakes. Listen to your people. Do better.</p>  <p>As of Monday, August 10th, the charges against Tianna have been increased to four felony counts of false imprisonment, one count of felony conspiracy, and three misdemeanors. Tianna faces up to FIFTEEN years in prison because of these ludicrous charges. Facing these charges and possibly being convicted is leading, and will lead to, devastating repercussions for Tianna. Already, she is dealing with extreme anxiety, harassment, feeling unsafe in her own home and community, and more. Her future will be destroyed. Her dreams will be squashed. She is a leader, a student, an extremely hard worker, a beacon of joy and light, an athlete, a creative, a daughter, and most of all a person. Again, these charges will destroy Tianna's life. Drop them immediately.</p>  <p>Sincerely,</p>  <p>[Your name]</p>",
-        "isHtml": true
-      },
+      "title": "Support the King Center",
+      "subtitle": "The King Center remain committed to proactively educating and training individuals and leaders across all sectors in Nonviolence365 to influence equitable change in our national and global infrastructure.",
+      "imageUrl": "https://images.givelively.org/nonprofits/882d8fe8-ea50-4e96-8635-16186f32ef58/logos/martin-luther-king-jr-center-for-non-violent-social-change-inc_processed_6ada75f285179721b42d30ac3f2cf414a35d5c191d73aca835dd33a528bf6c06_logo.jpg",
+      "clickUrl": "https://thekingcenter.org/donate-now/",
       "tags": [
-        "Email",
-        "SLO",
-        "act"
+        "Donate",
+        "Martin Luther King, Jr.",
+        "Coretta Scott King",
+        "MLK",
+        "Act"
       ],
       "priority": 10
     },
     {
-      "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
-      "type": "shop",
-      "title": "Find Black-owned bookstores near you",
-      "subtitle": "The African American Literature Book Club (AALBC.com) has put together a map of Blac-owned bookstores across the US. Find your nearest one here.",
-      "imageUrl": "https://aalbc.com/aalbc_logo_120.jpg",
-      "clickUrl": "https://aalbc.com/bookstores/bookstore-map.php",
+      "id": "35597c7b-f80f-4e2a-b298-07947f05d658",
+      "type": "learn",
+      "title": "The Words of Martin Luther King Jr. Reverberate in a Tumultuous Time",
+      "subtitle": "Dr. King’s speeches have particular resonance today amid a year of sickness and death, Black Lives Matter protests and the storming of the Capitol.",
+      "imageUrl": "https://static01.nyt.com/images/2021/01/18/us/18MLK-1963b/merlin_182452224_2416cec4-b94e-4125-bf36-e517c13bded2-superJumbo.jpg?quality=90&auto=webp",
+      "clickUrl": "https://www.nytimes.com/2021/01/18/us/martin-luther-king-words-protests.html",
       "tags": [
-        "Goods",
-        "Bookstores",
-        "Shop"
+        "Read",
+        "MLK",
+        "NYT",
+        "New York Times",
+        "Learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "3394882b-9a70-4247-b49b-e3540e6e1854",
+      "type": "learn",
+      "title": "\"I Have A Dream\" Speech, In Its Entirety",
+      "subtitle": "Listen to Martin Luther King, Jr.'s \"I Have a Dream\" speech.",
+      "imageUrl": "https://media.npr.org/assets/img/2017/01/15/king-speech-306478e25e6e24acaefb2441bc27b0b7c6d5dea6-s1400-c85.jpg",
+      "clickUrl": "https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety",
+      "tags": [
+        "Listen",
+        "Read",
+        "MLK",
+        "NPR",
+        "Learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "5c7b5267-6be3-43a9-8fd3-222e39dcc5dc",
+      "type": "learn",
+      "title": "MLK: The Other America",
+      "subtitle": "Dr. Martin Luther King, Jr.’s 1967 speech at Stanford. Here, he expounds on his nonviolent philosophy and methodology.",
+      "imageUrl": "https://miro.medium.com/max/3456/1*l87Isvyxt2xtOgPS0AEYYg.jpeg",
+      "clickUrl": "https://www.youtube.com/watch?v=dOWDtDUKz-U",
+      "tags": [
+        "Watch",
+        "Listen",
+        "Learn"
       ],
       "priority": 10
     }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "08962702-2149-41e3-ba09-653b636525ac",
+    "type": "act",
+    "title": "Support the King Center",
+    "subtitle": "The King Center remain committed to proactively educating and training individuals and leaders across all sectors in Nonviolence365 to influence equitable change in our national and global infrastructure.",
+    "imageUrl": "https://images.givelively.org/nonprofits/882d8fe8-ea50-4e96-8635-16186f32ef58/logos/martin-luther-king-jr-center-for-non-violent-social-change-inc_processed_6ada75f285179721b42d30ac3f2cf414a35d5c191d73aca835dd33a528bf6c06_logo.jpg",
+    "clickUrl": "https://thekingcenter.org/donate-now/",
+    "tags": [
+      "Donate",
+      "Martin Luther King, Jr.",
+      "Coretta Scott King",
+      "MLK",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "7b75c283-a0ad-46e0-b803-eb8ed9ec916b",
     "type": "act",
     "title": "Demand Justice for Casey Christian Goodson Jr",

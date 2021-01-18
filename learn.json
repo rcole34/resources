@@ -1,5 +1,65 @@
 [
   {
+    "id": "35597c7b-f80f-4e2a-b298-07947f05d658",
+    "type": "learn",
+    "title": "The Words of Martin Luther King Jr. Reverberate in a Tumultuous Time",
+    "subtitle": "Dr. King’s speeches have particular resonance today amid a year of sickness and death, Black Lives Matter protests and the storming of the Capitol.",
+    "imageUrl": "https://static01.nyt.com/images/2021/01/18/us/18MLK-1963b/merlin_182452224_2416cec4-b94e-4125-bf36-e517c13bded2-superJumbo.jpg?quality=90&auto=webp",
+    "clickUrl": "https://www.nytimes.com/2021/01/18/us/martin-luther-king-words-protests.html",
+    "tags": [
+      "Read",
+      "MLK",
+      "NYT",
+      "New York Times",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "061eb50b-5323-445e-9c24-6d036224b87a",
+    "type": "learn",
+    "title": "Martin Luther King, Jr: 7 Surprising Facts",
+    "subtitle": "In his 39 years (1929-1968) Dr. Martin Luther King, Jr. became one of the leading figures in the civil rights movement.",
+    "imageUrl": "https://i1.wp.com/www.bkreader.com/wp-content/uploads/2020/12/mlk-jr.png?w=1140&ssl=1",
+    "clickUrl": "https://www.bkreader.com/2021/01/17/martin-luther-king-jr-7-surprising-facts-2/",
+    "tags": [
+      "Read",
+      "MLK",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3394882b-9a70-4247-b49b-e3540e6e1854",
+    "type": "learn",
+    "title": "\"I Have A Dream\" Speech, In Its Entirety",
+    "subtitle": "Listen to Martin Luther King, Jr.'s \"I Have a Dream\" speech.",
+    "imageUrl": "https://media.npr.org/assets/img/2017/01/15/king-speech-306478e25e6e24acaefb2441bc27b0b7c6d5dea6-s1400-c85.jpg",
+    "clickUrl": "https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety",
+    "tags": [
+      "Listen",
+      "Read",
+      "MLK",
+      "NPR",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5c7b5267-6be3-43a9-8fd3-222e39dcc5dc",
+    "type": "learn",
+    "title": "MLK: The Other America",
+    "subtitle": "Dr. Martin Luther King, Jr.’s 1967 speech at Stanford. Here, he expounds on his nonviolent philosophy and methodology.",
+    "imageUrl": "https://miro.medium.com/max/3456/1*l87Isvyxt2xtOgPS0AEYYg.jpeg",
+    "clickUrl": "https://www.youtube.com/watch?v=dOWDtDUKz-U",
+    "tags": [
+      "Watch",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "1443d5fc-61a8-434c-87ee-b75cc59d7fdc",
     "type": "learn",
     "title": "Sports Can Battle Racism Workshop",

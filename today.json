@@ -856,18 +856,18 @@
   ],
   "20": [
     {
-      "id": "81d905e1-e654-41ab-95d2-a7f5ccdd4f5d",
-      "type": "act",
-      "title": "Justice for Tianna (Donate for Legal Costs)",
-      "subtitle": "Tianna Arata is another Black woman who was wrongfully accused and detained by exercising her right to protest. Tianna is an educated, inspirational, young woman who has been fighting for the Black community through her blood, sweat, and tears for months! She has organized many peaceful protests in the San Luis Obispo community.",
-      "imageUrl": "https://images.gofundme.com/uAYurHkx9LZaiZ3ln5xY3POwTVc=/720x405/https://d2g8igdw686xgo.cloudfront.net/49884366_1595538385319290_r.jpeg",
-      "clickUrl": "https://www.gofundme.com/f/kzzrd-justice-for-tiana",
+      "id": "65977fff-ce2a-43ae-af17-26075eeb5a8d",
+      "type": "learn",
+      "title": "Amanda Goodman Inauguration Poem ",
+      "subtitle": "Watch and read the youngest poet laureate, Amanda Goodman, recite her poem \"The Hill We Climb\"",
+      "clickUrl": "https://www.latimes.com/world-nation/story/2021-01-20/watch-and-read-amanda-gormans-inauguration-day-poem",
       "tags": [
-        "Donate",
-        "Tianna",
-        "SLO",
-        "police",
-        "Act"
+        "Watch",
+        "read",
+        "listen",
+        "Amanda goodman",
+        "poetry",
+        "Learn"
       ],
       "priority": 10
     },

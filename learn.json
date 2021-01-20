@@ -1,5 +1,21 @@
 [
   {
+    "id": "65977fff-ce2a-43ae-af17-26075eeb5a8d",
+    "type": "learn",
+    "title": "Amanda Goodman Inauguration Poem ",
+    "subtitle": "Watch and read the youngest poet laureate, Amanda Goodman, recite her poem \"The Hill We Climb\"",
+    "clickUrl": "https://www.latimes.com/world-nation/story/2021-01-20/watch-and-read-amanda-gormans-inauguration-day-poem",
+    "tags": [
+      "Watch",
+      "read",
+      "listen",
+      "Amanda goodman",
+      "poetry",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "35597c7b-f80f-4e2a-b298-07947f05d658",
     "type": "learn",
     "title": "The Words of Martin Luther King Jr. Reverberate in a Tumultuous Time",

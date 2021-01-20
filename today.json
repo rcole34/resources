@@ -790,36 +790,6 @@
         "Learn"
       ],
       "priority": 10
-    },
-    {
-      "id": "3394882b-9a70-4247-b49b-e3540e6e1854",
-      "type": "learn",
-      "title": "\"I Have A Dream\" Speech, In Its Entirety",
-      "subtitle": "Listen to Martin Luther King, Jr.'s \"I Have a Dream\" speech.",
-      "imageUrl": "https://media.npr.org/assets/img/2017/01/15/king-speech-306478e25e6e24acaefb2441bc27b0b7c6d5dea6-s1400-c85.jpg",
-      "clickUrl": "https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety",
-      "tags": [
-        "Listen",
-        "Read",
-        "MLK",
-        "NPR",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "5c7b5267-6be3-43a9-8fd3-222e39dcc5dc",
-      "type": "learn",
-      "title": "MLK: The Other America",
-      "subtitle": "Dr. Martin Luther King, Jr.’s 1967 speech at Stanford. Here, he expounds on his nonviolent philosophy and methodology.",
-      "imageUrl": "https://miro.medium.com/max/3456/1*l87Isvyxt2xtOgPS0AEYYg.jpeg",
-      "clickUrl": "https://www.youtube.com/watch?v=dOWDtDUKz-U",
-      "tags": [
-        "Watch",
-        "Listen",
-        "Learn"
-      ],
-      "priority": 10
     }
   ],
   "19": [
@@ -860,6 +830,7 @@
       "type": "learn",
       "title": "Amanda Goodman Inauguration Poem ",
       "subtitle": "Watch and read the youngest poet laureate, Amanda Goodman, recite her poem \"The Hill We Climb\"",
+      "imageUrl": "https://e3.365dm.com/21/01/768x432/skynews-amanda-gorman-poet-laureate_5244590.jpg?20210120200527",
       "clickUrl": "https://www.latimes.com/world-nation/story/2021-01-20/watch-and-read-amanda-gormans-inauguration-day-poem",
       "tags": [
         "Watch",
@@ -906,23 +877,19 @@
       "priority": 10
     },
     {
-      "id": "0fe85092-35bb-4667-82ef-90d661129a4f",
-      "type": "act",
-      "title": "Email the mayor of Louisville",
-      "subtitle": "Send a pre-filled email to Mayor Fischer of Louisville, KY to demand he holds the officers who killed Breonna Taylor accountable.",
-      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200531020125-02-george-floyd-art-large-169.jpg",
-      "emailInfo": {
-        "recipients": [
-          "greg.fischer@louisvilleky.gov"
-        ],
-        "subject": "Accountability for Breonna Taylor",
-        "messageBody": "<p>Mayor Fischer,</p>  <p>Like thousands of people across the country, I was appalled to hear about Breonna Taylor's murder on March 13th. Echoing the requests of Louisville community organizers, the following demands must be met to ensure that the officers responsible for Breonna's death are held accountable for their brash, reprehensible actions:</p>  <ol><li>Your office and the Louisville City Council must address the use of force by the Louisville Metro Police</li> <li>The officers that killed Breonna (Sgt. Jonathan Mattingly, Detective Brett Hankison, and Detective Myles Cosgrove) must be fired, and have their pensions revoked</li> <li>Ensure that all necessary information is provided to a local, independent civilian community police accountability council</li> <li>Create policy for a transparent investigation process due to law enforcement misconduct</li> <li>Appoint a special prosecutor to bring forward charges against the officers and oversee all parts of this case</li></ol> <p>It is imperative that you condemn the actions of these officers. Raids cannot be performed with a shoot first, ask questions later mentality. Too many lives have been lost this way, and too often \"danger\" is determined by deeply entrenched racial biases, not actual threat level.</p> <p>It is a tragedy that Breonna Taylor is not alive today. Police must be held to a higher standard than this. I trust that your office and the involved parties will do the right thing.</p>  <p>Sincerely,</p> <p>[Your name] from [Your location]</p>",
-        "isHtml": true
-      },
+      "id": "65977fff-ce2a-43ae-af17-26075eeb5a8d",
+      "type": "learn",
+      "title": "Amanda Goodman Inauguration Poem ",
+      "subtitle": "Watch and read the youngest poet laureate, Amanda Goodman, recite her poem \"The Hill We Climb\"",
+      "imageUrl": "https://e3.365dm.com/21/01/768x432/skynews-amanda-gorman-poet-laureate_5244590.jpg?20210120200527",
+      "clickUrl": "https://www.latimes.com/world-nation/story/2021-01-20/watch-and-read-amanda-gormans-inauguration-day-poem",
       "tags": [
-        "Breonna Taylor",
-        "Email",
-        "act"
+        "Watch",
+        "read",
+        "listen",
+        "Amanda goodman",
+        "poetry",
+        "Learn"
       ],
       "priority": 10
     }

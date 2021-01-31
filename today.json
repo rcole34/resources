@@ -1,20 +1,19 @@
 {
   "1": [
     {
-      "id": "e5a83362-ae46-4014-bca5-182acea4f578",
-      "type": "act",
-      "title": "United Negro College Fund",
-      "subtitle": "UNCF envisions a nation where all Americans have equal access to a college education that prepares them for rich intellectual lives, competitive and fulfilling careers, engaged citizenship and service to our nation.",
-      "imageUrl": "https://pbs.twimg.com/profile_images/1256326337616379906/qU9mJPAc_400x400.jpg",
-      "clickUrl": "https://secure2.convio.net/uncf/site/SPageNavigator/2016Donate.html",
-      "tags": [
-        "Donate",
-        "College",
-        "Education",
-        "Act"
-      ],
-      "priority": 10
-    },
+    "id": "aa703401-e512-4c13-ac25-aab05a6737f8",
+    "type": "learn",
+    "title": "13th Amendment",
+    "subtitle": "The 13th Amendment to the U.S. Constitution, ratified in 1865 in the aftermath of the Civil War, abolished slavery in the United States.",
+    "imageUrl": "https://www.nbc12.com/resizer/jqWsEtBVB2mzZL_yfI1NROyk5Ek=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/7Y2ISVAHGJADZPX6OGRTW4S6NA.PNG",
+    "clickUrl": "https://www.history.com/topics/black-history/thirteenth-amendment",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "6947527a-15d7-47c5-a895-a6da139ddbb5",
       "type": "act",
@@ -46,19 +45,20 @@
   ],
   "2": [
     {
-      "id": "6e7f3fb4-a73c-4016-bebf-3836214e20c2",
-      "type": "learn",
-      "title": "Revisionist History: Miss Buchanan’s Period of Adjustment",
-      "subtitle": "Revisionist History is a podcast from Malcolm Gladwell and Pushkin Industries.In this episode: A landmark Supreme Court case. A civil rights revolution. Why has everyone forgotten what happened next?",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Revisionist_History_logo.jpg",
-      "clickUrl": "http://revisionisthistory.com/episodes/13-miss-buchanans-period-of-adjustment",
-      "tags": [
-        "Listen",
-        "Podcast",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "56978da4-3632-451f-a5fe-548c054abeaa",
+    "type": "learn",
+    "title": "Dr. Ernest Everett Just",
+    "subtitle": "Dr. Ernest Just was a pioneering African American biologist, academic and science writer. Just's primary legacy is his recognition of the fundamental role of the cell surface in the development of organisms.",
+    "imageUrl": "https://www.myblackhistory.net/ejust2.jpg",
+    "clickUrl": "https://www.myblackhistory.net/Ernest_Just.htm",
+    "tags": [
+      "Black History Month",
+      "Inventor",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "5c2099b6-a2e0-4ded-872e-b5cab8b47914",
       "type": "shop",
@@ -147,39 +147,38 @@
       ],
       "priority": 10
     },
-    {
-      "id": "3dc2000e-dc16-4a01-a04c-f6d66af8a2a0",
-      "type": "act",
-      "title": "Liberation Library",
-      "subtitle": "Young people in the jails and prisons we serve are experiencing a loss of programming and in-person family visits, leading to further isolation during these uncertain times. We believe it is now more important than ever for incarcerated young people to have access to other worlds of their choosing.",
-      "imageUrl": "https://www.liberationlib.com/uploads/5/0/7/1/50712391/editor/knowledge-is-power_1.jpg?1487030955",
-      "clickUrl": "https://www.liberationlib.com/donate.html",
-      "tags": [
-        "volunteer",
-        "books",
-        "illinois",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    }
+   {
+    "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
+    "type": "learn",
+    "title": "Negro League Baseball",
+    "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
+    "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
+    "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "4": [
-    {
-      "id": "fc8f3fcf-6013-49fc-8f19-70ab221b41de",
-      "type": "learn",
-      "title": "Did you really just say that?",
-      "subtitle": "Here's advice on how to confront microaggressions, whether you're a target, bystander or perpetrator",
-      "imageUrl": "https://www.apa.org/images/2017-01-micoraggression_tcm7-211877.jpg",
-      "clickUrl": "https://www.apa.org/monitor/2017/01/microaggressions",
-      "tags": [
-        "Read",
-        "Article",
-        "Microaggressions",
-        "learn"
-      ],
-      "priority": 10
-    },
+   {
+    "id": "869d86ee-fb69-46b1-91b7-4c14a153912d",
+    "type": "learn",
+    "title": "What If I Don't Move to the Back of the Bus?",
+    "subtitle": "Rosa Parks brought together a unique blend of life experiences, a commitment to racial justice, and a flawless reputation to transform a single act of defiance into a defining moment for the modern American civil rights movement.",
+    "imageUrl": "https://www.thehenryford.org/SitefinityImages/0x0-25b04c84-d30d-6b61-be8b-ff000073bae4.jpg",
+    "clickUrl": "https://www.thehenryford.org/explore/stories-of-innovation/what-if/rosa-parks/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Rosa Parks",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "c2971b03-df1a-43f6-aa26-cc5a8fc1e560",
       "type": "learn",
@@ -198,21 +197,21 @@
   ],
   "5": [
     {
-      "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
-      "type": "act",
-      "title": "NAACP Legal Defense and Education Fund",
-      "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
-      "imageUrl": "https://www.naacpldf.org/wp-content/uploads/ldf-logo.jpg",
-      "clickUrl": "https://www.naacpldf.org/",
-      "tags": [
-        "NAACP",
-        "LDF",
-        "nonprofit",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    },
+    "id": "17d5ead4-a5e7-451d-bbe1-589997366323",
+    "type": "learn",
+    "title": "Brown v. Board: Timeline of School Integration in the U.S.",
+    "subtitle": "Trace school integration from 1849 to 2007.",
+    "imageUrl": "https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2017-07/Teaching%20Tolerance_TT25_Brown%20v%20Board%20Timeline_1800px.jpg?itok=alIvwBM3",
+    "clickUrl": "https://www.tolerance.org/magazine/spring-2004/brown-v-board-timeline-of-school-integration-in-the-us",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Segregation",
+      "Education",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
       "type": "learn",
@@ -233,20 +232,20 @@
   ],
   "6": [
     {
-      "id": "922b8a6f-ed1d-4b15-835d-f9e4686b11aa",
-      "type": "learn",
-      "title": "Covid-19’s Impact on People in Prison",
-      "subtitle": "People who are incarcerated are at great risk of sickness and death as a result of the Covid-19 pandemic and more must be done to release people who are imprisoned and are not a threat to public safety or are elderly or infirm.",
-      "imageUrl": "https://eji.org/wp-content/uploads/2020/05/alabama-prison-1900-1000.jpg",
-      "clickUrl": "https://eji.org/news/covid-19s-impact-on-people-in-prison/",
-      "tags": [
-        "Read",
-        "EJI",
-        "Equal Justice Initiative",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "37154355-fcdc-4231-a30d-43d1a22facbd",
+    "type": "learn",
+    "title": "Robert Tanner Freeman - Bytes of History",
+    "subtitle": "Robert Tanner Freeman was born in Washington DC in 1846. He was the son of slaves who had bought their freedom in the 19th century. Historical records are unclear but they probably adopted the surname Freeman in response to their transition.",
+    "imageUrl": "https://www.smilephiladelphian.com/wp-content/uploads/2015/10/freeman.jpg",
+    "clickUrl": "https://www.smilephiladelphian.com/bytes-of-history/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "0556671f-f1d8-4a8b-b861-45c0231a891a",
       "type": "shop",
@@ -338,43 +337,37 @@
       "priority": 10
     },
     {
-      "id": "35de3191-81a3-46cf-9613-c9b58d7163be",
-      "type": "learn",
-      "title": "The Hate U Give",
-      "subtitle": "Based on the best-selling novel, The Hate U Give tells the story of Starr Carter, who lives in two worlds: the poor, black neighborhood where she resides and the mostly white prep school she attends. This uneasy balance is shattered when she witnesses the fatal shooting of her childhood friend by a policeman. Facing pressures from all sides, Starr must find her voice and stand up for what’s right.",
-      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-      "clickUrl": "https://www.youtube.com/watch?v=NXy0H-EZR5s",
-      "tags": [
-        "Watch",
-        "Movie",
-        "Police brutality",
-        "learn"
-      ],
-      "priority": 10
-    }
+    "id": "2d97377f-2aa1-4b47-a256-5c644ed57a08",
+    "type": "learn",
+    "title": "Carter G. Woodson - African American Trailblazers in Virginia History",
+    "subtitle": "Enjoy a six-minute podcast on the life of Carter G. Woodson who helped start the first Negro History Week.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dr._Carter_G._Woodson_%281875-1950%29%2C_Carter_G._Woodson_Home_National_Historic_Site%2C_1915._%2818f7565bf62142c0ad7fff83701ca5f6%29.jpg",
+    "clickUrl": "https://podcasts.apple.com/us/podcast/carter-g-woodson-1875-1950/id403323725?i=1000088833755",
+    "tags": [
+      "Black History Month",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "8": [
     {
-      "id": "1d8e54ed-419a-4292-9868-03f0c61a5ce1",
-      "type": "learn",
-      "title": "Land Acknowledgement App",
-      "subtitle": "Text the name of a city and state to 907-312-5085 to find out the Indigenous people of that place.",
-      "imageUrl": "https://nativegov.org/wp-content/uploads/2019/10/Copy-of-Native-Land-Facebook-Event-Photo-1-copy.png",
-      "textInfo": {
-        "recipients": [
-          "907-312-5085"
-        ],
-        "body": "[Your location]"
-      },
-      "tags": [
-        "Text",
-        "native",
-        "american",
-        "indian",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "ba4f0d32-fb60-4080-b77e-076159a76a41",
+    "type": "learn",
+    "title": "Oprah Winfrey's Cecil B. DeMille Award Acceptance Speech - 2018 Golden Globe Awards",
+    "subtitle": "Watch Oprah Winfrey's 2018 Golden Globe Awards acceptance speech for the Cecil B. DeMille Award.",
+    "imageUrl": "https://static01.nyt.com/images/2018/01/08/arts/08-globes-winfrey/08-globes-winfrey-superJumbo.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=TTyiq-JpM-0",
+    "tags": [
+      "Black History Month",
+      "People",
+      "Watch",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "7b75c283-a0ad-46e0-b803-eb8ed9ec916b",
       "type": "act",
@@ -448,7 +441,21 @@
         "Shop"
       ],
       "priority": 10
-    }
+    },
+    {
+    "id": "7109cb8d-f26c-4d93-bb60-344ca902468e",
+    "type": "learn",
+    "title": "Here Are the 18 African-American Astronauts",
+    "subtitle": "It was 22 years after Alan Shepard’s first space trip that the U.S. sent a person of color up.",
+    "imageUrl": "https://static01.nyt.com/images/2019/07/16/lens/16dwight-next-ast-03/16dwight-next-ast-03-superJumbo.jpg?quality=90&auto=webp",
+    "clickUrl": "https://www.nytimes.com/2019/07/16/us/african-american-astronauts.html",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "10": [
     {
@@ -467,37 +474,37 @@
       "priority": 10
     },
     {
-      "id": "98689647-3988-4845-adc5-7fa30d642159",
-      "type": "learn",
-      "title": "Learn about Julius Jones",
-      "subtitle": "Learn about Julius’ life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
-      "clickUrl": "https://www.justiceforjuliusjones.com/watch-the-doc",
-      "tags": [
-        "Julius Jones",
-        "Watch",
-        "documentary",
-        "learn"
-      ],
-      "priority": 10
-    }
+    "id": "dbd194f4-c102-489f-85d2-00985f1e4d32",
+    "type": "learn",
+    "title": "Civil Rights Act - Britannica",
+    "subtitle": "Civil Rights Act, (1964), comprehensive U.S. legislation intended to end discrimination based on race, colour, religion, or national origin.",
+    "imageUrl": "https://cdn.britannica.com/s:700x500/88/136088-050-17171BF5/Pres-Lyndon-B-Johnson-others-Martin-Luther-July-2-1964.jpg",
+    "clickUrl": "https://www.britannica.com/event/Civil-Rights-Act-United-States-1964",
+    "tags": [
+      "Black History Month",
+      "Civil Rights",
+      "History",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "11": [
     {
-      "id": "4e6edfeb-0518-4f1f-86dc-104020869481",
-      "type": "learn",
-      "title": "Seeing White Podcast Series",
-      "subtitle": "Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.",
-      "imageUrl": "https://www.uncsa.edu/mysa/img/announcements/2019/seeing-white.jpg",
-      "clickUrl": "https://www.sceneonradio.org/seeing-white/",
-      "tags": [
-        "Listen",
-        "white privilege",
-        "podcast",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "0e6a787f-bb1c-4fb0-b714-f0ac6666dbd1",
+    "type": "learn",
+    "title": "Remembering South African leader Nelson Mandela",
+    "subtitle": "Nelson Mandela, the first black president of South Africa credited with ending apartheid there, died in Johannesburg on Dec. 5, 2013. Former PBS NewsHour correspondent Charlayne Hunter-Gault takes a look back at Mandela's life and legacy.",
+    "imageUrl": "https://www.biography.com/.image/t_share/MTY2MzU2NjgxMDUwMDM5OTk5/_photo-by-per-anders-petterssongetty-images.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=LnGeMBNS9ZA&feature=youtu.be",
+    "tags": [
+      "Black History Month",
+      "Watch",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
     {
       "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
       "type": "act",
@@ -515,21 +522,19 @@
   ],
   "12": [
     {
-      "id": "1743325b-7077-4fa4-b9bb-0f76df036d84",
-      "type": "learn",
-      "title": "1619 Podcast",
-      "subtitle": "An audio series from The Times observing the 400th anniversary of the beginning of American slavery.",
-      "imageUrl": "https://static01.nyt.com/images/2019/09/11/podcasts/1619-album-art/1619-album-art-thumbLarge.jpg",
-      "clickUrl": "https://www.nytimes.com/column/1619-project",
-      "tags": [
-        "Listen",
-        "Slavery",
-        "History",
-        "Podcast",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "ee2c3033-97b3-45e1-9579-fea890817965",
+    "type": "learn",
+    "title": "Nation's Premier Civil Rights Organization",
+    "subtitle": "Founded February 12, 1909, the NAACP is the nation’s foremost, largest, and most widely recognized civil rights organization. Its more than half-million members and supporters throughout the United States and the world are the premier advocates for civil rights in their communities, leading grassroots campaigns for equal opportunity and conducting voter mobilization.",
+    "imageUrl": "https://www.naacp.org/wp-content/uploads/2016/03/oldest-boldest.jpg",
+    "clickUrl": "https://naacp.org/nations-premier-civil-rights-organization/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
       "type": "act",
@@ -581,39 +586,38 @@
       ],
       "priority": 10
     },
-    {
-      "id": "25907769-5c6f-4481-bcce-ea36a57208ce",
-      "type": "learn",
-      "title": "Accountability in a Time of Justice",
-      "subtitle": "Accountability is a well-worn word in social justice circles. We have worked hard to figure out what accountability means to us as we attempt to walk our social justice talk.",
-      "clickUrl": "http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/accountability.jjo.drworks.pdf",
-      "tags": [
-        "Read",
-        "Accountability",
-        "Justice",
-        "learn"
-      ],
-      "priority": 10
-    }
+   {
+    "id": "3637dc5d-b29d-4202-b37f-f3b3fc3a8208",
+    "type": "learn",
+    "title": "When the first all-black professional basketball team dominated...back in the ’20s",
+    "subtitle": "\"They were literally pioneers and recognized that they were making a statement in front of the audiences.\"",
+    "imageUrl": "https://theundefeated.com/wp-content/uploads/2017/02/ny-rens-1933-crop-original-original.jpg?w=1400",
+    "clickUrl": "https://theundefeated.com/features/when-the-first-all-black-professional-basketball-team-dominated-back-in-the-20s/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Sports",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "14": [
     {
-      "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
-      "type": "learn",
-      "title": "Just Mercy: A Story of Justice and Redemption",
-      "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.",
-      "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
-      "clickUrl": "https://justmercy.eji.org/",
-      "tags": [
-        "book",
-        "death penalty",
-        "criminal justice",
-        "prison",
-        "read",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "df8dff82-0220-492f-8550-a0f33a7358d2",
+    "type": "learn",
+    "title": "Frederick Douglass",
+    "subtitle": "Frederick Douglass was an escaped slave who became a prominent activist, author and public speaker.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Frederick_Douglass_%28circa_1879%29.jpg",
+    "clickUrl": "https://www.history.com/topics/black-history/frederick-douglass",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
       "type": "shop",
@@ -677,39 +681,39 @@
       "priority": 10
     },
     {
-      "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
-      "type": "learn",
-      "title": "Ava DuVernay's \"13th\"",
-      "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
-      "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
-      "clickUrl": "https://www.netflix.com/title/80091741",
-      "tags": [
-        "Watch",
-        "Documentary",
-        "Netflix",
-        "learn"
-      ],
-      "priority": 10
-    }
+    "id": "9b87b6de-a45c-4440-8af8-4d93f55500b4",
+    "type": "learn",
+    "title": "Remembering Henry Lewis, first Black conductor of a major symphony orchestra",
+    "subtitle": "Henry Lewis’ love and passion for music and symphony was indescribable.  ",
+    "imageUrl": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2020/02/henry-lewis.jpg",
+    "clickUrl": "https://face2faceafrica.com/article/remembering-henry-lewis-first-black-conductor-of-a-major-symphony-orchestra",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "16": [
-    {
-      "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
-      "type": "learn",
-      "title": "Seven factors that contribute to American racism",
-      "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
-      "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
-      "clickUrl": "https://news.stanford.edu/2020/06/09/seven-factors-contributing-american-racism/",
-      "tags": [
-        "Stanford",
-        "Read",
-        "Article",
-        "Racism",
-        "Steven Roberts",
-        "learn"
-      ],
-      "priority": 10
-    },
+   {
+    "id": "56c074e1-9893-41dc-8a20-72dfc50fd8a2",
+    "type": "learn",
+    "title": "Bessie Smith, The Empress of the Blues",
+    "subtitle": "She was big and brown and built high off the ground — \"a hell of a woman,\" men called her, but most women said she was \"rough.\" And while there were other blues singers in the first half of the 20th century — some who shared her surname — none could be mistaken for Bessie Smith.",
+    "imageUrl": "https://media.npr.org/assets/img/2018/01/03/bs-09571v_wide-7abd3227a2750253c5f153f1b150dc3a14f0cd8d-s1600-c85.jpg",
+    "clickUrl": "https://www.npr.org/2018/01/05/575422226/forebears-bessie-smith-the-empress-of-the-blues",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "6e0d8fe3-55da-43b3-8e2c-d822139455c0",
       "type": "act",
@@ -725,23 +729,22 @@
     }
   ],
   "17": [
-    {
-      "id": "647187d5-45eb-44dd-a1e6-0ca9c08b749a",
-      "type": "act",
-      "title": "Support our Young Protest Leaders #freetianna",
-      "subtitle": "On Tuesday, July 21, Tianna Arata was arrested by San Luis Obispo PD at about 8 p.m. near Mitchell Park as she and other demonstrators were loading up a car after the protest had already dispersed.",
-      "imageUrl": "https://assets.change.org/photos/3/rx/it/tuRXiTgHavysjWL-800x450-noPad.jpg",
-      "clickUrl": "https://www.change.org/p/slo-county-district-attorney-support-our-young-protest-leaders",
-      "tags": [
-        "Sign",
-        "Tianna",
-        "SLO",
-        "peaceful protest",
-        "police",
-        "act"
-      ],
-      "priority": 10
-    },
+   {
+    "id": "8aaec432-195a-4477-b112-49e5016825d6",
+    "type": "learn",
+    "title": "Legends profile: Michael Jordan",
+    "subtitle": "By acclamation, Michael Jordan is the greatest basketball player of all time. Although, a summary of his basketball career and influence on the game inevitably fails to do it justice, as a phenomenal athlete with a unique combination of fundamental soundness, grace, speed, power, artistry, improvisational ability and an unquenchable competitive desire, Jordan single-handedly redefined the NBA superstar.",
+    "imageUrl": "https://cdn.nba.com/manage/2020/10/michael-jordan-news-conference-2010-1-784x572.jpg",
+    "clickUrl": "https://www.nba.com/history/legends/profiles/michael-jordan",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
       "type": "shop",
@@ -794,20 +797,20 @@
   ],
   "19": [
     {
-      "id": "a7c42355-0ee1-4c64-bc54-7c44901bb0ff",
-      "type": "learn",
-      "title": "What I am learning from my white grandchildren",
-      "subtitle": "Are we in a post-racial society? Do we want to be? Anthony Peterson, an African American, draws from current research and from conversations with his Anglo American grandchildren to address truths about race in 21st century America.",
-      "imageUrl": "https://shiramiller.com/wp-content/uploads/2019/10/tedx-logo.png",
-      "clickUrl": "https://www.youtube.com/watch?v=u5GCetbP7Fg",
-      "tags": [
-        "Watch",
-        "TEDx",
-        "Anthony Peterson",
-        "learn"
-      ],
-      "priority": 10
-    },
+    "id": "8207b3c6-3a43-4fa4-af35-02445f9a8681",
+    "type": "learn",
+    "title": "Toni Morrison - Biography",
+    "subtitle": "Toni Morrison was a Nobel and Pulitzer Prize-winning American novelist. Among her best-known novels are \"The Bluest Eye,\" \"Song of Solomon,\" \"Beloved,\" and \"A Mercy.\"",
+    "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxNzMxNzQ4MzY1/toni-morrison-9415590-1-402.jpg",
+    "clickUrl": "https://www.biography.com/writer/toni-morrison",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
       "type": "shop",
@@ -856,7 +859,22 @@
         "Shop"
       ],
       "priority": 10
-    }
+    },
+    {
+    "id": "1454cf60-2fff-4e03-be76-d17fe444243e",
+    "type": "learn",
+    "title": "John Hope - Biography",
+    "subtitle": "John Hope was an important African American educator and race leader of the early twentieth century. In 1906 he became the first Black president of Morehouse College—the alma mater of Martin Luther King Jr.—in Atlanta.",
+    "imageUrl": "https://www.georgiaencyclopedia.org/sites/default/files/styles/article-top/public/m-11108.jpg?itok=cAloITp7",
+    "clickUrl": "https://www.georgiaencyclopedia.org/articles/education/john-hope-1868-1936",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "21": [
     {
@@ -877,22 +895,21 @@
       "priority": 10
     },
     {
-      "id": "65977fff-ce2a-43ae-af17-26075eeb5a8d",
-      "type": "learn",
-      "title": "Amanda Gorman Inauguration Poem ",
-      "subtitle": "Watch and read the youngest poet laureate, Amanda Gorman, recite her poem \"The Hill We Climb\"",
-      "imageUrl": "https://e3.365dm.com/21/01/768x432/skynews-amanda-gorman-poet-laureate_5244590.jpg?20210120200527",
-      "clickUrl": "https://www.latimes.com/world-nation/story/2021-01-20/watch-and-read-amanda-gormans-inauguration-day-poem",
-      "tags": [
-        "Watch",
-        "read",
-        "listen",
-        "Amanda goodman",
-        "poetry",
-        "Learn"
-      ],
-      "priority": 10
-    }
+    "id": "0eddd14b-d590-4288-9d6d-31a581edf6bf",
+    "type": "learn",
+    "title": "The Legacy of Malcom X",
+    "subtitle": "This podcast series about Malcom X El-Hajj Malik El-Shabazz brings together scholars from a variety of fields and is an invitation to connect our ideas, research projects, and activism across disciplinary divides.",
+    "imageUrl": "https://cdn-images-1.listennotes.com/podcasts/the-legacy-of-malcolm-x-jtPWnFQY2ip-JBLAxqeRD9l.1400x1400.jpg",
+    "clickUrl": "https://podcasts.apple.com/us/podcast/the-legacy-of-malcolm-x/id977188709",
+    "tags": [
+      "Black History Month",
+      "Malcom X",
+      "Biography",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  }
   ],
   "22": [
     {
@@ -922,7 +939,21 @@
         "Act"
       ],
       "priority": 0
-    }
+    },
+    {
+    "id": "68388253-b47e-4f3a-a75b-e778dadd806f",
+    "type": "learn",
+    "title": "African-American Heroism in the Military",
+    "subtitle": "Dating all the way back to the American Revolution, African-Americans have played key roles in the history (and success) of the U.S. military. Profiled below are some notable African-Americans and their achievements, as well as milestones in the integration of African-Americans in the U.S. military.",
+    "imageUrl": "https://images02.military.com/sites/default/files/styles/full/public/2018-01/african_american_military_heroes_1200x800.jpg?itok=tk5riNaW",
+    "clickUrl": "https://www.military.com/history/african-american-heroism-in-the-military",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "23": [
     {
@@ -953,7 +984,22 @@
         "Act"
       ],
       "priority": 10
-    }
+    },
+    {
+    "id": "548e6a9d-0cd5-4855-a604-adc7f122b480",
+    "type": "learn",
+    "title": "Constance Baker Motley: Judiciary’s Unsung Rights Hero",
+    "subtitle": "Constance Baker Motley was an unlikely civil rights hero. An African American who grew up near Yale University, she did not personally experience overt racism until late in high school, and as a young person she was almost totally unaware of black history.",
+    "imageUrl": "https://www.uscourts.gov/sites/default/files/styles/callout/public/motley7_opt.jpg?itok=b1FTjTKG",
+    "clickUrl": "https://www.uscourts.gov/news/2020/02/20/constance-baker-motley-judiciarys-unsung-rights-hero",
+    "tags": [
+      "Black History Month",
+      "Biography",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "24": [
     {
@@ -1037,7 +1083,21 @@
         "Shop"
       ],
       "priority": 10
-    }
+    },
+    {
+    "id": "4b91228e-670b-428d-b90b-793cecedaf3e",
+    "type": "learn",
+    "title": "Celebrating 10 African-American medical pioneers",
+    "subtitle": "These trailblazers broke barriers and shattered stereotypes — and went on to conduct research, discover treatments, and provide leadership that improved the health of millions.",
+    "imageUrl": "https://www.aamc.org/sites/default/files/d/1/6-flying-black-medics_main_imagexmain.jpg__992x558_q85_crop_subsampling-2_upscale.jpg",
+    "clickUrl": "https://www.aamc.org/news-insights/celebrating-10-african-american-medical-pioneers",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "25": [
     {
@@ -1121,27 +1181,20 @@
       "priority": 10
     },
     {
-      "id": "1443d5fc-61a8-434c-87ee-b75cc59d7fdc",
-      "type": "learn",
-      "title": "Sports Can Battle Racism Workshop",
-      "subtitle": "A workshop for coaches on how to ensure that sports is an inclusive environment for ALL athletes. ",
-      "imageUrl": "https://cdn1.sportngin.com/attachments/photo/6671/8422/pca_logo_web_large.png",
-      "clickUrl": "https://positivecoach.org/google-forms/new-sports-can-battle-racism-a-workshop-for-coaches/",
-      "moreInfo": "In this 90 minute workshop, coaches will have an interactive discussion on how to combat racial discrimination, champion moral courage and empower their programs to create positive change in their communities.",
-      "tags": [
-        "learn",
-        "Sports",
-        "workshop",
-        "coach",
-        "athlete",
-        "learn",
-        "listen",
-        "engage",
-        "positive",
-        "learn"
-      ],
-      "priority": 11
-    }
+    "id": "3d6cb2d6-4a23-49ce-98b8-04f5b03ce807",
+    "type": "learn",
+    "title": "Hiram Rhodes Revels - Biography ",
+    "subtitle": "A freeman his entire life, Hiram Rhodes Revels was the first African American to serve in the U.S. Congress. With his moderate political orientation and oratorical skills honed from years as a preacher, Revels filled a vacant seat in the United States Senate in 1870.",
+    "imageUrl": "https://historycms2.house.gov/uploadedImages/People/Listing/R/R000166.jpg",
+    "clickUrl": "https://history.house.gov/People/Listing/R/REVELS,-Hiram-Rhodes-(R000166)/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "26": [
     {
@@ -1224,51 +1277,20 @@
       ],
       "priority": 10
     },
-    {
-      "id": "74411b46-c5b6-404d-a169-cdb7c272ef28",
-      "type": "shop",
-      "title": "Princess Omalie",
-      "subtitle": "Welcome To The Wonderful World Of Princess Omalie Unlock the magic and lore of The kingdom of IgboOrai, Africa’s oldest Monarchy and greatest dynasty of kings and queens! We’ve been waiting for you!",
-      "imageUrl": "https://princessomalie.com/wp-content/uploads/2017/11/Princess-Omalie-Logo_web.png",
-      "clickUrl": "https://princessomalie.com/shop",
-      "products": [
-        {
-          "name": "Princess Omalie Doll – Gala Edition",
-          "imageUrl": "https://princessomalie.com/wp-content/uploads/2018/10/Doll-32-for-amazon.jpg",
-          "description": "Princess Omalie comes from a royal lineage of beautiful elegant women and embodies the kindness, confidence and excitement of young girls today. In this Gala Edition, she is exquisitely dressed and coiffed.",
-          "clickUrl": "https://princessomalie.com/product/princess-omalie-doll-gala-edition",
-          "shopName": "Princess Omalie"
-        },
-        {
-          "name": "Princess Omalie Doll – Coronation Edition",
-          "imageUrl": "https://princessomalie.com/wp-content/uploads/2017/11/Doll.jpg",
-          "description": "Princess Omalie comes from a royal lineage of beautiful elegant women and embodies the kindness, confidence and excitement of young girls today. In this Coronation Edition, she is exquisitely dressed and coifed in a rich, soft cape and a smooth silky costume, designed by \"Atelier de Babazongo\" – dressmakers of the Royal family. As a treat, she holds a special key as your invitation to unlock the magic of her kingdom.",
-          "clickUrl": "https://princessomalie.com/product/princess-omalie-doll",
-          "shopName": "Princess Omalie"
-        },
-        {
-          "name": "Princess Omalie, The Coronation And The Polka Dot Lamb",
-          "imageUrl": "https://princessomalie.com/wp-content/uploads/2018/11/Princess-Omalie-Book-1-cover-cropped.jpg",
-          "description": "Princess Omalie of the African kingdom of IgboOrai could be the happiest girl on the planet — except that her family has been under a curse. Unless the curse of the Goliath beetle necklace is lifted, Omalie’s father might die in a horrible freak accident. He might never be crowned king. Omalie worries about her family, and about her own safety; how will she ever lead a peaceful happy life, have friends, and go to school?",
-          "clickUrl": "https://princessomalie.com/product/princess-omalie-coronation-polka-dot-lamb-adventures-princess-omalie-volume-1-paperback",
-          "shopName": "Princess Omalie"
-        }
-      ],
-      "tags": [
-        "Hair & Headwear",
-        "Accessories",
-        "Fashion",
-        "Clothing",
-        "Tees",
-        "Basics",
-        "Childrens",
-        "Entertainment & Toys",
-        "Dolls",
-        "Books",
-        "Shop"
-      ],
-      "priority": 10
-    }
+   {
+    "id": "4683d610-c844-4a94-912d-75f386811ab8",
+    "type": "learn",
+    "title": "15th Amendment",
+    "subtitle": "The 15th Amendment granting African-American men the right to vote was adopted into the U.S. Constitution in 1870.",
+    "imageUrl": "https://emraashley.weebly.com/uploads/2/7/0/6/27069601/4754754.jpg?617",
+    "clickUrl": "https://www.history.com/topics/black-history/fifteenth-amendment",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 9
+  }
   ],
   "27": [
     {
@@ -1313,43 +1335,20 @@
       "priority": 10
     },
     {
-      "id": "c5282a86-2300-40a3-81b6-b5f4de6d4d0c",
-      "type": "shop",
-      "title": "Princess Planet",
-      "subtitle": "Princess Planet is a brand of children's entertainment that helps promote characters with diverse hair textures, skin tones, and cultural backgrounds.",
-      "imageUrl": "https://pbs.twimg.com/profile_images/830422179460308993/zUXnSynO_400x400.jpg",
-      "clickUrl": "http://www.princessplanet.com/product-category/books/",
-      "products": [
-        {
-          "name": "An Octet of Odes – Volume 1",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRG2ccdQpGo1Jf6kmE33B2ZpucBV5QVey-Qw&usqp=CAU",
-          "description": "An Octet of Odes Volume One is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
-          "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol1/",
-          "shopName": "Princess Planet"
-        },
-        {
-          "name": "An Octet of Odes – Volume 2",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKGFx0O7YoE_95GbAPce8CMQiK5DKjESXnfBDbo6tTkSWXe2Y_hmEJ7Kg6Q&usqp=CAc",
-          "description": "An Octet of Odes Volume Two is a compilation of poems that premiers eight unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun.",
-          "clickUrl": "http://www.princessplanet.com/product/anoctetofodesvol2/",
-          "shopName": "Princess Planet"
-        },
-        {
-          "name": "Princess Planet: Coloring book",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47oyYuyDroUmjSpQzfnE73i8md0TXK_ULZ4PbB2Nquzdtx7rHhuAqjJbtxL0&usqp=CAc",
-          "description": "The Princess Planet Coloring Book showcases sixteen unique characters from Princess Planet. Each character is imagined with both magic and realism. They are created in a world that is as scientific as it is colorful, adventurous, and fun. All of the princesses’ stories are rooted in the realities of geography and history. They all reflect a love of learning and an appreciation for language, diversity, and culture.",
-          "clickUrl": "http://www.princessplanet.com/product/princess-planet-coloring-book/",
-          "shopName": "Princess Planet"
-        }
-      ],
-      "tags": [
-        "Children",
-        "Entertainment & Toys",
-        "Books",
-        "Shop"
-      ],
-      "priority": 10
-    },
+    "id": "73d97a8e-4a92-4338-bbdb-623836cd5f41",
+    "type": "learn",
+    "title": "11 Black Athletes Who Made Winter Olympic History",
+    "subtitle": " Black Olympic athletes come from a long line of pioneers who made it possible for them to compete and win at the Olympics. And even though the Olympic Games have been around for centuries, there are still Black athletes who become the first to compete in their sport at the Olympics.",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2018/2/13/664041aa-11e8-4ed7-b624-d667e1843726-dvrvnv2vmaa5gon.jpg:large?w=632&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2",
+    "clickUrl": "https://www.bustle.com/p/11-black-winter-olympians-who-have-made-history-8205234",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Sports",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "01d37465-1644-47e3-97ef-024b6e0c82cd",
       "type": "shop",
@@ -1393,42 +1392,20 @@
   ],
   "28": [
     {
-      "id": "ced5eb28-32c5-474a-b2d6-49b9f2158b03",
-      "type": "shop",
-      "title": "Sweet Pea Books Inc",
-      "subtitle": "Sweet Pea Books is dedicated to producing multicultural books that expose, inspire, amuse, and foster a love of reading in all children. Sweet Pea Books aims to promote the development of good character by teaching values through literature as well as expose young readers to different cultures.",
-      "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/216788.jpg",
-      "clickUrl": "https://www.sweetpeachildrensbooks.com/store/c1/Featured_Products.html",
-      "products": [
-        {
-          "name": "D Is For Dragon Fruit (Hardcover)",
-          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/9037056_orig.jpg",
-          "description": "D is for Dragon Fruit is a vibrantly illustrated, exotic fruit alphabet book that exposes children to a variety of nutritious fruits, reinforces the alphabet and expands a child’s knowledge of the world.",
-          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p3/D_is_for_Dragon_Fruit_%28hardcover%29_%2ADomestic_Shipping_included.html",
-          "shopName": "Sweet Pea Books Inc"
-        },
-        {
-          "name": "When Mama Braids My Hair (Hardcover)",
-          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p12_i1_w611.jpeg",
-          "description": "When Mama Braids My Hair captures a young girl’s experience of having her hair braided and the bond it creates with her mother. The tradition of African hair braiding is more than just a Sunday routine. Come join Nikki on an adventure as she is transformed into an Egyptian queen, a Nigerian goddess, a Zulu warrior, and a Maasai girl.",
-          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p12/When_Mama_Braids_My_Hair_%28hardcover%29_%2ADomestic_Shipping_Included.html",
-          "shopName": "Sweet Pea Books Inc"
-        },
-        {
-          "name": "Elephants Don't Have Stripes! (COMING SOON!)",
-          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p8_i1_w612.jpeg",
-          "description": "Elephants Don’t Have Stripes! Deep in the valley, in the dry grasslands of the African savanna, a young elephant admires other animals for their beauty. He yearns to look and act more like them. One by one, each wish comes true and the young elephant couldn’t be happier.",
-          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p8/Elephants_Don%27t_Have_Stripes%21_%28COMING_SOON%21%29.html",
-          "shopName": "Sweet Pea Books Inc"
-        }
-      ],
-      "tags": [
-        "Entertainment & Toys",
-        "Books",
-        "Shop"
-      ],
-      "priority": 10
-    },
+    "id": "d5b94295-327d-4110-8fe0-16a9d5dcf6e4",
+    "type": "learn",
+    "title": "Automotive Heroes of Black History Month",
+    "subtitle": "Ever wonder what driving would be like without turn signals or traffic lights? Well, without these great inventors, engineers, scientists, and pioneers of their field, driving wouldn’t be what it is today! In celebration of Black History Month, we want to share a few of their exciting stories with you.",
+    "imageUrl": "https://blog.directauto.com/wp-content/uploads/2016/01/Heroes.png",
+    "clickUrl": "https://blog.directauto.com/odds-ends/automotive-heroes-of-black-history-month/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Inventors",
+      "Learn"
+    ],
+    "priority": 9
+  },
     {
       "id": "f0c92baa-745b-4e3b-a736-00843e39c16d",
       "type": "shop",

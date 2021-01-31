@@ -1,5 +1,423 @@
 [
   {
+    "id": "56978da4-3632-451f-a5fe-548c054abeaa",
+    "type": "learn",
+    "title": "Dr. Ernest Everett Just",
+    "subtitle": "Dr. Ernest Just was a pioneering African American biologist, academic and science writer. Just's primary legacy is his recognition of the fundamental role of the cell surface in the development of organisms.",
+    "imageUrl": "https://www.myblackhistory.net/ejust2.jpg",
+    "clickUrl": "https://www.myblackhistory.net/Ernest_Just.htm",
+    "tags": [
+      "Black History Month",
+      "Inventor",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
+    "type": "learn",
+    "title": "Negro League Baseball",
+    "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
+    "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
+    "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "869d86ee-fb69-46b1-91b7-4c14a153912d",
+    "type": "learn",
+    "title": "What If I Don't Move to the Back of the Bus?",
+    "subtitle": "Rosa Parks brought together a unique blend of life experiences, a commitment to racial justice, and a flawless reputation to transform a single act of defiance into a defining moment for the modern American civil rights movement.",
+    "imageUrl": "https://www.thehenryford.org/SitefinityImages/0x0-25b04c84-d30d-6b61-be8b-ff000073bae4.jpg",
+    "clickUrl": "https://www.thehenryford.org/explore/stories-of-innovation/what-if/rosa-parks/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Rosa Parks",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "17d5ead4-a5e7-451d-bbe1-589997366323",
+    "type": "learn",
+    "title": "Brown v. Board: Timeline of School Integration in the U.S.",
+    "subtitle": "Trace school integration from 1849 to 2007.",
+    "imageUrl": "https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2017-07/Teaching%20Tolerance_TT25_Brown%20v%20Board%20Timeline_1800px.jpg?itok=alIvwBM3",
+    "clickUrl": "https://www.tolerance.org/magazine/spring-2004/brown-v-board-timeline-of-school-integration-in-the-us",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Segregation",
+      "Education",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "37154355-fcdc-4231-a30d-43d1a22facbd",
+    "type": "learn",
+    "title": "Robert Tanner Freeman - Bytes of History",
+    "subtitle": "Robert Tanner Freeman was born in Washington DC in 1846. He was the son of slaves who had bought their freedom in the 19th century. Historical records are unclear but they probably adopted the surname Freeman in response to their transition.",
+    "imageUrl": "https://www.smilephiladelphian.com/wp-content/uploads/2015/10/freeman.jpg",
+    "clickUrl": "https://www.smilephiladelphian.com/bytes-of-history/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2d97377f-2aa1-4b47-a256-5c644ed57a08",
+    "type": "learn",
+    "title": "Carter G. Woodson - African American Trailblazers in Virginia History",
+    "subtitle": "Enjoy a six-minute podcast on the life of Carter G. Woodson who helped start the first Negro History Week.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dr._Carter_G._Woodson_%281875-1950%29%2C_Carter_G._Woodson_Home_National_Historic_Site%2C_1915._%2818f7565bf62142c0ad7fff83701ca5f6%29.jpg",
+    "clickUrl": "https://podcasts.apple.com/us/podcast/carter-g-woodson-1875-1950/id403323725?i=1000088833755",
+    "tags": [
+      "Black History Month",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ba4f0d32-fb60-4080-b77e-076159a76a41",
+    "type": "learn",
+    "title": "Oprah Winfrey's Cecil B. DeMille Award Acceptance Speech - 2018 Golden Globe Awards",
+    "subtitle": "Watch Oprah Winfrey's 2018 Golden Globe Awards acceptance speech for the Cecil B. DeMille Award.",
+    "imageUrl": "https://static01.nyt.com/images/2018/01/08/arts/08-globes-winfrey/08-globes-winfrey-superJumbo.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=TTyiq-JpM-0",
+    "tags": [
+      "Black History Month",
+      "People",
+      "Watch",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7109cb8d-f26c-4d93-bb60-344ca902468e",
+    "type": "learn",
+    "title": "Here Are the 18 African-American Astronauts",
+    "subtitle": "It was 22 years after Alan Shepard’s first space trip that the U.S. sent a person of color up.",
+    "imageUrl": "https://static01.nyt.com/images/2019/07/16/lens/16dwight-next-ast-03/16dwight-next-ast-03-superJumbo.jpg?quality=90&auto=webp",
+    "clickUrl": "https://www.nytimes.com/2019/07/16/us/african-american-astronauts.html",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "dbd194f4-c102-489f-85d2-00985f1e4d32",
+    "type": "learn",
+    "title": "Civil Rights Act - Britannica",
+    "subtitle": "Civil Rights Act, (1964), comprehensive U.S. legislation intended to end discrimination based on race, colour, religion, or national origin.",
+    "imageUrl": "https://cdn.britannica.com/s:700x500/88/136088-050-17171BF5/Pres-Lyndon-B-Johnson-others-Martin-Luther-July-2-1964.jpg",
+    "clickUrl": "https://www.britannica.com/event/Civil-Rights-Act-United-States-1964",
+    "tags": [
+      "Black History Month",
+      "Civil Rights",
+      "History",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0e6a787f-bb1c-4fb0-b714-f0ac6666dbd1",
+    "type": "learn",
+    "title": "Remembering South African leader Nelson Mandela",
+    "subtitle": "Nelson Mandela, the first black president of South Africa credited with ending apartheid there, died in Johannesburg on Dec. 5, 2013. Former PBS NewsHour correspondent Charlayne Hunter-Gault takes a look back at Mandela's life and legacy.",
+    "imageUrl": "https://www.biography.com/.image/t_share/MTY2MzU2NjgxMDUwMDM5OTk5/_photo-by-per-anders-petterssongetty-images.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=LnGeMBNS9ZA&feature=youtu.be",
+    "tags": [
+      "Black History Month",
+      "Watch",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ee2c3033-97b3-45e1-9579-fea890817965",
+    "type": "learn",
+    "title": "Nation's Premier Civil Rights Organization",
+    "subtitle": "Founded February 12, 1909, the NAACP is the nation’s foremost, largest, and most widely recognized civil rights organization. Its more than half-million members and supporters throughout the United States and the world are the premier advocates for civil rights in their communities, leading grassroots campaigns for equal opportunity and conducting voter mobilization.",
+    "imageUrl": "https://www.naacp.org/wp-content/uploads/2016/03/oldest-boldest.jpg",
+    "clickUrl": "https://naacp.org/nations-premier-civil-rights-organization/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3637dc5d-b29d-4202-b37f-f3b3fc3a8208",
+    "type": "learn",
+    "title": "When the first all-black professional basketball team dominated...back in the ’20s",
+    "subtitle": "\"They were literally pioneers and recognized that they were making a statement in front of the audiences.\"",
+    "imageUrl": "https://theundefeated.com/wp-content/uploads/2017/02/ny-rens-1933-crop-original-original.jpg?w=1400",
+    "clickUrl": "https://theundefeated.com/features/when-the-first-all-black-professional-basketball-team-dominated-back-in-the-20s/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Sports",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "df8dff82-0220-492f-8550-a0f33a7358d2",
+    "type": "learn",
+    "title": "Frederick Douglass",
+    "subtitle": "Frederick Douglass was an escaped slave who became a prominent activist, author and public speaker.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Frederick_Douglass_%28circa_1879%29.jpg",
+    "clickUrl": "https://www.history.com/topics/black-history/frederick-douglass",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "9b87b6de-a45c-4440-8af8-4d93f55500b4",
+    "type": "learn",
+    "title": "Remembering Henry Lewis, first Black conductor of a major symphony orchestra",
+    "subtitle": "Henry Lewis’ love and passion for music and symphony was indescribable.  ",
+    "imageUrl": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2020/02/henry-lewis.jpg",
+    "clickUrl": "https://face2faceafrica.com/article/remembering-henry-lewis-first-black-conductor-of-a-major-symphony-orchestra",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "56c074e1-9893-41dc-8a20-72dfc50fd8a2",
+    "type": "learn",
+    "title": "Bessie Smith, The Empress of the Blues",
+    "subtitle": "She was big and brown and built high off the ground — \"a hell of a woman,\" men called her, but most women said she was \"rough.\" And while there were other blues singers in the first half of the 20th century — some who shared her surname — none could be mistaken for Bessie Smith.",
+    "imageUrl": "https://media.npr.org/assets/img/2018/01/03/bs-09571v_wide-7abd3227a2750253c5f153f1b150dc3a14f0cd8d-s1600-c85.jpg",
+    "clickUrl": "https://www.npr.org/2018/01/05/575422226/forebears-bessie-smith-the-empress-of-the-blues",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8aaec432-195a-4477-b112-49e5016825d6",
+    "type": "learn",
+    "title": "Legends profile: Michael Jordan",
+    "subtitle": "By acclamation, Michael Jordan is the greatest basketball player of all time. Although, a summary of his basketball career and influence on the game inevitably fails to do it justice, as a phenomenal athlete with a unique combination of fundamental soundness, grace, speed, power, artistry, improvisational ability and an unquenchable competitive desire, Jordan single-handedly redefined the NBA superstar.",
+    "imageUrl": "https://cdn.nba.com/manage/2020/10/michael-jordan-news-conference-2010-1-784x572.jpg",
+    "clickUrl": "https://www.nba.com/history/legends/profiles/michael-jordan",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Listen",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8207b3c6-3a43-4fa4-af35-02445f9a8681",
+    "type": "learn",
+    "title": "Toni Morrison - Biography",
+    "subtitle": "Toni Morrison was a Nobel and Pulitzer Prize-winning American novelist. Among her best-known novels are \"The Bluest Eye,\" \"Song of Solomon,\" \"Beloved,\" and \"A Mercy.\"",
+    "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxNzMxNzQ4MzY1/toni-morrison-9415590-1-402.jpg",
+    "clickUrl": "https://www.biography.com/writer/toni-morrison",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7582615b-8690-4dd9-a97c-114b8cbf7ece",
+    "type": "learn",
+    "title": "The Pan-African Congresses, 1900-1945",
+    "subtitle": "In the nearly half century between 1900 and 1945, various political leaders and intellectuals from Europe, North America, and Africa met six times to discuss colonial control of Africa and develop strategies for eventual African political liberation.",
+    "imageUrl": "https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Pan_African_Congress_1921.jpg",
+    "clickUrl": "https://www.blackpast.org/global-african-history/perspectives-global-african-history/pan-african-congresses-1900-1945/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1454cf60-2fff-4e03-be76-d17fe444243e",
+    "type": "learn",
+    "title": "John Hope - Biography",
+    "subtitle": "John Hope was an important African American educator and race leader of the early twentieth century. In 1906 he became the first Black president of Morehouse College—the alma mater of Martin Luther King Jr.—in Atlanta.",
+    "imageUrl": "https://www.georgiaencyclopedia.org/sites/default/files/styles/article-top/public/m-11108.jpg?itok=cAloITp7",
+    "clickUrl": "https://www.georgiaencyclopedia.org/articles/education/john-hope-1868-1936",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0eddd14b-d590-4288-9d6d-31a581edf6bf",
+    "type": "learn",
+    "title": "The Legacy of Malcom X",
+    "subtitle": "This podcast series about Malcom X El-Hajj Malik El-Shabazz brings together scholars from a variety of fields and is an invitation to connect our ideas, research projects, and activism across disciplinary divides.",
+    "imageUrl": "https://cdn-images-1.listennotes.com/podcasts/the-legacy-of-malcolm-x-jtPWnFQY2ip-JBLAxqeRD9l.1400x1400.jpg",
+    "clickUrl": "https://podcasts.apple.com/us/podcast/the-legacy-of-malcolm-x/id977188709",
+    "tags": [
+      "Black History Month",
+      "Malcom X",
+      "Biography",
+      "Listen",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "68388253-b47e-4f3a-a75b-e778dadd806f",
+    "type": "learn",
+    "title": "African-American Heroism in the Military",
+    "subtitle": "Dating all the way back to the American Revolution, African-Americans have played key roles in the history (and success) of the U.S. military. Profiled below are some notable African-Americans and their achievements, as well as milestones in the integration of African-Americans in the U.S. military.",
+    "imageUrl": "https://images02.military.com/sites/default/files/styles/full/public/2018-01/african_american_military_heroes_1200x800.jpg?itok=tk5riNaW",
+    "clickUrl": "https://www.military.com/history/african-american-heroism-in-the-military",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "548e6a9d-0cd5-4855-a604-adc7f122b480",
+    "type": "learn",
+    "title": "Constance Baker Motley: Judiciary’s Unsung Rights Hero",
+    "subtitle": "Constance Baker Motley was an unlikely civil rights hero. An African American who grew up near Yale University, she did not personally experience overt racism until late in high school, and as a young person she was almost totally unaware of black history.",
+    "imageUrl": "https://www.uscourts.gov/sites/default/files/styles/callout/public/motley7_opt.jpg?itok=b1FTjTKG",
+    "clickUrl": "https://www.uscourts.gov/news/2020/02/20/constance-baker-motley-judiciarys-unsung-rights-hero",
+    "tags": [
+      "Black History Month",
+      "Biography",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4b91228e-670b-428d-b90b-793cecedaf3e",
+    "type": "learn",
+    "title": "Celebrating 10 African-American medical pioneers",
+    "subtitle": "These trailblazers broke barriers and shattered stereotypes — and went on to conduct research, discover treatments, and provide leadership that improved the health of millions.",
+    "imageUrl": "https://www.aamc.org/sites/default/files/d/1/6-flying-black-medics_main_imagexmain.jpg__992x558_q85_crop_subsampling-2_upscale.jpg",
+    "clickUrl": "https://www.aamc.org/news-insights/celebrating-10-african-american-medical-pioneers",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3d6cb2d6-4a23-49ce-98b8-04f5b03ce807",
+    "type": "learn",
+    "title": "Hiram Rhodes Revels - Biography ",
+    "subtitle": "A freeman his entire life, Hiram Rhodes Revels was the first African American to serve in the U.S. Congress. With his moderate political orientation and oratorical skills honed from years as a preacher, Revels filled a vacant seat in the United States Senate in 1870.",
+    "imageUrl": "https://historycms2.house.gov/uploadedImages/People/Listing/R/R000166.jpg",
+    "clickUrl": "https://history.house.gov/People/Listing/R/REVELS,-Hiram-Rhodes-(R000166)/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Biography",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "4683d610-c844-4a94-912d-75f386811ab8",
+    "type": "learn",
+    "title": "15th Amendment",
+    "subtitle": "The 15th Amendment granting African-American men the right to vote was adopted into the U.S. Constitution in 1870.",
+    "imageUrl": "https://emraashley.weebly.com/uploads/2/7/0/6/27069601/4754754.jpg?617",
+    "clickUrl": "https://www.history.com/topics/black-history/fifteenth-amendment",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "73d97a8e-4a92-4338-bbdb-623836cd5f41",
+    "type": "learn",
+    "title": "11 Black Athletes Who Made Winter Olympic History",
+    "subtitle": " Black Olympic athletes come from a long line of pioneers who made it possible for them to compete and win at the Olympics. And even though the Olympic Games have been around for centuries, there are still Black athletes who become the first to compete in their sport at the Olympics.",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2018/2/13/664041aa-11e8-4ed7-b624-d667e1843726-dvrvnv2vmaa5gon.jpg:large?w=632&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2",
+    "clickUrl": "https://www.bustle.com/p/11-black-winter-olympians-who-have-made-history-8205234",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Sports",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d5b94295-327d-4110-8fe0-16a9d5dcf6e4",
+    "type": "learn",
+    "title": "Automotive Heroes of Black History Month",
+    "subtitle": "Ever wonder what driving would be like without turn signals or traffic lights? Well, without these great inventors, engineers, scientists, and pioneers of their field, driving wouldn’t be what it is today! In celebration of Black History Month, we want to share a few of their exciting stories with you.",
+    "imageUrl": "https://blog.directauto.com/wp-content/uploads/2016/01/Heroes.png",
+    "clickUrl": "https://blog.directauto.com/odds-ends/automotive-heroes-of-black-history-month/",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Inventors",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "aa703401-e512-4c13-ac25-aab05a6737f8",
+    "type": "learn",
+    "title": "13th Amendment",
+    "subtitle": "The 13th Amendment to the U.S. Constitution, ratified in 1865 in the aftermath of the Civil War, abolished slavery in the United States.",
+    "imageUrl": "https://www.nbc12.com/resizer/jqWsEtBVB2mzZL_yfI1NROyk5Ek=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/7Y2ISVAHGJADZPX6OGRTW4S6NA.PNG",
+    "clickUrl": "https://www.history.com/topics/black-history/thirteenth-amendment",
+    "tags": [
+      "Black History Month",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "65977fff-ce2a-43ae-af17-26075eeb5a8d",
     "type": "learn",
     "title": "Amanda Gorman Inauguration Poem ",

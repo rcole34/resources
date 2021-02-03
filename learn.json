@@ -1,5 +1,65 @@
 [
   {
+    "id": "36c8fc98-0494-4906-aa8e-0df7dd2704e8",
+    "type": "learn",
+    "title": "How the Negro National League Was Formed | Field of Dreams...Deferred",
+    "subtitle": "The Negro National League debuted 100 years ago with world-class players and legions of fans. Hear how founder Rube Foster formed the league in Part 1 of \"Field of Dreams...Deferred,\" a four-part series from TBS.",
+    "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=BXo1zmpn_10",
+    "tags": [
+      "Black Lives Matter",
+      "Sports",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "546ffa09-5831-4307-af52-9ca56f026a47",
+    "type": "learn",
+    "title": "When the Negro Leagues Played Through the Great Depression and WWII",
+    "subtitle": "The Negro Leagues struggled financially amid systemic racism and segregation—even before the Great Depression disproportionately devastated Black America. But the game's finest days—with transcendent stars like Satchel Paige and Josh Gibson—still lay ahead.",
+    "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=GVW5Q2Osdi0",
+    "tags": [
+      "Black Lives Matter",
+      "Sports",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a9529644-22fb-42a7-813d-e9551ed2e509",
+    "type": "learn",
+    "title": "Jackie Robinson's Effect on the Negro Leagues & MLB | 'Field of Dreams...Deferred'",
+    "subtitle": "Things actually got tougher for Black baseball players after Jackie Robinson broke the color barrier, as MLB teams followed racist quotas and the Negro Leagues died out. \"Many talented Black players got phased out.\"",
+    "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=k7nMSskECZs",
+    "tags": [
+      "Black Lives Matter",
+      "Sports",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ab1b0f54-85dc-4788-8b4e-84670b308a9c",
+    "type": "learn",
+    "title": "How the Dodgers 'Took' Jackie Robinson | Field of Dreams...Deferred Part 3",
+    "subtitle": "Brooklyn Dodgers executive Branch Rickey signed Jackie Robinson from the Kansas City Monarchs in 1945, but he refused to pay Negro League teams for their players. Watch more on the fight to integrate MLB in \"Field of Dreams...Deferred\" Part 3.",
+    "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=VjGbX4PyGqU",
+    "tags": [
+      "Black Lives Matter",
+      "Sports",
+      "Watch",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "56978da4-3632-451f-a5fe-548c054abeaa",
     "type": "learn",
     "title": "Dr. Ernest Everett Just",

@@ -518,7 +518,7 @@
         "Listen",
         "Learn"
       ],
-      "priority": 10
+      "priority": 9
     },
     {
       "id": "5af300cd-0df3-4d2f-bdc7-7e7833dccdef",
@@ -778,6 +778,21 @@
   ],
   "18": [
     {
+      "id": "8207b3c6-3a43-4fa4-af35-02445f9a8681",
+      "type": "learn",
+      "title": "Toni Morrison - Biography",
+      "subtitle": "Toni Morrison was a Nobel and Pulitzer Prize-winning American novelist. Among her best-known novels are \"The Bluest Eye,\" \"Song of Solomon,\" \"Beloved,\" and \"A Mercy.\"",
+      "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxNzMxNzQ4MzY1/toni-morrison-9415590-1-402.jpg",
+      "clickUrl": "https://www.biography.com/writer/toni-morrison",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "08962702-2149-41e3-ba09-653b636525ac",
       "type": "act",
       "title": "Support the King Center",
@@ -812,16 +827,15 @@
   ],
   "19": [
     {
-      "id": "8207b3c6-3a43-4fa4-af35-02445f9a8681",
+      "id": "7582615b-8690-4dd9-a97c-114b8cbf7ece",
       "type": "learn",
-      "title": "Toni Morrison - Biography",
-      "subtitle": "Toni Morrison was a Nobel and Pulitzer Prize-winning American novelist. Among her best-known novels are \"The Bluest Eye,\" \"Song of Solomon,\" \"Beloved,\" and \"A Mercy.\"",
-      "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxNzMxNzQ4MzY1/toni-morrison-9415590-1-402.jpg",
-      "clickUrl": "https://www.biography.com/writer/toni-morrison",
+      "title": "The Pan-African Congresses, 1900-1945",
+      "subtitle": "In the nearly half century between 1900 and 1945, various political leaders and intellectuals from Europe, North America, and Africa met six times to discuss colonial control of Africa and develop strategies for eventual African political liberation.",
+      "imageUrl": "https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Pan_African_Congress_1921.jpg",
+      "clickUrl": "https://www.blackpast.org/global-african-history/perspectives-global-african-history/pan-african-congresses-1900-1945/",
       "tags": [
         "Black History Month",
         "Read",
-        "Biography",
         "Learn"
       ],
       "priority": 9
@@ -923,7 +937,7 @@
         "Listen",
         "Learn"
       ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "22": [

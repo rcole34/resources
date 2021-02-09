@@ -953,7 +953,7 @@
         "tips",
         "Act"
       ],
-      "priority": 0
+      "priority": 9
     },
     {
       "id": "68388253-b47e-4f3a-a75b-e778dadd806f",
@@ -967,7 +967,7 @@
         "Read",
         "Learn"
       ],
-      "priority": 9
+      "priority": 8
     }
   ],
   "23": [

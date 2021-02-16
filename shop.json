@@ -1,5 +1,404 @@
 [
   {
+    "id": "37565270-9c3f-491f-b3cb-6d31f83ca0c7",
+    "type": "shop",
+    "title": "AllGoudes & Services",
+    "subtitle": "Whether you have a college degree and are seeking to make your first steps onto your career path, or just looking to secure steady income by obtaining an entry level position; AllGoudes and Services makes sure that you’ll be ALLGOUDE in your job search! It’s your time! Let us help you display your worth to potential employers.",
+    "imageUrl": "https://allgoudesservices.com/wp-content/uploads/2020/07/all-goudes-and-services-logo.png",
+    "clickUrl": "https://allgoudesservices.com/services/",
+    "tags": [
+      "Services",
+      "Resume",
+      "Career",
+      "Professional",
+      "Job",
+      "Interview",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "15f701c3-5651-420f-bd92-a85a7c7a1313",
+    "type": "shop",
+    "title": "Mojo Jojo Pickles",
+    "subtitle": "Mojo Jojo Pickles was started in 2011 as a commercial venture of a Slow Food Edmonton Canning Bee project Johwanna \"Jojo\" Alleyne started in 2010. Mojo Jojo Pickles has expanded to include many creative acidified and spirited preserved foods from pickles to condiments, beverage syrups, and shrubs.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/files/wEBLogo21X_small.png?v=1610997261",
+    "clickUrl": "https://mojojojopickles.com/collections",
+    "products": [
+      {
+        "name": "Popular Pickle Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/products/image_ec583cce-5baf-44ee-84ab-18ba9138eaef_grande.jpg?v=1613151661",
+        "description": "A collection of our most popular pickles: kim chi style brussels sprout, traditional pickled carrot, pickled snow pea, and lemon balsamic asparagus.",
+        "clickUrl": "https://mojojojopickles.com/collections/best-sellers/products/popular-pickle-pack",
+        "shopName": "Mojo Jojo Pickles"
+      },
+      {
+        "name": "Brandied Saskatoon Berries",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/products/PRESERVESBrandiedSaskatoons_grande.jpg?v=1612150853",
+        "description": "Whole Alberta Saskatoons in a cane sugar and whisky syrup.  Great for breakfast, desserts and cocktails.",
+        "clickUrl": "https://mojojojopickles.com/collections/brandied-fruit/products/brandied-saskatoon-berries",
+        "shopName": "Mojo Jojo Pickles"
+      },
+      {
+        "name": "Gingerbread Apple Butter",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/products/BUTTERFGingerBread_grande.jpg?v=1612195336",
+        "description": "These fruit butters are made by slow-cooking fruit and cane sugar until it forms a thick creamy paste. We then add real vanilla and spice to enhance these flavours. Great on toast or pancakes but Divine with fine cheese.",
+        "clickUrl": "https://mojojojopickles.com/collections/jellies-and-fruit-butters/products/gingerbread-apple-butter",
+        "shopName": "Mojo Jojo Pickles"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Pickles",
+      "Canada",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "be3e5c65-74c5-4e05-9645-9c895ae509b9",
+    "type": "shop",
+    "title": "Kids Swag",
+    "subtitle": "Great action is taking place to improve diversity in books and dolls and there are a number of different vendors making it easier to find these great items. But what about everything else in your child's world? You go grocery shopping, what image is on the cute plate and cup set your child wants? You're want to encourage their creativity, what images are in their colouring books? You're throwing a birthday party, what are your options?",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1575/7605/files/Kids_Swag_Main_Logo_colour_140x@2x.png?v=1591994121",
+    "clickUrl": "https://kidsswag.ca/collections",
+    "moreInfo": "The list can go on and on. It is an unnecessarily complicated task to source and purchase everyday lifestyle products for children that have black images. These companies exist but one must be internet savvy and social media literate to find them. KIDS SWAG was launched in December 2016 to make it easy for parents to build environments that are reflective of their child's beauty.",
+    "products": [
+      {
+        "name": "Nia Ballerina Backpack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1575/7605/products/nia_backpack_with_girl_1800x1800.JPG?v=1528543135",
+        "description": "This beautifully illustrated pink rucksack is the perfect accessory for your little ballerina, which is both lightweight and practical with plenty of storage. Made from durable and water-resistant material this rucksack features a colourful design with two images of Nia Ballerina on the front.",
+        "clickUrl": "https://kidsswag.ca/collections/school-swag/products/nia-ballerina-backpack",
+        "shopName": "Kids Swag"
+      },
+      {
+        "name": "Nana Yaa",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1575/7605/products/yaa_1_1800x1800.jpg?v=1540009394",
+        "description": "Nana means Queen or King in West Africa , Ghana. The founders of Nana Dolls wanted to teach the younger generation of their history whilst also having fun. There were many strong courageous women from all over Africa who helped to fight for freedom.",
+        "clickUrl": "https://kidsswag.ca/collections/nana-dolls/products/nana-yaa",
+        "shopName": "Kids Swag"
+      },
+      {
+        "name": "Super Friends Onesie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1575/7605/products/20181110_093654_1800x1800.jpg?v=1559343221",
+        "description": "Your little Superhero featured as your favourite Superhero.",
+        "clickUrl": "https://kidsswag.ca/collections/baby-toddler/products/super-friends-onesie-girls-boys",
+        "shopName": "Kids Swag"
+      }
+    ],
+    "tags": [
+      "Entertainment & Toys",
+      "representation",
+      "black",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "5c2476fb-fbb3-47f3-9cde-8ddac684a8cf",
+    "type": "shop",
+    "title": "Brimz Official",
+    "subtitle": "The Brimz culture is a lifestyle choice, we are a community founded on a love for music, fashion and art. We celebrate diverse expression in our great city and a commitment to contributing to our community by supporting the arts. Wherever artistic expression exists, culture and progress are always by its side.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0548/3261/files/logo_626x.png?v=1556576196",
+    "clickUrl": "https://brimzofficial.com/collections",
+    "products": [
+      {
+        "name": "AJ1 Sneaker Hoodie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0548/3261/products/1-2_1920x.progressive.jpg?v=1601581511",
+        "description": "AJ1 inspired limited run",
+        "clickUrl": "https://brimzofficial.com/collections/apparel/products/aj1-sneaker-hoodie?variant=32790085959765",
+        "shopName": "Brimz Official"
+      },
+      {
+        "name": "Classic 6 Cap",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0548/3261/products/CLASSICMETRO6GOLD-_front_1920x.progressive.jpg?v=1549846970",
+        "description": "The love for Toronto a.k.a the 6 is real, and we're always repping for the home team. The 6ix cap represents Torontos unique culture and its impact on the world around it. It's alot of love when you're wearing this dad hat, full of the gritty city pride we've grown to love and embrace.",
+        "clickUrl": "https://brimzofficial.com/collections/all/products/brimz-classic-metro-6-black-black?variant=12461125402709",
+        "shopName": "Brimz Official"
+      },
+      {
+        "name": "Blessed Beanie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0548/3261/products/Blessed_beanie_orange_black_1920x.progressive.jpg?v=1547349785",
+        "description": "Stay blessed all winter long! If winter is your thing then you're truly blessed to not be bothered by the cold, but if that day does come and you need protection the blessed beanie will hold you down.",
+        "clickUrl": "https://brimzofficial.com/collections/beanies-1/products/blessed-beanie_orange_blk?variant=12692013908053",
+        "shopName": "Brimz Official"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Hair & Headwear",
+      "Clothing",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "6d640d0b-4fea-4bba-a8a7-f15645dddc65",
+    "type": "shop",
+    "title": "Seventh & Oak",
+    "subtitle": "With self care as our inspiration and sustainability at the hearth of all our products, we craft every candle by hand and with a truckload of love from our home to yours in the hopes that they bring a little more warmth and coziness to your space.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0425/3037/3793/files/so_x40@2x.png?v=1602170428",
+    "clickUrl": "https://seventhandoak.com/collections",
+    "products": [
+      {
+        "name": "Zen candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0425/3037/3793/products/Zencandle2-SeventhandOak-WellnessCollectionweb_1296x.jpg?v=1605971923",
+        "description": "When you light the Zen candle, think about how you feel when your space is consumed with good energy and positive thoughts. Burn the Zen candle when you want to cleanse your space to rid it of any negative energy and bring in all the good vibes.",
+        "clickUrl": "https://seventhandoak.com/collections/wellness-collection/products/zen",
+        "shopName": "Seventh & Oak"
+      },
+      {
+        "name": "Namaste candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0425/3037/3793/products/Namastecandle4-SeventhandOak-WellnessCollectionweb_1296x.jpg?v=1605903055",
+        "description": "Relaxing lavender beautifully balanced with sweet ylang ylang and grassy vetiver in a recyclable glass jar. Enjoy some time in bed with a good book (or a Netflix show - who's judging?) before heading to bed for your beauty sleep. Just remember to blow it out before drifting off to dreamland.",
+        "clickUrl": "https://seventhandoak.com/collections/wellness-collection/products/namaste",
+        "shopName": "Seventh & Oak"
+      },
+      {
+        "name": "Serenity candle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0425/3037/3793/products/Serenitycandle3-SeventhandOak-WellnessCollectionweb_1296x.jpg?v=1605903219",
+        "description": "Fruity but not overpowering; very bright and fresh as each note distinguishes itself. Light up Serenity when you want to freshen up your entryways, kitchens and bathrooms.",
+        "clickUrl": "https://seventhandoak.com/collections/wellness-collection/products/serenity",
+        "shopName": "Seventh & Oak"
+      }
+    ],
+    "tags": [
+      "Home & Garden",
+      "Health & Beauty",
+      "Wellness",
+      "Candles",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2cf9a173-c58b-408a-91ab-6255da908e2b",
+    "type": "shop",
+    "title": "The Get Real Movement",
+    "subtitle": "Get REAL is a Canadian non-profit that combats LGBTQ+ discrimination and promotes acceptance in schools, summer camps, and workplaces. Our merchandise helps fund our work! Every order is shipped with a piece of feedback written by real students across Canada who have participated in one of our workshops",
+    "imageUrl": "https://www.loyalty.com/images/default-source/2020-refresh_all-images/about-us/sustainability-and-inclusion/partner-logos/getreal_design_script_pink.jpg?sfvrsn=1bc2eee9_8",
+    "clickUrl": "https://wegetreal.ca/collections/shop-1",
+    "products": [
+      {
+        "name": "No Homophobia T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0890/6796/products/NoHomophobia_tshirt_black_back_14a28c6e-b40d-4fd1-b8a6-fbfe1a32fb2e_2048x2048.jpg?v=1580275285",
+        "description": "This piece is a statement. It's a statement about what we believe, what we do, and who we are.",
+        "clickUrl": "https://wegetreal.ca/collections/shop-1/products/no-homophobia-black-t-shirt",
+        "shopName": "The Get Real Movement"
+      },
+      {
+        "name": "Love is Love Tank",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0890/6796/products/Loveis_Tank_black_front_2048x2048.jpg?v=1580275271",
+        "description": "Love Is Love Is Love Is Love.",
+        "clickUrl": "https://wegetreal.ca/collections/shop-1/products/love-is-love-tank-black",
+        "shopName": "The Get Real Movement"
+      },
+      {
+        "name": "Retro Pride 2018 Tank Top",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0890/6796/products/millstreet-69_preview-2_2048x2048.jpeg?v=1529472482",
+        "description": "This is a print collaboration with artist Emily Deechaleune.",
+        "clickUrl": "https://wegetreal.ca/collections/shop-1/products/limited-edition-pride-2018-tank-top-white",
+        "shopName": "The Get Real Movement"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "30744027-d0ce-4adf-a009-18fffe46d325",
+    "type": "shop",
+    "title": "Very Puzzled",
+    "subtitle": "As a parent it can be quite challenging to find items such as books and toys that are representative of the diverse society that we live in.  It is important that children see other people that look different to themselves in the books and toys that they interact with to ensure that they appreciate their own heritage and respect the heritage and culture of others.",
+    "imageUrl": "https://verypuzzled.com/wp-content/uploads/2018/04/cropped-LOGO_1.png",
+    "clickUrl": "https://verypuzzled.com/shop/",
+    "products": [
+      {
+        "name": "100 piece Africa Map Giant Jigsaw Puzzle",
+        "imageUrl": "https://verypuzzled.com/wp-content/uploads/2017/12/BOX_b1.jpeg",
+        "description": "Puzzles are really great way for you and your extended family to bond with a child.  The very puzzled Africa Map Puzzle is definitely something that you can get stuck into that is rewarding with 100 pieces and each country on the continent of Africa is represented with a variety of landmarks, monuments and attractions it will provide endless fun and topics of discussion that can be used as fun way to learn for both children and adults.",
+        "clickUrl": "https://verypuzzled.com/product/africa-map-giant-jigsaw-puzzle/",
+        "shopName": "Very Puzzled"
+      },
+      {
+        "name": "Ethiopia colour-in t-shirt",
+        "imageUrl": "https://verypuzzled.com/wp-content/uploads/2019/10/ethiopia-1-1024x1024.png",
+        "description": "The Ethiopia colour-in t-shirt makes perfect gift for any child with a creative edge or a group activity for parties or play dates.⁠",
+        "clickUrl": "https://verypuzzled.com/product/ethiopia-colour-in-t-shirt/",
+        "shopName": "Very Puzzled"
+      },
+      {
+        "name": "Ghana Map Poster",
+        "imageUrl": "https://verypuzzled.com/wp-content/uploads/2019/06/VERY-PUZZLED_Ghana-1.jpg",
+        "description": "The Very Puzzled Ghana map poster is an A2 poster that accurately reflects the map of Ghana each region of Ghana is represented with a variety of landmarks, monuments and attractions it will provide endless fun and topics of discussion that can be used as fun way to learn for both children and adults.",
+        "clickUrl": "https://verypuzzled.com/product/ghana-map-poster/",
+        "shopName": "Very Puzzled"
+      }
+    ],
+    "tags": [
+      "Entertainment & Toys",
+      "Puzzles",
+      "Representation",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "98624ad5-0a39-4627-8be1-1e62a6fc85ee",
+    "type": "shop",
+    "title": "Blow Candle Co.",
+    "subtitle": "Blow Candle Co. is a company on a mission to support and uplift women! A grief hobby turned empowerment project, Blow is carrying on the legacy of my late brother DaVaughn, who’s lifelong duty was to help and encourage others.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/files/Full-Black-Digital_feac9cae-a2ff-4cce-836f-58c9c7df6c35_480x480.png?v=1601615289",
+    "clickUrl": "https://blowcandleco.com/collections",
+    "products": [
+      {
+        "name": "Signature Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/IMG_0041_2112x1408.jpg?v=1605417661",
+        "description": "Introducing our Signature Collection! Seven carefully curated scents to inspire, relax and delight! Our candles are made from an all natural coconut wax blend, phthalate and paraben free fragrances and eco friendly, cotton braided wicks for a clean burn.",
+        "clickUrl": "https://blowcandleco.com/collections/candles/products/signature-collection",
+        "shopName": "Blow Candle Co."
+      },
+      {
+        "name": "The Essence Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/PXL_20210130_195918770.PORTRAIT_2048x1536.jpg?v=1612503710",
+        "description": "A collection of deep and complex fragrance blends. An ode to Womxn, everywhere.",
+        "clickUrl": "https://blowcandleco.com/collections/linen-and-room-spray/products/the-essence-collection-1",
+        "shopName": "Blow Candle Co."
+      },
+      {
+        "name": "Signature Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/IMG_0165_2112x1408.jpg?v=1600833364",
+        "description": "These sweet little wax truffles last 3-5 days per piece depending on the average time of use. ",
+        "clickUrl": "https://blowcandleco.com/collections/wax-melts/products/wax-melts-signature-line",
+        "shopName": "Blow Candle Co."
+      }
+    ],
+    "tags": [
+      "Wellness",
+      "Home & Garden",
+      "Candles",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "05042a20-d751-49b7-b9f9-8e719616b947",
+    "type": "shop",
+    "title": "Smile Natural Products",
+    "subtitle": "After struggling to find an ethical, big-brand hygiene company, Founder and Chief Executive Officer Brian Mays decided to create one with Smile Natural Products.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0036/1401/5523/files/SmileBw-02.png?height=628&pad_color=fff&v=1580587157&width=1200",
+    "clickUrl": "https://feelsgoodtosmile.com/collections/all_products",
+    "products": [
+      {
+        "name": "Toothpaste Sampler Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0036/1401/5523/products/toothpaste-sampler-pack-smile-natural-products-712294_2048x2048.jpg?v=1608704464",
+        "description": "Can't choose? Try all four toothpaste flavors and find your favorite! Mint + Charcoal, Cinnamon + Clove, Vanilla + Lavender, Ginger + Turmeric",
+        "clickUrl": "https://feelsgoodtosmile.com/products/toothpaste-sampler-pack",
+        "shopName": "Smile Natural Products"
+      },
+      {
+        "name": "Relax Body Duo",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0036/1401/5523/products/relax-body-duo-body-care-smile-natural-products-359510_480x480.jpg?v=1608704228",
+        "description": "Cleanse and moisturize with a Large Relax Black Soap Body Wash (16oz) and Large Relax Body Butter (8oz).",
+        "clickUrl": "https://feelsgoodtosmile.com/products/relax-body-duo",
+        "shopName": "Smile Natural Products"
+      },
+      {
+        "name": "Lavender Essential Oil",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0036/1401/5523/products/lavender-essential-oil-smile-natural-products-766940_2048x2048.jpg?v=1608704308",
+        "description": "Bulgarian Lavender Essential Oil is a common favorite in aromatherapy use. Lavender is well known for its calming properties, as well as being the most versatile essential oil out there.",
+        "clickUrl": "https://feelsgoodtosmile.com/products/lavender-essential-oil",
+        "shopName": "Smile Natural Products"
+      }
+    ],
+    "tags": [
+      "Health & Beauty",
+      "Wellness",
+      "Oral",
+      "Toothbrush",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8f34f995-eb1d-4801-9996-f64304d627b5",
+    "type": "shop",
+    "title": "Eb + Flo Boutique",
+    "subtitle": "Eb and Flo started out as just a vision and manifested in 2020. Our CEO, Ebony Hunter, is a strong believer in living out your dreams while not only looking good but feeling good too. Our mission is to provide styles that flow with you from moment to moment, whether you’re making a quick run to the grocery store or meeting the girls for brunch. With comfort and quality in mind, we make looking lavish easy. Look good, feel good.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/files/A9C8E1EF-B6DF-40DA-8659-2F42DD081D8B_220x.png?v=1594698813",
+    "clickUrl": "https://shopebandflo.com/collections",
+    "products": [
+      {
+        "name": "Effortless Cotton Joggers",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_c2f8f441-ac68-4667-8b4e-1256ad0b6d0d_1800x1800.jpg?v=1606157427",
+        "description": "The perfect cozy essential to keep you warm through the colder months and beyond. Super soft inner lining, thick material (no see-through over here!) plus it has deep pockets.  Deep enough to hold huge stacks of money or an iPhone",
+        "clickUrl": "https://shopebandflo.com/collections/bae-sics/products/effortless-cotton-joggers",
+        "shopName": "Eb + Flo Boutique"
+      },
+      {
+        "name": "Tedy Soft Sherpa Jacket",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_cde136ac-71c9-4d3f-b742-1d713a682a56_1800x1800.jpg?v=1606263389",
+        "description": "The warmest and most comfortable jacket you'll ever own! The Teddy Sherpa Jacket feels like a warm hug or like you're wearing a blanket. Features a drawstring hem that allows you to snatch that waist hunny *snap*snap*",
+        "clickUrl": "https://shopebandflo.com/collections/outerwear/products/teddy-sherpa-jacket",
+        "shopName": "Eb + Flo Boutique"
+      },
+      {
+        "name": "\"Thou shall not try me\" T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_7010f5e4-0b52-4909-b9c5-a31e4281055f_1800x1800.jpg?v=1599771205",
+        "description": "Mood 24:7! Let the folks know the deal in this super soft tee.",
+        "clickUrl": "https://shopebandflo.com/collections/graphic-tees/products/thou-shall-not-try-me-t-shirt-black",
+        "shopName": "Eb + Flo Boutique"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "46070b68-e03a-4777-ac34-ef7b813bbb10",
+    "type": "shop",
+    "title": "Ruth Nathan's",
+    "subtitle": "It is Nicole R. Brown's desire that Ruth Nathan’s does not only make customers look spectacular but feel spectacular as well, positively influencing them to feel better about themselves. It is a known fact that when one dresses well, one feels better—and from an outfit that is well put together, that makes one walk with pride, the Urban Peacock emerges.",
+    "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/11/Urban-Peacock.jpg",
+    "clickUrl": "https://ruthnathans.com/shop/",
+    "products": [
+      {
+        "name": "Blue Curved Mask",
+        "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/06/MC010-front.jpg",
+        "description": "Still want to look dapper while protecting yourself and others? We have the answer! Reusable and re-washable, these fabric masks will keep you looking good and doing good. When you buy a curved face mask from Ruth Nathan’s we donate a rectangular face mask to health care professionals and essential workers in need.",
+        "clickUrl": "https://ruthnathans.com/product/blue-curved-mask/",
+        "shopName": "Ruth Nathan's"
+      },
+      {
+        "name": "Franc Bleu Bow Tie",
+        "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/05/2-franc-bleu-tied.jpg",
+        "description": "The deep older brother of the Franc Un pattern, the Franc Bleu’s watercolor pen lines convey elegance and a truly historic sense of style. Also inspired by French Polynesian currency, the Franc Bleu carries notes of art deco, dancing under the stars, and midnight.",
+        "clickUrl": "https://ruthnathans.com/product/franc-bleu-diamond-pt-bow-tie/",
+        "shopName": "Ruth Nathan's"
+      },
+      {
+        "name": "Franc Un Pocket Square",
+        "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/05/Franc-Un-outside.jpg",
+        "description": "Inspired by French Polynesian currency, the Franc Un pattern gives off a refined yet playful vibe sure to elevate your look during formal occasions. Perfect for when you want to be taken seriously—but not too seriously. Notes of Art Deco, French Quarter jazz, and pistachios.",
+        "clickUrl": "https://ruthnathans.com/product/franc-un-pocket-square/",
+        "shopName": "Ruth Nathan's"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Masks",
+      "Style",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "4bed42f4-d9c7-4a70-9de5-a286f2851ea3",
     "type": "shop",
     "title": "Diarrablu",

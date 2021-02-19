@@ -1,5 +1,353 @@
 [
   {
+    "id": "187715d1-87c5-400c-84a9-69cfd422d353",
+    "type": "shop",
+    "title": "Be A Good Person",
+    "subtitle": "Instead of supporting the current trends of negativity, our #1 goal is to remind us all to approach our days with an optimistic, positive, and refreshed outlook. We believe that positive change truly starts with within ourselves, one person at a time.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1348742282682400770/1JBqOOAM_400x400.jpg",
+    "clickUrl": "https://www.beagoodperson.com/collections",
+    "products": [
+      {
+        "name": "Black Color Spectrum Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0910/7762/products/DSC05183-Edit-s-1x1_1600x.jpg?v=1595212889",
+        "description": "Fashion fit, soft feel. Water based ink screen print. BAGP hem tag. Straight cut bottom",
+        "clickUrl": "https://www.beagoodperson.com/collections/color-spectrum/products/black-color-spectrum-shirt-unisex",
+        "shopName": "Be A Good Person"
+      },
+      {
+        "name": "Reflective Core Bodysuit",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0910/7762/products/DSC04477-2-s_1600x.jpg?v=1599257917",
+        "description": "One Piece bodysuit but versatile enough to be utilized as a swimsuit.",
+        "clickUrl": "https://www.beagoodperson.com/collections/bodysuits/products/reflective-bodysuit",
+        "shopName": "Be A Good Person"
+      },
+      {
+        "name": "Cardinal Snapback Hat",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0910/7762/products/DSC07405_1600x.jpg?v=1601666551",
+        "description": "Cardinal Snapback BE A GOOD PERSON Hat",
+        "clickUrl": "https://www.beagoodperson.com/collections/hats-1/products/cardinal-snapback-hat",
+        "shopName": "Be A Good Person"
+      }
+    ],
+    "tags": [
+      "Fashion",
+      "Clothing",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "45207ffb-372b-4820-ae5c-ce20102a0051",
+    "type": "shop",
+    "title": "Gifts for the Spirit",
+    "subtitle": "An independently run, spiritually driven, boutique for the soul",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/t/4/assets/Gold_Logo_for_Email_Signature_2-edit.jpg?v=8006305871313580162",
+    "clickUrl": "https://giftsforthespirit.com/collections",
+    "products": [
+      {
+        "name": "Melanated Classic Tarot",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/MelanatedTarot-8658_hi-res_800x.jpg?v=1592696439",
+        "description": "Various races and nationalities practice tarot for healing and education, but it's hard to heal and learn with tools that don't represent you. This deck is a solution to that problem.",
+        "clickUrl": "https://giftsforthespirit.com/collections/all-products/products/melanated-classic-tarot",
+        "shopName": "Gifts for the Spirit"
+      },
+      {
+        "name": "Bel Meditation Candle Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/BELby3rdRitual_800x.jpg?v=1591906210",
+        "description": "The BEL uses fire, gravity, and sound to measure time. When the candle is lit, wax melts and eventually a pin falls, landing with a resonant ding - a beautiful way to end your meditation.",
+        "clickUrl": "https://giftsforthespirit.com/collections/all-products/products/bel-meditation-candle-set",
+        "shopName": "Gifts for the Spirit"
+      },
+      {
+        "name": "Small Garnierite Palm Stone",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/SmallMoonPalmStones-0277_hi-res-edit_800x.jpg?v=1612223509",
+        "description": "Known as the stone of the Goddess Gaia, GARNIERITE (also called Green Moonstone), is a rare form of Moonstone used for emotional healing, balance, and freedom.",
+        "clickUrl": "https://giftsforthespirit.com/collections/crystals/products/small-green-moonstone-palm-stone",
+        "shopName": "Gifts for the Spirit"
+      }
+    ],
+    "tags": [
+      "Home & Garden",
+      "Rocks",
+      "Spiritual",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "eb26e70c-0408-4785-bb78-9f4a87b371b0",
+    "type": "shop",
+    "title": "Olamina Botanicals",
+    "subtitle": "We are a Black femme-owned apothecary crafting tinctures, teas, syrups and salves in unceded Lenni Lenape territory. Our mission is to help people ground into their own innate power as healers, draw strength from the plant world—and act on behalf of the planet.",
+    "imageUrl": "https://static1.squarespace.com/static/592377c2893fc0ac91b9bf40/t/5f9a0dea50b92707a1f51d32/1611683835210/?format=1500w",
+    "clickUrl": "https://www.olaminabotanicals.com/shop",
+    "products": [
+      {
+        "name": "Fire Cider - Immune Tonic",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1607395076810-V3LUCX99O1ZQOUMZ7XCJ/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/prod_FireCider.jpg?format=1500w",
+        "description": "Fire Cider is a spicy, garlicky, alcohol-free folk immunity remedy that can be taken daily to ward off the sniffles.",
+        "clickUrl": "https://www.olaminabotanicals.com/shop/fire-cider",
+        "shopName": "Olamina Botanicals"
+      },
+      {
+        "name": "Sore Throat Spray",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1607395115901-P1XAJD93NFWJFT074X9C/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/prod_ThroatSpray.jpg?format=1500w",
+        "description": "Tingle and tickle the microorganisms responsible for your sore throat into oblivion with our Sore Throat Spray.",
+        "clickUrl": "https://www.olaminabotanicals.com/shop/sore-throat-spray",
+        "shopName": "Olamina Botanicals"
+      },
+      {
+        "name": "Sweet Dreams - Sleep Tonic",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1600897961527-Y7GJMXXUHR5SYPAFJ6IT/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/AF_OLMNA_200830_prod_SweDre.jpg?format=1500w",
+        "description": "Formulated to help one ease into peaceful slumber, Sweet Dreams features reputed nervine Hops, a sedative that induces deep sleep without headache or groggy feeling upon waking.",
+        "clickUrl": "https://www.olaminabotanicals.com/shop/sweet-dreams",
+        "shopName": "Olamina Botanicals"
+      }
+    ],
+    "tags": [
+      "Home & Garden",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "175c5d65-77f0-4836-9982-626aa6b20540",
+    "type": "shop",
+    "title": "The Right Spice Company",
+    "subtitle": "We believe that food is everything. Food is a basic human need. Food is a means of communication and expression. Food is art and food is science. Food is an instrument of fellowship and the language of love. We take our food seriously, which is why we season it. Pick up something from The Shop today, and start taking your food seriously too.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/files/TRSC_logo_outlines_BLK_large_48de5236-9098-4af0-850b-beb661ad9555_330x.jpg?v=1568835413",
+    "clickUrl": "https://rightspiceco.com/collections/all",
+    "products": [
+      {
+        "name": "The Bird",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Bird_1080x.jpg?v=1610076494",
+        "description": "The Bird is an earthy, savory spice blend that adds the perfect element to protein-forward dishes!",
+        "clickUrl": "https://rightspiceco.com/products/the-bird",
+        "shopName": "The Right Spice Company"
+      },
+      {
+        "name": "The Safety",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Safety_1080x.jpg?v=1610076388",
+        "description": "The Safety is a bold, spicy blend that you can rely on to add character to almost any savory dish.",
+        "clickUrl": "https://rightspiceco.com/products/the-safety",
+        "shopName": "The Right Spice Company"
+      },
+      {
+        "name": "The Mother-In-Law",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/MIL_1080x.jpg?v=1610076412",
+        "description": "Created and named for Wanda, the late mother-in-law of one of our founders, The Mother-In-Law is a more floral, less spicy version of The Safety - because it was too spicy to Wanda for everyday use.",
+        "clickUrl": "https://rightspiceco.com/products/the-mother-in-law",
+        "shopName": "The Right Spice Company"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a76da44d-4710-4f8d-b5bd-0aaafe0859e3",
+    "type": "shop",
+    "title": "Bossa Bars",
+    "subtitle": "Energy bars formulated for women perimenopause to post to help support daily nutritional needs and keep that sneaky extra 10 pounds under control!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0476/4018/2940/files/BOSSABarsLogo800_130x@2x.png?v=1605885477",
+    "clickUrl": "https://bossabars.com",
+    "tags": [
+      "Food & Beverage",
+      "Wellness",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "239007a0-9d8c-4ac1-bf5b-e0ceed76827c",
+    "type": "shop",
+    "title": "Golde",
+    "subtitle": "We're on a mission to make wellness easy, accessible and fun for all. To us, self-care means feeling like your best self. We believe that being well should feel good. That means products that fit seamlessly into your lifestyle, not the other way around.",
+    "imageUrl": "https://www.thenilelist.com/storage/app/logos/1589053816BlackOwnedBusiness-GOLDE-logo.jpg",
+    "clickUrl": "https://golde.co/collections/all",
+    "products": [
+      {
+        "name": "Pure Matcha",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1217/2268/products/PureMatcha40_Front_IKH04739_1800x.jpg?v=1607447022",
+        "description": "Enjoy the ultimate green superfood in its purest form: matcha, made with 100% pure, shade-grown green tea leaves from Uji, Japan.",
+        "clickUrl": "https://golde.co/collections/all/products/new-pure-matcha",
+        "shopName": "Golde"
+      },
+      {
+        "name": "Papaya Bright Face Mask",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1217/2268/products/Allure_SuperfoodFaceMask_LucumaBright_Front_IKH04362_1800x.jpg?v=1606256263",
+        "description": "This brightening mask is made with 100% pure, edible superfoods. Featuring superfruits like lucuma, papaya, and sea buckthorn berry, it's packed with vitamin C and smells like a tropical vacation.",
+        "clickUrl": "https://golde.co/collections/all/products/lucuma-bright-instant-exfoliating-face-mask",
+        "shopName": "Golde"
+      },
+      {
+        "name": "Skin Hydration Ade",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1217/2268/products/SkinHydrationAde_IKH04952_1800x.jpg?v=1611617800",
+        "description": "Sip + glow to support skin hydration with the power of superfoods.",
+        "clickUrl": "https://golde.co/collections/all/products/watermelon-skin-hydration-ade",
+        "shopName": "Golde"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Wellness",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "764bdc8e-b888-404a-9982-eddc75ebee46",
+    "type": "shop",
+    "title": "Corner 103",
+    "subtitle": "Corner 103 has a reputation for making world class wines, and is committed to exceeding expectations.",
+    "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Corner103_Logo_Fullcolor-XL0-82ac45215056b3a_82ac481f-5056-b3a8-49e5b9ce6da7d000.jpg",
+    "clickUrl": "https://www.corner103.com/shop/current-releases/",
+    "products": [
+      {
+        "name": "NV Sparkling Rosé",
+        "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_sparklingros2019-1586283583976.jpg",
+        "description": "This Gold Medal winning wine was made in the classic French style using traditional grapes; making it non-vintage; and using the methode champenoise process which requires a secondary fermentation in the bottle.",
+        "clickUrl": "https://www.corner103.com/product/nv-sparkling-ros-duplicate",
+        "shopName": "Corner 103"
+      },
+      {
+        "name": "2018 Chardonnay, Sonoma Carneros",
+        "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_chadonnay_sonomacarneros_2018-1574992631306.jpg",
+        "description": "Our 2018 Chardonnay was crafted from a low-yielding vineyard in the Carneros AVA that consistently produces some of the region's best Chardonnay grapes.",
+        "clickUrl": "https://www.corner103.com/product/2018-chardonnay",
+        "shopName": "Corner 103"
+      },
+      {
+        "name": "2017 Grenache, Alexander Valley",
+        "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_grenache_2017-1595361010496.jpg",
+        "description": "Our 2017 Grenache is a balanced wine crafted from an amazing low yielding vineyard in the Alexander Valley that consistently delivers excellent fruit flavors and silky tannins.",
+        "clickUrl": "https://www.corner103.com/product/2017-grenache-alexander-valley",
+        "shopName": "Corner 103"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Wine",
+      "Alcohol",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f1df4a30-8fea-401d-9387-b24c7b0c2e60",
+    "type": "shop",
+    "title": "Adwoa Beauty",
+    "subtitle": "Adwoa beauty is a modern, non toxic, gender neutral beauty brand catering to multi-cultural hair textures. Buying hair products is a choice, not a command. We empathize with your experience in using tons of products that failed to deliver the results. We've created a highly effective collection of products with ingredients that are concentrated, working with nature and science to bring you immediate results. We are committed to being transparent with our ingredients.",
+    "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHzoCNoSshdag/company-logo_200_200/0/1580518602692?e=2159024400&v=beta&t=_OkCPj-X6ZlbhK20o8y-74TsZGHt2JptjbG7OkGe6Yw",
+    "clickUrl": "https://www.adwoabeauty.com/collections/all-products",
+    "products": [
+      {
+        "name": "baomint moisturizing curl defining cream",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0005/7989/5355/products/adwoa_Cream_2k_1600x.jpg?v=1587394761",
+        "description": "it’s your lucky day! our baomint moisturizing curl defining cream will be your new favorite styler. imagine a thick + creamy + rich cream that will leave your strands shiny, silky, and smooth just the way you like it.",
+        "clickUrl": "https://www.adwoabeauty.com/collections/all-products/products/baomint-moisturizing-curl-defining-cream",
+        "shopName": "Adwoa Beauty"
+      },
+      {
+        "name": "baomint protect + shine oil blend",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0005/7989/5355/products/adwoa_Oil_2k_1600x.jpg?v=1595972202",
+        "description": "this eclectic mix of 15+ natural oils work together in balanced proportions to aid growth and add shine + strength to your hair. we’ve selected high-quality oils for absorption into the hair strands to penetrate from the inside out",
+        "clickUrl": "https://www.adwoabeauty.com/collections/all-products/products/baomint-protect-shine-oil-blend",
+        "shopName": "Adwoa Beauty"
+      },
+      {
+        "name": "be kinky sweatshirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0005/7989/5355/products/IMG_3509_1600x.jpg?v=1519686164",
+        "description": "our very soft \"be kinky\" sweatshirt is a classic with our logo on the back.",
+        "clickUrl": "https://www.adwoabeauty.com/collections/all-products/products/bekinkysweatshirt",
+        "shopName": "Adwoa Beauty"
+      }
+    ],
+    "tags": [
+      "Health & Beauty",
+      "Hair & Headwear",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "188e2758-f884-4ca5-ab2a-c2ffebeb47ad",
+    "type": "shop",
+    "title": "Iltopia Studios",
+    "subtitle": "Iltopia Studios is a small creative studio based in Portland, Oregon. Our objective is simple: make comics and cartoons that open doors to more understanding. Iltopia Studios is dedicated to producing engaging content to our customers at a high quality and a variety of price points. Founded by creator Steven Christian. His goal is to create quirky adventure stories about the Black experience in America that entertains, empowers, and educates. We make cartoons and comics with emerging technology to provide unique and immersive storytelling experiences.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0268/1428/3950/files/iltopia_logo_square_w_name_small_11140946-f0c3-48b6-a341-3e24d2b62045_180x.jpg?v=1602117317",
+    "clickUrl": "https://shop.iltopia.com/",
+    "products": [
+      {
+        "name": "Cutie Catcher Pack #1",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/1428/3950/products/Cutie-Catcher-1_940x.jpg?v=1602110249",
+        "description": "This Sticker Pack is collections handcrafted stickers by artist Steven Christian. The designs are based on cartoon and comic Eyelnd Feevr.  All sticker are 4” tall, hand cut, and hand laminated. They are great for placing on laptops, skateboards, water bottles, etc. With all the available designs, there is no limit to where you can place them!",
+        "clickUrl": "https://shop.iltopia.com/products/cutie-catcher-pack-1",
+        "shopName": "Iltopia Studios"
+      },
+      {
+        "name": "Black Superheroes Matter Artbook",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/1428/3950/products/art-book-cover-half-b_940x.jpg?v=1602110231",
+        "description": "Black Superheroes Matter Artbook is the original illustration series by Steven Christian aimed at redefining popular superheroes through the eyes of black children. The book includes 110 full color illustrations ranging from anime to Power Rangers. This quirky collection of illustrations is guaranteed to empower and inspire you to redefine you own heroes in your image. Each book is handmade, numbered, and signed by artist Steven Christian.",
+        "clickUrl": "https://shop.iltopia.com/products/black-superheroes-matter-artbook",
+        "shopName": "Iltopia Studios"
+      },
+      {
+        "name": "Eyelnd Feevr Season 1: Big City, Small Dreemz",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/1428/3950/products/season-1-mockup-1_940x.jpg?v=1602110210",
+        "description": "Big City, Small Dreemz is the first Season in the Eyelnd Feevr Webseries. It introduces us to Roscoe Thomason an intelligent, precocious and rebellious 9-year-old. He explores one of his wildest dreams with his best friend Thomas \"T.J.\" Jenkins. As they try to find the true meaning, one must wonder if this is figment of Roscoe's wild imagination or a foreshadowing of what is to come.",
+        "clickUrl": "https://shop.iltopia.com/collections/all-books-comics-amp-graphic-novels/products/eyelnd-feevr-season-1-big-city-small-dreemz?variant=32446515544238",
+        "shopName": "Iltopia Studios"
+      }
+    ],
+    "tags": [
+      "Entertainment & Toys",
+      "Comics",
+      "Cartoons",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "2d85e822-e579-47d6-9149-a9fb63900cd7",
+    "type": "shop",
+    "title": "Brown Toy Box",
+    "subtitle": "Our mission is to normalize Black excellence and create prosperous career pathways for Black children through STEAM education, cultural representation and educational play.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1321147628189601792/jvMiBioU.jpg",
+    "clickUrl": "https://www.browntoybox.com/shop/all/",
+    "products": [
+      {
+        "name": "My Little Builder: Toddlers Learn about Tools and Fix and Build Things",
+        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/aa786b55cce74fa9a371d05bca6fa94f.jpeg",
+        "description": "This beautifully illustrated picture book teaches kids all about tools, how to fix things when they are broken and which tools to use for each problem. An adorable toddler loves to help his Dad fix stuff around the house so much so that he keeps finding things that are broken and need to be fixed.",
+        "clickUrl": "https://www.browntoybox.com/shop/product/2348136647",
+        "shopName": "Brown Toy Box"
+      },
+      {
+        "name": "Sasha Savvy Loves to Code",
+        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/c614d7e0d23e4d40b70adca08ceac99e.jpeg",
+        "description": "Sasha Savvy Loves to Code is an early reader chapter book (ages 7-10). The main character, Sasha Savvy, is a super smart 10-year old African-American girl, who lives in Washington, DC. Sasha must choose which class to take for summer camp. Her mom discovers that the camp is offering a new class for girls on how to code.",
+        "clickUrl": "https://www.browntoybox.com/shop/product/2369432504",
+        "shopName": "Brown Toy Box"
+      },
+      {
+        "name": "Oscar's Marine Biology Memory Game",
+        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/a481be47ed3547a0946b1545d6b4b69a.png",
+        "description": "Test your animal knowledge with Oscar! Explore new water habitats and learn fun facts about animals!",
+        "clickUrl": "https://www.browntoybox.com/shop/product/3334545385",
+        "shopName": "Brown Toy Box"
+      }
+    ],
+    "tags": [
+      "Entertainment & Toys",
+      "Education",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "37565270-9c3f-491f-b3cb-6d31f83ca0c7",
     "type": "shop",
     "title": "AllGoudes & Services",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "b085cfad-23d1-4c77-9217-4962b09a1508",
+    "type": "learn",
+    "title": "How Negro History Week Became Black History Month and Why It Matters Now",
+    "subtitle": "Black History Month has been celebrated in the United States for close to 100 years. But what is it, exactly, and how did it begin?",
+    "imageUrl": "https://static01.nyt.com/newsgraphics/2021/02/17/black-history-timeline/c48c92e5dc64848822732b18425db1b6923cb708/cover.jpg",
+    "clickUrl": "https://www.nytimes.com/interactive/2021/us/history-of-black-history-month.html",
+    "tags": [
+      "Black History Month",
+      "Learn",
+      "Black History",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "36c8fc98-0494-4906-aa8e-0df7dd2704e8",
     "type": "learn",
     "title": "How the Negro National League Was Formed | Field of Dreams...Deferred",

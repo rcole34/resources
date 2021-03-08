@@ -436,32 +436,34 @@
   ],
   "8": [
     {
-      "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
-      "type": "act",
-      "title": "NAACP Legal Defense and Education Fund",
-      "subtitle": "Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans. LDF also defends the gains and protections won over the past 75 years of civil rights struggle and works to improve the quality and diversity of judicial and executive appointments.",
-      "imageUrl": "https://www.naacpldf.org/wp-content/uploads/ldf-logo.jpg",
-      "clickUrl": "https://www.naacpldf.org/",
+      "id": "375a755e-3391-44b5-bd8a-45d7f0fca6f6",
+      "type": "learn",
+      "title": "TGEU International Women’s Day - Inclusivity Media Statement",
+      "subtitle": "On the occasion of the International Women’s Day (IWD) on 8 March, TGEU joins the voices of trans people around the world in denouncing oppression, violence, and hate against women and non-binary people in all spheres of life.",
+      "imageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUmsMMuv-2xl1IYN_7cbLG-J2pPBbAJsPAsDHq=s900-c-k-c0x00ffffff-no-rj",
+      "clickUrl": "https://tgeu.org/international-womens-day-2020/",
       "tags": [
-        "NAACP",
-        "LDF",
-        "nonprofit",
-        "Donate",
-        "Act"
+        "Women’s rights",
+        "trans",
+        "non-binary",
+        "read",
+        "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
+      "id": "0647719e-34f5-4fef-acbf-f39a1085482f",
       "type": "learn",
-      "title": "Negro League Baseball",
-      "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
-      "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
-      "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
+      "title": "#ChooseToChallenge - International Women's Day",
+      "subtitle": "A challenged world is an alert world. Individually, we're all responsible for our own thoughts and actions - all day, every day. We can all choose to challenge and call out gender bias and inequality. We can all choose to seek out and celebrate women's achievements. Collectively, we can all help create an inclusive world. From challenge comes change, so let's all choose to challenge.",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/internationalwomensday/upload/1234514449-33209.jpg",
+      "clickUrl": "https://www.internationalwomensday.com/Theme",
+      "moreInfo": "A challenged world is an alert world and from challenge comes change.bSo let's all choose to challenge. How will you help forge a gender equal world? Celebrate women's achievement. Raise awareness against bias. Take action for equality",
       "tags": [
-        "Black History Month",
-        "Read",
-        "Watch",
+        "Women’s rights",
+        "trans rights",
+        "non-binary rights",
+        "read",
         "Learn"
       ],
       "priority": 10

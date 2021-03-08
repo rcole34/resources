@@ -1,5 +1,38 @@
 [
   {
+    "id": "375a755e-3391-44b5-bd8a-45d7f0fca6f6",
+    "type": "learn",
+    "title": "TGEU International Women’s Day - Inclusivity Media Statement",
+    "subtitle": "On the occasion of the International Women’s Day (IWD) on 8 March, TGEU joins the voices of trans people around the world in denouncing oppression, violence, and hate against women and non-binary people in all spheres of life.",
+    "imageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUmsMMuv-2xl1IYN_7cbLG-J2pPBbAJsPAsDHq=s900-c-k-c0x00ffffff-no-rj",
+    "clickUrl": "https://tgeu.org/international-womens-day-2020/",
+    "tags": [
+      "Women’s rights",
+      "trans",
+      "non-binary",
+      "read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0647719e-34f5-4fef-acbf-f39a1085482f",
+    "type": "learn",
+    "title": "#ChooseToChallenge - International Women's Day",
+    "subtitle": "A challenged world is an alert world. Individually, we're all responsible for our own thoughts and actions - all day, every day. We can all choose to challenge and call out gender bias and inequality. We can all choose to seek out and celebrate women's achievements. Collectively, we can all help create an inclusive world. From challenge comes change, so let's all choose to challenge.",
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/internationalwomensday/upload/1234514449-33209.jpg",
+    "clickUrl": "https://www.internationalwomensday.com/Theme",
+    "moreInfo": "A challenged world is an alert world and from challenge comes change.bSo let's all choose to challenge. How will you help forge a gender equal world? Celebrate women's achievement. Raise awareness against bias. Take action for equality",
+    "tags": [
+      "Women’s rights",
+      "trans rights",
+      "non-binary rights",
+      "read",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b085cfad-23d1-4c77-9217-4962b09a1508",
     "type": "learn",
     "title": "How Negro History Week Became Black History Month and Why It Matters Now",

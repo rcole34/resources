@@ -530,6 +530,22 @@
   ],
   "10": [
     {
+      "id": "d7b93038-1300-4c64-8711-305e2aed5ba9",
+      "type": "learn",
+      "title": "Harriet Tubman - Biography",
+      "subtitle": "Harriet Tubman was an escaped enslaved woman who became a \"conductor\" on the Underground Railroad, leading enslaved people to freedom before the Civil War, all while carrying a bounty on her head. But she was also a nurse, a Union spy and a women’s suffrage supporter.",
+      "imageUrl": "https://cropper.watch.aetnd.com/images.history.com/images/media/video/history_america_story_of_us_harriet_tubman_and_the_underground_railroad_sf_1157660/History_America_Story_of_Us_Harriet_Tubman_and_The_Underground_Railroad_SF_still_624x352.jpg?w=1440",
+      "clickUrl": "https://www.history.com/topics/black-history/harriet-tubman",
+      "tags": [
+        "Read",
+        "Harriet Tubman",
+        "Civil War",
+        "Underground Railroad",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "5981f25a-904d-46bf-87d4-7beb43f8f438",
       "type": "learn",
       "title": "How we can make racism a solvable problem --- and improve policing",

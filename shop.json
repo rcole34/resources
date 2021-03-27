@@ -375,7 +375,7 @@
     "products": [
       {
         "name": "Popular Pickle Pack",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/products/image_ec583cce-5baf-44ee-84ab-18ba9138eaef_grande.jpg?v=1613151661",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1161/2952/products/image_23e910cb-7546-4c5a-be34-879fc265c82a_grande.jpg?v=1614042495",
         "description": "A collection of our most popular pickles: kim chi style brussels sprout, traditional pickled carrot, pickled snow pea, and lemon balsamic asparagus.",
         "clickUrl": "https://mojojojopickles.com/collections/best-sellers/products/popular-pickle-pack",
         "shopName": "Mojo Jojo Pickles"
@@ -908,21 +908,21 @@
     "products": [
       {
         "name": "Body Care Set 1 - Normal Skin",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/Set-3-NormalSkinwo_bff2aa71-d525-46ce-9e61-b01408422b3f_1125x2000.png?v=1570068057",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/NormalSkin_SET_1172x1172.jpg?v=1614654076",
         "description": "The essentials kit features everything you need to keep maintain your skin health. Start with a new skinfood routine and feed it nutrient-rich superfoods all day, every day.",
         "clickUrl": "https://www.sadebaron.com/products/body-care-set-1-normal-skin",
         "shopName": "Sade Baron"
       },
       {
         "name": "Go Clean Starter Kit | Body Care Set",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/SadeBaron_StarterKit_1_500x889.jpg?v=1596753684",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/GoCleanStarterKit_1172x1172.jpg?v=1614650435",
         "description": "With this Go Clean Body Care Starter Set you can finally remove excessive ingredients and chemicals from your daily body care routine. With Sade Baron, all of our products are 100% vegan, made with clean ingredients to work for most skin types, so you can trust that you'll find great products to work for you.",
         "clickUrl": "https://www.sadebaron.com/products/go-clean-body-care-starter-kit",
         "shopName": "Sade Baron"
       },
       {
         "name": "Fragrance Free Body Wash",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/LuftCleanser_1oz_1125x1999.png?v=1569153937",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1451/7656/products/Luft_MiniBodyCleanser_1079x1079.jpg?v=1614648632",
         "description": "A light face and body wash suitable for everyday use. This fragrance-free body wash is perfect for babies, children and adults with reactive and sensitive skin. With superfats galore like avocado oil, olive oil and more, this liquid castile soap will leave your skin hydrated day after day.",
         "clickUrl": "https://www.sadebaron.com/products/fragrance-free-castile-liquid-soap",
         "shopName": "Sade Baron"
@@ -1333,7 +1333,7 @@
     "products": [
       {
         "name": "Bailee's Bundle",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/products/3_d03230bd-31b2-4ffa-9d71-c2bee07f4969_1024x1024@2x.png?v=1602636004",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/products/BundleThumb_1024x1024@2x.jpg?v=1614655211",
         "description": "Two safe non-toxic polishes - Bailee's Spark & Rose Shimmer. Nail polish ring holder. All natural hand scrub, made by Bailee, that will leave your hands smooth, moisturized and exfoliated.",
         "clickUrl": "https://www.baileesnailbox.com/products/bailees-bundle",
         "shopName": "Bailee's Nail Box"
@@ -1387,43 +1387,6 @@
       "Lip",
       "Entertainment & Toys",
       "Adult (sex toys, etc)",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "320e005d-a551-411a-ae45-11d874b2661c",
-    "type": "shop",
-    "title": "Blvck Spades",
-    "subtitle": "Blvck Spades playing cards is a customized deck designed for playing JJDD spades. Its creators made it in a way that makes it easier for individuals to learn to play.",
-    "imageUrl": "https://pbs.twimg.com/media/D4QO8PjWkAEkcxL.jpg",
-    "clickUrl": "https://www.blvckspades.com/shop/",
-    "products": [
-      {
-        "name": "2 Blvck Spades Decks",
-        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/07/2-decks-b.jpg?fit=2611%2C2526&ssl=1",
-        "description": "2 Blvck Spades Decks",
-        "clickUrl": "https://www.blvckspades.com/product/2-blvck-spades-decks/",
-        "shopName": "Blvck Spades"
-      },
-      {
-        "name": "6ft Phone Charger",
-        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/09/6-ft-iPhone.jpg?fit=1500%2C1500&ssl=1",
-        "description": "These 6ft chargers are lightweight, stylish, and ensure that you never have to sit next to a wall outlet to charge your phone again.",
-        "clickUrl": "https://www.blvckspades.com/product/6ft-phone-charger/",
-        "shopName": "Blvck Spades"
-      },
-      {
-        "name": "Blvck Sleeve Hoodie",
-        "imageUrl": "https://i1.wp.com/www.blvckspades.com/wp-content/uploads/2019/12/Blck-BLVCK-sleeve.jpg?fit=1500%2C1500&ssl=1",
-        "description": "Blvck Sleeve Hoodie. Actual hoodie style/color may be slightly different than shown.",
-        "clickUrl": "https://www.blvckspades.com/product/blvcksleevehoodie/",
-        "shopName": "Blvck Spades"
-      }
-    ],
-    "tags": [
-      "Entertainment & Toys",
-      "Games",
       "Shop"
     ],
     "priority": 10
@@ -1789,8 +1752,8 @@
     "clickUrl": "https://rayconglobal.com/collections/all",
     "products": [
       {
-        "name": "The Everyday E25 Earbuds",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/E25_black_front_1_180x.png?v=1589454571",
+        "name": "The Everyday Earbuds",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/E25_4WEB_BLACK2_180x.png?v=1614912277",
         "description": "Our most compact wireless earbuds for your everyday grind. Designed to deliver more powerful sound than any earbuds of its size.",
         "clickUrl": "https://rayconglobal.com/collections/all/products/e25-true-wireless-earbuds?variant=29457527963671",
         "shopName": "Raycon"
@@ -2138,7 +2101,7 @@
       },
       {
         "name": "#BLACKOUT T-Shirt",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/mockup-3b7421e3_2000x.jpg?v=1591126417",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/unisex-basic-softstyle-t-shirt-black-front-603301e9123e1_2000x.jpg?v=1613955564",
         "description": "The #BLACKOUT movement was organized to bring awareness to police brutality and racism towards the African-American people. This t-shirt was designed in honor of the efforts to bring peace and equality to Black people worldwide.",
         "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/blackout-t-shirt",
         "shopName": "Ujamaa Lighting"
@@ -2266,7 +2229,7 @@
       },
       {
         "name": "Caribbean Fruit Cake",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1611618229755-I1VKM1O05812OG5AF8C4/ke17ZwdGBToddI8pDm48kO9RRoh6tap0j2caYtClc_R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UX0couopwccwe6JIJISL-p0YGTPCIl_evTi2BKfLspXt77VERztpXSeMkzSPQPGnrA/20210125_130616.jpg?format=2500w",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1614693749657-DWW1O4KALMJ3LVB77NQJ/ke17ZwdGBToddI8pDm48kGaQUgjOFdJ9rAl7Ms5iqp17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYalqgCK38N5CPCV3fJEYZUUhBPcSLdD8eSFKGMx4FaScZvzjhem61ju1EWjsi3f0Q/20210125_131039.jpg?format=2500w",
         "description": "Traditional Caribbean fruit cake (black cake) enhanced with tropical spices and preserved with rum. Just a small slice of this decadent cake will transport you to the islands!",
         "clickUrl": "https://www.camellaskitchen.com/shop/caribbean-fruit-cake",
         "shopName": "Camella's Kitchen"
@@ -3545,7 +3508,7 @@
       },
       {
         "name": "Travel + Discovery Enrich Moisturizer Styler + Nourish Treatment Masque",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/products/curlycoilytresses-travel-discovery-enrich-moisturizer-styler-nourish-treatment-masque-fragrance-free-487253_1080x.jpg?v=1603350287",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0146/4198/7638/products/curlycoilytresses-travel-discovery-enrich-moisturizer-styler-nourish-treatment-masque-fragrance-free-931922_1080x.jpg?v=1609406830",
         "description": "A top selling kit! Our customers say our products leave their hair soft, hydrated, moisturized and touchably luscious! And you get all this without fragrance headaches! It's true! We avoid all fragrances and focus on what really matters, eliminating dryness and getting lasting moisture, even days after wash day!",
         "clickUrl": "https://curlycoilytresses.com/collections/shop-all/products/travel-discovery-enrich-nourish",
         "shopName": "CurlyCoilyTresses"
@@ -3839,7 +3802,7 @@
     "products": [
       {
         "name": "Premium Long Handle Brush",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/2R0C9010_1400x.jpg?v=1588137766",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/1-premium-long-handle-medium-brush-333705_1080x.jpg?v=1613255800",
         "description": "Medium-Hard Brush. This brush is made with nylon bristles and is great for waves, wolfing and natural hair.",
         "clickUrl": "https://26kingwavymerch.com/products/long-handle-brush",
         "shopName": "26 King Wavy Merch, LLC"
@@ -3852,10 +3815,10 @@
         "shopName": "26 King Wavy Merch, LLC"
       },
       {
-        "name": "Black and Red Silk Durag",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/Designer_Durags_4_1400x.jpg?v=1603404525",
+        "name": "Navy - Plain Silk Durags",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/navy-plain-silk-durags-533004_1080x.jpg?v=1613255887",
         "description": "Designer Silk Durag",
-        "clickUrl": "https://26kingwavymerch.com/products/designer-2-silk-durag",
+        "clickUrl": "https://26kingwavymerch.com/collections/plain-silk-durags/products/navy-plain-silk-durags",
         "shopName": "26 King Wavy Merch, LLC"
       }
     ],
@@ -3956,7 +3919,7 @@
     "products": [
       {
         "name": "Kultured Misfits Tracksuit (Crew + Joggers)",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/products/Image_5000x.png?v=1610166512",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2511/2808/products/ASP_7698_5000x.jpg?v=1614827063",
         "description": "Classic Kultured Misfits tracksuIt set with matching crewneck and jogger pants in black. A comfortable cotton mix jogger, featuring embroidered Kultured Misfits logo on the left chest and thigh. Drawstring waist and cuffed hems.",
         "clickUrl": "https://kulturedmisfits.com/collections/all/products/kultured-misfits-tracksuit-crew-joggers",
         "shopName": "Kultured Misfits"
@@ -4411,10 +4374,10 @@
     "clickUrl": "https://www.shopthoughtful.org/",
     "products": [
       {
-        "name": "Scrunchie Set",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1573/3569/products/AB3C2DD5-9741-4E13-9B12-0DD539131D68_530x.jpg?v=1588980534",
-        "description": "You're all set for gym class and everything in between with these soft scrunchie ponytail holder.",
-        "clickUrl": "https://beriqisu.com/collections/headbands/products/copy-of-scrunchie-set-8",
+        "name": "Olivia Twist Headband",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1573/3569/products/A8DE3B75-7070-4AA6-AAC1-0D6B43C4148F_530x.jpg?v=1589553120",
+        "description": "This is timeless versatility. Two loops of our cotton fabric linked at center. An alluring piece for easy, low maintenance styles.",
+        "clickUrl": "https://beriqisu.com/collections/headbands/products/copy-of-raven-twist-headband",
         "shopName": "Shop Thoughtful "
       },
       {
@@ -4668,10 +4631,10 @@
             "shopName": "Inn8 Apparel"
         },
         {
-            "name": "\"Digital Sketch Series\" Premium Matte Vertical Poster",
-            "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/67bccce86be0c98669fc645d5aed8d8d_960x.jpg?v=1590562782",
+            "name": "\"A Soul Lost in Time\" Premium Matte Vertcial Posters",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/4c01e342ada4c29877409799c4d5ef4b_960x.jpg?v=1592597538",
             "description": "Every room deserves to be special. These supreme quality print posters in various sizes serve as statement pieces, creating a personalized environment.",
-            "clickUrl": "https://inn8apparel.com/collections/posters/products/digital-sketch-series-premium-matte-vertical-posters",
+            "clickUrl": "https://inn8apparel.com/collections/posters/products/a-soul-lost-in-time-premium-matte-vertical-posters",
             "shopName": "Inn8 Apparel"
         }
     ],
@@ -4891,7 +4854,7 @@
     "products": [
       {
         "name": "16 oz Dish Soap",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/28_900x.png?v=1609472445",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PHJan-31_900x.jpg?v=1615475464",
         "description": "PUR Home's All Natural Dish Soap Cuts through grease and dirt to leave all your dirty/greasy dishes clean, without drying out your hands. Made with both plant-based and biodegradable ingredients and scented with Pure Essential Oils. Safe to use around children and pets, and safe for our Planet.",
         "clickUrl": "https://shoppurhome.com/collections/kitchen/products/16-oz-dish-soap",
         "shopName": "PUR Home"

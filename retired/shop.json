@@ -1,4 +1,41 @@
 [
+  {
+    "id": "320e005d-a551-411a-ae45-11d874b2661c",
+    "type": "shop",
+    "title": "Blvck Spades",
+    "subtitle": "Blvck Spades playing cards is a customized deck designed for playing JJDD spades. Its creators made it in a way that makes it easier for individuals to learn to play.",
+    "imageUrl": "https://pbs.twimg.com/media/D4QO8PjWkAEkcxL.jpg",
+    "clickUrl": "https://www.blvckspades.com/shop/",
+    "products": [
+      {
+        "name": "2 Blvck Spades Decks",
+        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/07/2-decks-b.jpg?fit=2611%2C2526&ssl=1",
+        "description": "2 Blvck Spades Decks",
+        "clickUrl": "https://www.blvckspades.com/product/2-blvck-spades-decks/",
+        "shopName": "Blvck Spades"
+      },
+      {
+        "name": "6ft Phone Charger",
+        "imageUrl": "https://i0.wp.com/www.blvckspades.com/wp-content/uploads/2019/09/6-ft-iPhone.jpg?fit=1500%2C1500&ssl=1",
+        "description": "These 6ft chargers are lightweight, stylish, and ensure that you never have to sit next to a wall outlet to charge your phone again.",
+        "clickUrl": "https://www.blvckspades.com/product/6ft-phone-charger/",
+        "shopName": "Blvck Spades"
+      },
+      {
+        "name": "Blvck Sleeve Hoodie",
+        "imageUrl": "https://i1.wp.com/www.blvckspades.com/wp-content/uploads/2019/12/Blck-BLVCK-sleeve.jpg?fit=1500%2C1500&ssl=1",
+        "description": "Blvck Sleeve Hoodie. Actual hoodie style/color may be slightly different than shown.",
+        "clickUrl": "https://www.blvckspades.com/product/blvcksleevehoodie/",
+        "shopName": "Blvck Spades"
+      }
+    ],
+    "tags": [
+      "Entertainment & Toys",
+      "Games",
+      "Shop"
+    ],
+    "priority": 10
+  },
 	{
     "id": "b6a28341-dfdd-4cd6-b87f-89c7122a144b",
     "type": "shop",

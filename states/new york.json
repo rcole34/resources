@@ -1,7 +1,26 @@
 {
   "advocate": [],
   "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "e8ebaaf0-327c-4c5e-98cf-19ee83493556",
+      "type": "shop",
+      "title": "A Dozen Cousins",
+      "subtitle": "A Dozen Cousins is a 100% plant-based protein bean shop! They prioritize ease of preparation and desire to help families of all backgrounds eat better!\n\nWe use wholesome, easy-to-recognize ingredients like beans, vegetables and nutrient dense avocado oil while avoiding GMO's and artificial flavors. We want to make sure that we are all around long enough to enjoy time with our grandkids, and we believe that starts with a diet that is heavy on real food and light on junk.\n\nWe're on a mission to inspire families of all backgrounds to eat better food and live longer more vibrant lives.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0442/7605/6227/files/static1.squarespace_243ce705-3d0d-47ce-b9dc-238973ae9fca_150x.png?v=1596152793",
+      "clickUrl": "https://adozencousins.com/",
+      "tags": [
+        "Local",
+        "New York",
+        "Food & Beverage",
+        "Plant-Based",
+        "Protein",
+        "Organic",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "c2c936b4-e088-4fb3-be41-767f96a40f91",

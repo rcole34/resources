@@ -1,5 +1,31 @@
 {
-  "advocate": [],
+  "advocate": [
+    {
+      "id": "7827acc1-0d1f-482e-a20f-52b2ffee101c",
+      "type": "advocate",
+      "title": "Email the CA Senate Appropriations Committee",
+      "subtitle": "Send an email to members of the California Senate Appropriations Committee to express your support for AB-331, which mandates Ethnic Studies as a graduation requirement at CA high schools.",
+      "imageUrl": "https://assets.change.org/photos/7/xc/ig/KHxCigdOUbufiss-800x450-noPad.jpg",
+      "emailInfo": {
+        "recipients": [
+          "Jennifer.Douglas@sen.ca.gov",
+          "Lenin.DelCastillo@sen.ca.gov",
+          "team@anthonyportantino.com"
+        ],
+        "subject": "I Support AB-331",
+        "messageBody": "<p>Dear Senate Appropriations Committee members,</p>  <p>My name is [Your name], and I am [student, former student, parent, educator, etc.] from [Your location]. I&rsquo;m emailing to express my support for AB 331, which would make ethnic studies a high school graduation requirement. [Sentence about why ethnic studies is important to you.] I&rsquo;m asking Senator Portantino to move the bill out of the Senate Appropriations Committee and allow it to move forward for a vote.</p>  <p>Thank you,<br> [Your name]</p>",
+        "isHtml": true
+      },
+      "tags": [
+        "Local",
+        "California",
+        "Email",
+        "Bill",
+        "Advocate"
+      ],
+      "priority": 10
+    }
+  ],
   "educate": [],
   "shop": [],
   "act": [

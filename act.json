@@ -1,5 +1,20 @@
 [
   {
+    "id": "bec9effe-708b-4c1d-8597-85ed41627868",
+    "type": "act",
+    "title": "Daunte's Funeral and future care of Daunte Jr.",
+    "subtitle": "Please donate to give Daunte Wright the proper burial he deserves and to help his son and son's mother Chyna. And if you can't support financially, please send lots of prayers for the family to get through this tragic loss.",
+    "imageUrl": "https://d2g8igdw686xgo.cloudfront.net/55999862_1618213842484081_r.jpeg",
+    "clickUrl": "https://www.gofundme.com/f/dauntes-funeral-and-burial-cost",
+    "tags": [
+      "donate",
+      "daunte wright",
+      "police brutality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "1a726619-6fc9-4e2d-93f0-c21cc15cd692",
     "type": "act",
     "title": "Demand a free and fair trial.",

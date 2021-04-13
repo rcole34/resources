@@ -1,5 +1,21 @@
 [
   {
+    "id": "47bdbfc5-54ed-41d9-a2d7-d61bd789e873",
+    "type": "act",
+    "title": "Change.org: Justice for Daunte Wright",
+    "subtitle": "20 year old man Daunte Wright, a father to a two year old, was murdered by Minneapolis-area police. Help get him and his family justice by signing this petition.",
+    "imageUrl": "https://assets.change.org/photos/6/ic/cl/llICcLwzvSDxeCg-800x450-noPad.jpg?1618198941",
+    "clickUrl": "https://www.change.org/p/justice-for-daunte-wright",
+    "tags": [
+      "sign",
+      "petition",
+      "daunte wright",
+      "police brutality",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "1a726619-6fc9-4e2d-93f0-c21cc15cd692",
     "type": "act",
     "title": "Demand a free and fair trial.",

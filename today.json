@@ -764,58 +764,48 @@
   ],
   "13": [
     {
-      "id": "796e8ce4-727a-45af-98a3-3bbf27912a17",
-      "type": "shop",
-      "title": "NSPRE Electronics",
-      "subtitle": "The NSPRE™ brand is built on and strives for creativity and culture. We create exciting, lifestyle, and innovative products that inspire everyday use. Our vision is to \"Inspire the culture through social technology\" to improve others' lifestyles and the way we access the world around us.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/files/small_NSPRE_icon-09_x50@2x.png?v=1599457535",
-      "clickUrl": "https://www.nspreelectronics.com/collections/all",
-      "products": [
-        {
-          "name": "Lynx Bluetooth® Sunglasses",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/DSC8359-1c_1512x.jpg?v=1613581223",
-          "description": "No earplugs or ear coverings. Open concept sound with privacy. Designed with Ultra Modern materials and a lightweight frame design. Connects to any mobile device with Bluetooth® ability.",
-          "clickUrl": "https://www.nspreelectronics.com/products/lynx-bluetooth%C2%AE-sunglasses",
-          "shopName": "NSPRE Electronics"
-        },
-        {
-          "name": "NX Pro Plus LE (128G)",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/Artboard1_1512x.png?v=1606886602",
-          "description": "The (Limited Edition) NSPRE™ NX Pro Plus Cotton Candy is an extension of the original NX Pro. It is 6.5 Inches, has a much slimmer frame of 8.0mm, and 3D curved glass back finish.",
-          "clickUrl": "https://www.nspreelectronics.com/products/nx-pro-plus-limited-edition",
-          "shopName": "NSPRE Electronics"
-        },
-        {
-          "name": "NSPRE™ MicroSDHC - 128GB",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/sdcard_1080x.png.jpg?v=1606340062",
-          "description": "Record and transfer videos, photos, music, files and more from Micro SD enabled host devices such as Android smartphones and tablets, action and surveillance cameras, drones, computers and more.",
-          "clickUrl": "https://www.nspreelectronics.com/products/nspre%E2%84%A2-microsdhc-128gb",
-          "shopName": "NSPRE Electronics"
-        }
-      ],
+      "id": "47bdbfc5-54ed-41d9-a2d7-d61bd789e873",
+      "type": "act",
+      "title": "Change.org: Justice for Daunte Wright",
+      "subtitle": "20 year old man Daunte Wright, a father to a two year old, was murdered by Minneapolis-area police. Help get him and his family justice by signing this petition.",
+      "imageUrl": "https://assets.change.org/photos/6/ic/cl/llICcLwzvSDxeCg-800x450-noPad.jpg?1618198941",
+      "clickUrl": "https://www.change.org/p/justice-for-daunte-wright",
       "tags": [
-        "Health & Beauty",
-        "Eye Care",
-        "Fashion",
-        "Accessories",
-        "Sunglasses",
-        "Electronics",
-        "Shop"
+        "sign",
+        "petition",
+        "daunte wright",
+        "police brutality",
+        "Act"
       ],
-      "priority": 9
+      "priority": 10
     },
     {
-      "id": "36c8fc98-0494-4906-aa8e-0df7dd2704e8",
-      "type": "learn",
-      "title": "How the Negro National League Was Formed | Field of Dreams...Deferred",
-      "subtitle": "The Negro National League debuted 100 years ago with world-class players and legions of fans. Hear how founder Rube Foster formed the league in Part 1 of \"Field of Dreams...Deferred,\" a four-part series from TBS.",
-      "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
-      "clickUrl": "https://www.youtube.com/watch?v=BXo1zmpn_10",
+      "id": "bec9effe-708b-4c1d-8597-85ed41627868",
+      "type": "act",
+      "title": "Daunte's Funeral and future care of Daunte Jr.",
+      "subtitle": "Please donate to give Daunte Wright the proper burial he deserves and to help his son and son's mother Chyna. And if you can't support financially, please send lots of prayers for the family to get through this tragic loss.",
+      "imageUrl": "https://d2g8igdw686xgo.cloudfront.net/55999862_1618213842484081_r.jpeg",
+      "clickUrl": "https://www.gofundme.com/f/dauntes-funeral-and-burial-cost",
       "tags": [
-        "Black Lives Matter",
-        "Sports",
-        "Videos",
-        "Watch",
+        "donate",
+        "daunte wright",
+        "police brutality",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "141bb54f-ff17-4761-a978-2aa600334e4a",
+      "type": "learn",
+      "title": "Daunte Wright was stopped for expired plates, but driving while Black may have been his 'crime'",
+      "subtitle": "The police confrontation escalated after officers saw what could have been an air freshener hanging illegally from the rearview mirror.",
+      "imageUrl": "https://media4.s-nbcnews.com/j/newscms/2021_15/3464051/210412-duante-wright-mc-10522_034315fb7940fd4f221fe54648e60745.fit-320w.jpg",
+      "clickUrl": "https://www.nbcnews.com/news/us-news/daunte-wright-was-stopped-expired-plates-driving-while-black-may-n1263878",
+      "tags": [
+        "articles",
+        "videos",
+        "daunte wright",
+        "police brutality",
         "Learn"
       ],
       "priority": 10
@@ -823,57 +813,50 @@
   ],
   "14": [
     {
-      "id": "cdd9b089-a0bd-422c-95b4-6c7df214e987",
-      "type": "shop",
-      "title": "Good Thoughts Tea Co",
-      "subtitle": "We are an all natural loose leaf tea company that is centered around the healing properties of herbs. Our main goal is to help heal from the inside out all while reawakening the conversation and experience of tea. Started in 2014 by Ebone’ McCloud, we are located in and operate from Chicago.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1590295085345-3N7T2QTS761M9CIVXXSR/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Love+Paula+.JPG?format=1500w",
-      "clickUrl": "https://www.goodthoughtsteaco.com/blends",
-      "products": [
-        {
-          "name": "Cinammon Chai",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1590294935695-P01QW690MAHM2A2TIW0L/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Cinnamon+Chai.JPG?format=1000w",
-          "description": "Cinnamon Chai is our take on the classic chai blend. Benefits: aids digestion, promotes a peace of mind, antioxidant support.",
-          "clickUrl": "https://www.goodthoughtsteaco.com/blends/cinnamonchai",
-          "shopName": "Good Thoughts Tea Co"
-        },
-        {
-          "name": "Half Rising",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1589999624206-4OJFAZ2AWNFUE3RL6Y9D/ke17ZwdGBToddI8pDm48kEx3vQSOiI-UqeZqEXmC-hF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-dKChJYHnAGnaVhaB2hrDJJ_TDa7_pLr0Xfx_CbbAHbA/9B1916E5-FB60-4AD8-A47A-2F07FF24C759?format=1000w",
-          "description": "Half Rising is a beautifully aromatic cup of oolong tea mixed with kaffir lime leaves and other sweet surprises. Benefits: aids in relieving stress, improves mental health, promotes healthy skin.",
-          "clickUrl": "https://www.goodthoughtsteaco.com/blends/2020/5/20/dqdyolldkwjcmfs92tc4iijlnhlkhh",
-          "shopName": "Good Thoughts Tea Co"
-        },
-        {
-          "name": "Tea Spoon Set",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/59d4f946b1ffb6653bbf0edf/1600870169121-Y3ZXFJ0SPW08SWZM5EJZ/ke17ZwdGBToddI8pDm48kFuGur7JQpdTSiuV84DQQNl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUA-jlFni2KUKJEeN-ELAeE5if9nxWhWz2YJkqk7mMBv5xRGc48DGhDdOj1ofCDSxQ/1B9A90F0-7D5E-48B2-AF18-C1B42F0AF5CD?format=1000w",
-          "description": "These delightful beauties are great for the perfect scoops of our loose leaf tea blends. With each set comes two sizes.",
-          "clickUrl": "https://www.goodthoughtsteaco.com/blends/2020/9/23/ljyp04vh30lk65r94hxryww68xwms0",
-          "shopName": "Good Thoughts Tea Co"
-        }
-      ],
+      "id": "bec9effe-708b-4c1d-8597-85ed41627868",
+      "type": "act",
+      "title": "Daunte's Funeral and future care of Daunte Jr.",
+      "subtitle": "Please donate to give Daunte Wright the proper burial he deserves and to help his son and son's mother Chyna. And if you can't support financially, please send lots of prayers for the family to get through this tragic loss.",
+      "imageUrl": "https://d2g8igdw686xgo.cloudfront.net/55999862_1618213842484081_r.jpeg",
+      "clickUrl": "https://www.gofundme.com/f/dauntes-funeral-and-burial-cost",
       "tags": [
-        "Home & Garden",
-        "Home Fragrance",
-        "Food & Beverage",
-        "Coffee & Tea",
-        "Shop"
+        "donate",
+        "daunte wright",
+        "police brutality",
+        "Act"
       ],
-      "priority": 9
+      "priority": 10
     },
     {
-      "id": "8b95c05d-f833-40fa-a807-8ed20b6beac9",
-      "type": "learn",
-      "title": "Reconstruction in America",
-      "subtitle": "Read the Equal Justice Initiative's report on racial violence after the Civil War, from 1865-1876.",
-      "imageUrl": "https://eji.org/report/wp-content/uploads/2020/04/eji-reconstruction-in-america-memorial-at-the-legacy-pavilion-image.jpg",
-      "clickUrl": "https://eji.org/report/reconstruction-in-america/",
+      "id": "9ccf2baf-ab18-42d8-a52d-70c1b64cc0cb",
+      "type": "act",
+      "title": "Enough is Enough! Fire the Cops Who Killed Daunte Wright",
+      "subtitle": "Here’s what we know: Police officers in Brooklyn Center, a Minneapolis suburb, shot and killed Daunte Wright during a traffic stop on Sunday, April 11. An unnamed police officer shot a gun into Daunte’s car, and his car then hit another vehicle. A passenger in Daunte’s care was injured, and Daunte was pronounced dead at the scene.",
+      "imageUrl": "https://d11gn0ip9m46ig.cloudfront.net/images/COC-graphics-ak-page-2-demand-justice-stay-in-the-fight-placeholder-COC.jpg",
+      "clickUrl": "https://act.colorofchange.org/sign/enough_is_enough/",
       "tags": [
-        "Read",
-        "Articles",
-        "EJI",
-        "Equal Justice Initiative",
-        "learn"
+        "daunte wright",
+        "police brutality",
+        "sign",
+        "petition",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "84a66403-3968-4deb-8496-5616d4331e73",
+      "type": "learn",
+      "title": "How easy (or hard) is it to confuse a gun for a Taser?",
+      "subtitle": "Oscar Grant. Eric Harris. Daunte Wright. April 11, 2020 added another name to the list of Black men killed by police officers who intended to deploy a Taser but instead fired a handgun.",
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/210412040539-daunte-wright-medium-plus-169.jpg",
+      "clickUrl": "https://www.cnn.com/2021/04/12/us/confuse-gun-for-taser/index.html",
+      "tags": [
+        "daunte wright",
+        "police brutality",
+        "articles",
+        "handgun",
+        "taser",
+        "Learn"
       ],
       "priority": 10
     }

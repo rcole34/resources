@@ -1,5 +1,22 @@
 [
   {
+    "id": "84a66403-3968-4deb-8496-5616d4331e73",
+    "type": "learn",
+    "title": "How easy (or hard) is it to confuse a gun for a Taser?",
+    "subtitle": "Oscar Grant. Eric Harris. Daunte Wright. April 11, 2020 added another name to the list of Black men killed by police officers who intended to deploy a Taser but instead fired a handgun.",
+    "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/210412040539-daunte-wright-medium-plus-169.jpg",
+    "clickUrl": "https://www.cnn.com/2021/04/12/us/confuse-gun-for-taser/index.html",
+    "tags": [
+      "daunte wright",
+      "police brutality",
+      "articles",
+      "handgun",
+      "taser",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "141bb54f-ff17-4761-a978-2aa600334e4a",
     "type": "learn",
     "title": "Daunte Wright was stopped for expired plates, but driving while Black may have been his 'crime'",

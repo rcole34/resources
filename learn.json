@@ -1,5 +1,22 @@
 [
   {
+    "id": "21a8f0b1-04bf-4179-9d78-056167814c1e",
+    "type": "learn",
+    "title": "Four-year Analysis: Police-related deaths across racial groups",
+    "subtitle": "A four-year research study released on June 24th, 2020 shows that Black Americans were, on average, more than three times as likely as White Americans to be killed during a police encounter.",
+    "imageUrl": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0229686.g001",
+    "clickUrl": "https://www.upi.com/Top_News/US/2020/06/24/Study-Black-Americans-3-times-more-likely-to-be-killed-by-police/6121592949925/",
+    "tags": [
+      "Articles",
+      "Research",
+      "Police Brutality",
+      "Daunte Wright",
+      "George Floyd",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "84a66403-3968-4deb-8496-5616d4331e73",
     "type": "learn",
     "title": "How easy (or hard) is it to confuse a gun for a Taser?",

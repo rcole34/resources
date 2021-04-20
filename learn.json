@@ -1,5 +1,23 @@
 [
   {
+    "id": "789cd6bd-9a24-4b3d-8d8a-4e147af8efeb",
+    "type": "learn",
+    "title": "Derek Chauvin sentencing",
+    "subtitle": "A Hennepin County jury found Derek Chauvin guilty on all three counts against him on Tuesday, April 20, 2021, setting the stage for the sentencing of the former Minneapolis officer. Here's what we know about when sentencing will happen and what to expect.",
+    "imageUrl": "https://www.kget.com/wp-content/uploads/sites/2/2021/04/AP21109532071655-1.jpg?w=1024&h=572&crop=1",
+    "clickUrl": "https://www.kget.com/national-news/derek-chauvin-sentencing-what-we-know-about-potential-jail-time/",
+    "tags": [
+      "George Floyd",
+      "Derek Chauvin",
+      "guilty",
+      "verdict",
+      "BLM",
+      "accountability",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "21a8f0b1-04bf-4179-9d78-056167814c1e",
     "type": "learn",
     "title": "Four-year Analysis: Police-related deaths across racial groups",

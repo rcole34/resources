@@ -1190,6 +1190,23 @@
   ],
   "21": [
     {
+      "id": "9678f50d-c438-4b2d-b7d0-872116f921ca",
+      "type": "learn",
+      "title": "Stay Informed: Ma'Khia Bryant Shooting ",
+      "subtitle": "A teenage girl who the police say threatened two girls with a knife was fatally shot by an officer in Columbus, Ohio, on Tuesday, April 20th, 2021, shortly before a jury reached a guilty verdict in the murder trial of the former Minneapolis police officer Derek Chauvin in last year’s killing of George Floyd.",
+      "imageUrl": "https://static01.nyt.com/images/2021/05/20/multimedia/20xp-columbus3/20xp-columbus3-superJumbo-v2.jpg?quality=90&auto=webp",
+      "clickUrl": "https://www.nytimes.com/2021/04/20/us/columbus-ohio-shooting.html",
+      "tags": [
+        "Ma'Khia Bryant",
+        "New York Times",
+        "Police Shooting",
+        "Police Reform",
+        "Columbus Ohio",
+        "Learn"
+      ],
+      "priority": 7
+    },
+    {
       "id": "789cd6bd-9a24-4b3d-8d8a-4e147af8efeb",
       "type": "learn",
       "title": "Derek Chauvin sentencing",
@@ -1206,43 +1223,6 @@
         "Learn"
       ],
       "priority": 8
-    },
-    {
-      "id": "37960df1-7cdb-46a0-b736-37c1ce21e00a",
-      "type": "shop",
-      "title": "AuxGod",
-      "subtitle": "AUXGOD is a music battle card game that Rousseau created six months after quitting his job. Players dance, sing, and argue over yesterday’s classics and today’s hits. You’ll never have a wack party again!",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjzmX_zI9GjrNFDLUDmtL_9wOTvJ7e6YSfQ&usqp=CAU",
-      "clickUrl": "https://auxgodgame.com/shop",
-      "products": [
-        {
-          "name": "AuxGod: Hip Hop + RNB",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/HIPHOP_900x.jpg?v=1607228054",
-          "description": "Bring the intensity that Drake brought to Meek Mill at your next party. The pack contains over 100 Hip Hop & RNB cards + 15 bonus cards; Pop, Rock & Country.",
-          "clickUrl": "https://auxgodgame.com/products/auxgod-hip-hop-rnb",
-          "shopName": "AuxGod"
-        },
-        {
-          "name": "AuxGod: Pop Music Edition",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/POPFLATLAY_900x.jpg?v=1607228142",
-          "description": "The pack contains over 100 Pop Music cards + 15 bonus cards; Hip Hop & RNB, Rock & Country. Your favorites are all here from the Backstreet Boys to Rihanna! Thousands of song options to play in response to our cards so, What You Waiting For?",
-          "clickUrl": "https://auxgodgame.com/products/auxgod-game-pop-music-edition",
-          "shopName": "AuxGod"
-        },
-        {
-          "name": "AuxGod: Country Music Edition",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/Country_360x.jpg?v=1607227301",
-          "description": "The pack contains over 100 Country Music cards + 15 bonus cards; Hip Hop & RNB, Rock & POP. Your favorites are all here from Garth Brooks to Luke Bryan. Thousands of song options to play in response to our cards so, are we gonna do this or what?",
-          "clickUrl": "https://auxgodgame.com/products/auxgod-country",
-          "shopName": "AuxGod"
-        }
-      ],
-      "tags": [
-        "Entertainment & Toys",
-        "Games",
-        "Shop"
-      ],
-      "priority": 9
     },
     {
       "id": "f38a64b7-7d10-40dd-865a-ca8d3db096dc",
@@ -1262,55 +1242,39 @@
   ],
   "22": [
     {
-      "id": "ebbc04b1-856a-43b5-9fbe-7ac70ca4791f",
-      "type": "shop",
-      "title": "Puku",
-      "subtitle": "Puku was founded in the aftermath of Hurricane Sandy after experiencing the hardship of living without the power to charge phones. And just like the animal, it retains the same essential qualities such as Power, Beauty and Speed.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/files/PUKU_LOGO_FINAL_WEB_x320.png?v=1521400391",
-      "clickUrl": "https://www.gotpuku.com/collections/all",
-      "products": [
-        {
-          "name": "Puku Light - Charger",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/Pink_dae53de9-f379-45d8-9d3f-aed275535c13_1050x.jpg?v=1510253485",
-          "description": "For the fashion-forward trendsetters who love technology and appreciate sleek design, Puku Light is a must-have portable charger to stay connected on the go.",
-          "clickUrl": "https://www.gotpuku.com/products/puku-light",
-          "shopName": "Puku"
-        },
-        {
-          "name": "Puku G8 - Earphones",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/puku-earphones_1050x.jpg?v=1509390430",
-          "description": "Enjoy music on the go or make phone calls with these tangle-free and high-resolution in-ear headphones.",
-          "clickUrl": "https://www.gotpuku.com/products/puku-earphones",
-          "shopName": "Puku"
-        },
-        {
-          "name": "Puku 12S Pro - Charger",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/electric-blue_d4cabf4a-6ca3-4d67-8105-8a5b3d49668e_1050x.jpg?v=1509404370",
-          "description": "Traveling long distances or for long periods of time can be an arduous process, but thankfully, with Puku 12S, keeping all your mobile devices charged along the way doesn’t have to be.",
-          "clickUrl": "https://www.gotpuku.com/products/puku-pro-1",
-          "shopName": "Puku"
-        }
-      ],
+      "id": "32a878d3-1f2a-48ae-a7a2-6c962b10739f",
+      "type": "learn",
+      "title": "Racially Targeted Arrests in the Era of Marijuana Reform",
+      "subtitle": "For decades, marijuana laws have been used to criminalize Black and Brown people, waste taxpayer money, and fuel the mass incarceration crisis. However, states across the country are taking strides toward reforming these outdated and harmful policies.",
+      "imageUrl": "https://graphics.aclu.org/marijuana-arrest-report/",
+      "clickUrl": "https://www.aclu.org/news/criminal-law-reform/a-tale-of-two-countries-racially-targeted-arrests-in-the-era-of-marijuana-reform/?initms_aff=nat&initms_chan=web&utm_medium=web&initms=200420_420_marijuanareport_corp_earned&utm_source=earned&utm_campaign=420&utm_content=200420_criminallaw_marijuanareport_corp&ms_aff=nat&ms_chan=web&ms=200420_420_marijuanareport_corp_earned",
       "tags": [
-        "Electronics",
-        "Shop"
+        "MORE Act",
+        "Marijuana",
+        "Weed",
+        "Criminal Justice Reform",
+        "Criminal Justice",
+        "Research Study",
+        "Learn"
       ],
-      "priority": 9
+      "priority": 10
     },
     {
-      "id": "4c47be93-7b32-4c2e-9cc6-3bccc8a9235e",
-      "type": "learn",
-      "title": "Controversy over Confederate monuments is overdue",
-      "subtitle": "As Confederate monuments and memorials are toppled across the United States, Stanford historian James T. Campbell says it is important to think historically not only about the past but also about our own time and what future generations might say about us.",
-      "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/07/15130422/monuments-960x640.jpg",
-      "clickUrl": "https://news.stanford.edu/2020/07/16/confederate-monuments-coming-now/",
+      "id": "8fd15239-6614-4423-8d29-a5739012697e",
+      "type": "act",
+      "title": "Tell Congress to Support the MORE Act (H.R. 3884/S. 2227)",
+      "subtitle": "We believe in cannabis legalization, but only if it’s got justice baked right in. Even with more and more states saying yes to legal cannabis, hundreds of thousands of people are still being arrested every year, most of them for possession—and they are disproportionately Black. It doesn’t have to be that way. With your help we can legalize cannabis while expunging prior cannabis convictions, and make 4/20 a day we all can celebrate. ",
+      "imageUrl": "https://www.benjerry.com/files/live/sites/systemsite/files/whats-new/25404-cannabis-justice/420CannabisJustice_Static_779x400.jpg",
+      "clickUrl": "https://action.benjerry.com/420",
       "tags": [
-        "Read",
-        "Articles",
-        "Stanford",
-        "Monuments",
-        "Confederate",
-        "learn"
+        "MORE Act",
+        "Send Email",
+        "Ben & Jerry's",
+        "Weed",
+        "Cannabis",
+        "Legalizing Cannabis",
+        "Criminal Justice Reform",
+        "Act"
       ],
       "priority": 10
     }

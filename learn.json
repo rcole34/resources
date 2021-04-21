@@ -18,6 +18,23 @@
     "priority": 10
   },
   {
+    "id": "9678f50d-c438-4b2d-b7d0-872116f921ca",
+    "type": "learn",
+    "title": "Stay Informed: Ma'Khia Bryant Shooting ",
+    "subtitle": "A teenage girl who the police say threatened two girls with a knife was fatally shot by an officer in Columbus, Ohio, on Tuesday, April 20th, 2021, shortly before a jury reached a guilty verdict in the murder trial of the former Minneapolis police officer Derek Chauvin in last year’s killing of George Floyd.",
+    "imageUrl": "https://static01.nyt.com/images/2021/05/20/multimedia/20xp-columbus3/20xp-columbus3-superJumbo-v2.jpg?quality=90&auto=webp",
+    "clickUrl": "https://www.nytimes.com/2021/04/20/us/columbus-ohio-shooting.html",
+    "tags": [
+      "Ma'Khia Bryant",
+      "New York Times",
+      "Police Shooting",
+      "Police Reform",
+      "Columbus Ohio",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "789cd6bd-9a24-4b3d-8d8a-4e147af8efeb",
     "type": "learn",
     "title": "Derek Chauvin sentencing",

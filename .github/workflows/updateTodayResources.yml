@@ -33,3 +33,4 @@ jobs:
         with:
           commit_message: Update today resources for the new month
           branch: master
+          push_options: --force

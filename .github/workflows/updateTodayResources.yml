@@ -30,6 +30,8 @@ jobs:
       # Merge update to master
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.10.0
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GH_ACTION_ADMIN_TOKEN }}
         with:
           commit_message: Update today resources for the new month
           branch: master

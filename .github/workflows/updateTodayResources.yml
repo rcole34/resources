@@ -6,7 +6,10 @@ name: Update Today resources
 on:
   # Triggers the workflow at the start of each month
   schedule:
-    - cron: "0 6 3 * *"
+    - cron: "5 4 1 * *"
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

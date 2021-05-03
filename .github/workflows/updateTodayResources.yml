@@ -31,7 +31,10 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3.8.2
         with:
+          token: ${{ secrets.GH_ACTIONS_ADMIN_TOKEN }}
           commit-message: Update today resources for the new month
           branch: update_today_resources
           delete-branch: true
           base: master
+          title: Update today resources for new month
+          body: ""

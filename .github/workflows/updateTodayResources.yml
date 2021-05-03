@@ -6,7 +6,7 @@ name: Update Today resources
 on:
   # Triggers the workflow at the start of each month
   schedule:
-    - cron: "0 8 1 * *"
+    - cron: "0 6 3 * *"
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

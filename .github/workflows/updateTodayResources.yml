@@ -27,12 +27,11 @@ jobs:
       - name: Update today resource
         run: ./updateTodayResources.py
 
-      # Merge update to master
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4.10.0
-        env: 
-          GITHUB_TOKEN: ${{ secrets.GH_ACTION_ADMIN_TOKEN }}
+      # Create PR
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3.8.2
         with:
-          commit_message: Update today resources for the new month
-          branch: master
-          push_options: --force
+          commit-message: Update today resources for the new month
+          branch: update_today_resources
+          delete-branch: true
+          base: master

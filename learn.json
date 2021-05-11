@@ -1,5 +1,21 @@
 [
   {
+    "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
+    "type": "learn",
+    "title": "Hair: Last Week Tonight with John Oliver",
+    "subtitle": "John Oliver discusses the importance of Black hair, the ways it can be a target of discrimination, and some ideas to address that.",
+    "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bb865e71135f709d439b0670f52836a9.png",
+    "clickUrl": "https://www.youtube.com/watch?v=Uf1c0tEGfrU",
+    "tags": [
+      "Videos",
+      "Black",
+      "Hair",
+      "Educate",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b3e81989-f331-45f2-a48c-f2d806f40e2e",
     "type": "learn",
     "title": "Cultures, nations, and religions are not rocks – they’re always changing",

@@ -13,5 +13,20 @@
       "learn"
     ],
     "priority": 10
+  },
+  {
+    "id": "ee2c3033-97b3-45e1-9579-fea890817965",
+    "type": "learn",
+    "title": "Nation's Premier Civil Rights Organization",
+    "subtitle": "Founded February 12, 1909, the NAACP is the nation’s foremost, largest, and most widely recognized civil rights organization. Its more than half-million members and supporters throughout the United States and the world are the premier advocates for civil rights in their communities, leading grassroots campaigns for equal opportunity and conducting voter mobilization.",
+    "imageUrl": "https://www.naacp.org/wp-content/uploads/2016/03/oldest-boldest.jpg",
+    "clickUrl": "https://naacp.org/nations-premier-civil-rights-organization/",
+    "tags": [
+      "Black History Month",
+      "Articles",
+      "Read",
+      "Learn"
+    ],
+    "priority": 10
   }
 ]

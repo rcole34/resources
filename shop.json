@@ -1,10 +1,24 @@
 [
   {
+    "id": "0c62fd3a-154e-40e1-95ce-3fad98649689",
+    "type": "shop",
+    "title": "Big Mama's Sauce",
+    "subtitle": "We believe that to be the best we must use only the best ingredients. This homemade recipe has been the highlight of our family gatherings since at least 2002…honestly Big Mama can’t even remember, that’s how long she been making it! Big Mama never liked store bought sauce and she wanted to serve only the best to her loved ones. So here we are…on the store shelf ironically! Lol…We hope you taste only love and enjoy just as our family has for all of these years!",
+    "imageUrl": "https://bigmamassauce.com/wp-content/uploads/2021/03/footerlogo.png",
+    "clickUrl": "https://bigmamassauce.com/buy-sauce/",
+    "tags": [
+      "Food & Beverage",
+      "Sauce",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "187715d1-87c5-400c-84a9-69cfd422d353",
     "type": "shop",
     "title": "Be A Good Person",
     "subtitle": "Instead of supporting the current trends of negativity, our #1 goal is to remind us all to approach our days with an optimistic, positive, and refreshed outlook. We believe that positive change truly starts with within ourselves, one person at a time.",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1348742282682400770/1JBqOOAM_400x400.jpg",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0910/7762/files/Untitled-5.png?v=1620411211",
     "clickUrl": "https://www.beagoodperson.com/collections",
     "products": [
       {
@@ -791,25 +805,25 @@
     "title": "Buttaz & Wax",
     "subtitle": "Buttaz & Wax is a handcrafted body butter and personal care line that came about after founder Keisha Marie made one of her body butters and her eight year old daughter looked up at her and said \"mommy these are good, you should sell them\".",
     "imageUrl": "https://static1.squarespace.com/static/5aa0b268266c073befc14b96/t/5d439d231c750b000123cbdb/1607121991126/",
-    "clickUrl": "https://www.buttazandwax.com/shop-1",
+    "clickUrl": "https://www.buttazandwax.com/shop",
     "products": [
       {
         "name": "Coco Loco Body Butter",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1595280684537-ZDX242ERPP5BEEPE4CPB/ke17ZwdGBToddI8pDm48kCEFq_oazn5De8mJpwkPItR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0rQeu_A0VlcGJEiWdfSJ_zWJPyccyhLsRqCQ7hBhEQ354ieVp43wRU5I-IbiR8JdvA/5546D894-D32C-4F30-B89B-48C7F976ECD5?format=2500w",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1620937005720-IVEGJT8REBHEO3UKJC0V/ke17ZwdGBToddI8pDm48kKtijf5x5S0rIV7X_qDH3dB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UaZbTVdO5VSPAOxIcVIbmIFLIFeVDbQiz7iBIgNCzklBDD2o6CESiqIlH5ssNFrtmA/A3EF79EA-C58E-4972-AFC4-19E5F7E7A13E.jpeg?format=2500w",
         "description": "Apply to any area of the body as needed. Best used after a shower when skin is still a bit damp. The butters and oils will lock moisture from shower into your skin.",
-        "clickUrl": "https://www.buttazandwax.com/shop/2020/1/22/pinr1xx8jh4swmyd2kbohmrfgc8871",
+        "clickUrl": "https://www.buttazandwax.com/bodybutters/2020/1/22/pinr1xx8jh4swmyd2kbohmrfgc8871",
         "shopName": "Buttaz & Wax"
       },
       {
         "name": "Beard Oil",
         "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1591823734037-48JITVNB7NAKUBHUDSHD/ke17ZwdGBToddI8pDm48kNUky3PFTqx_idkNr2ps9mJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URdr5HHUe4_PRMaj8Fu9nJu4yZCaSehhZL-O1iV9_j60FK4eMZgYA6RDahiKMr8qgw/32D1EBF6-23BA-4158-BF4A-BD1D2B20A8A2?format=2500w",
         "description": "Work 3-5 drops of our beard oil into your hair revive your beard. Best used right after a shower while your beard is still damp",
-        "clickUrl": "https://www.buttazandwax.com/body-oil/2020/6/10/b76xl9u0ju07agr5ngce6wkf0cqub1",
+        "clickUrl": "https://www.buttazandwax.com/body-oils/2020/6/10/b76xl9u0ju07agr5ngce6wkf0cqub1",
         "shopName": "Buttaz & Wax"
       },
       {
         "name": "Lavender Soap",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1606495216416-FLAWLSTFKD2QU3Y7Y3BY/ke17ZwdGBToddI8pDm48kKM3lx6XFhHTEZMPV5TaiAt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWfLt1VJr1P6wGqPq8iJja5CpNU86IchLhWbP563_FYgDypYv5Z9qB9WFs-NjPCfmw/3B4BB9C2-F66D-427B-81F0-F5FC54DDFCE4?format=2500w",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1618413128468-GZHBAWQOF2VM3V23EBI3/ke17ZwdGBToddI8pDm48kGZMwrf8dBks-14O0CGXLKFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFLLQM2Zjny5vXB4EbTA6CRIJSgLg0exphuL_mNGlkvf581KJcwKFppFHqpLxiR7qQ/97F9402A-B554-44AD-887E-14F73B4D0B19?format=1500w",
         "description": "Our Lavender handcrafted soap, just like our Lavender bathsalts, smells like calming Lavender.",
         "clickUrl": "https://www.buttazandwax.com/soaps/lavender",
         "shopName": "Buttaz & Wax"
@@ -834,7 +848,7 @@
     "products": [
       {
         "name": "Combo 3 Pack",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/products/3pack_Original_2048x.png?v=1599933446",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0684/3697/products/combo3pack_2048x.png?v=1618934049",
         "description": "BEST VALUE! Try all three: Original, Sweet N Spicy, Ghost Pepper",
         "clickUrl": "https://www.muttssauce.com/products/combo3pack",
         "shopName": "Mutt's Sauce"
@@ -1022,43 +1036,6 @@
       "Books",
       "Read",
       "Entertainment & Toys",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "cec864f1-0525-49dc-861f-44482b5c48de",
-    "type": "shop",
-    "title": "Feed Love",
-    "subtitle": "Our mission is to create a culture, through quality apparel, where seeing, being and feeding love, can change the world.",
-    "imageUrl": "https://static1.squarespace.com/static/5bd921393c3a532204faff71/t/5eb0fafdb6165a7ec3030af0/1601655514609/?format=1500w",
-    "clickUrl": "https://lovechangesworlds.com/shop",
-    "products": [
-      {
-        "name": "Original Hoodie",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1581582979877-E3OEYJJ4LE72MDOUKR2X/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmjw4y9jm25X_CplAKqpK2fkSw6YcmP1xW_gG8HCptQz72szHi8Rk0JAosDC56jamZ/F4FCBADE-3F90-466F-BCE0-F951349D730A.jpeg?format=2500w",
-        "description": "The \"Original Hoodie\" is a part of the very first feed love collection. This sweatshirt includes the signature embroidered Feed Love logo on the front, and the screen-printed world logo on the back.",
-        "clickUrl": "https://lovechangesworlds.com/shop/original-hoodie",
-        "shopName": "Feed Love"
-      },
-      {
-        "name": "Feed Love Pride Sticker",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1594238547738-QRM8MSEY2MBDRTV52TPL/ke17ZwdGBToddI8pDm48kJRsEtw8WA_UJ9QXrXFxQy17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fIa6FrD2UVhHivx3O01HYc2Ih6B6P4I_ZLXoIFGeAcg1A/NEW+PRIDE+LOGO.jpg?format=2500w",
-        "description": "In our continued effort to spread love and provide support to the marginalized communities of this world, the Feed Love team has decided to partner with Solve for X Mutual Aid in celebrating the LGBTQ+ community! 100% of the proceeds from this sticker will go to Solve for X Mutual Aid.",
-        "clickUrl": "https://lovechangesworlds.com/shop/feed-love-pride-sticker-new-pride-colors",
-        "shopName": "Feed Love"
-      },
-      {
-        "name": "Unconditional Lovers Hoodie",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1606341134925-O5LSUUSY9XZGANBWMG8O/ke17ZwdGBToddI8pDm48kDzSZ2RUJPueXSnZMwWaeHR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fJ9fYTeFD0mwPtBWPNhwDufsOWs2VgLGrIU-W0iMnuwSA/4276FC3E-03EA-40C4-93EC-09E6B9648848-5AC8E77C-3525-4757-A65F-2B7653381E9A.JPG?format=2500w",
-        "description": "The \"Unconditional Lover Hoodie\" displays the signature Feed Love heart logo embroidered on the left chest and the unconditional lover logo screen-printed on the back.",
-        "clickUrl": "https://lovechangesworlds.com/shop/unconditional-lover-hoodie",
-        "shopName": "Feed Love"
-      }
-    ],
-    "tags": [
-      "Clothes",
-      "Fashion",
       "Shop"
     ],
     "priority": 10
@@ -1397,7 +1374,7 @@
     "title": "Puzzle Huddle",
     "subtitle": "Kids grow up fast! Stay connected and hear about new puzzle designs and discounts. We promise not to spam you because we're too busy with potty training and coloring books.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/files/DSC_7504_720x.JPG?v=1519584724",
-    "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock",
+    "clickUrl": "https://puzzlehuddle.com/collections",
     "products": [
       {
         "name": "XL Chemistry Girl Kids' Puzzle",
@@ -1703,42 +1680,6 @@
       "Handbags",
       "Electronics",
       "Food & Beverage",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "ebbc04b1-856a-43b5-9fbe-7ac70ca4791f",
-    "type": "shop",
-    "title": "Puku",
-    "subtitle": "Puku was founded in the aftermath of Hurricane Sandy after experiencing the hardship of living without the power to charge phones. And just like the animal, it retains the same essential qualities such as Power, Beauty and Speed.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/files/PUKU_LOGO_FINAL_WEB_x320.png?v=1521400391",
-    "clickUrl": "https://www.gotpuku.com/collections/all",
-    "products": [
-      {
-        "name": "Puku Light - Charger",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/Pink_dae53de9-f379-45d8-9d3f-aed275535c13_1050x.jpg?v=1510253485",
-        "description": "For the fashion-forward trendsetters who love technology and appreciate sleek design, Puku Light is a must-have portable charger to stay connected on the go.",
-        "clickUrl": "https://www.gotpuku.com/products/puku-light",
-        "shopName": "Puku"
-      },
-      {
-        "name": "Puku G8 - Earphones",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/puku-earphones_1050x.jpg?v=1509390430",
-        "description": "Enjoy music on the go or make phone calls with these tangle-free and high-resolution in-ear headphones.",
-        "clickUrl": "https://www.gotpuku.com/products/puku-earphones",
-        "shopName": "Puku"
-      },
-      {
-        "name": "Puku 12S Pro - Charger",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1176/2336/products/electric-blue_d4cabf4a-6ca3-4d67-8105-8a5b3d49668e_1050x.jpg?v=1509404370",
-        "description": "Traveling long distances or for long periods of time can be an arduous process, but thankfully, with Puku 12S, keeping all your mobile devices charged along the way doesn’t have to be.",
-        "clickUrl": "https://www.gotpuku.com/products/puku-pro-1",
-        "shopName": "Puku"
-      }
-    ],
-    "tags": [
-      "Electronics",
       "Shop"
     ],
     "priority": 10
@@ -2215,7 +2156,7 @@
     "products": [
       {
         "name": "Pumpkin Spice Pepper Sauce",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1602099594037-6D0XA5Y2FS2993T13BCI/ke17ZwdGBToddI8pDm48kC_GZvizbZjJR_uzqe359697gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmNFveLtSPA03JKuAUT-dZq1onRLzkUfOc0_NbeUxXPaa_Rwy7W5hOjqXeAnx7QK-6/CamellasKitchenWB-24%255B1%255D.jpg?format=1500w",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1602516417189-QTNTF22P67FZB9TCHZ95/ke17ZwdGBToddI8pDm48kANU1I5Olj2hr4y6T3WT91x7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub11NSTVI8Axip6F8tVBP5tI5ImsOVnuAD7UkQAEcubSkxn0g6lR5Nhs_Kjrj6WtEA/20200901_103612.jpg?format=2500w",
         "description": "Satisfy your cravings for pumpkin spice and heat with this flavorful hot sauce! Filled with pumpkin and savory spices, this will make the perfect travel-size treat for the fall!",
         "clickUrl": "https://www.camellaskitchen.com/shop/pumpkin-spice-pepper-sauce",
         "shopName": "Camella's Kitchen"
@@ -2924,10 +2865,10 @@
         "shopName": "Lyfestyle Clothing"
       },
       {
-        "name": "Black Mock Neck Multicolor Dress",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/WebsiteDress_750x.jpg?v=1583914307",
+        "name": "Multicolor Turtleneck Lyfestyle Dresses",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/9GRL2C1g_600x.jpg?v=1612627207",
         "description": "Chenille Patch. 94.5% Rayon / 5.5% Spandex. Fitted. Sewn in Brooklyn",
-        "clickUrl": "https://www.lyfestylenyc.shop/products/black-mock-neck-multicolor-dress",
+        "clickUrl": "https://www.lyfestylenyc.shop/collections/dresses/products/multicolor-turtleneck-lyfestyle-dresses",
         "shopName": "Lyfestyle Clothing"
       },
       {
@@ -3010,7 +2951,7 @@
       },
       {
         "name": "POWERHANDZ Resistance Bands and Sliders",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0724/7557/products/POWERPACKGiftsetNEWBANDS_grande.jpg?v=1605905539",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0724/7557/products/B07YXDQZL5.MAIN.23938343705.1_grande.jpg?v=1618357484",
         "description": "Set includes 5 resistance bands, 2 sliding disks, and a bag for storage.",
         "clickUrl": "https://shop.powerhandz.com/collections/all/products/powerpack-gift-set-1",
         "shopName": "POWERHANDZ"
@@ -3320,10 +3261,10 @@
         "shopName": "Harrison Blake Apparel"
       },
       {
-        "name": "Gold Circle and Star Earrings",
-        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/1715/images/4288/Attachment_1556500459__47592.1556690321.500.750.jpg?c=2",
-        "description": "Unique, Elegant and Simple design. Add a nice touch to complete your look for any occasion. All of our jewelry is silver or gold plated and hypoallergenic.",
-        "clickUrl": "https://harrisonblakeapparel.com/gold-circle-and-star-earrings/",
+        "name": "4 Layer Beet Bracelet",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2140/images/5627/Rich____plainnameguy_-_3489507A-0C48-4F40-A672-A2FBCD6A59AA__98089.1598847782.500.750.jpg?c=2",
+        "description": "The perfect bracelet can add the finishing touch to your outfit. The smallest details often say the most. Add this stylish accessory to your collection.",
+        "clickUrl": "https://harrisonblakeapparel.com/4-layer-beet-bracelet/",
         "shopName": "Harrison Blake Apparel"
       }
     ],
@@ -3539,7 +3480,7 @@
     "products": [
       {
         "name": "Black Satin Head Wrap",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-satin-front-knot-headwrap-model_1080x.jpg?v=1604290984",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-silk-turban-topknotted_1080x.jpg?v=1617385042",
         "description": "Black, Pre-tied Satin Turban Head Wrap is made completely of black satin to prevent friction between the cotton fabric and your fragile hair strands. Features an elastic band in the back to ensure a the turban stays secure on your head.",
         "clickUrl": "https://lozatam.com/collections/classic/products/black-pretied-head-wrap-for-women",
         "shopName": "Loza Tam"
@@ -3809,7 +3750,7 @@
       },
       {
         "name": "Baby Blue Compression Cap",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/baby-blue-compression-cap-452297_1400x.jpg?v=1613255797",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/baby-blue-compression-cap-748835_1080x.jpg?v=1616987569",
         "description": "Our 2-6 King Wavy Wave Cap is designed to give the ultimate compression. Combined with any of our durags to achieve your maximum 360, 540, 720 wave potential.",
         "clickUrl": "https://26kingwavymerch.com/products/baby-blue-compression-cap",
         "shopName": "26 King Wavy Merch, LLC"
@@ -4265,37 +4206,6 @@
     "priority": 10
   },
   {
-    "id": "15009f31-e10d-4879-a330-9e082d00aea5",
-    "type": "shop",
-    "title": "BAH NICA",
-    "subtitle": "Where the serene aquamarine seas meet the amber volcanic lava. Where resilience meets creative passion. In it's simplest form, it's truly the defining moment where elegance and excellence meet.",
-    "imageUrl": "https://static.wixstatic.com/media/6a4008_622754f30147423d85ad57b8bc90f11c~mv2.jpg/v1/fill/w_1000,h_666,al_c,q_85,usm_0.66_1.00_0.01/6a4008_622754f30147423d85ad57b8bc90f11c~mv2.webp",
-    "clickUrl": "https://www.bahnica.com/",
-    "tags": [
-      "Hair & Headwear",
-      "Haircare",
-      "Hair Styling",
-      "Accessories",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "cbcd6164-6117-4abc-8548-3972a7465cc4",
-    "type": "shop",
-    "title": "Jenks Fashionique",
-    "subtitle": "We are for the fashion forward confident woman who is living her life defined by her passions. We strive to provide fashionable high quality merchandise to those who want to look their best. We sell a selective quantity of each item and rarely restock more than once so that you will not have to worry about anyone else saying, \"Jenks\" (jynx) because she is wearing the same thing as you! We offer boutique shopping from the comfort of your own home!",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/2085/6135/files/IMG_20180830_011300_653_600x.jpg?v=1535676047",
-    "clickUrl": "https://jenksfashionique.com/",
-    "tags": [
-      "Fashion",
-      "Clothing",
-      "Handbags",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "238780d0-ec1a-4db2-bb30-18a6ba758aa7",
     "type": "shop",
     "title": "BLK & Proud Forever",
@@ -4446,8 +4356,8 @@
     "type": "shop",
     "title": "Official Black Wall Street",
     "subtitle": "Get thousands of Black-owned businesses at your fingertips with the largest online platform for Black businesses.",
-    "imageUrl": "https://officialblackwallstreet.com/wp-content/uploads/2015/06/Mobile-Logo.png",
-    "clickUrl": "https://officialblackwallstreet.com/directory/",
+    "imageUrl": "https://obws.com/img/logo.png",
+    "clickUrl": "https://obws.com/",
     "tags": [
       "Goods",
       "services",
@@ -4538,21 +4448,21 @@
     "products": [
       {
         "name": "Loc God Stimulating Oil 4oz",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_3cd9ce2b-73c9-40fa-bb25-c9a9f2621771_1080x.jpg?v=1590547679",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_410f46b3-51b0-4ccf-aae5-2b35f50f90b9_1080x.jpg?v=1616165149",
         "description": "This stimulating oils is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lemongrass essential oils.  This product is extremely light and will leave your scalp itch free.",
         "clickUrl": "https://shopniathelocgod.com/collections/all/products/loc-god-stimulating-oil-4oz",
         "shopName": "Nia the Loc God"
       },
       {
         "name": "The Loc God Hydration Mist 9oz",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_14ab4b74-644b-4777-a0df-f1e5827b9007_1080x.jpg?v=1590547715",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_924d3641-b7c4-4a47-8205-9e58a3ba3bfe_1080x.jpg?v=1616165202",
         "description": "This hydration mist is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lavender essential oils.  This product will leave your hair super soft and give you an extra boost of hydration and shine.",
         "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-hydration-mist-8oz",
         "shopName": "Nia the Loc God"
       },
       {
         "name": "The Loc God Scalp Renewal Cleansing Shampoo (Lemongrass)",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_61a913ce-cfdf-458c-bff4-6a279274b6d2_1080x.jpg?v=1602250281",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_d44779e4-77ea-438e-a011-b6ec71e22204_1080x.jpg?v=1616167643",
         "description": "Deep cleansing shampoo, with a luxurious smell that will leave your hair clean and not feeling stripped. This shampoo is 100% natural. It will help with dandruff, irritated and or itchy scalp.",
         "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-scalp-renewal-cleansing-shampoo-lemongrass",
         "shopName": "Nia the Loc God"
@@ -4742,14 +4652,14 @@
       },
       {
         "name": "Soft Single-Pack",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/Brush-3-web_1024x1024@2x.jpg?v=1514389783",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/2_1024x1024@2x.png?v=1619544811",
         "description": "A full brush head and precision cut bristles to reach the tooth's total surface. Gently cleans and massages gums, tongue and teeth. Soft bristles sure not to cause any damage or pain!",
         "clickUrl": "https://coraloral.com/collections/shop/products/soft1pack",
         "shopName": "Coral Oral"
       },
       {
         "name": "Medium Single-Pack",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/Brush-3-web_22385285-cc88-45d1-90f8-5c5a70c42d7f_1024x1024@2x.jpg?v=1592594382",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2660/7938/products/1_1024x1024@2x.png?v=1619903779",
         "description": "A full brush head and precision cut bristles to reach the tooth's total surface. Gently cleans and massages gums, tongue and teeth. Medium bristles sure not to cause any damage or pain!",
         "clickUrl": "https://coraloral.com/collections/shop/products/mediumsinglepack",
         "shopName": "Coral Oral"
@@ -4967,7 +4877,7 @@
     "title": "Plum Good",
     "subtitle": "Plum Good locally produces, discriminately sources and proudly brings to market the highest quality culinary and restorative spices, herbs and tea blends available. Our mission is to help bring flavorful nutrition available to our customers.  We make All Natural rubs and blends, teas, jams and sauces.",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1796/4623/files/PG_2.0_v9_800x@2x.png?v=1547175812",
-    "clickUrl": "https://tasteplumgood.com/collections",
+    "clickUrl": "https://www.tasteplumgood.com/spices-herbs-rubs-blends",
     "products": [
       {
         "name": "Paprika Lime Blend",
@@ -5011,7 +4921,7 @@
     "products": [
       {
         "name": "East Fourteenth",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/east-fourteenth-121172_900x.jpg?v=1605171886",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/east-fourteenth-334342_900x.jpg?v=1618419265",
         "description": "Tanzanian Dark Roast - Blackberry, Dark Chocolate, Date  East Fourteenth is an homage to a past heritage and a link to history in the making. It is the story of Oakland’s wide-reaching cultures and creeds.",
         "clickUrl": "https://www.redbaycoffee.com/collections/coffee/products/east-fourteenth",
         "shopName": "Red Bay Coffee"

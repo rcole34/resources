@@ -44,5 +44,50 @@
       "Act"
     ],
     "priority": 10
+  },
+  {
+    "id": "37cd2d9d-c3a4-4fb1-8099-9782e7c2ac9c",
+    "type": "act",
+    "title": "Justice for George Floyd",
+    "subtitle": "Reach the attention of Mayor Jacob Frey and DA Mike Freeman to beg to have the officers involved in this disgusting situation fired and for charges to be filed immediately.",
+    "imageUrl": "https://assets.change.org/photos/0/la/lt/mylaLTYqhScqWHI-800x450-noPad.jpg?1590516227",
+    "clickUrl": "https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd",
+    "tags": [
+      "George Floyd",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "3815c05d-f604-4306-8431-f260f1d296aa",
+    "type": "act",
+    "title": "The Minneapolis Police Officers to be charged for murder after killing innocent black man",
+    "subtitle": "Stand up to the Minneapolis Police Department and demand that both officers are charged with murder and sentenced to the highest possible amount of time in Federal prison.",
+    "imageUrl": "https://assets.change.org/photos/5/fy/lp/hefYLPAEZiucYPE-800x450-noPad.jpg?1590500998",
+    "clickUrl": "https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man",
+    "tags": [
+      "Police",
+      "Minnesota",
+      "MN",
+      "Sign",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1a726619-6fc9-4e2d-93f0-c21cc15cd692",
+    "type": "act",
+    "title": "Demand a free and fair trial.",
+    "subtitle": "George Floyd should still be alive today. Demand Justice. Derek Chauvin will stand trial for the murder of George Floyd in March. The 3 other officers on the scene that day will stand trial in August. Chauvin has been charged with second-degree murder and manslaughter and faces up to 40 years in prison if convicted.",
+    "imageUrl": "https://assets.change.org/photos/6/ub/io/vvubiopsHSNYrQX-800x450-noPad.jpg?1613975874",
+    "clickUrl": "https://www.change.org/p/tim-walz-demand-a-free-and-fair-trial",
+    "tags": [
+      "Sign",
+      "Petition",
+      "George Floyd",
+      "Act"
+    ],
+    "priority": 10
   }
 ]

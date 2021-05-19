@@ -161,42 +161,5 @@
       "Shop"
     ],
     "priority": 10
-  },
-  {
-    "id": "cec864f1-0525-49dc-861f-44482b5c48de",
-    "type": "shop",
-    "title": "Feed Love",
-    "subtitle": "Our mission is to create a culture, through quality apparel, where seeing, being and feeding love, can change the world.",
-    "imageUrl": "https://static1.squarespace.com/static/5bd921393c3a532204faff71/t/5eb0fafdb6165a7ec3030af0/1601655514609/?format=1500w",
-    "clickUrl": "https://lovechangesworlds.com/shop",
-    "products": [
-      {
-        "name": "Original Hoodie",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1581582979877-E3OEYJJ4LE72MDOUKR2X/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmjw4y9jm25X_CplAKqpK2fkSw6YcmP1xW_gG8HCptQz72szHi8Rk0JAosDC56jamZ/F4FCBADE-3F90-466F-BCE0-F951349D730A.jpeg?format=2500w",
-        "description": "The \"Original Hoodie\" is a part of the very first feed love collection. This sweatshirt includes the signature embroidered Feed Love logo on the front, and the screen-printed world logo on the back.",
-        "clickUrl": "https://lovechangesworlds.com/shop/original-hoodie",
-        "shopName": "Feed Love"
-      },
-      {
-        "name": "Feed Love Pride Sticker",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1594238547738-QRM8MSEY2MBDRTV52TPL/ke17ZwdGBToddI8pDm48kJRsEtw8WA_UJ9QXrXFxQy17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fIa6FrD2UVhHivx3O01HYc2Ih6B6P4I_ZLXoIFGeAcg1A/NEW+PRIDE+LOGO.jpg?format=2500w",
-        "description": "In our continued effort to spread love and provide support to the marginalized communities of this world, the Feed Love team has decided to partner with Solve for X Mutual Aid in celebrating the LGBTQ+ community! 100% of the proceeds from this sticker will go to Solve for X Mutual Aid.",
-        "clickUrl": "https://lovechangesworlds.com/shop/feed-love-pride-sticker-new-pride-colors",
-        "shopName": "Feed Love"
-      },
-      {
-        "name": "Unconditional Lovers Hoodie",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bd921393c3a532204faff71/1606341134925-O5LSUUSY9XZGANBWMG8O/ke17ZwdGBToddI8pDm48kDzSZ2RUJPueXSnZMwWaeHR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fJ9fYTeFD0mwPtBWPNhwDufsOWs2VgLGrIU-W0iMnuwSA/4276FC3E-03EA-40C4-93EC-09E6B9648848-5AC8E77C-3525-4757-A65F-2B7653381E9A.JPG?format=2500w",
-        "description": "The \"Unconditional Lover Hoodie\" displays the signature Feed Love heart logo embroidered on the left chest and the unconditional lover logo screen-printed on the back.",
-        "clickUrl": "https://lovechangesworlds.com/shop/unconditional-lover-hoodie",
-        "shopName": "Feed Love"
-      }
-    ],
-    "tags": [
-      "Clothes",
-      "Fashion",
-      "Shop"
-    ],
-    "priority": 10
   }
 ]

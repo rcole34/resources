@@ -1,5 +1,19 @@
 [
   {
+    "id": "cec864f1-0525-49dc-861f-44482b5c48de",
+    "type": "shop",
+    "title": "Feed Love",
+    "subtitle": "Our mission is to create a culture, through quality apparel, where seeing, being and feeding love, can change the world.",
+    "imageUrl": "https://static1.squarespace.com/static/5bd921393c3a532204faff71/t/5eb0fafdb6165a7ec3030af0/1601655514609/?format=1500w",
+    "clickUrl": "https://www.feedlove.co/collections/all",
+    "tags": [
+      "Clothes",
+      "Fashion",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "0c62fd3a-154e-40e1-95ce-3fad98649689",
     "type": "shop",
     "title": "Big Mama's Sauce",

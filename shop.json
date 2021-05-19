@@ -2465,43 +2465,6 @@
     "priority": 10
   },
   {
-    "id": "149971c0-ffc6-47c3-bc8f-db0bbdc49bea",
-    "type": "shop",
-    "title": "Maeday Gourmet Sauces and Rubs",
-    "subtitle": "All of our barbecue sauces are gluten free and made without high fructose corn syrup. If you read our ingredient list you won’t find anything that you will have to google to figure out what it is and what the effects will be on your body. We believe that the cleaner the ingredients then the cleaner the taste.",
-    "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/cropped-Allprod.2018.jpg",
-    "clickUrl": "https://www.maedaybbq.com/store/",
-    "products": [
-      {
-        "name": "Original Maeday BBQ Sauce",
-        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/SweetOri.2.2018-768x960.jpg",
-        "description": "Original Maeday BBQ Sauce",
-        "clickUrl": "https://www.maedaybbq.com/store/",
-        "shopName": "Maeday Gourmet Sauces and Rubs"
-      },
-      {
-        "name": "Caribbean Flame Maeday BBQ Sauce (Spicy)",
-        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/CaribbeanFlame.2018-768x960.jpg",
-        "description": "Caribbean Flame Maeday BBQ Sauce (Spicy)",
-        "clickUrl": "https://www.maedaybbq.com/store/",
-        "shopName": "Maeday Gourmet Sauces and Rubs"
-      },
-      {
-        "name": "Summer Sizzle Meat Rub",
-        "imageUrl": "https://www.maedaybbq.com/wp-content/uploads/2018/10/Summersizzle.2018-768x960.jpg",
-        "description": "Summer Sizzle Meat Rub",
-        "clickUrl": "https://www.maedaybbq.com/store/",
-        "shopName": "Maeday Gourmet Sauces and Rubs"
-      }
-    ],
-    "tags": [
-      "Food & Beverage",
-      "Condiments & Spices",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "1182e348-c6a8-43dc-9555-2bfa0afd7ac5",
     "type": "shop",
     "title": "MoreFire! Hot Sauce",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "1b04e9e2-2d48-428b-b250-950c35c91016",
+    "type": "learn",
+    "title": "Harvard student penned textbook on racial literacy",
+    "subtitle": "Winona Guo '22 co-authored a book on race, culture, and identity as a resource for teachers.",
+    "imageUrl": "https://news.harvard.edu/wp-content/uploads/2019/09/091919_Guo_072_2500-1500x1000.jpg",
+    "clickUrl": "https://news.harvard.edu/gazette/story/2019/10/harvard-student-pens-textbook-on-racial-literacy/",
+    "tags": [
+      "Harvard",
+      "Book",
+      "Textbook",
+      "Education",
+      "Racial Literacy",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

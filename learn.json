@@ -1,5 +1,19 @@
 [
   {
+    "id": "162f0cd8-ec7a-4866-af02-e066ee60c81f",
+    "type": "learn",
+    "title": "Book: Tell Me Who You Are",
+    "subtitle": "A roadmap for cultivation racial literacy by Winona Guo and Priya Vulchi",
+    "imageUrl": "https://images1.penguinrandomhouse.com/cover/9780593330173",
+    "clickUrl": "https://www.penguinrandomhouse.com/books/602186/tell-me-who-you-are-by-winona-guo-and-priya-vulchi/",
+    "tags": [
+      "Racial Literacy",
+      "Book",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

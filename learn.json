@@ -1,5 +1,21 @@
 [
   {
+    "id": "0860fb78-ba41-420e-ac27-579af684b0e8",
+    "type": "learn",
+    "title": "Book: Understanding Mass Incarceration",
+    "subtitle": "A People's Guide to the Key Civil Rights Struggle of Our Time",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FUnderstanding-Mass-Incarceration-Peoples-Struggle%2Fdp%2F1620970678&psig=AOvVaw3huOxyskA-XEgKI0uGnr1U&ust=1621732378213000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDu0ISO3PACFQAAAAAdAAAAABAg",
+    "clickUrl": "https://www.nationalbook.org/understanding-mass-incarceration-a-peoples-guide-to-the-key-civil-rights-struggle-of-our-time-by-james-kilgore/",
+    "tags": [
+      "Book",
+      "Mass Incarceration",
+      "Prison Reform",
+      "Black History",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

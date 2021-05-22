@@ -1,5 +1,21 @@
 [
   {
+    "id": "fc9f6853-cd45-4bc8-83e0-81df3bc19147",
+    "type": "learn",
+    "title": "Can the Beauty Industry Confront Colorism?",
+    "subtitle": "The beauty industry has been trying to productively confront racism. Can it do the same with colorism, where lighter-skinned models are favored over those with darker skin?",
+    "imageUrl": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_908/fl_lossy,q_auto/v1611425552/210123-colorism-tease_p5md4i",
+    "clickUrl": "https://www.thedailybeast.com/can-the-beauty-industry-confront-colorism",
+    "tags": [
+      "Colorism",
+      "Beauty Industry",
+      "Article",
+      "Lack of Diversity",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

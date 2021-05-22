@@ -1,5 +1,22 @@
 [
   {
+    "id": "e8a5bb77-7c98-450d-8f4c-f33c8c91b5bc",
+    "type": "learn",
+    "title": "Book: What Does It Mean to Be White?",
+    "subtitle": "Developing White Racial Literacy - Revised Edition",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FWhat-Does-Mean-White-Counterpoints-ebook%2Fdp%2FB0764GK3H3&psig=AOvVaw08sC5wT4VWZCItdX-_gOi3&ust=1621736070130000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC9oOWb3PACFQAAAAAdAAAAABAD",
+    "clickUrl": "https://bookshop.org/books/what-does-it-mean-to-be-white-developing-white-racial-literacy-revised-edition/9781433131103",
+    "tags": [
+      "Book",
+      "Racial Literacy",
+      "Teaching",
+      "Education",
+      "Self-Education",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

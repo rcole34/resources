@@ -1,5 +1,22 @@
 [
   {
+    "id": "fb973124-9d03-41ab-a670-88da4794adcd",
+    "type": "learn",
+    "title": "Colorism in the Beauty Industry",
+    "subtitle": "America has progressed tremendously over recent years in terms of racial inequality, but colorism remains to be seen on a global scale.",
+    "imageUrl": "https://digitalbeauty.com/wp-content/uploads/2020/08/DB_2009_JM_Colorism_Slider2.jpg",
+    "clickUrl": "https://digitalbeauty.com/colorism-in-the-beauty-industry/",
+    "tags": [
+      "Colorism",
+      "Beauty Industry",
+      "Lack of Diversity",
+      "Black History",
+      "Research",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

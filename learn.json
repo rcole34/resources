@@ -1,5 +1,22 @@
 [
   {
+    "id": "51006bb8-bdc9-48ed-bfa6-f9ee8d2842de",
+    "type": "learn",
+    "title": "Criminal Justice Facts",
+    "subtitle": "\nThe Sentencing Project compiles state-level criminal justice data from a variety of sources. Using this state-by-state data feature, you can navigate between interactive maps, tables, and rankings that allow you to access and use these data.",
+    "imageUrl": "https://www.sentencingproject.org/wp-content/uploads/2015/10/lifetime-likelihood.png",
+    "clickUrl": "https://www.sentencingproject.org/criminal-justice-facts/",
+    "tags": [
+      "Criminal Justice",
+      "Mass Incarceration",
+      "Statistics",
+      "Research",
+      "Prison Reform",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

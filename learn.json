@@ -1,5 +1,269 @@
 [
   {
+    "id": "81160e5a-a679-4032-aa53-2e0a9c0cb80b",
+    "type": "learn",
+    "title": "Book: Teaching Racial Literacy",
+    "subtitle": "Reflective Practices for Critical Writing",
+    "imageUrl": "https://www.porchlightbooks.com/globalassets/book-covers/9781475836615.jpg?w=1000&scale=both&mode=crop&u=637179121540870000",
+    "clickUrl": "https://rowman.com/ISBN/9781475836615/Teaching-Racial-Literacy-Reflective-Practices-for-Critical-Writing",
+    "tags": [
+      "Book",
+      "Racial Literacy",
+      "Teaching",
+      "Education",
+      "Unlearn",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "162f0cd8-ec7a-4866-af02-e066ee60c81f",
+    "type": "learn",
+    "title": "Book: Tell Me Who You Are",
+    "subtitle": "A roadmap for cultivation racial literacy by Winona Guo and Priya Vulchi",
+    "imageUrl": "https://images1.penguinrandomhouse.com/cover/9780593330173",
+    "clickUrl": "https://www.penguinrandomhouse.com/books/602186/tell-me-who-you-are-by-winona-guo-and-priya-vulchi/",
+    "tags": [
+      "Racial Literacy",
+      "Book",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "1b04e9e2-2d48-428b-b250-950c35c91016",
+    "type": "learn",
+    "title": "Harvard student penned textbook on racial literacy",
+    "subtitle": "Winona Guo '22 co-authored a book on race, culture, and identity as a resource for teachers.",
+    "imageUrl": "https://news.harvard.edu/wp-content/uploads/2019/09/091919_Guo_072_2500-1500x1000.jpg",
+    "clickUrl": "https://news.harvard.edu/gazette/story/2019/10/harvard-student-pens-textbook-on-racial-literacy/",
+    "tags": [
+      "Harvard",
+      "Book",
+      "Textbook",
+      "Education",
+      "Racial Literacy",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a2fe2c5e-a969-4395-b454-2dda60970be9",
+    "type": "learn",
+    "title": "Racial Literacy: A Call to Action for Teachers",
+    "subtitle": "Uprisings in the wake of George Floyd’s death at the hands of police and the worldwide reaction demanding racial justice represented a wake-up moment for schools. Talking about race will be essential if we are going to serve all students well.",
+    "imageUrl": "https://racialliteracyorg.files.wordpress.com/2019/05/6hwzl_sd.png",
+    "clickUrl": "https://www.hmhco.com/blog/racial-literacy-a-call-to-action-for-teachers",
+    "tags": [
+      "Education",
+      "Unlearn",
+      "Curriculum",
+      "Racial Literacy",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "63da41a1-c72a-4a13-9edf-55e3e4c6038d",
+    "type": "learn",
+    "title": "Racial Literacy: What Does it Mean?",
+    "subtitle": "What is your first memory of racial difference? Unfortunately, our education system doesn’t include a standard explanation to our young people of the history of the creation of the concept of race (or critical race theory). Learn today what you should've in school.",
+    "imageUrl": "https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/_transforms/public/blog/623746/Tyrone-Howard-Hero-2_6699dd8b7813014bf9718f78f267b2d1.png",
+    "clickUrl": "https://theblackcurriculum.com/blog/blog-post-title-three-dxgps",
+    "tags": [
+      "Racial Literacy",
+      "Education",
+      "Self-Education",
+      "Unlearn",
+      "Difficult Conversation",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f3c6e89c-a5bd-45a1-9605-cbc34c6b8266",
+    "type": "learn",
+    "title": "Book: The Global Beauty Industry",
+    "subtitle": "Colorism, Racism, and the National Body",
+    "imageUrl": "https://images.routledge.com/common/jackets/crclarge/978113883/9781138839434.jpg",
+    "clickUrl": "https://www.routledge.com/The-Global-Beauty-Industry-Colorism-Racism-and-the-National-Body/Jha/p/book/9781138839434",
+    "tags": [
+      "Book",
+      "Colorism",
+      "Beauty Industry",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "cdb2d8c9-ec5a-4a62-9df3-f43b805e4ebb",
+    "type": "learn",
+    "title": "A Content Analysis and Study of Colorism and Strides toward Inclusivity in the Cosmetic Industry",
+    "subtitle": "The purpose of this research is twofold: 1) to explore colorism in the cosmetic industry in light of multiple marketing venues such as social media, online, and retail stores and 2) to provide a snapshot of improvement (or lack of) in shades and foundation colors offered in the beauty industry.",
+    "imageUrl": "https://i1.rgstatic.net/publication/333850420_Black_and_Beautiful_A_Content_Analysis_and_Study_of_Colorism_and_Strides_toward_Inclusivity_in_the_Cosmetic_Industry/links/5d0a67aca6fdcc35c15b617e/largepreview.png",
+    "clickUrl": "https://www.researchgate.net/publication/333850420_Black_and_Beautiful_A_Content_Analysis_and_Study_of_Colorism_and_Strides_toward_Inclusivity_in_the_Cosmetic_Industry",
+    "tags": [
+      "Research Study",
+      "Colorism",
+      "Beauty",
+      "Lack of Diversity",
+      "Black Representation",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "fb973124-9d03-41ab-a670-88da4794adcd",
+    "type": "learn",
+    "title": "Colorism in the Beauty Industry",
+    "subtitle": "America has progressed tremendously over recent years in terms of racial inequality, but colorism remains to be seen on a global scale.",
+    "imageUrl": "https://digitalbeauty.com/wp-content/uploads/2020/08/DB_2009_JM_Colorism_Slider2.jpg",
+    "clickUrl": "https://digitalbeauty.com/colorism-in-the-beauty-industry/",
+    "tags": [
+      "Colorism",
+      "Beauty Industry",
+      "Lack of Diversity",
+      "Black History",
+      "Research",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "fc9f6853-cd45-4bc8-83e0-81df3bc19147",
+    "type": "learn",
+    "title": "Can the Beauty Industry Confront Colorism?",
+    "subtitle": "The beauty industry has been trying to productively confront racism. Can it do the same with colorism, where lighter-skinned models are favored over those with darker skin?",
+    "imageUrl": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_908/fl_lossy,q_auto/v1611425552/210123-colorism-tease_p5md4i",
+    "clickUrl": "https://www.thedailybeast.com/can-the-beauty-industry-confront-colorism",
+    "tags": [
+      "Colorism",
+      "Beauty Industry",
+      "Article",
+      "Lack of Diversity",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "d9e00463-34f6-492e-8a6e-2e7c5c2debdc",
+    "type": "learn",
+    "title": "Mass Incarceration: Visualized",
+    "subtitle": "Concrete actions, more than stated beliefs, are a true reflection of values, both personal and societal. We may claim to value human life, but our societal actions and policies say otherwise.",
+    "imageUrl": "https://osocio.org/wp-content/uploads/2015/11/Mass-Incarceration-Visualized.jpg",
+    "clickUrl": "https://www.youtube.com/watch?v=u51_pzax4M0",
+    "tags": [
+      "Watch",
+      "Video",
+      "Visual Model",
+      "Mass Incarceration",
+      "Explained",
+      "Prison Reform",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "0860fb78-ba41-420e-ac27-579af684b0e8",
+    "type": "learn",
+    "title": "Book: Understanding Mass Incarceration",
+    "subtitle": "A People's Guide to the Key Civil Rights Struggle of Our Time",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FUnderstanding-Mass-Incarceration-Peoples-Struggle%2Fdp%2F1620970678&psig=AOvVaw3huOxyskA-XEgKI0uGnr1U&ust=1621732378213000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDu0ISO3PACFQAAAAAdAAAAABAg",
+    "clickUrl": "https://www.nationalbook.org/understanding-mass-incarceration-a-peoples-guide-to-the-key-civil-rights-struggle-of-our-time-by-james-kilgore/",
+    "tags": [
+      "Book",
+      "Mass Incarceration",
+      "Prison Reform",
+      "Black History",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ec904a76-bb50-45bd-8db0-f3a2055acf45",
+    "type": "learn",
+    "title": "The Black Family in the Age of Mass Incarceration",
+    "subtitle": "By author Ta-Nehisi Coates: Fifty years after Daniel Patrick Moynihan’s report “The Negro Family” tragically helped create this system, it's time to reclaim his original intent.",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/LA_l7wJnMdhHRcI7dZoreXCnoBk=/1920x1440/media/img/2015/09/02/WEL_Coates_MassIncarceration_OPENER/original.jpg",
+    "clickUrl": "https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/#Chapter%20II",
+    "tags": [
+      "Ta-Nehisi Coates",
+      "Mass Incarceration",
+      "Black History",
+      "Prison Reform",
+      "Daniel Patrick Moynihan",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "7cd17d27-8c3f-4e2f-b5af-83b82fbc5ab9",
+    "type": "learn",
+    "title": "22 Maps & Charts Explaining Mass Incarceration",
+    "subtitle": "America is number one — in incarceration. Over the past several decades, the country has built the largest prison population in the entire world, with the second-highest prison population per capita behind the tiny African country of Seychelles. But how did it get this way?",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/u8kr-cpgxJItPObUzm7qyc9jVbo=/0x0:1095x842/1720x0/filters:focal(0x0:1095x842):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7259653/us_prison_population.0.png",
+    "clickUrl": "https://www.vox.com/2015/7/13/8913297/mass-incarceration-maps-charts",
+    "tags": [
+      "Charts",
+      "Maps",
+      "Statistics",
+      "Visual Models",
+      "Prison Reform",
+      "Mass Incarceration",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "db00510e-4017-4341-a65f-697784ce1f92",
+    "type": "learn",
+    "title": "The History of Mass Incarceration",
+    "subtitle": "From Alexis de Tocqueville to Ronald Reagan, learn more about the forces that have shaped the current state of our prison system.",
+    "imageUrl": "https://www.brennancenter.org/sites/default/files/styles/1400x800/public/2019-10/GettyImages-1045209948.jpg?itok=FIqIseVw",
+    "clickUrl": "https://www.brennancenter.org/our-work/analysis-opinion/history-mass-incarceration",
+    "tags": [
+      "Prison Reform",
+      "Black History",
+      "Mass Incarceration",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "51006bb8-bdc9-48ed-bfa6-f9ee8d2842de",
+    "type": "learn",
+    "title": "Criminal Justice Facts",
+    "subtitle": "The Sentencing Project compiles state-level criminal justice data from a variety of sources. Using this state-by-state data feature, you can navigate between interactive maps, tables, and rankings that allow you to access and use these data.",
+    "imageUrl": "https://www.sentencingproject.org/wp-content/uploads/2015/10/lifetime-likelihood.png",
+    "clickUrl": "https://www.sentencingproject.org/criminal-justice-facts/",
+    "tags": [
+      "Criminal Justice",
+      "Mass Incarceration",
+      "Statistics",
+      "Research",
+      "Prison Reform",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e8a5bb77-7c98-450d-8f4c-f33c8c91b5bc",
+    "type": "learn",
+    "title": "Book: What Does It Mean to Be White?",
+    "subtitle": "Developing White Racial Literacy - Revised Edition",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dSHrdIlwtUDjGNpqTmi7p5l5EVJiwejkLczgmOQJ5NzXXwevMcTNccUybPMGrtDaSAA&usqp=CAU",
+    "clickUrl": "https://bookshop.org/books/what-does-it-mean-to-be-white-developing-white-racial-literacy-revised-edition/9781433131103",
+    "tags": [
+      "Book",
+      "Racial Literacy",
+      "Teaching",
+      "Education",
+      "Self-Education",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

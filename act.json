@@ -1,5 +1,37 @@
 [
   {
+    "id": "153ac82e-b4e7-4d7a-b820-03efdbdfeb65",
+    "type": "act",
+    "title": "Vera Institute of Justice",
+    "subtitle": "Vera is powered by hundreds of advocates, researchers, and activists working to transform the criminal legal and immigration systems until they’re fair for all. Founded in 1961 to advocate for alternatives to money bail in New York City, Vera is now a national organization that partners with impacted communities and government leaders for change.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b0816cb8ab722762bb151a1/1536602472931-O1T7ZKXVIW6WBJTIEAVL/ke17ZwdGBToddI8pDm48kE6ImQsyH5CqY6G2pTx9jaEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcUUAE7W0xnU3PdggpM5xab11eYzgoHChBjTg-P560-hRxHwOJFgLpEXfhOLv29jS-/Vera_Ver_Red.png?format=1000w",
+    "clickUrl": "https://www.vera.org/donate",
+    "tags": [
+      "Donate",
+      "Vera Institute",
+      "Mass Incarceration",
+      "Prison Reform",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "a689ac8c-d088-44d6-ba0e-14f1b062b5bb",
+    "type": "act",
+    "title": "The Sentencing Project",
+    "subtitle": "The Sentencing Project promotes effective and humane responses to crime that minimize imprisonment and criminalization of youth and adults by promoting racial, ethnic, economic, and gender justice.",
+    "imageUrl": "https://www.sentencingproject.org/wp-content/themes/sentencing/img/sentencing_logo.png",
+    "clickUrl": "https://www.sentencingproject.org/actions/",
+    "tags": [
+      "The Sentencing Project",
+      "Prison Reform",
+      "Mass Incarceration",
+      "Research",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "8fd15239-6614-4423-8d29-a5739012697e",
     "type": "act",
     "title": "Tell Congress to Support the MORE Act (H.R. 3884/S. 2227)",
@@ -331,10 +363,14 @@
     "id": "45e70284-c301-47b3-8538-4b9ede542e57",
     "type": "act",
     "title": "Innocence Project",
-    "subtitle": "Donate to help free the innocent in 2020. Be a part of the Innocence Project’s groundbreaking work to free innocent people and transform the legal system. With your support, we can do even more in 2020 — donate today.",
+    "subtitle": "Donate to help free the innocent. The Innocence Project exonerates the wrongly convicted through DNA testing and reforms the criminal justice system to prevent future injustices.",
     "imageUrl": "https://www.innocenceproject.org/wp-content/uploads/2019/04/thumbnail-small.png",
     "clickUrl": "https://www.innocenceproject.org/donate",
     "tags": [
+      "Innocence Project",
+      "Mass Incarceration",
+      "Criminal Justice",
+      "Prison Reform",
       "Bail",
       "Nonprofit",
       "Donate",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "ec904a76-bb50-45bd-8db0-f3a2055acf45",
+    "type": "learn",
+    "title": "The Black Family in the Age of Mass Incarceration",
+    "subtitle": "By author Ta-Nehisi Coates: Fifty years after Daniel Patrick Moynihan’s report “The Negro Family” tragically helped create this system, it's time to reclaim his original intent.",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/LA_l7wJnMdhHRcI7dZoreXCnoBk=/1920x1440/media/img/2015/09/02/WEL_Coates_MassIncarceration_OPENER/original.jpg",
+    "clickUrl": "https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/#Chapter%20II",
+    "tags": [
+      "Ta-Nehisi Coates",
+      "Mass Incarceration",
+      "Black History",
+      "Prison Reform",
+      "Daniel Patrick Moynihan",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

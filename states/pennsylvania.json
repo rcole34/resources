@@ -1,7 +1,25 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "3774f01a-17c3-4d59-be6f-6d517dc96c5e",
+      "type": "shop",
+      "title": "Amalgam Comics and Coffeehouse",
+      "subtitle": "Amalgam Comics & Coffeehouse is a celebration of geek culture. A place for comic book fans, hardcore gamers, movie addicts, television connoisseurs, and zombie apocalypse survivalists to meet, and with their powers combined, change the world a little bit.\n\nWe specialize in comics, toys & figurines, games, comic related magazines, apparel, coffee & espresso related beverages, and baked goods. A safe haven for all of geekdom! Pick your poison...and enjoy! Proudly serving Philly Fair Trade coffee!",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-5yvq3t3oaz/images/stencil/500x250/amalgam_blue_1497734518__18194.original.png",
+      "clickUrl": "https://amalgamphilly.com/",
+      "tags": [
+        "Local",
+        "Pennsylvania",
+        "Food & Beverage",
+        "Comics",
+        "Coffee",
+        "Entertainment & Toys",
+        "Philadelphia Pennsylvania",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "089dee29-e488-443b-854c-4743a5889665",

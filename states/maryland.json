@@ -1,7 +1,62 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "47a10ab9-71eb-4e0b-9b50-6244928aa28f",
+      "type": "shop",
+      "title": "228 Grant Street Candle Co.",
+      "subtitle": "Like many small businesses, a grandmother-story plays a central role in our brand’s origin and ongoing inspiration. The name 228 Grant Street Candle Co. pays homage to the home of my late maternal grandparents in Danville, VA; a home characterized by simple acts of hospitality and the sharing of things made and grown by my grandparents. Though she was not a candlemaker, my grandmother was a culinary wonder, baker, canner and gardener. Visitors never left her home without being offered something delightful that was made or grown by her or my grandfather. There was always something on the stove or in the freezer that could be magically put together for sustaining nourishment. Her front porch served as a neighborhood therapy office. Ms. Clara, as she was known throughout the community, was the embodiment of light and kindness.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1193/1722/t/6/assets/slide_1.jpg?v=11061653073082092711",
+      "clickUrl": "https://www.228grantstreet.com/",
+      "tags": [
+        "Local",
+        "Maryland",
+        "Home & Garden",
+        "Candle",
+        "Online",
+        "Organic",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "b537617f-0b60-4011-be65-38a9f608d006",
+      "type": "shop",
+      "title": "3D Xplosive Performance",
+      "subtitle": "3D Xplosive Performance LLC is a place where you can develop your fitness and athletic skills. We promote a 3 dimensional program that consists of wellness, sports performance and adult fitness! We provide an exclusive, unique training atmosphere where you can develop and enhance athletic skills as well as build superb conditioning and health for a better quality of life.\n\nThrough our Sports Performance training regimen you will develop speed, explosive power, strength, lateral quickness, endurance, agility, flexibility, hand-eye coordination, reaction time, acceleration/deceleration, first step quickness, balance, and recovery time.",
+      "imageUrl": "https://apihoard.webit.com/api/v1/Image/BAC8702873E8BB2655BF0754FD919627/BAC8702873E8BB2655BF0754FD919627.png?size=Original",
+      "clickUrl": "https://www.3dxplosiveperformance.com/",
+      "tags": [
+        "Local",
+        "Maryland",
+        "Sports & Outdoors",
+        "Fitness Program",
+        "Custom",
+        "Services",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "f62f1589-b822-421d-8810-4229e44a9483",
+      "type": "shop",
+      "title": "Action Sport and Fitness",
+      "subtitle": "We provide personalized nutrition/workout programs that are short, energy-boosting, life-changing, and so transformative that you and everyone around you will notice a difference in less than 100 days! Here's how to get started:\n\nStep 1: Register for the Jump Start Personal Training Program\nStep 2: Let us create a program that fulfills your needs\nStep 3: Let’s take action together to get the results you’ve always wanted",
+      "imageUrl": "https://www.actionsportandfitness.com/image/108149677.png",
+      "clickUrl": "https://www.actionsportandfitness.com/",
+      "tags": [
+        "Local",
+        "Maryland",
+        "Sports & Outdoors",
+        "Exercise",
+        "Servies",
+        "Custom",
+        "Nutrition Program",
+        "Fitness Program",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "e16e9d33-c738-41e8-8309-1f3eaf61b033",

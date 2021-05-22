@@ -4,14 +4,6 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "educate": {
-      "type": "array",
-      "items": { "$ref": "#/definitions/resource" }
-    },
-    "advocate": {
-      "type": "array",
-      "items": { "$ref": "#/definitions/resource" }
-    },
     "shop": {
       "type": "array",
       "items": { "$ref": "#/definitions/resource" }
@@ -38,7 +30,7 @@
         "type": {
           "type": "string",
           "description": "The resource's type",
-          "enum": ["educate", "advocate", "act", "shop", "learn"]
+          "enum": ["act", "shop", "learn"]
         },
         "title": {
           "type": "string",

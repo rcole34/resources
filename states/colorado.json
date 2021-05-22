@@ -1,7 +1,49 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "1494754c-3ae3-4f1f-91da-3d8b766ed57c",
+      "type": "shop",
+      "title": "Afro Triangle Designs",
+      "subtitle": "A love of creating art and a passion for learning led to my niche as an artist: to tell the stories of women in history through art. The turning point came in my early 30’s, after years of drawing and painting. I discovered the stories of several impressive women—women I’d never heard of—and watched those women show up in my paintings. I saw the portraits come alive and knew I had found my calling as an artist.\n\nToday I use art as a platform for my work with schools and in the community.",
+      "clickUrl": "https://afrotriangledesigns.com/",
+      "tags": [
+        "Local",
+        "Colorado",
+        "Art",
+        "Custom",
+        "Online",
+        "Nationwide",
+        "Independent",
+        "Clothing and Fashion",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "a70f8846-5bcc-46d6-b07b-83a156c746a3",
+      "type": "shop",
+      "title": "Akente Express",
+      "subtitle": "In 1991, Harlem-native Ron Springer started Akente Express with just $800. On a trip home to New York he purchased some fabric, jewelry, incense oils, and other cute stuff. He then returned to Colorado and sold out all of his items within a couple of weeks. The next trip back he spent $3,200 and as they say—the rest is history. \n\nOver the next several months, Ron Springer cultivated relationships with Cleo Parker Robinson Dance, the Denver Center Theatre Company, school systems, and cultural events such as Juneteenth, the Black Arts Festival, and the Black Ski Summit. By November 1991—he moved into the 919 Park Ave W shop that Akente Express still occupies to this day!\n\nWe take great pride in sourcing and offering African items that are unique and otherwise difficult to find in the Rocky Mountain Region. We're thankful for all of our loyal customers who help us in our continued success and ability to support the community!",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2352/7631/files/akente-original-small-500_495x@2x.png?v=1513197613",
+      "clickUrl": "https://akenteexpressdenver.com/",
+      "tags": [
+        "Local",
+        "Colorado",
+        "Home & Garden",
+        "African Goods",
+        "Authentic",
+        "Hair Care",
+        "Men's Clothing",
+        "Skin Care",
+        "Fragrances",
+        "Dresses",
+        "Jewelry",
+        "Teas & Tonics",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "70fc7766-7fcf-4c42-a662-924e9c21e956",

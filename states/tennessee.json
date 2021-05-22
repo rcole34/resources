@@ -1,7 +1,28 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "863b7829-c68b-4923-bc17-ea7924d33310",
+      "type": "shop",
+      "title": "Alkebu-Lan Images",
+      "subtitle": "For 35 years Alkebu-Lan Images has served the diverse intellectual, spiritual, and inspirational needs of African-Americans in the Nashville area and beyond. Whether it's books addressing all perspectives of Black religion, history, and philosophy or jewelry, art, and clothing that highlight Black and African cultural strength and beauty, Alkebu-Lan Images is your go-to center for curating and cultivating positive Black lifestyles!\n\nAlkebu-Lan Images seeks to support the local Black community and beyond by sourcing our products where possible from other Black-owned businesses in the spirit of the Kwanzaa principle of Ujima. As a result one can find a wide range of rare books, handmade jewelry, and other items not found in your typical retail establishment. With a focus on sourcing products by Black businesses and for Black people we hope to shine a light on a market that is both under-served and under-valued.",
+      "imageUrl": "https://lh3.googleusercontent.com/pbOA17AuxGIlmnHEW6YRBiYCWv3Kd-QTMQ--SI2ehiIQdduoXovmBfoSfYQwBGeLZ7mXzrE=s170",
+      "clickUrl": "https://www.alkebulanimages.com/",
+      "tags": [
+        "Local",
+        "Tennessee",
+        "Entertainment",
+        "Books",
+        "Clothing & Fashion",
+        "Health & Beauty",
+        "Home & Garden",
+        "African Art",
+        "African Imports",
+        "Nashville Tennessee",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "d19e936a-9e00-4053-a0a3-798067984afa",

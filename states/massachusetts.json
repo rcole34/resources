@@ -1,7 +1,25 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "9bbbba94-d2e3-48e8-8c45-b12f01bb32c4",
+      "type": "shop",
+      "title": "67 Degrees Brewing",
+      "subtitle": "A microbrewery that stretches the creativity of craft beer and rediscovers classical beer styles.\n\nWe’re a pretty close-knit group and mixed crew, some with passion for craft beer dating back to college, some engineers, seasoned master brewers, veterans, lawyer, dads, and grand-dads.",
+      "imageUrl": "https://67degreesbrewing.com/wp-content/uploads/2020/06/67-Degrees-Logo-For-Dark-Web.png",
+      "clickUrl": "https://67degreesbrewing.com/",
+      "tags": [
+        "Local",
+        "Massachusetts",
+        "Food & Beverage",
+        "Beer",
+        "Craft Beer",
+        "Microbrewery",
+        "Delivery",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "cab157e7-8532-4fdd-9836-e9f704e13f37",

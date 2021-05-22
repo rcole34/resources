@@ -1,5 +1,202 @@
 [
   {
+    "id": "2ef9584e-0d64-4e63-8a1e-a2674eaa5008",
+    "type": "shop",
+    "title": "210 Teas",
+    "subtitle": "Inspired by the 5 bags of black tea brewed  on my late grandmother’s stove, that were to later be stirred with sugar and offered to anyone that entered her kitchen, 210 Teas honors the subtle yet strong essence of my grandmother. For me, tea is a reminder of my family – a reminder of generational love. Tea provides a soothing sense of comfort that speaks without words, like the omnipresent protection of your ancestors.\n\nThe mission of 210 Teas is to share that comfort with everyone I can reach. From my cup … to yours, with love.",
+    "imageUrl": "https://210teas.com/wp-content/uploads/2020/11/Brown-green_1.png",
+    "clickUrl": "https://210teas.com/",
+    "tags": [
+      "Food & Beverage",
+      "Tea",
+      "Herbal Tea",
+      "Online",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "da8cd05f-8410-4a99-9780-216180495210",
+    "type": "shop",
+    "title": "3 Drs. & A Plan",
+    "subtitle": "3 Drs. & A Plan was created out of the drive to help goal-driven educators pursue their dreams. You have a bright future ahead of you but you may not know the right steps to take or how to get started. With our trained life coaches and educational career advisors, we will help you set attainable goals and create the right plan to make your hopes and wishes come true. \n\nAs a life coach and career consultant, we help teachers deal with issues on an individual basis and determine the proper strategy for their needs. ",
+    "imageUrl": "https://static1.squarespace.com/static/5bd34d699d41494d5b516c83/t/5be0db93562fa74d5ecd22f5/1601946086913/?format=1500w",
+    "clickUrl": "https://www.3drsandaplan.com/",
+    "tags": [
+      "Wellness",
+      "Services",
+      "Coaching",
+      "Custom",
+      "Online",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "e4d2e985-02cf-4750-ad99-bb137754bacf",
+    "type": "shop",
+    "title": "360 Magazine",
+    "subtitle": "360 is an edgy fashion, lifestyle and culture magazine. We will introduce cutting-edge brands, entities and trends to tastemakers within their respective communities. Our founding members have over 30 years of collective experience both as notable talent and uber professionals within the realm of fashion, music, art, design and entertainment. We are more than just a magazine comprised of journalists, representing a movement of social awareness and change.\n\nWe are a LGBTQIA friendly publication. The magazine is contemporary in look and appeal. Quality art content is the constant goal. The magazine will be entertaining, newsworthy and thought-provoking. It will appeal to a broad entertainment readership. No magazine like it is available today, constantly celebrating racial and sexual ambiguous talent and artists.",
+    "imageUrl": "https://www.the360mag.com/wp-content/uploads/2020/07/BW_roundlogo1.png",
+    "clickUrl": "https://www.the360mag.com/",
+    "tags": [
+      "Media",
+      "Magazine",
+      "Culture",
+      "Publication",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "ff3fe77b-132d-4e11-b888-f8cb92331fda",
+    "type": "shop",
+    "title": "Afro Flow Yoga",
+    "subtitle": "With over 14 years of experience, Leslie Salmon Jones continues to pursue an active interdisciplinary career in health and dance in Boston and New York City. A Toronto native, Leslie received her B.A. in Dance and Health Studies at the State University of New York, and her Fitness Instructors Certification at New York University. She was a scholarship recipient at the esteemed Alvin Ailey Dance Theatre in New York City as well as the London Contemporary Dance School.\n\nAs a professional dancer, Leslie worked with known greats such as Judith Jameson, Bill T. Jones and Wynton Marsalis. At her studio in New York, she developed her own exercise program based on various techniques honed through working with her personal training clientele on a daily basis. Today she continues to divide her time between New York City and Boston.\n\nLeslie has extensive experience in the fitness industry, including being a consultant for the New York Knicks healthy lifestyle clinic that teaches self-esteem to youth. She also served as a board member for the organization, Free Arts for Abused Kids, NYC. Today, she serves as a board member of the United Nations Association of New York",
+    "imageUrl": "https://www.afroflowyoga.com/wp-content/themes/Avada/assets/images/logo.png",
+    "clickUrl": "https://www.afroflowyoga.com/",
+    "tags": [
+      "Sports and Outdoors",
+      "Yoga",
+      "Independent",
+      "Exercise",
+      "Service",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "dd44fd2f-9efc-488c-b1bb-f00f317094e5",
+    "type": "shop",
+    "title": "Aisha Likes It",
+    "subtitle": "It began with a problem. I kept looking for the kind of refined, eclectic, Afrobohemian jewelry I really wanted to wear to no avail. Certainly, there was Africa-inspired jewelry available, but much of it lacked the bohemian design aesthetic that fit my taste and style as an African American literature professor. I wanted pieces that could say a lot without doing a lot. My jewelry needed to standout and be distinctive while remaining wearable. I wanted a jewelry wardrobe that reflected my tastes, my passions, my culture, my research interests. And so I began to make my own, sourcing authentic, African diasporic materials, curating and refining my work as my knowledge and skill developed. Eventually, I decided to share my work and Aisha Likes It came into existence.\n\nAisha Likes it is home to African-inspired jewelry curated towards a bohemian aesthetic created with both ethically sourced materials from throughout the African diaspora and traditional semi-precious stones. Each piece is designed to make a statement at a fair price. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0015/5913/4278/files/aisha_likes_it_8bf160d4-7bcc-45a7-b49b-d41e5af34974_360x.jpg?v=1595987420",
+    "clickUrl": "https://aishalikesit.com/",
+    "tags": [
+      "Fashion and Clothing",
+      "Online",
+      "Nationwide",
+      "Jewelry",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "eafdb7c3-338a-42e9-9017-c3dec5416cc5",
+    "type": "shop",
+    "title": "A.O. Hamer",
+    "subtitle": "Hey, I'm Aramis and I love color!\n\nMy acrylic paintings are inspired by divine femininity, music, higher consciousness, and the cosmos. Liberation is my life's work- to free myself from the chains that could hold me back mentally, physically, and spiritually. My paintbrush reminds me of the creative power I have within the canvas - and life. As I take this journey to freedom, I hope to inspire others along the way. ",
+    "imageUrl": "https://static1.squarespace.com/static/553d3766e4b0306f5b6e308a/t/5ac28b5c6d2a73ce4233428e/1616791790313/?format=1500w",
+    "clickUrl": "https://aohamer.com/",
+    "tags": [
+      "Home & Garden",
+      "Art",
+      "Custom",
+      "Independent",
+      "Acrylic",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "60f0cd78-0557-4b4e-be1b-a4dcdeb164b6",
+    "type": "shop",
+    "title": "\"ABC I Love Me\"",
+    "subtitle": "ABC I Love Me takes Black children along for a journey of self love, confidence, and adventure while teaching young learners positive affirmations for each letter of the alphabet. This book encourages children to accept their unique qualities, and promotes positive self-esteem and a healthy lifestyle.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61CU7n+Yw5L._SY498_BO1,204,203,200_.jpg",
+    "clickUrl": "https://bookshop.org/books/abc-i-love-me/9780692149775",
+    "tags": [
+      "Entertainment",
+      "Book",
+      "Children's Book",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "894be415-62e4-4473-8321-fbc1c91e6b4a",
+    "type": "shop",
+    "title": "Alaffia",
+    "subtitle": "Alaffia is an online Fair Trading company that specializes in soaps and beauty products. We aim to alleviate poverty and advance gender equality through the Fair Trade of indegenious resources and community empowerment projects.\n\nTogether, we’re cultivating beauty, equality and empowerment in West Africa and around the globe. Our women’s cooperatives in West Africa handcraft indigenous raw ingredients then the Alaffia team in Olympia, Washington creates the finished products. Alaffia returns the proceeds from the sale of these products to our communities to fund community empowerment and gender equality projects.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0041/0471/6386/t/45/assets/alaffia_logo.svg?v=3568702770285379470",
+    "clickUrl": "https://www.alaffia.com/",
+    "tags": [
+      "Hair & Headwear",
+      "Healthy & Beauty",
+      "Soap",
+      "Fragrance",
+      "Online",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "417dd3b0-0814-4bad-8ebb-2b4a3b39fb26",
+    "type": "shop",
+    "title": "All Hip-Hop",
+    "subtitle": "AllHipHop.com was founded and launched in 1998 by CEO’s \"Grouchy\" Greg Watkins and Chuck \"Jigsaw\" Creekmur.\n\nAfter many years of developing the site, AllHipHop.com has become a valuable resource for hip-hop on the internet, featuring daily news, interviews, reviews, multimedia, a fast growing community and other interesting content.\n\nPublications such as CNN, The Source, XXL, Complex, New York Post, The New York Times and many others cite AllHipHop.com’s news and features due to our accuracy and trustworthiness.",
+    "imageUrl": "https://s34449.pcdn.co/wp-content/uploads/2020/08/allhiphop-logo-2x-1.png",
+    "clickUrl": "https://allhiphop.com/",
+    "tags": [
+      "Media",
+      "Entertainment",
+      "Digital",
+      "Music",
+      "Hip-Hop",
+      "Publication",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "fbd13246-9092-442b-b099-cbf0794ec6b4",
+    "type": "shop",
+    "title": "Aloha Glamour",
+    "subtitle": "Aloha Glamour is a lifestyle movement that promotes women loving themselves wholeheartedly. We are a community of women that empower others to use find and use their voice to turn their tragedies into triumphs and their mess into a message which enables them to build from the inside out...seeing and LIVING in color again. \n\nThanks to our inspiring collections and our impeccable customer service, we have been highly successful since day one. Browse through our site and check out the latest additions to our collection, and feel free to get in touch with our team if you need any assistance.\n\nWe want you to create a story in each and every Aloha Glamour piece that you wear. What's the color of your story?",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0074/9191/1753/files/Horizontal_Aloha_Logo_1_720x.png?v=1586206794",
+    "clickUrl": "https://alohaglamour.shop/",
+    "tags": [
+      "Clothing & Fashion",
+      "Women's Clothing",
+      "Accessories",
+      "Bags",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "545ab510-7f0a-4054-a99c-44b7d7c13abd",
+    "type": "shop",
+    "title": "Alter Planning Co.",
+    "subtitle": "Alter Planning Co was founded by scottie., a young artist and entrepreneur who grew tired of looking for the perfect planner every year. She crafted each product to help fuel the creativity and productivity of those who used it. \n\nAs an artist, scottie. has a deep understanding of the need for structure and wants to inspire more people to create routines and form in their life.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0026/6040/1216/files/alterlogonew_Recovered_-08_14ae1658-53aa-4b12-bc3a-7e21c2958e01_160x@2x.png?v=1574469418",
+    "clickUrl": "https://www.alterplanningco.com/",
+    "tags": [
+      "Wellness",
+      "Planner",
+      "Calendar",
+      "Journal",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "c4bf69d4-f11b-42be-9e25-d5b478be1c4d",
+    "type": "shop",
+    "title": "Amak By Amiya",
+    "subtitle": "Tween CEO and Entertainer Amiya Steed founded her business Amak by Amiya footwear in 2016 as a way of self-expression. Amak by Amiya is home to her exclusive sneakers and custom uniform footwear line for schools nationwide. \n\nHer store is also home to the 1st Period Kit which includes: all of the neccessities, positive affirmations, and girly surprises.\n\n(Please note that all footwear is customized and can take 4-6 weeks for purchasers to receive. Please allow ample time for delivery.)",
+    "imageUrl": "https://d1f7geppf3ca7.cloudfront.net/origin/569427/1536517939900_img_20180903_141559_202.jpg",
+    "clickUrl": "https://www.amakbyamiya.com/",
+    "tags": [
+      "Clothing & Fashion",
+      "Women's Products",
+      "Independent",
+      "Custom",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "cec864f1-0525-49dc-861f-44482b5c48de",
     "type": "shop",
     "title": "Feed Love",

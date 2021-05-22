@@ -1,5 +1,23 @@
 [
   {
+    "id": "d9e00463-34f6-492e-8a6e-2e7c5c2debdc",
+    "type": "learn",
+    "title": "Mass Incarceration: Visualized",
+    "subtitle": "Concrete actions, more than stated beliefs, are a true reflection of values, both personal and societal. We may claim to value human life, but our societal actions and policies say otherwise.",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fosocio.org%2Fmessage%2Fthe-racism-of-mass-incarceration-visualized%2F&psig=AOvVaw1f2hA1pNCTl4_HeEkLTd2_&ust=1621732846998000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND5x-SP3PACFQAAAAAdAAAAABAD",
+    "clickUrl": "https://www.youtube.com/watch?v=u51_pzax4M0",
+    "tags": [
+      "Watch",
+      "Video",
+      "Visual Model",
+      "Mass Incarceration",
+      "Explained",
+      "Prison Reform",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

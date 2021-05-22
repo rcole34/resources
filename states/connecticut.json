@@ -1,7 +1,25 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+  	{
+      "id": "ca52bdef-c665-49b2-ba3b-dc74516b62fd",
+      "type": "shop",
+      "title": "Alisa's House of Salsa",
+      "subtitle": "In September of 2002, Alisa opened Alisa’s House of Salsa, Studio of Latin Dance, in New Haven, Connecticut. Her grand opening was a huge success and her studio location, which originally was located downtown, was known as the \"Moving Billboard Downtown\" because of the entertainment provided by the open glass windows.\n\nIn addition to the studio, Alisa also provides entertainment for private events through the Latin Heat Dance Team, Alisa’s House of Salsa professional dance company. In 2015, Alisa's House of Salsa moved to Westville. Since the House of Salsa opened, more than a 1000 pairs of feet have walked through her doors.",
+      "imageUrl": "https://static.wixstatic.com/media/c03950_e4ee4b3235334d299486655c45aee257~mv2.png/v1/fill/w_520,h_520,al_c,q_85,usm_0.66_1.00_0.01/viewer.webp",
+      "clickUrl": "https://alisashouseofsalsa.wixsite.com/alisashouseofsalsa",
+      "tags": [
+        "Local",
+        "Connecticut",
+        "Entertainment",
+        "Dancing",
+        "Services",
+        "Salsa Dancing",
+        "New Haven Connecticut",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [],
   "learn": []
 }

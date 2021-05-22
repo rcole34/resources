@@ -1,7 +1,24 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+  	{
+      "id": "913b708b-eb09-4820-8d0a-8ba8c32d3e11",
+      "type": "shop",
+      "title": "Akron Honey Company",
+      "subtitle": "Akron Honey Company is a Family-owned honey shop that strives for the highest-quality in their product. Never including cheap ingredients, we aim to create natural, sustainable and mindful products. \n\nMind-Blowingly Good Flavor.\n\nFlavor experience is in our DNA, and we will always work hard to make sure that same experience gives your taste buds a bear hug, and maybe even a flavor smack in the process (it's like a love tap, except with our honey). We're never going to put silly fillers or cheap ingredients in your honey.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2630/0996/files/AH_logo_150x.png?v=1582942964",
+      "clickUrl": "https://akronhoney.com/",
+      "tags": [
+        "Local",
+        "Ohio",
+        "Food & Beverage",
+        "Honey",
+        "Raw Goods",
+        "Akron Ohio",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [],
   "learn": []
 }

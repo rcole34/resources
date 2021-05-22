@@ -1,7 +1,42 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "3b3d3307-1c1f-4fd7-86b2-329d2b830d8f",
+      "type": "shop",
+      "title": "6 C's To Success LLC Counseling & Wellness Services",
+      "subtitle": "Sometimes we need a little boost or guide to help us to get on track. So, I created the 6 C'sTo Success platform. By practicing the 6 C's to Success you may be on your way to a life of happiness, peace, and satisfaction.\n\nI provide services to adults, teens, and children—individuals, couples, families, and groups. I am experienced in variety mental health settings including outpatient counseling, adult correctional facility, level three residential facility for juveniles, and therapeutic day treatment in the public school setting. I service with adults and juveniles and adults involved with the Virginia court systems.",
+      "imageUrl": "https://static.wixstatic.com/media/139aed_d826c84aeddf4f0895016d38ad64a18e~mv2.jpg/v1/fill/w_628,h_550,al_c,lg_1,q_80/139aed_d826c84aeddf4f0895016d38ad64a18e~mv2.webp",
+      "clickUrl": "https://www.6cstosuccessllc.com/",
+      "tags": [
+        "Local",
+        "Virginia",
+        "Wellness",
+        "Coach",
+        "Service",
+        "Custom",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "c960540b-5a41-4015-8695-04c4522a7cc6",
+      "type": "shop",
+      "title": "A Tale of Two Tins",
+      "subtitle": "A Tale of Two Tins is a Black-owned and Women-owned in-store and online cocktail shipping service. We aspire to elevate your flavor profile and transform what you put in your glass from mundane to fancy - one drink at a time.\n\nIt began with Bianca Cerise, a former wardrobe stylist turned bartender who fell in love with the intersection of beauty and flavor. she found her soul aligned in creativity and cocktailerie, armed with two shaker tins and bound by a passion for curating a life well lived. she aspires to elevate your flavor profile and transform what you put in your glass from mundane to fancy – one drink at a time.\n\nBecause the moments worth remembering all start with a cocktail... What tale will you tell?",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0499/5258/7936/files/Bianca2_1080x.jpg?v=1616182226",
+      "clickUrl": "https://ataleoftwotins.com/",
+      "tags": [
+        "Local",
+        "Virginia",
+        "Food & Beverage",
+        "Cocktails",
+        "Washington D.C.",
+        "Delivery",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "c161755c-2d64-4656-89c6-8cb66b70049c",

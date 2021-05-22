@@ -1,7 +1,31 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+  	{
+      "id": "1853f47e-8b3d-4889-94c1-4e53e7912244",
+      "type": "shop",
+      "title": "Adorned Abode",
+      "subtitle": "Here at Adorned Abode, we take tremendous pride in growing strong relationships with our customers. Giving someone a gift is a benevolent act of kindness. Our mission is to create a heartwarming experience when you shop with us. Selling a variety of goods, some locally made, fair trade items.\n\nSupporting other small business is what we are all about. We hope to help you find the perfect gifts.",
+      "imageUrl": "https://www.adornedabode.net/uploads/b/7405c740-ced0-11e9-87b7-7b8c3facf986/Adorned%20Abode1Untitled_Artwork.png?width=400",
+      "clickUrl": "https://www.adornedabode.net/",
+      "tags": [
+        "Local",
+        "Washington",
+        "Home & Garden",
+        "Plants",
+        "Books",
+        "Crystals",
+        "Stones",
+        "Home Fragrances",
+        "Jewelry",
+        "Kitchen Goods",
+        "Puzzles",
+        "Greeting Cards",
+        "Online",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [],
   "learn": []
 }

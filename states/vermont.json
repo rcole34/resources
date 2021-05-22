@@ -1,7 +1,26 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+  	{
+      "id": "05530229-ebac-4c48-bac9-097b89960412",
+      "type": "shop",
+      "title": "All Heart Inspirations",
+      "subtitle": "As a storyteller, I create heart-centered storytelling spaces through workshops, community engagements, culinary food, and more! I want to make a collective difference within my local Vermont community and beyond one story at a time. Excited to spread love, gratitude, and affirmations through my various offerings, showing up with ALL HEART! Breathing in and affirming one another’s stories matters to me. We all have stories worthy of telling. So what’s yours?! Join me and let us liberate our collective wisdom together.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5efb8b57b705df5807843432/1597696600008-WP57MX41ZINDH0F6OKZW/ke17ZwdGBToddI8pDm48kIzNWfZh9v0nvEHU3WAJ1tF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ooWhOa5cxQSJsU3rXf8luXAp4RuSF8fCIvAJcvjt_IcZoixb7Wm7IaIkEuLM8C6Ew/Ferene.jpg?format=1000w",
+      "clickUrl": "https://www.allheartinspirations.com/store-1",
+      "tags": [
+        "Local",
+        "Vermont",
+        "Entertainment",
+        "Events",
+        "Storytelling",
+        "Services",
+        "Baked Goods",
+        "Private Entertainment",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [],
   "learn": []
 }

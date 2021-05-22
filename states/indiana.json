@@ -1,7 +1,43 @@
 {
-  "advocate": [],
-  "educate": [],
-  "shop": [],
+  "shop": [
+    {
+      "id": "8f43fdab-346e-4db2-9a84-8d4e24c792d3",
+      "type": "shop",
+      "title": "A&M Bakery",
+      "subtitle": "We were formerly known as A&M Bakery Cafe. We are currently operating as a web based business open from 8:00 AM until 4:00 PM Monday through Friday.\n\nWe offer delicious baked goods.  Please submit your orders 48 hours in advance to george@ambakery.net. You can find us at the Garfield and Irvington Garden Club Farmers Markets in the spring and summer. Drop by and try our  delicious baked goods.  We offer delivery in the downtown area. You can also arrange for curbside pickup.",
+      "imageUrl": "https://ambakerynet.files.wordpress.com/2018/11/ginger-molasses-cookies.jpg",
+      "clickUrl": "https://ambakery.net/",
+      "tags": [
+        "Local",
+        "Indiana",
+        "Food & Beverage",
+        "Baked Goods",
+        "Custom",
+        "Organic",
+        "Pickup",
+        "Delivery",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "aba6aa1c-4381-4955-a773-b9b84c50ae0d",
+      "type": "shop",
+      "title": "Alsum Organics",
+      "subtitle": "Alsum Organic’s desire is to assist our clients in achieving the homeostatic balance our bodies desire. Our Vision is to provide education and knowledge regarding holistic health and wellness. Holistic health and wellness means we are seeking total equanimity within our bodies (Spirit, Soul, and Body).\n\nWe sell a variety of CBD oils, shakes, supplements and herbs that cleanse the system - just to name a few.",
+      "imageUrl": "https://www.alsumorganics.com/uploads/b/00bea430-071b-11ea-a35b-47bc9cd84ff8/IMG_3223.jpg?width=400",
+      "clickUrl": "https://www.alsumorganics.com/s/shop",
+      "tags": [
+        "Local",
+        "Indiana",
+        "Wellness",
+        "CBD Oil",
+        "Health & Beauty",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
   "act": [
     {
       "id": "17bbc097-7cae-4ee5-8cbc-cb7252499ba3",

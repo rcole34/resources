@@ -1,5 +1,20 @@
 [
   {
+    "id": "db00510e-4017-4341-a65f-697784ce1f92",
+    "type": "learn",
+    "title": "The History of Mass Incarceration",
+    "subtitle": "From Alexis de Tocqueville to Ronald Reagan, learn more about the forces that have shaped the current state of our prison system.",
+    "imageUrl": "https://www.brennancenter.org/sites/default/files/styles/1400x800/public/2019-10/GettyImages-1045209948.jpg?itok=FIqIseVw",
+    "clickUrl": "https://www.brennancenter.org/our-work/analysis-opinion/history-mass-incarceration",
+    "tags": [
+      "Prison Reform",
+      "Black History",
+      "Mass Incarceration",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

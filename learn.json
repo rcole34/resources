@@ -1,5 +1,20 @@
 [
   {
+    "id": "f3c6e89c-a5bd-45a1-9605-cbc34c6b8266",
+    "type": "learn",
+    "title": "Book: The Global Beauty Industry",
+    "subtitle": "Colorism, Racism, and the National Body",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.routledge.com%2FThe-Global-Beauty-Industry-Colorism-Racism-and-the-National-Body%2FJha%2Fp%2Fbook%2F9781138839434&psig=AOvVaw0PCCjTtza6WicSlU43Zii_&ust=1621734578388000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjZ3Z-W3PACFQAAAAAdAAAAABAN",
+    "clickUrl": "https://www.routledge.com/The-Global-Beauty-Industry-Colorism-Racism-and-the-National-Body/Jha/p/book/9781138839434",
+    "tags": [
+      "Book",
+      "Colorism",
+      "Beauty Industry",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

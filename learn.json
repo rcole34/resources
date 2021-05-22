@@ -1,5 +1,21 @@
 [
   {
+    "id": "338f617f-3422-4cbe-85e0-2e177e69ab55",
+    "type": "learn",
+    "title": "Book: The New Jim Crow",
+    "subtitle": "Mass Incarceration in the Age of Colorblindness",
+    "imageUrl": "https://newjimcrow.com/wp-content/uploads/2019/12/new_jim_crow_reissue_pb_final-1.jpg",
+    "clickUrl": "https://newjimcrow.com/",
+    "tags": [
+      "Book",
+      "Michelle Alexander",
+      "Prison Reform",
+      "Mass Incarceration",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
     "type": "learn",
     "title": "Hair: Last Week Tonight with John Oliver",

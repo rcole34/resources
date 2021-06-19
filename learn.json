@@ -1,5 +1,20 @@
 [
   {
+    "id": "d44e5bc2-6288-445b-ad9a-bd609ec52f86",
+    "type": "learn",
+    "title": "Juneteenth is a federal holiday. What comes next?",
+    "subtitle": "As President Biden signed the Juneteenth National Independence Day Act into law, he acknowledged a current struggle for voting rights.",
+    "imageUrl": "https://s7d2.scene7.com/is/image/TWCNews/new_project_-_2021-06-17t163552",
+    "clickUrl": "https://www.wusa9.com/article/news/local/dc/juneteenth-is-a-federal-holiday-whats-next/65-b751da86-8d12-4ab8-95a9-ab203e7aa3ec",
+    "tags": [
+      "Articles",
+      "Juneteenth",
+      "performative",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "63d2844f-7458-4ced-a54a-156a1978981f",
     "type": "learn",
     "title": "What Is Juneteenth?",

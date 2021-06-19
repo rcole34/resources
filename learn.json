@@ -1,5 +1,19 @@
 [
   {
+    "id": "d18f2c7d-a508-4184-88b6-23b706aaff83",
+    "type": "learn",
+    "title": "Why Many Americans Can’t See The Wealth Gap Between White And Black America",
+    "subtitle": "In the last year and a quarter, the pandemic has served as a stark reminder of just how unequal America still is. But it also hasn’t been a “reminder” for everyone. Black Americans and other Americans of color didn’t have the luxury of forgetting that American society is unequal.",
+    "imageUrl": "https://fivethirtyeight.com/wp-content/uploads/2021/06/GettyImages-1221396043-4x3-copy.jpg?w=1150",
+    "clickUrl": "https://fivethirtyeight.com/features/why-many-americans-dont-see-the-racial-wealth-gap/",
+    "tags": [
+      "Article",
+      "FiveThirtyEight",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "383a6a08-0684-45e6-a5cd-2b20a99e4793",
     "type": "learn",
     "title": "Juneteenth Challenges A Narrative About America’s History",

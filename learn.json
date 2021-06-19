@@ -1,5 +1,19 @@
 [
   {
+    "id": "63d2844f-7458-4ced-a54a-156a1978981f",
+    "type": "learn",
+    "title": "What Is Juneteenth?",
+    "subtitle": "Juneteenth (short for “June Nineteenth”) marks the day when federal troops arrived in Galveston, Texas in 1865 to take control of the state and ensure that all enslaved people be freed. The troops’ arrival came a full two and a half years after the signing of the Emancipation Proclamation. Juneteenth honors the end to slavery in the United States and is considered the longest-running African American holiday.",
+    "imageUrl": "https://www.history.com/.image/ar_266:100%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_5120/MTczMTUzMDc5MTc1MTYxMDY4/juneteenth-gettyimages-515185532.jpg",
+    "clickUrl": "https://www.history.com/news/what-is-juneteenth",
+    "tags": [
+      "Article",
+      "Juneteenth",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "d18f2c7d-a508-4184-88b6-23b706aaff83",
     "type": "learn",
     "title": "Why Many Americans Can’t See The Wealth Gap Between White And Black America",

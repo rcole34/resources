@@ -1,5 +1,20 @@
 [
   {
+    "id": "6dbcd392-c4a0-4f95-9a81-35156da80d12",
+    "type": "shop",
+    "title": "It’s Nola",
+    "subtitle": "Reimagined healthy granola snack bites rolled into a ball for easy snacking pleasure. Bold flavor to match our bold Brooklyn lifestyle. ",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0472/7704/7959/products/mini-packs-21-packets-in-each-bag-snack-bites-food-packaging-labeling-408_720x.jpg?v=1622986894",
+    "clickUrl": "https://itsnola.com/?key=cad6399fa338de171ebb7d5526a659c574c331b45038a9b5fd5e55b5d033eb16",
+    "tags": [
+      "Food & Beverage",
+      "wellness",
+      "community ",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "2ef9584e-0d64-4e63-8a1e-a2674eaa5008",
     "type": "shop",
     "title": "210 Teas",
@@ -4700,27 +4715,27 @@
     "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/files/IMG_5009_cc07be08-c97c-43f4-9ddd-f35c2cf858b9_125x@2x.jpg?v=1590635132",
     "clickUrl": "https://inn8apparel.com/",
     "products": [
-        {
-            "name": "\"Beholder\" Embroidered Unisex Hoodie",
-            "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/Lavenderbeholder_960x.jpg?v=1595013435",
-            "description": "Embroidered hoodies are custom made to order and will take approximately 2-3 weeks to receive apparel.  Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
-            "clickUrl": "https://inn8apparel.com/collections/embroidered-hoodies/products/beholder-embroidered-unisex-hoodie",
-            "shopName": "Inn8 Apparel"
-        },
-        {
-            "name": "\"Human\" Unisex T-Shirt",
-            "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/907324b48cb8a2cab61d12437cbd6c95_889ab035-22c5-415d-8d5b-5c4b8801fe30_960x.jpg?v=1592930816",
-            "description": "This heavy cotton tee has the classic cotton look and feel. Casual elegance will make it an instant favorite in everyone's wardrobe.",
-            "clickUrl": "https://inn8apparel.com/collections/human-t-shirts/products/human-unisex-t-shirt-1",
-            "shopName": "Inn8 Apparel"
-        },
-        {
-            "name": "\"A Soul Lost in Time\" Premium Matte Vertcial Posters",
-            "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/4c01e342ada4c29877409799c4d5ef4b_960x.jpg?v=1592597538",
-            "description": "Every room deserves to be special. These supreme quality print posters in various sizes serve as statement pieces, creating a personalized environment.",
-            "clickUrl": "https://inn8apparel.com/collections/posters/products/a-soul-lost-in-time-premium-matte-vertical-posters",
-            "shopName": "Inn8 Apparel"
-        }
+      {
+        "name": "\"Beholder\" Embroidered Unisex Hoodie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/Lavenderbeholder_960x.jpg?v=1595013435",
+        "description": "Embroidered hoodies are custom made to order and will take approximately 2-3 weeks to receive apparel.  Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+        "clickUrl": "https://inn8apparel.com/collections/embroidered-hoodies/products/beholder-embroidered-unisex-hoodie",
+        "shopName": "Inn8 Apparel"
+      },
+      {
+        "name": "\"Human\" Unisex T-Shirt",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/907324b48cb8a2cab61d12437cbd6c95_889ab035-22c5-415d-8d5b-5c4b8801fe30_960x.jpg?v=1592930816",
+        "description": "This heavy cotton tee has the classic cotton look and feel. Casual elegance will make it an instant favorite in everyone's wardrobe.",
+        "clickUrl": "https://inn8apparel.com/collections/human-t-shirts/products/human-unisex-t-shirt-1",
+        "shopName": "Inn8 Apparel"
+      },
+      {
+        "name": "\"A Soul Lost in Time\" Premium Matte Vertcial Posters",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0287/3507/8532/products/4c01e342ada4c29877409799c4d5ef4b_960x.jpg?v=1592597538",
+        "description": "Every room deserves to be special. These supreme quality print posters in various sizes serve as statement pieces, creating a personalized environment.",
+        "clickUrl": "https://inn8apparel.com/collections/posters/products/a-soul-lost-in-time-premium-matte-vertical-posters",
+        "shopName": "Inn8 Apparel"
+      }
     ],
     "tags": [
       "Goods",

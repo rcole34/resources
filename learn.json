@@ -1,5 +1,20 @@
 [
   {
+    "id": "08106561-cf65-49f9-a456-e804342e1310",
+    "type": "learn",
+    "title": "Derek Chauvin Is Sentenced To 22 1/2 Years For George Floyd's Murder",
+    "subtitle": "A Minnesota judge sentenced Derek Chauvin to 22 1/2 years in prison for the murder of George Floyd — a punishment that exceeds the state's minimum guidelines but falls short of prosecutors' request of a 30-year sentence.",
+    "imageUrl": "https://media.npr.org/assets/img/2021/06/25/ap21176705787725-2042731a8e40f34028cf6e9ffd64fade66ecae49-s1500-c85.webp",
+    "clickUrl": "https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/06/25/1009524284/derek-chauvin-sentencing-george-floyd-murder",
+    "tags": [
+      "Articles",
+      "Floyd",
+      "Chauvin",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "d44e5bc2-6288-445b-ad9a-bd609ec52f86",
     "type": "learn",
     "title": "Juneteenth is a federal holiday. What comes next?",

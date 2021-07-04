@@ -1,5 +1,21 @@
 [
   {
+    "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
+    "type": "act",
+    "title": "Let Sha'Carri Run!",
+    "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
+    "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
+    "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
+    "tags": [
+      "Sha'carri",
+      "sign",
+      "olympics",
+      "marijuana",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "153ac82e-b4e7-4d7a-b820-03efdbdfeb65",
     "type": "act",
     "title": "Vera Institute of Justice",

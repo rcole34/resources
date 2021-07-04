@@ -1,5 +1,22 @@
 [
   {
+    "id": "5e5bd83d-639a-4933-a32c-4ed883b30a49",
+    "type": "shop",
+    "title": "Soul Cap",
+    "subtitle": "Haircare for the volume-blessed. Being blessed with voluminous hair shouldn’t come with the curse of harsh chemicals or mediocre products.",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1410252290519339008/O8WQrmxu_400x400.jpg",
+    "clickUrl": "https://soulcap.com/shop",
+    "tags": [
+      "hair & headwear",
+      "sports & outdoors",
+      "olympics",
+      "soul cap",
+      "black hair",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "6dbcd392-c4a0-4f95-9a81-35156da80d12",
     "type": "shop",
     "title": "It’s Nola",

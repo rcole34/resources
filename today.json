@@ -154,208 +154,170 @@
   ],
   "4": [
     {
-      "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
-      "type": "learn",
-      "title": "Just Mercy: A Story of Justice and Redemption",
-      "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America \u2014 from one of the most inspiring lawyers of our time.",
-      "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
-      "clickUrl": "https://justmercy.eji.org/",
+      "id": "5e5bd83d-639a-4933-a32c-4ed883b30a49",
+      "type": "shop",
+      "title": "Soul Cap",
+      "subtitle": "Haircare for the volume-blessed. Being blessed with voluminous hair shouldn’t come with the curse of harsh chemicals or mediocre products.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1410252290519339008/O8WQrmxu_400x400.jpg",
+      "clickUrl": "https://soulcap.com/shop",
       "tags": [
-        "books",
-        "death penalty",
-        "criminal justice",
-        "prison",
-        "read",
-        "learn"
+        "hair & headwear",
+        "sports & outdoors",
+        "olympics",
+        "soul cap",
+        "black hair",
+        "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "b0ed07a6-8ee1-431c-8c1f-bb87e3c55668",
-      "type": "act",
-      "title": "Justice for Julius Jones",
-      "subtitle": "Julius Jones is on death row in Oklahoma, despite maintaining his innocence and compelling evidence that he was wrongfully convicted. Send an email to express your support of his release.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
-      "emailInfo": {
-        "recipients": [
-          "Boardmembers@ppb.ok.gov"
-        ],
-        "subject": "Justice for Julius Jones",
-        "messageBody": "<p>Dear Oklahoma Pardon &amp; Parole Board members,</p>  <p>I strongly feel that Julius Darius Jones (# 270147) was wrongfully convicted of murder and sentenced to death in 2002. A crime for which he has always maintained his innocence.</p>  <p>Jones, a black 19 year old man, was arrested in 1999 for shooting white insurance executive Paul Scott Howell in Edmond, Oklahoma. At the time of his arrest, Julius was a successful athlete and honor student on scholarship at the University of Oklahoma.</p>  <p>Recently, new evidence of racial bias in the Jones&rsquo; case has been uncovered by the ABC documentary, &ldquo;The Last Defense.&rdquo;</p>  <p>One day after the documentary finale aired (7-25-18), the Oklahoma Criminal Court of Appeals released a document indicating they could take a look at the Jones&rsquo; case.</p>  <p>There are many factors that were overlooked and never presented during the Julius Jones trial.<br> 1. Jones&rsquo; attorney during the trial was inexperienced by his own admission and this was his first death penalty case.<br> 2. Several key pieces of evidence were never presented to the jury.<br> 3. Tunnel vision set in and the police and prosecutor ignored evidence pointing to others as the shooter.<br> 4. The court ignored an alleged racial statement made by one of the jurors<br> 5. The jury judged Jones based on his race.<br> After viewing the recent ABC documentary, &ldquo;The Last Defense,&rdquo; I am even more convinced than ever of Julius&rsquo; innocence and that he should be given a new trial. I also ask that District Attorney David Prater release Julius Jones&rsquo; case files to his attorneys in order to promote public trust in both the criminal justice system and in Julius Jones&rsquo;s case.</p>  <p>We all have all heard the phrase &lsquo;beyond a shadow of doubt.&rsquo; To me, there is more than a shadow of doubt in this case.</p>  <p>Please, I ask that you do whatever is within your power to support Julius Jones&rsquo; Clemency Petition and see that this injustice &ndash; the wrongful conviction of Julius Jones &ndash; is overturned.</p>  <p>Thank you,<br> [Your Name]<br> [Your location]</p>",
-        "isHtml": true
-      },
+      "id": "be3799cf-1de7-4326-83be-3c5c1606cdc4",
+      "type": "learn",
+      "title": "Swimming caps designed for natural hair banned from Tokyo Olympic Games",
+      "subtitle": "Swimming caps designed for natural Black hair — and created by a Black-owned company — will not be allowed at the upcoming Olympic Games in Tokyo. The International Swimming Federation said the caps do not follow \"the natural form of the head,\" British brand Soul Cap told BBC News.",
+      "imageUrl": "https://i.guim.co.uk/img/media/c8f4b0f02e6f3a4a02f64a5e9bf0de1131a610a2/0_89_3924_2354/master/3924.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6485e49350762a53f3d9263c5cb4045c",
+      "clickUrl": "https://www.cbsnews.com/news/swimming-cap-natural-hair-banned-tokyo-olympic-games-fina/",
       "tags": [
-        "Wrongful conviction",
-        "Email",
-        "Act"
+        "articles",
+        "olympics",
+        "black hair",
+        "soul cap",
+        "Learn"
       ],
       "priority": 10
     }
   ],
   "5": [
     {
-      "id": "e4d2e985-02cf-4750-ad99-bb137754bacf",
-      "type": "shop",
-      "title": "360 Magazine",
-      "subtitle": "360 is an edgy fashion, lifestyle and culture magazine. We will introduce cutting-edge brands, entities and trends to tastemakers within their respective communities. Our founding members have over 30 years of collective experience both as notable talent and uber professionals within the realm of fashion, music, art, design and entertainment. We are more than just a magazine comprised of journalists, representing a movement of social awareness and change.\n\nWe are a LGBTQIA friendly publication. The magazine is contemporary in look and appeal. Quality art content is the constant goal. The magazine will be entertaining, newsworthy and thought-provoking. It will appeal to a broad entertainment readership. No magazine like it is available today, constantly celebrating racial and sexual ambiguous talent and artists.",
-      "imageUrl": "https://www.the360mag.com/wp-content/uploads/2020/07/BW_roundlogo1.png",
-      "clickUrl": "https://www.the360mag.com/",
+      "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
+      "type": "act",
+      "title": "Let Sha'Carri Run!",
+      "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
+      "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
+      "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
       "tags": [
-        "Media",
-        "Magazine",
-        "Culture",
-        "Publication",
-        "Shop"
+        "Sha'carri",
+        "sign",
+        "olympics",
+        "marijuana",
+        "Act"
       ],
       "priority": 10
     },
     {
-      "id": "45207ffb-372b-4820-ae5c-ce20102a0051",
-      "type": "shop",
-      "title": "Gifts for the Spirit",
-      "subtitle": "An independently run, spiritually driven, boutique for the soul",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/t/4/assets/Gold_Logo_for_Email_Signature_2-edit.jpg?v=8006305871313580162",
-      "clickUrl": "https://giftsforthespirit.com/collections",
-      "products": [
-        {
-          "name": "Melanated Classic Tarot",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/MelanatedTarot-8658_hi-res_800x.jpg?v=1592696439",
-          "description": "Various races and nationalities practice tarot for healing and education, but it's hard to heal and learn with tools that don't represent you. This deck is a solution to that problem.",
-          "clickUrl": "https://giftsforthespirit.com/collections/all-products/products/melanated-classic-tarot",
-          "shopName": "Gifts for the Spirit"
-        },
-        {
-          "name": "Bel Meditation Candle Set",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/BELby3rdRitual_800x.jpg?v=1591906210",
-          "description": "The BEL uses fire, gravity, and sound to measure time. When the candle is lit, wax melts and eventually a pin falls, landing with a resonant ding - a beautiful way to end your meditation.",
-          "clickUrl": "https://giftsforthespirit.com/collections/all-products/products/bel-meditation-candle-set",
-          "shopName": "Gifts for the Spirit"
-        },
-        {
-          "name": "Small Garnierite Palm Stone",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/SmallMoonPalmStones-0277_hi-res-edit_800x.jpg?v=1612223509",
-          "description": "Known as the stone of the Goddess Gaia, GARNIERITE (also called Green Moonstone), is a rare form of Moonstone used for emotional healing, balance, and freedom.",
-          "clickUrl": "https://giftsforthespirit.com/collections/crystals/products/small-green-moonstone-palm-stone",
-          "shopName": "Gifts for the Spirit"
-        }
-      ],
+      "id": "f29f81b9-62d1-4f3f-bf86-cb518a88abe4",
+      "type": "learn",
+      "title": "Two more cis Black women banned from Olympics for their natural testosterone levels",
+      "subtitle": "Christine Mboma and Beatrice Masilingi are the latest accomplished athletes to be excluded under the rule that devastated Caster Semenya's career.",
+      "imageUrl": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2020/09/caster-semenya.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=790&h=530",
+      "clickUrl": "https://www.lgbtqnation.com/2021/07/two-cis-black-women-banned-olympics-natural-testosterone-levels/",
       "tags": [
-        "Home & Garden",
-        "Rocks",
-        "Spiritual",
-        "Shop"
+        "articles",
+        "olympics",
+        "testosterone",
+        "cis",
+        "Learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "c21d4539-916c-40e2-8a84-cf64582974af",
+      "type": "learn",
+      "title": "Sha'Carri Richardson's drug test suspension is the end result of racist policies",
+      "subtitle": "Sha’Carri Richardson should have been spending the next month preparing to win the Olympic gold medal in the 100-meter dash. She had a shot after blazing through the event’s qualifying race last month in under 11 seconds. Instead, Richardson may not get to run at all in Tokyo after failing a drug test taken during the Olympic trials in Oregon. But it wasn’t a performance-enhancer that was in her system: It was marijuana.",
+      "imageUrl": "https://www.usmagazine.com/wp-content/uploads/2021/07/5-Things-Know-About-ShaCarri-Richardson-0002.jpg?w=800&quality=86&strip=all",
+      "clickUrl": "https://www.msnbc.com/opinion/sha-carri-richardson-s-drug-test-suspension-end-result-racist-n1272999",
+      "tags": [
+        "Sha'Carri",
+        "marijuana",
+        "olympics",
+        "articles",
+        "Learn"
       ],
       "priority": 10
     }
   ],
   "6": [
     {
-      "id": "d7b93038-1300-4c64-8711-305e2aed5ba9",
-      "type": "learn",
-      "title": "Harriet Tubman - Biography",
-      "subtitle": "Harriet Tubman was an escaped enslaved woman who became a \"conductor\" on the Underground Railroad, leading enslaved people to freedom before the Civil War, all while carrying a bounty on her head. But she was also a nurse, a Union spy and a women\u2019s suffrage supporter.",
-      "imageUrl": "https://cropper.watch.aetnd.com/images.history.com/images/media/video/history_america_story_of_us_harriet_tubman_and_the_underground_railroad_sf_1157660/History_America_Story_of_Us_Harriet_Tubman_and_The_Underground_Railroad_SF_still_624x352.jpg?w=1440",
-      "clickUrl": "https://www.history.com/topics/black-history/harriet-tubman",
+      "id": "5e5bd83d-639a-4933-a32c-4ed883b30a49",
+      "type": "shop",
+      "title": "Soul Cap",
+      "subtitle": "Haircare for the volume-blessed. Being blessed with voluminous hair shouldn’t come with the curse of harsh chemicals or mediocre products.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1410252290519339008/O8WQrmxu_400x400.jpg",
+      "clickUrl": "https://soulcap.com/shop",
       "tags": [
-        "Read",
-        "Bios",
-        "Harriet Tubman",
-        "Civil War",
-        "Underground Railroad",
-        "Learn"
+        "hair & headwear",
+        "sports & outdoors",
+        "olympics",
+        "soul cap",
+        "black hair",
+        "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "d61138b6-f0d4-4edd-a13e-6f6c238cc6b2",
-      "type": "shop",
-      "title": "Black Beard Brigade Men's Grooming Co.",
-      "subtitle": "We carry grooming products that are primarily geared towards the bearded community, but we also have women and children using them as well. Our oil, balm, and butter are excellent for the hair on your head, and the butter can also double as a lotion.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/PC_Butter_2048x.jpg?v=1547136674",
-      "clickUrl": "https://blackbeardbrigade.com/collections/all",
-      "products": [
-        {
-          "name": "Tanzanian Sun Premium Beard Butter",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123607_1_2048x.jpg?v=1547136920",
-          "description": "Black Beard Brigade's beard butter is designed to feel more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard. Soothes and replenishes dry, damaged hair with natural lipid-rich botanicals. Adds the finishing touches for beard renewal and restoration.",
-          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/tanzanian-sun-beard-butter",
-          "shopName": "Black Beard Brigade Men's Grooming Co."
-        },
-        {
-          "name": "Premium Classic Beard Oil",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123328_2048x.jpg?v=1547136709",
-          "description": "Black Beard Brigade's beard oil is designed to tone, nourish, and clear the skin underneath the beard. It feels more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard.",
-          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/premium-classic-beard-oil",
-          "shopName": "Black Beard Brigade Men's Grooming Co."
-        },
-        {
-          "name": "GL Long Sleeve Shirts",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/ad66bf4b078f4743d47e66a7682a7997_2048x.png?v=1590602548",
-          "description": "This well-loved favorite features a classic crew neck, long sleeves, and superior combed and ring-spun jersey cotton. Solid colors are made from 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz, while Athletic Heather is made from 90% Airlume combed and ring-spun cotton and 10% poly blend.",
-          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/gl-long-sleeve-shirts",
-          "shopName": "Black Beard Brigade Men's Grooming Co."
-        }
-      ],
+      "id": "be3799cf-1de7-4326-83be-3c5c1606cdc4",
+      "type": "learn",
+      "title": "Swimming caps designed for natural hair banned from Tokyo Olympic Games",
+      "subtitle": "Swimming caps designed for natural Black hair — and created by a Black-owned company — will not be allowed at the upcoming Olympic Games in Tokyo. The International Swimming Federation said the caps do not follow \"the natural form of the head,\" British brand Soul Cap told BBC News.",
+      "imageUrl": "https://i.guim.co.uk/img/media/c8f4b0f02e6f3a4a02f64a5e9bf0de1131a610a2/0_89_3924_2354/master/3924.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6485e49350762a53f3d9263c5cb4045c",
+      "clickUrl": "https://www.cbsnews.com/news/swimming-cap-natural-hair-banned-tokyo-olympic-games-fina/",
       "tags": [
-        "Health & Beauty",
-        "Skincare",
-        "Beardcare",
-        "Shop"
+        "articles",
+        "olympics",
+        "black hair",
+        "soul cap",
+        "Learn"
       ],
       "priority": 10
     }
   ],
   "7": [
     {
-      "id": "061eb50b-5323-445e-9c24-6d036224b87a",
-      "type": "learn",
-      "title": "Martin Luther King, Jr: 7 Surprising Facts",
-      "subtitle": "In his 39 years (1929-1968) Dr. Martin Luther King, Jr. became one of the leading figures in the civil rights movement.",
-      "imageUrl": "https://i1.wp.com/www.bkreader.com/wp-content/uploads/2020/12/mlk-jr.png?w=1140&ssl=1",
-      "clickUrl": "https://www.bkreader.com/2021/01/17/martin-luther-king-jr-7-surprising-facts-2/",
+      "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
+      "type": "act",
+      "title": "Let Sha'Carri Run!",
+      "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
+      "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
+      "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
       "tags": [
-        "Read",
-        "Articles",
-        "MLK",
+        "Sha'carri",
+        "sign",
+        "olympics",
+        "marijuana",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "f29f81b9-62d1-4f3f-bf86-cb518a88abe4",
+      "type": "learn",
+      "title": "Two more cis Black women banned from Olympics for their natural testosterone levels",
+      "subtitle": "Christine Mboma and Beatrice Masilingi are the latest accomplished athletes to be excluded under the rule that devastated Caster Semenya's career.",
+      "imageUrl": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2020/09/caster-semenya.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=790&h=530",
+      "clickUrl": "https://www.lgbtqnation.com/2021/07/two-cis-black-women-banned-olympics-natural-testosterone-levels/",
+      "tags": [
+        "articles",
+        "olympics",
+        "testosterone",
+        "cis",
         "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "4da4d91c-a4ed-484d-b912-2b1015e79daa",
-      "type": "shop",
-      "title": "Knock Your Socks Off",
-      "subtitle": "Created from an appreciation for high-quality socks that make a lasting impression and backed by years of retail buying experience, Knock Your Socks Off (aka KYSO) was founded in 2016 in Toronto, Canada.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/files/KYSO_logo_7a59c074-89bc-473a-8399-15ba317d1334_260x@2x.png?v=1603643020",
-      "clickUrl": "https://shopkyso.com/collections/all",
-      "products": [
-        {
-          "name": "Above the Clouds Women's Ankle Socks",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/Above_the_clouds_DSC_0697_1080x.png?v=1594033286",
-          "description": "Ultra soft fabric, made from a blend of 80% combed cotton. Fits just above the ankle. Fits Women's shoe size 6-11",
-          "clickUrl": "https://shopkyso.com/products/above-the-clouds-womens-ankle-socks",
-          "shopName": "Knock Your Socks Off"
-        },
-        {
-          "name": "Basketball Cotton Socks",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/DSC_0672_1080x.jpg?v=1594207119",
-          "description": "Ultra soft fabric, made from a blend of 80% combed cotton. Fits mid-calf length. Fits US men shoe size 7-12",
-          "clickUrl": "https://shopkyso.com/products/basketball-cotton-socks",
-          "shopName": "Knock Your Socks Off"
-        },
-        {
-          "name": "Cherry Dress Socks",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1433/6100/products/IMG_7971_1080x.jpg?v=1569209844",
-          "description": "Sweet, sweet cherries! Made from a blend of combed cotton, spandex and elastin. Fits men's shoe size 9-12 and women's shoe size 7-10",
-          "clickUrl": "https://shopkyso.com/products/cherry-dress-socks",
-          "shopName": "Knock Your Socks Off"
-        }
-      ],
+      "id": "c21d4539-916c-40e2-8a84-cf64582974af",
+      "type": "learn",
+      "title": "Sha'Carri Richardson's drug test suspension is the end result of racist policies",
+      "subtitle": "Sha’Carri Richardson should have been spending the next month preparing to win the Olympic gold medal in the 100-meter dash. She had a shot after blazing through the event’s qualifying race last month in under 11 seconds. Instead, Richardson may not get to run at all in Tokyo after failing a drug test taken during the Olympic trials in Oregon. But it wasn’t a performance-enhancer that was in her system: It was marijuana.",
+      "imageUrl": "https://www.usmagazine.com/wp-content/uploads/2021/07/5-Things-Know-About-ShaCarri-Richardson-0002.jpg?w=800&quality=86&strip=all",
+      "clickUrl": "https://www.msnbc.com/opinion/sha-carri-richardson-s-drug-test-suspension-end-result-racist-n1272999",
       "tags": [
-        "Shoes",
-        "Socks",
-        "Fashion",
-        "Shop"
+        "Sha'Carri",
+        "marijuana",
+        "olympics",
+        "articles",
+        "Learn"
       ],
       "priority": 10
     }

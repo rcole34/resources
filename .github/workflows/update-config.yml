@@ -25,7 +25,9 @@ jobs:
           
       - name: Save version to environment variable
         run: |
+          cat version.txt
           latest_version=$(cat version.txt | grep -Eo '\d\d\d' | head -1)
+          echo $latest_version
           rm version.txt
         
       - name: Get latest firebase remote config

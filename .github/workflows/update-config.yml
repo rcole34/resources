@@ -15,11 +15,23 @@ jobs:
     if: github.event.pull_request.merged == true && !contains(github.event.pull_request.labels.*.name, 'do not update config')
     steps:
       - uses: actions/checkout@v2
+      
+      - name: Get latest firebase remote config version
+        uses: w9jds/firebase-action@v2.0.0
+        with:
+          args: remoteconfig:versions:list --limit 1 --project support-the-movement > version.txt
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          
+      - name: Save version to environment variable
+        run: |
+          latest_version=$(cat version.txt | grep -Eo '\d\d\d' | head -1)
+          rm version.txt
         
       - name: Get latest firebase remote config
         uses: w9jds/firebase-action@v2.0.0
         with:
-          args: remoteconfig:get -o remoteconfig.template.json --project support-the-movement
+          args: remoteconfig:get -o remoteconfig.template.json --project support-the-movement -v $latest_version
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         

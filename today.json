@@ -1,56 +1,67 @@
 {
   "1": [
     {
-      "id": "bf84b7f9-8269-4560-be7a-867d1bfa6a68",
-      "type": "learn",
-      "title": "Ava DuVernay's \"13th\"",
-      "subtitle": "In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom.",
-      "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/e46ec4aa_38d4_4e84_b1e1_4605986c3be9.png",
-      "clickUrl": "https://www.netflix.com/title/80091741",
+      "id": "f01f191e-6e05-43c4-aae9-7a2be15e350d",
+      "type": "shop",
+      "title": "Lyfestyle Clothing",
+      "subtitle": "It\u2019s our goal to produce quality clothing that embodies our inspirations of the moment. We only source premium fabrics, usually directly from NYC's garment district. All of our cut and sewn garments are made at our Brooklyn factory. We strive to build a strong brand by consistently making quality clothing that our customers can be proud to wear.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/files/GREENBOX_LOGO_360x.png?v=1545684962",
+      "clickUrl": "https://www.lyfestylenyc.shop/",
+      "products": [
+        {
+          "name": "Taffy Multicolor Lyfestyle Sweatsuit",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/TaffyMultiSuit_940x.jpg?v=1605258530",
+          "description": "Chenille Patch. True to Size. Made in Brooklyn. Available in other colors.",
+          "clickUrl": "https://www.lyfestylenyc.shop/products/taffy-multicolor-lyfestyle-sweatsuit",
+          "shopName": "Lyfestyle Clothing"
+        },
+        {
+          "name": "Multicolor Turtleneck Lyfestyle Dresses",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/9GRL2C1g_600x.jpg?v=1612627207",
+          "description": "Chenille Patch. 94.5% Rayon / 5.5% Spandex. Fitted. Sewn in Brooklyn",
+          "clickUrl": "https://www.lyfestylenyc.shop/collections/dresses/products/multicolor-turtleneck-lyfestyle-dresses",
+          "shopName": "Lyfestyle Clothing"
+        },
+        {
+          "name": "Serpent Lyfestyle Hoody",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0116/5118/6752/products/RedSerpent_940x.jpg?v=1571917392",
+          "description": "8oz Mid-Weight Fleece. Velvet Print. True to Size. Printed in Brooklyn",
+          "clickUrl": "https://www.lyfestylenyc.shop/products/multicolor-lyfestyle-hoodies-1",
+          "shopName": "Lyfestyle Clothing"
+        }
+      ],
       "tags": [
-        "Watch",
-        "Videos",
-        "Documentary",
-        "Netflix",
-        "learn"
+        "Hair & Headwear",
+        "Accessories",
+        "Home & Garden",
+        "Candles",
+        "Children",
+        "Fashion",
+        "Clothing",
+        "Basics",
+        "Men\u2019s",
+        "Women\u2019s",
+        "Footwear",
+        "Unisex",
+        "Accessories",
+        "Handbags",
+        "Pet",
+        "Sports & Outdoors",
+        "Lifestyle",
+        "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "7ea2ca5e-0165-4eb0-aca9-e834087f28dc",
+      "id": "a76da44d-4710-4f8d-b5bd-0aaafe0859e3",
       "type": "shop",
-      "title": "Grace & Styles Boutique",
-      "subtitle": "Grace & Styles Boutique is a provider of quality leather handbags and must-have accessories.  We provide a variety of colors and trendy styles at affordable prices to suite everyone!",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/files/GSB_PNG_TRANSPARENT_BG_240x@2x.png?v=1579271847",
-      "clickUrl": "https://gracestylesboutique.com/collections/all",
-      "products": [
-        {
-          "name": "Clear handbag in blue and black",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/9CB2EDA1-D532-47A1-A61E-F9CA1C497342_1800x1800.jpg?v=1573765248",
-          "description": "Made with PVC clear outside shell and vegan leather.  Interior pounch is made with faux snakeskin print and pebbled texture.   Comes with adjustable shoulder strap that extends to 52 inches.",
-          "clickUrl": "https://gracestylesboutique.com/products/clear-handbag-in-blue-and-black",
-          "shopName": "Grace & Styles Boutique"
-        },
-        {
-          "name": "Ellie Leather Tote Handbag",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/CDA8046B-4FAF-41DD-9333-79A93A229DB7_1800x1800.jpg?v=1580786227",
-          "description": "The \u201cEllie\u201d brings real elegance and style with an accentuated flower and metallic color.  Tote has a curvy top that gives even more style.",
-          "clickUrl": "https://gracestylesboutique.com/products/ellie-leather-tote-handbag",
-          "shopName": "Grace & Styles Boutique"
-        },
-        {
-          "name": "Men business genuine leather backpack",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0265/4083/4894/products/D31E13BF-96D6-44F3-A59E-E787C5DD4876_1800x1800.jpg?v=1582081329",
-          "description": "Men carry all backpack style business bag. Made with genuine leather. Show up to your meeting in style.",
-          "clickUrl": "https://gracestylesboutique.com/collections/men-s-collection/products/men-business-genuine-leather-backpack-in-tan-1",
-          "shopName": "Grace & Styles Boutique"
-        }
-      ],
+      "title": "Bossa Bars",
+      "subtitle": "Energy bars formulated for women perimenopause to post to help support daily nutritional needs and keep that sneaky extra 10 pounds under control!",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0476/4018/2940/files/BOSSABarsLogo800_130x@2x.png?v=1605885477",
+      "clickUrl": "https://bossabars.com",
       "tags": [
-        "Fashion",
-        "Accessories",
-        "Handbags",
-        "Electronics",
+        "Food & Beverage",
+        "Wellness",
         "Shop"
       ],
       "priority": 10
@@ -58,173 +69,157 @@
   ],
   "2": [
     {
-      "id": "f1107367-57ca-4ab9-ac51-72c0c7fff132",
+      "id": "d8e9aa95-2cb2-49ae-9211-09b95a6e719c",
       "type": "shop",
-      "title": "Shoes by Londo",
-      "subtitle": "Custom painted Vans and Air Force 1s.",
-      "imageUrl": "https://assets.bigcartel.com/theme_images/55937414/IMG_6653.png?auto=format&fit=max&h=250&w=1300",
-      "clickUrl": "https://shoesbylondo.bigcartel.com/products",
+      "title": "Ka'oir Fitness",
+      "subtitle": "Ka'oir Fitness, founded in 2011 by celebrity Keyshia Ka'oir is a fitness line of patented, trademarked fat burners to help people lose weight faster than ever.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/files/kaoir-fitness-logo-white_67f4b0ff-b6fd-4a32-97bb-2afc54a7290f_360x.png?v=1523565121",
+      "clickUrl": "https://kaoirfitness.com/collections/all-products",
       "products": [
         {
-          "name": "NAURTO V2",
-          "imageUrl": "https://assets.bigcartel.com/product_images/278211368/9E4DBAA6-D6C9-4ACA-BCBB-5B44F9EF57AC.jpeg?auto=format&fit=max&h=1000&w=1000",
-          "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
-          "clickUrl": "https://shoesbylondo.bigcartel.com/product/naurto-v2",
-          "shopName": "Shoes by Londo"
+          "name": "Ka'oir Waist Eraser\u2122",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/IMG_0629_940x.jpg?v=1551421268",
+          "description": "Ka'oir Waist Eraser\u2122 will have your waist, stomach & back looking amazing. This is a unisex fitness product which burns belly & back fat, sheds excess water and shrinks waist size....all while allowing your abs to be more visible. It allows you to spot train your stomach, back  & waist. ",
+          "clickUrl": "https://kaoirfitness.com/collections/all-products/products/ka-oir-waist-eraser%E2%84%A2",
+          "shopName": "Ka'oir Fitness"
         },
         {
-          "name": "LV DRIP",
-          "imageUrl": "https://assets.bigcartel.com/product_images/277177268/6B571A80-1742-4C51-BDD6-BE79A8E21124.jpeg?auto=format&fit=max&h=1000&w=1000",
-          "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
-          "clickUrl": "https://shoesbylondo.bigcartel.com/product/lv-drip",
-          "shopName": "Shoes by Londo"
+          "name": "Ka'oir Body Sweat\u2122",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/Kaoir_Waist_Eraser_1-24-19-148_750x.JPEG?v=1551420622",
+          "description": "The Ka'oir Body Sweat is a state of the art \"sweat\" suit. It is very stretchy, flexible & comfortable for any workout. KA'OIR Body Sweat will make you sweat tremendously, your metabolism will increase, you will burn calories, lose weight & shed water!",
+          "clickUrl": "https://kaoirfitness.com/collections/all-products/products/ka-oir-body-sweat%E2%84%A2",
+          "shopName": "Ka'oir Fitness"
         },
         {
-          "name": "BARRY B. AND FRENZ",
-          "imageUrl": "https://assets.bigcartel.com/product_images/274771916/625CB4A8-AD8C-45A3-B9C0-B484CC378AAF.jpeg?auto=format&fit=max&h=1000&w=1000",
-          "description": "Customs are art so treat them as such. They will last as long as you take good care of them like any other shoe.",
-          "clickUrl": "https://shoesbylondo.bigcartel.com/product/barry-b-and-frenz",
-          "shopName": "Shoes by Londo"
+          "name": "Ka'oir Slimming Tea",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0020/4200/3515/products/teasqf_940x.jpg?v=1524140344",
+          "description": "KA\u2019OIR Slimming Tea is a loose leaf tea packed in individual nylon tea bags that contains a powerful blend of natural ingredients to help slim your body! Each package includes 14 bags (78.4 grams) of detox tea, and is meant to be used every day or every other day.",
+          "clickUrl": "https://kaoirfitness.com/collections/all-products/products/kaoir-slimming-tea",
+          "shopName": "Ka'oir Fitness"
         }
       ],
       "tags": [
-        "Goods",
-        "Fashion",
-        "AF1",
+        "Health & Beauty",
+        "Wellness",
+        "Food & Beverage",
+        "Coffee & Tea",
         "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "63b31613-fd6b-4f9b-9fdd-4e1b6dca3201",
-      "type": "shop",
-      "title": "Find Black-owned bookstores near you",
-      "subtitle": "The African American Literature Book Club (AALBC.com) has put together a map of Blac-owned bookstores across the US. Find your nearest one here.",
-      "imageUrl": "https://aalbc.com/aalbc_logo_120.jpg",
-      "clickUrl": "https://aalbc.com/bookstores/bookstore-map.php",
-      "tags": [
-        "Goods",
-        "Entertainment & Toys",
-        "Bookstores",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "3": [
-    {
-      "id": "193176ac-5348-44e0-9f56-6f1871c1f039",
-      "type": "shop",
-      "title": "Text a bot for book suggestions",
-      "subtitle": "Twitter user @ecmoy created a bot that you can text for recommendations of books written by Black authors based on genre. It will also link you to a Black-owned bookstore that is selling the title. Text (409) 404-0403 to try it!",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/books-on-a-shelf-news-photo-1591386457.jpg",
-      "textInfo": {
-        "recipients": [
-          "4094040403"
-        ],
-        "body": "Send me book recommendations!"
-      },
-      "tags": [
-        "Read",
-        "Shop",
-        "Books",
-        "Entertainment & Toys",
-        "Text",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "cc68037e-60fa-4f43-a420-91d1b21c68a6",
+      "id": "c804f46b-6df6-4e35-a89e-f76fd7a655f2",
       "type": "learn",
-      "title": "The New Jim Crow",
-      "subtitle": "The New Jim Crow is a stunning account of the rebirth of a caste-like system in the United States, one that has resulted in millions of African Americans locked behind bars and then relegated to a permanent second-class status\u2014denied the very rights supposedly won in the Civil Rights Movement.",
-      "imageUrl": "https://newjimcrow.com/wp-content/uploads/2019/12/new_jim_crow_reissue_pb_final-1.jpg",
-      "clickUrl": "https://bookshop.org/books/the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness-anniversary/9781620971932",
+      "title": "Just Mercy: A Story of Justice and Redemption",
+      "subtitle": "An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America \u2014 from one of the most inspiring lawyers of our time.",
+      "imageUrl": "https://justmercy.eji.org/wp-content/uploads/2019/08/book.png",
+      "clickUrl": "https://justmercy.eji.org/",
       "tags": [
         "books",
-        "prison",
+        "death penalty",
         "criminal justice",
-        "slavery",
+        "prison",
         "read",
         "learn"
       ],
       "priority": 10
     }
   ],
-  "4": [
+  "3": [
     {
-      "id": "5e5bd83d-639a-4933-a32c-4ed883b30a49",
-      "type": "shop",
-      "title": "Soul Cap",
-      "subtitle": "Haircare for the volume-blessed. Being blessed with voluminous hair shouldn’t come with the curse of harsh chemicals or mediocre products.",
-      "imageUrl": "https://pbs.twimg.com/profile_images/1410252290519339008/O8WQrmxu_400x400.jpg",
-      "clickUrl": "https://soulcap.com/shop",
+      "id": "1e450fb3-a212-4f7b-a339-3223754f0afc",
+      "type": "learn",
+      "title": "Open Yale Courses: African American History: From Emancipation to the Present",
+      "subtitle": "The purpose of this course is to examine the African American experience in the United States from 1863 to the present. Prominent themes include the end of the Civil War and the beginning of Reconstruction; African Americans\u2019 urbanization experiences; the development of the modern civil rights movement and its aftermath; and the thought and leadership of Booker T. Washington, Ida B. Wells-Barnett, W.E.B. Du Bois, Marcus Garvey, Martin Luther King Jr., and Malcolm X.",
+      "imageUrl": "https://oyc.yale.edu/sites/default/files/holloway_1_2.jpg",
+      "clickUrl": "https://oyc.yale.edu/african-american-studies/afam-162",
       "tags": [
-        "hair & headwear",
-        "sports & outdoors",
-        "olympics",
-        "soul cap",
-        "black hair",
-        "Shop"
+        "Learn",
+        "Course",
+        "Education",
+        "History",
+        "learn"
       ],
       "priority": 10
     },
     {
-      "id": "be3799cf-1de7-4326-83be-3c5c1606cdc4",
-      "type": "learn",
-      "title": "Swimming caps designed for natural hair banned from Tokyo Olympic Games",
-      "subtitle": "Swimming caps designed for natural Black hair — and created by a Black-owned company — will not be allowed at the upcoming Olympic Games in Tokyo. The International Swimming Federation said the caps do not follow \"the natural form of the head,\" British brand Soul Cap told BBC News.",
-      "imageUrl": "https://i.guim.co.uk/img/media/c8f4b0f02e6f3a4a02f64a5e9bf0de1131a610a2/0_89_3924_2354/master/3924.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6485e49350762a53f3d9263c5cb4045c",
-      "clickUrl": "https://www.cbsnews.com/news/swimming-cap-natural-hair-banned-tokyo-olympic-games-fina/",
+      "id": "7396b2fd-eecf-4f9b-8a4c-ae81ffa9af22",
+      "type": "shop",
+      "title": "Gentleman AF",
+      "subtitle": "Gentleman AF is a beard care line featuring a beard wash, beard oils, and beard balms for classy men with a dash of savagery.",
+      "imageUrl": "https://gentlemanaf.com/static/gaflogo1-93e4442bc763d731d913f086263fd00b.png",
+      "clickUrl": "https://gentlemanaf.com/products/",
+      "products": [
+        {
+          "name": "Beard Balms",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/usual_balm.jpg?v=1576609690",
+          "description": "Scoop a dime sized amount of beard balm with your finger and place it in the palm of your hands. Rub it between both palms until it melts. Apply it to your beard, comb it down and style as desired.",
+          "clickUrl": "https://gentlemanaf.com/beard-balms",
+          "shopName": "Gentleman AF"
+        },
+        {
+          "name": "Beard Wash",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/beard_wash1.jpg?v=1576608682",
+          "description": "Wet your face and neck, place a small amount of beard wash in the palm of your hands and massage it into your beard and face, including your neck. Rinse your beard thoroughly.",
+          "clickUrl": "https://gentlemanaf.com/beard-wash",
+          "shopName": "Gentleman AF"
+        },
+        {
+          "name": "Beard Oils",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0271/2207/3693/products/Usual_Oil.jpg?v=1576616038",
+          "description": "Shake well before use. Drop a dime sized amount of beard oil in the palm of your hands. Rub your hands and apply the oil from your skin to the tip of your beard.",
+          "clickUrl": "https://gentlemanaf.com/beard-oils",
+          "shopName": "Gentleman AF"
+        }
+      ],
       "tags": [
-        "articles",
-        "olympics",
-        "black hair",
-        "soul cap",
-        "Learn"
+        "Health & Beuty",
+        "Skincare",
+        "Beardcare",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "4": [
+    {
+      "id": "a313dfbf-4985-474a-8dcb-88288cf2fd1f",
+      "type": "learn",
+      "title": "Beyond the Numbers: The Experiential Effects of Stereotype Threat on Students of Color at TCU",
+      "subtitle": "This study aims to examine if and how the effects of negative stereotypes of students of color are felt beyond the statistical measures of academic success, reaching into the classroom and social experiences of these students. ",
+      "clickUrl": "https://bollerreview.tcu.edu/article/download/112/79?inline=true",
+      "tags": [
+        "Read",
+        "Articles",
+        "stereotype threat",
+        "bias",
+        "academic article",
+        "learn"
+      ],
+      "priority": 11
+    },
+    {
+      "id": "6f9573f8-3619-4fde-b84e-cf7ee19b7f0d",
+      "type": "learn",
+      "title": "Why Protests and Riots Work",
+      "subtitle": "Riots are destructive, dangerous, and scary \u2014 but can lead to serious social reforms. To prevent more violent uprisings and protests, we need to take their causes seriously.",
+      "imageUrl": "https://images.jacobinmag.com/wp-content/uploads/2020/06/01140041/GettyImages-1215982507.jpg",
+      "clickUrl": "https://www.vox.com/2015/4/30/8518681/protests-riots-work",
+      "tags": [
+        "Vox",
+        "Articles",
+        "Read",
+        "learn"
       ],
       "priority": 10
     }
   ],
   "5": [
     {
-      "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
-      "type": "act",
-      "title": "Let Sha'Carri Run!",
-      "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
-      "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
-      "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
-      "tags": [
-        "Sha'carri",
-        "sign",
-        "olympics",
-        "marijuana",
-        "Act"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "f29f81b9-62d1-4f3f-bf86-cb518a88abe4",
-      "type": "learn",
-      "title": "Two more cis Black women banned from Olympics for their natural testosterone levels",
-      "subtitle": "Christine Mboma and Beatrice Masilingi are the latest accomplished athletes to be excluded under the rule that devastated Caster Semenya's career.",
-      "imageUrl": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2020/09/caster-semenya.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=790&h=530",
-      "clickUrl": "https://www.lgbtqnation.com/2021/07/two-cis-black-women-banned-olympics-natural-testosterone-levels/",
-      "tags": [
-        "articles",
-        "olympics",
-        "testosterone",
-        "cis",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
       "id": "c21d4539-916c-40e2-8a84-cf64582974af",
       "type": "learn",
       "title": "Sha'Carri Richardson's drug test suspension is the end result of racist policies",
-      "subtitle": "Sha’Carri Richardson should have been spending the next month preparing to win the Olympic gold medal in the 100-meter dash. She had a shot after blazing through the event’s qualifying race last month in under 11 seconds. Instead, Richardson may not get to run at all in Tokyo after failing a drug test taken during the Olympic trials in Oregon. But it wasn’t a performance-enhancer that was in her system: It was marijuana.",
+      "subtitle": "Sha\u2019Carri Richardson should have been spending the next month preparing to win the Olympic gold medal in the 100-meter dash. She had a shot after blazing through the event\u2019s qualifying race last month in under 11 seconds. Instead, Richardson may not get to run at all in Tokyo after failing a drug test taken during the Olympic trials in Oregon. But it wasn\u2019t a performance-enhancer that was in her system: It was marijuana.",
       "imageUrl": "https://www.usmagazine.com/wp-content/uploads/2021/07/5-Things-Know-About-ShaCarri-Richardson-0002.jpg?w=800&quality=86&strip=all",
       "clickUrl": "https://www.msnbc.com/opinion/sha-carri-richardson-s-drug-test-suspension-end-result-racist-n1272999",
       "tags": [
@@ -233,364 +228,194 @@
         "olympics",
         "articles",
         "Learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "ced5eb28-32c5-474a-b2d6-49b9f2158b03",
+      "type": "shop",
+      "title": "Sweet Pea Books Inc",
+      "subtitle": "Sweet Pea Books is dedicated to producing multicultural books that expose, inspire, amuse, and foster a love of reading in all children. Sweet Pea Books aims to promote the development of good character by teaching values through literature as well as expose young readers to different cultures.",
+      "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/216788.jpg",
+      "clickUrl": "https://www.sweetpeachildrensbooks.com/store/c1/Featured_Products.html",
+      "products": [
+        {
+          "name": "D Is For Dragon Fruit (Hardcover)",
+          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/9037056_orig.jpg",
+          "description": "D is for Dragon Fruit is a vibrantly illustrated, exotic fruit alphabet book that exposes children to a variety of nutritious fruits, reinforces the alphabet and expands a child\u2019s knowledge of the world.",
+          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p3/D_is_for_Dragon_Fruit_%28hardcover%29_%2ADomestic_Shipping_included.html",
+          "shopName": "Sweet Pea Books Inc"
+        },
+        {
+          "name": "When Mama Braids My Hair (Hardcover)",
+          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p12_i1_w611.jpeg",
+          "description": "When Mama Braids My Hair captures a young girl\u2019s experience of having her hair braided and the bond it creates with her mother. The tradition of African hair braiding is more than just a Sunday routine. Come join Nikki on an adventure as she is transformed into an Egyptian queen, a Nigerian goddess, a Zulu warrior, and a Maasai girl.",
+          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p12/When_Mama_Braids_My_Hair_%28hardcover%29_%2ADomestic_Shipping_Included.html",
+          "shopName": "Sweet Pea Books Inc"
+        },
+        {
+          "name": "Elephants Don't Have Stripes! (COMING SOON!)",
+          "imageUrl": "https://www.sweetpeachildrensbooks.com/uploads/4/8/2/2/48222295/s958163574607579575_p8_i1_w612.jpeg",
+          "description": "Elephants Don\u2019t Have Stripes! Deep in the valley, in the dry grasslands of the African savanna, a young elephant admires other animals for their beauty. He yearns to look and act more like them. One by one, each wish comes true and the young elephant couldn\u2019t be happier.",
+          "clickUrl": "https://www.sweetpeachildrensbooks.com/store/p8/Elephants_Don%27t_Have_Stripes%21_%28COMING_SOON%21%29.html",
+          "shopName": "Sweet Pea Books Inc"
+        }
+      ],
+      "tags": [
+        "Entertainment & Toys",
+        "Books",
+        "Shop"
       ],
       "priority": 10
     }
   ],
   "6": [
     {
-      "id": "5e5bd83d-639a-4933-a32c-4ed883b30a49",
-      "type": "shop",
-      "title": "Soul Cap",
-      "subtitle": "Haircare for the volume-blessed. Being blessed with voluminous hair shouldn’t come with the curse of harsh chemicals or mediocre products.",
-      "imageUrl": "https://pbs.twimg.com/profile_images/1410252290519339008/O8WQrmxu_400x400.jpg",
-      "clickUrl": "https://soulcap.com/shop",
+      "id": "9678f50d-c438-4b2d-b7d0-872116f921ca",
+      "type": "learn",
+      "title": "Stay Informed: Ma'Khia Bryant Shooting ",
+      "subtitle": "A teenage girl who the police say threatened two girls with a knife was fatally shot by an officer in Columbus, Ohio, on Tuesday, April 20th, 2021, shortly before a jury reached a guilty verdict in the murder trial of the former Minneapolis police officer Derek Chauvin in last year\u2019s killing of George Floyd.",
+      "imageUrl": "https://static01.nyt.com/images/2021/05/20/multimedia/20xp-columbus3/20xp-columbus3-superJumbo-v2.jpg?quality=90&auto=webp",
+      "clickUrl": "https://www.nytimes.com/2021/04/20/us/columbus-ohio-shooting.html",
       "tags": [
-        "hair & headwear",
-        "sports & outdoors",
-        "olympics",
-        "soul cap",
-        "black hair",
-        "Shop"
+        "Ma'Khia Bryant",
+        "New York Times",
+        "Police Shooting",
+        "Police Reform",
+        "Columbus Ohio",
+        "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "be3799cf-1de7-4326-83be-3c5c1606cdc4",
-      "type": "learn",
-      "title": "Swimming caps designed for natural hair banned from Tokyo Olympic Games",
-      "subtitle": "Swimming caps designed for natural Black hair — and created by a Black-owned company — will not be allowed at the upcoming Olympic Games in Tokyo. The International Swimming Federation said the caps do not follow \"the natural form of the head,\" British brand Soul Cap told BBC News.",
-      "imageUrl": "https://i.guim.co.uk/img/media/c8f4b0f02e6f3a4a02f64a5e9bf0de1131a610a2/0_89_3924_2354/master/3924.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6485e49350762a53f3d9263c5cb4045c",
-      "clickUrl": "https://www.cbsnews.com/news/swimming-cap-natural-hair-banned-tokyo-olympic-games-fina/",
+      "id": "98624ad5-0a39-4627-8be1-1e62a6fc85ee",
+      "type": "shop",
+      "title": "Blow Candle Co.",
+      "subtitle": "Blow Candle Co. is a company on a mission to support and uplift women! A grief hobby turned empowerment project, Blow is carrying on the legacy of my late brother DaVaughn, who\u2019s lifelong duty was to help and encourage others.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/files/Full-Black-Digital_feac9cae-a2ff-4cce-836f-58c9c7df6c35_480x480.png?v=1601615289",
+      "clickUrl": "https://blowcandleco.com/collections",
+      "products": [
+        {
+          "name": "Signature Collection",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/IMG_0041_2112x1408.jpg?v=1605417661",
+          "description": "Introducing our Signature Collection! Seven carefully curated scents to inspire, relax and delight! Our candles are made from an all natural coconut wax blend, phthalate and paraben free fragrances and eco friendly, cotton braided wicks for a clean burn.",
+          "clickUrl": "https://blowcandleco.com/collections/candles/products/signature-collection",
+          "shopName": "Blow Candle Co."
+        },
+        {
+          "name": "The Essence Collection",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/PXL_20210130_195918770.PORTRAIT_2048x1536.jpg?v=1612503710",
+          "description": "A collection of deep and complex fragrance blends. An ode to Womxn, everywhere.",
+          "clickUrl": "https://blowcandleco.com/collections/linen-and-room-spray/products/the-essence-collection-1",
+          "shopName": "Blow Candle Co."
+        },
+        {
+          "name": "Signature Collection",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0438/7998/9408/products/IMG_0165_2112x1408.jpg?v=1600833364",
+          "description": "These sweet little wax truffles last 3-5 days per piece depending on the average time of use. ",
+          "clickUrl": "https://blowcandleco.com/collections/wax-melts/products/wax-melts-signature-line",
+          "shopName": "Blow Candle Co."
+        }
+      ],
       "tags": [
-        "articles",
-        "olympics",
-        "black hair",
-        "soul cap",
-        "Learn"
+        "Wellness",
+        "Home & Garden",
+        "Candles",
+        "Shop"
       ],
       "priority": 10
     }
   ],
   "7": [
     {
-      "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
-      "type": "act",
-      "title": "Let Sha'Carri Run!",
-      "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
-      "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
-      "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
+      "id": "006177fb-89a5-488d-8427-f2fe53972923",
+      "type": "shop",
+      "title": "Buttaz & Wax",
+      "subtitle": "Buttaz & Wax is a handcrafted body butter and personal care line that came about after founder Keisha Marie made one of her body butters and her eight year old daughter looked up at her and said \"mommy these are good, you should sell them\".",
+      "imageUrl": "https://static1.squarespace.com/static/5aa0b268266c073befc14b96/t/5d439d231c750b000123cbdb/1607121991126/",
+      "clickUrl": "https://www.buttazandwax.com/shop",
+      "products": [
+        {
+          "name": "Coco Loco Body Butter",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1620937005720-IVEGJT8REBHEO3UKJC0V/ke17ZwdGBToddI8pDm48kKtijf5x5S0rIV7X_qDH3dB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UaZbTVdO5VSPAOxIcVIbmIFLIFeVDbQiz7iBIgNCzklBDD2o6CESiqIlH5ssNFrtmA/A3EF79EA-C58E-4972-AFC4-19E5F7E7A13E.jpeg?format=2500w",
+          "description": "Apply to any area of the body as needed. Best used after a shower when skin is still a bit damp. The butters and oils will lock moisture from shower into your skin.",
+          "clickUrl": "https://www.buttazandwax.com/bodybutters/2020/1/22/pinr1xx8jh4swmyd2kbohmrfgc8871",
+          "shopName": "Buttaz & Wax"
+        },
+        {
+          "name": "Beard Oil",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1591823734037-48JITVNB7NAKUBHUDSHD/ke17ZwdGBToddI8pDm48kNUky3PFTqx_idkNr2ps9mJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URdr5HHUe4_PRMaj8Fu9nJu4yZCaSehhZL-O1iV9_j60FK4eMZgYA6RDahiKMr8qgw/32D1EBF6-23BA-4158-BF4A-BD1D2B20A8A2?format=2500w",
+          "description": "Work 3-5 drops of our beard oil into your hair revive your beard. Best used right after a shower while your beard is still damp",
+          "clickUrl": "https://www.buttazandwax.com/body-oils/2020/6/10/b76xl9u0ju07agr5ngce6wkf0cqub1",
+          "shopName": "Buttaz & Wax"
+        },
+        {
+          "name": "Lavender Soap",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5aa0b268266c073befc14b96/1618413128468-GZHBAWQOF2VM3V23EBI3/ke17ZwdGBToddI8pDm48kGZMwrf8dBks-14O0CGXLKFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFLLQM2Zjny5vXB4EbTA6CRIJSgLg0exphuL_mNGlkvf581KJcwKFppFHqpLxiR7qQ/97F9402A-B554-44AD-887E-14F73B4D0B19?format=1500w",
+          "description": "Our Lavender handcrafted soap, just like our Lavender bathsalts, smells like calming Lavender.",
+          "clickUrl": "https://www.buttazandwax.com/soaps/lavender",
+          "shopName": "Buttaz & Wax"
+        }
+      ],
       "tags": [
-        "Sha'carri",
-        "sign",
-        "olympics",
-        "marijuana",
-        "Act"
+        "Home & Garden",
+        "Health & Beauty",
+        "Wellness",
+        "Hair & Headwear",
+        "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "f29f81b9-62d1-4f3f-bf86-cb518a88abe4",
-      "type": "learn",
-      "title": "Two more cis Black women banned from Olympics for their natural testosterone levels",
-      "subtitle": "Christine Mboma and Beatrice Masilingi are the latest accomplished athletes to be excluded under the rule that devastated Caster Semenya's career.",
-      "imageUrl": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2020/09/caster-semenya.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=790&h=530",
-      "clickUrl": "https://www.lgbtqnation.com/2021/07/two-cis-black-women-banned-olympics-natural-testosterone-levels/",
+      "id": "40c618c5-0b92-4ed7-b736-2723311bfdfe",
+      "type": "shop",
+      "title": "Smell Good Spa",
+      "subtitle": "Established in 1998, we are purveyors of aromatic products for women who are making a conscientious change in their personal care products. Our products are the cherry-on-top for women who love to live good, feel good and smell good, wholesomely.",
+      "imageUrl": "https://www.thenilelist.com/storage/app/logos/1591649825BlackOwnedBusiness-SMELLGOODSPA-logo.jpg",
+      "clickUrl": "http://smellgoodspa.com/",
       "tags": [
-        "articles",
-        "olympics",
-        "testosterone",
-        "cis",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "c21d4539-916c-40e2-8a84-cf64582974af",
-      "type": "learn",
-      "title": "Sha'Carri Richardson's drug test suspension is the end result of racist policies",
-      "subtitle": "Sha’Carri Richardson should have been spending the next month preparing to win the Olympic gold medal in the 100-meter dash. She had a shot after blazing through the event’s qualifying race last month in under 11 seconds. Instead, Richardson may not get to run at all in Tokyo after failing a drug test taken during the Olympic trials in Oregon. But it wasn’t a performance-enhancer that was in her system: It was marijuana.",
-      "imageUrl": "https://www.usmagazine.com/wp-content/uploads/2021/07/5-Things-Know-About-ShaCarri-Richardson-0002.jpg?w=800&quality=86&strip=all",
-      "clickUrl": "https://www.msnbc.com/opinion/sha-carri-richardson-s-drug-test-suspension-end-result-racist-n1272999",
-      "tags": [
-        "Sha'Carri",
-        "marijuana",
-        "olympics",
-        "articles",
-        "Learn"
+        "Health & Beauty",
+        "Bath & Body",
+        "Skincare",
+        "Home & Garden",
+        "Home Fragrance",
+        "Shop"
       ],
       "priority": 10
     }
   ],
   "8": [
     {
-      "id": "e7a0006b-c069-46a2-a189-261581611706",
-      "type": "shop",
-      "title": "Riot Swim",
-      "subtitle": "Riot Swim is an online designer swimwear and beachwear brand, offering an exclusive collection of bikinis, one piece swimsuits, and more.",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7TCTDp264pOgf996YcMpfO2esASQzDZo7cw&usqp=CAU",
-      "clickUrl": "https://www.riotswim.com/",
-      "products": [
-        {
-          "name": "Echo One Piece- Kiwi",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/RME_4598_800x1026_crop_center@2x.jpg?v=1613086013",
-          "description": "Minimal coverage front and back. Doubles as bodysuit. Body sculpting. Fitted at waist to flatter curves.",
-          "clickUrl": "https://www.riotswim.com/products/pre-order-echo-one-piece-volt",
-          "shopName": "Riot Swim"
-        },
-        {
-          "name": "Pico Top-Chocolate",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/DSC_1346_81b3d8ea-9d96-4d67-81f9-1e5dda3b0265_800x1026_crop_center@2x.jpg?v=1581808878",
-          "description": "Full coverage top. Adjustable tie. Body sculpting. No Padding.",
-          "clickUrl": "https://www.riotswim.com/products/pico-top-chocolate",
-          "shopName": "Riot Swim"
-        },
-        {
-          "name": "Riot Crop Tee-Black",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/riot-swim00602_800x1026_crop_center@2x.jpg?v=1560833295",
-          "description": "Short-sleeve crop. Cotton tee. Round neck.",
-          "clickUrl": "https://www.riotswim.com/products/riot-crop-tee-black",
-          "shopName": "Riot Swim"
-        }
-      ],
+      "id": "25907769-5c6f-4481-bcce-ea36a57208ce",
+      "type": "learn",
+      "title": "Accountability in a Time of Justice",
+      "subtitle": "Accountability is a well-worn word in social justice circles. We have worked hard to figure out what accountability means to us as we attempt to walk our social justice talk.",
+      "clickUrl": "http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/accountability.jjo.drworks.pdf",
       "tags": [
-        "Goods",
-        "swimwear",
-        "Black-owned",
-        "Fashion",
-        "Shop"
+        "Read",
+        "Articles",
+        "Accountability",
+        "Justice",
+        "learn"
       ],
       "priority": 10
     },
     {
-      "id": "3394882b-9a70-4247-b49b-e3540e6e1854",
+      "id": "ca6ded01-12ac-41ce-b212-a867fdca782f",
       "type": "learn",
-      "title": "\"I Have A Dream\" Speech, In Its Entirety",
-      "subtitle": "Listen to Martin Luther King, Jr.'s \"I Have a Dream\" speech.",
-      "imageUrl": "https://media.npr.org/assets/img/2017/01/15/king-speech-306478e25e6e24acaefb2441bc27b0b7c6d5dea6-s1400-c85.jpg",
-      "clickUrl": "https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety",
+      "title": "Pod For The Cause Podcast",
+      "subtitle": "The Leadership Conference on Civil and Human Rights launched \"Pod for the Cause\" to expand the conversation on the critical civil and human rights challenges of our day. Through this expanded dialogue, we want to spur activism that drives change in our communities and country.",
+      "imageUrl": "https://ssl-static.libsyn.com/p/assets/c/2/1/3/c213aab160d4e6ea/PodForTheCause_-_Logo_Sq_3000_x_3000.png",
+      "clickUrl": "https://civilrights.org/podforthecause/",
       "tags": [
         "Listen",
-        "Speeches",
-        "Read",
-        "MLK",
-        "NPR",
-        "Learn"
+        "Podcasts",
+        "learn"
       ],
       "priority": 10
     }
   ],
   "9": [
-    {
-      "id": "1743325b-7077-4fa4-b9bb-0f76df036d84",
-      "type": "learn",
-      "title": "1619 Podcast",
-      "subtitle": "An audio series from The Times observing the 400th anniversary of the beginning of American slavery.",
-      "imageUrl": "https://static01.nyt.com/images/2019/09/11/podcasts/1619-album-art/1619-album-art-thumbLarge.jpg",
-      "clickUrl": "https://www.nytimes.com/column/1619-project",
-      "tags": [
-        "Listen",
-        "Slavery",
-        "History",
-        "Podcasts",
-        "learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "e2f4820c-8b06-405f-9977-36b19ed0397f",
-      "type": "learn",
-      "title": "Code Switch Podcast",
-      "subtitle": "Hosted by journalists of color, our podcast tackles the subject of race head-on. We explore how it impacts every part of society \u2014 from politics and pop culture to history, sports and everything in between. This podcast makes ALL OF US part of the conversation \u2014 because we're all part of the story.",
-      "imageUrl": "https://media.npr.org/assets/img/2020/03/24/undefined_sq-63f9f4b46bb9031d67f9785b66818f4befbab8bc-s100-c85.jpg",
-      "clickUrl": "https://www.npr.org/podcasts/510312/codeswitch",
-      "tags": [
-        "Listen",
-        "Podcasts",
-        "learn"
-      ],
-      "priority": 10
-    }
-  ],
-  "10": [
-    {
-      "id": "7ff6e77a-28ee-4a86-b365-00e0f9623a1d",
-      "type": "shop",
-      "title": "D'Lashes",
-      "subtitle": "Take your eyelashes from thin unnoticeable eyelashes to rich, full, beautiful ones. Dionne\u2019s Lashes are custom individual eyelash extensions that are attached to your natural eyelashes, lasting up to 6-8 weeks.",
-      "imageUrl": "https://www.dlashes.com/wordpress/images/logo.png",
-      "clickUrl": "https://www.dlashes.com/shop-dlashes/",
-      "products": [
-        {
-          "name": "D'Ultra Matte Lipstick",
-          "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/960w/products/61/273/DL_ultra_matte_lip_coff_infrared_96691_v3_web_1000__08780.1600075783.jpg?c=2",
-          "description": "You want Luxurious, creamy lipstick with a modern matte finish? Well, this Matte Lipstick Delivers saturated color, intense hydration and extended wear, for soft, smooth, beautiful lips. Just enough \"Pop\" to go with your D'Lashes!",
-          "clickUrl": "https://shop.dlashes.com/dultra-matte-lipstick/",
-          "shopName": "D'Lashes"
-        },
-        {
-          "name": "D'Luscious",
-          "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/1280x1280/products/44/176/Untitled_copy_80343__06132.1596609403.jpg?c=2",
-          "description": "Be bold and rock a standout look with a little help from the D\u2019Luscious lashes. These dark strip lashes open and enhance your eyes by creating a fuller, thicker lash look.",
-          "clickUrl": "https://shop.dlashes.com/dluscious/",
-          "shopName": "D'Lashes"
-        },
-        {
-          "name": "Black Luxury Edition Candle",
-          "imageUrl": "https://cdn11.bigcommerce.com/s-81ea0/images/stencil/960w/products/71/331/11183_101_Amazon__97055.1600929031.jpg?c=2",
-          "description": "This New D'Lashes Black Luxury Candle is the convergence of artistic souls who share a singular desire to create. Free of constraint and compromise. Fusing years of experience in the world of Beauty and Eyelashes.",
-          "clickUrl": "https://shop.dlashes.com/black-luxury-edition-candle/",
-          "shopName": "D'Lashes"
-        }
-      ],
-      "tags": [
-        "Health & Beauty",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "eb26e70c-0408-4785-bb78-9f4a87b371b0",
-      "type": "shop",
-      "title": "Olamina Botanicals",
-      "subtitle": "We are a Black femme-owned apothecary crafting tinctures, teas, syrups and salves in unceded Lenni Lenape territory. Our mission is to help people ground into their own innate power as healers, draw strength from the plant world\u2014and act on behalf of the planet.",
-      "imageUrl": "https://static1.squarespace.com/static/592377c2893fc0ac91b9bf40/t/5f9a0dea50b92707a1f51d32/1611683835210/?format=1500w",
-      "clickUrl": "https://www.olaminabotanicals.com/shop",
-      "products": [
-        {
-          "name": "Fire Cider - Immune Tonic",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1607395076810-V3LUCX99O1ZQOUMZ7XCJ/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/prod_FireCider.jpg?format=1500w",
-          "description": "Fire Cider is a spicy, garlicky, alcohol-free folk immunity remedy that can be taken daily to ward off the sniffles.",
-          "clickUrl": "https://www.olaminabotanicals.com/shop/fire-cider",
-          "shopName": "Olamina Botanicals"
-        },
-        {
-          "name": "Sore Throat Spray",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1607395115901-P1XAJD93NFWJFT074X9C/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/prod_ThroatSpray.jpg?format=1500w",
-          "description": "Tingle and tickle the microorganisms responsible for your sore throat into oblivion with our Sore Throat Spray.",
-          "clickUrl": "https://www.olaminabotanicals.com/shop/sore-throat-spray",
-          "shopName": "Olamina Botanicals"
-        },
-        {
-          "name": "Sweet Dreams - Sleep Tonic",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/592377c2893fc0ac91b9bf40/1600897961527-Y7GJMXXUHR5SYPAFJ6IT/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/AF_OLMNA_200830_prod_SweDre.jpg?format=1500w",
-          "description": "Formulated to help one ease into peaceful slumber, Sweet Dreams features reputed nervine Hops, a sedative that induces deep sleep without headache or groggy feeling upon waking.",
-          "clickUrl": "https://www.olaminabotanicals.com/shop/sweet-dreams",
-          "shopName": "Olamina Botanicals"
-        }
-      ],
-      "tags": [
-        "Home & Garden",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "11": [
-    {
-      "id": "c0833883-101d-4d68-a788-f237223e0968",
-      "type": "learn",
-      "title": "Netflix Explained: Racial Wealth Gap",
-      "subtitle": "Cory Booker and others discuss how slavery, housing discrimination and centuries of inequality have compounded to create a racial wealth gap.",
-      "imageUrl": "https://cdn.vox-cdn.com/thumbor/L0Ggc3UKDbq3nb5jurjwG_u4hII=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/11118489/explained_s01_Wealth_Exclusion.png",
-      "clickUrl": "https://www.youtube.com/watch?v=Mqrhn8khGLM",
-      "tags": [
-        "Watch",
-        "Videos",
-        "Netflix",
-        "Race",
-        "learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "ab1b0f54-85dc-4788-8b4e-84670b308a9c",
-      "type": "learn",
-      "title": "How the Dodgers 'Took' Jackie Robinson | Field of Dreams...Deferred Part 3",
-      "subtitle": "Brooklyn Dodgers executive Branch Rickey signed Jackie Robinson from the Kansas City Monarchs in 1945, but he refused to pay Negro League teams for their players. Watch more on the fight to integrate MLB in \"Field of Dreams...Deferred\" Part 3.",
-      "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
-      "clickUrl": "https://www.youtube.com/watch?v=VjGbX4PyGqU",
-      "tags": [
-        "Black Lives Matter",
-        "Sports",
-        "Videos",
-        "Watch",
-        "Learn"
-      ],
-      "priority": 10
-    }
-  ],
-  "12": [
-    {
-      "id": "d255d933-9f3e-4fb4-8481-4be331b8f19a",
-      "type": "shop",
-      "title": "The Honey Pot Company",
-      "subtitle": "Stay clean, fresh, and balanced, even during your period with our natural menstrual products. Banish bacteria and cramps with herbal-infused, chemical-free sanitary pads and tampons that create a \"cooling\" effect that\u2019s both protective and soothing.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/files/pull_to_quiz_x1000_911ef197-4530-4967-aba0-617f9e364ea6_x1000.jpg",
-      "clickUrl": "https://thehoneypot.co/products",
-      "products": [
-        {
-          "name": "Menstrual Cup",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/products_menstrual-cup-size2_1512x.jpg?v=1583353010",
-          "description": "If tampons or pads aren't your \"cup\" of tea, reach for the Honey Pot Co Menstrual Cup: a convenient, sustainable alternative that's good for you and the earth.",
-          "clickUrl": "https://thehoneypot.co/products/menstrual-cup?variant=32066319745117",
-          "shopName": "The Honey Pot Company"
-        },
-        {
-          "name": "Mommy-to-Be Wash",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/Screen_Shot_2020-01-22_at_10.43.29_AM_1296x.png?v=1579707887",
-          "description": "Use our feminine hygiene wash during pregnancy to balance your pH, fight odor-causing bacteria, and calm discomfort while gently cleansing your honeypot.",
-          "clickUrl": "https://thehoneypot.co/products/mommy-to-be-wash?variant=13632434405469",
-          "shopName": "The Honey Pot Company"
-        },
-        {
-          "name": "Soothing Body Balm",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0510/5657/products/12211_0069_Amazon_NEW_1296x.jpg?v=1575003798",
-          "description": "This body salve is infused with natural magnesium for menstrual cramps and 500 mg of broad-spectrum hemp distillate. This hemp and magnesium body balm does not contain THC.",
-          "clickUrl": "https://thehoneypot.co/products/soothing-body-balm",
-          "shopName": "The Honey Pot Company"
-        }
-      ],
-      "tags": [
-        "Goods",
-        "Black-owned",
-        "feminine hygiene",
-        "Wellness",
-        "Health & Beauty",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "8871933c-4d48-49b0-8857-6b56818c6928",
-      "type": "shop",
-      "title": "Dynamic Confluence",
-      "subtitle": "I have items that I carry with me anywhere I go in case of an emergency. I couldn't find an emergency kit that was complete, so I made a few of my own. I hope people will find these items useful. It's better to have and not need, than need and not have.",
-      "imageUrl": "https://dynamic-confluence.square.site/uploads/b/5a7f9f5cec886fc4729616a0195f82089301a858c61958095385883d1fddd022/IMG_20190614_133819_057_1590348933.jpg?width=640",
-      "clickUrl": "https://dynamic-confluence.square.site/",
-      "tags": [
-        "Sports & Outdoors",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "13": [
-    {
-      "id": "d919012c-e419-422d-a277-9bd708369eae",
-      "type": "act",
-      "title": "The Collective PAC",
-      "subtitle": "The Collective is strengthening our democracy by addressing the significant underrepresentation of the Black community in public office. We are fighting for equal representation and protection under the law so it is vital that we have Black candidates run, and Black voices heard.",
-      "imageUrl": "https://abdemo-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/undefined/header/image_url/62ed7ff1-a521-4571-b3e4-90a5720fa799-large.png",
-      "clickUrl": "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
-      "tags": [
-        "politics",
-        "actblue",
-        "Donate",
-        "Act"
-      ],
-      "priority": 10
-    },
     {
       "id": "7b0a5d8a-7d20-442c-a446-242d4359d9c5",
       "type": "act",
@@ -603,239 +428,96 @@
         "Act"
       ],
       "priority": 10
-    }
-  ],
-  "14": [
+    },
     {
-      "id": "1b04e9e2-2d48-428b-b250-950c35c91016",
+      "id": "be3799cf-1de7-4326-83be-3c5c1606cdc4",
       "type": "learn",
-      "title": "Harvard student penned textbook on racial literacy",
-      "subtitle": "Winona Guo '22 co-authored a book on race, culture, and identity as a resource for teachers.",
-      "imageUrl": "https://news.harvard.edu/wp-content/uploads/2019/09/091919_Guo_072_2500-1500x1000.jpg",
-      "clickUrl": "https://news.harvard.edu/gazette/story/2019/10/harvard-student-pens-textbook-on-racial-literacy/",
+      "title": "Swimming caps designed for natural hair banned from Tokyo Olympic Games",
+      "subtitle": "Swimming caps designed for natural Black hair \u2014 and created by a Black-owned company \u2014 will not be allowed at the upcoming Olympic Games in Tokyo. The International Swimming Federation said the caps do not follow \"the natural form of the head,\" British brand Soul Cap told BBC News.",
+      "imageUrl": "https://i.guim.co.uk/img/media/c8f4b0f02e6f3a4a02f64a5e9bf0de1131a610a2/0_89_3924_2354/master/3924.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6485e49350762a53f3d9263c5cb4045c",
+      "clickUrl": "https://www.cbsnews.com/news/swimming-cap-natural-hair-banned-tokyo-olympic-games-fina/",
       "tags": [
-        "Harvard",
-        "Book",
-        "Textbook",
-        "Education",
-        "Racial Literacy",
+        "articles",
+        "olympics",
+        "black hair",
+        "soul cap",
         "Learn"
       ],
       "priority": 10
-    },
+    }
+  ],
+  "10": [
     {
-      "id": "4272fc10-829c-4e0d-a7c8-9f153dc770d9",
+      "id": "764bdc8e-b888-404a-9982-eddc75ebee46",
       "type": "shop",
-      "title": "Loza Tam",
-      "subtitle": "Shop our collection of women's African Head Wraps. All of our head wraps & turbans are lined in satin to protect the hair against frizz, breakage and moisture loss.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/files/logo_140x@2x.jpg?v=1553685435",
-      "clickUrl": "https://lozatam.com/",
+      "title": "Corner 103",
+      "subtitle": "Corner 103 has a reputation for making world class wines, and is committed to exceeding expectations.",
+      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Corner103_Logo_Fullcolor-XL0-82ac45215056b3a_82ac481f-5056-b3a8-49e5b9ce6da7d000.jpg",
+      "clickUrl": "https://www.corner103.com/shop/current-releases/",
       "products": [
         {
-          "name": "Black Satin Head Wrap",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-silk-turban-topknotted_1080x.jpg?v=1617385042",
-          "description": "Black, Pre-tied Satin Turban Head Wrap is made completely of black satin to prevent friction between the cotton fabric and your fragile hair strands. Features an elastic band in the back to ensure a the turban stays secure on your head.",
-          "clickUrl": "https://lozatam.com/collections/classic/products/black-pretied-head-wrap-for-women",
-          "shopName": "Loza Tam"
+          "name": "NV Sparkling Ros\u00e9",
+          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_sparklingros2019-1586283583976.jpg",
+          "description": "This Gold Medal winning wine was made in the classic French style using traditional grapes; making it non-vintage; and using the methode champenoise process which requires a secondary fermentation in the bottle.",
+          "clickUrl": "https://www.corner103.com/product/nv-sparkling-ros-duplicate",
+          "shopName": "Corner 103"
         },
         {
-          "name": "Faiza Turban Headband",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/faiza-turban-headband-top_1080x.jpg?v=1603899140",
-          "description": "Black, purple, and lemon yellow headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands.  Turban headband is perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
-          "clickUrl": "https://lozatam.com/collections/headbands/products/faiza-turban-headband-1",
-          "shopName": "Loza Tam"
+          "name": "2018 Chardonnay, Sonoma Carneros",
+          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_chadonnay_sonomacarneros_2018-1574992631306.jpg",
+          "description": "Our 2018 Chardonnay was crafted from a low-yielding vineyard in the Carneros AVA that consistently produces some of the region's best Chardonnay grapes.",
+          "clickUrl": "https://www.corner103.com/product/2018-chardonnay",
+          "shopName": "Corner 103"
         },
         {
-          "name": "Lulu African Headband",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-white-headband-for-curly-hair_1080x.jpg?v=1603898384",
-          "description": "Black, white, and grey African Printed Head Wrap Headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands. Perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
-          "clickUrl": "https://lozatam.com/collections/headbands/products/lulu-black-white-african-headband",
-          "shopName": "Loza Tam"
+          "name": "2017 Grenache, Alexander Valley",
+          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_grenache_2017-1595361010496.jpg",
+          "description": "Our 2017 Grenache is a balanced wine crafted from an amazing low yielding vineyard in the Alexander Valley that consistently delivers excellent fruit flavors and silky tannins.",
+          "clickUrl": "https://www.corner103.com/product/2017-grenache-alexander-valley",
+          "shopName": "Corner 103"
         }
       ],
       "tags": [
-        "Hair & Headwear",
+        "Food & Beverage",
+        "Wine",
+        "Alcohol",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "e031c4cf-9ea5-4fae-b3d0-14c25ff33b8a",
+      "type": "shop",
+      "title": "NCMPRBL",
+      "subtitle": "NCMPRBL (pronounced: N-Com-Par-Bull) is a black doctor owned watch and fashion accessories brand. Our premium watches and accessories are designed with 316L stainless steel, water resistance, and levels of attention meant to exceed your expectations. ",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0278/2707/7225/files/dark_logo_transparent_background_x65@2x.png?v=1600661527",
+      "clickUrl": "https://ncmprblwatches.com/",
+      "tags": [
+        "Fashion",
+        "Watches",
         "Accessories",
         "Shop"
       ],
       "priority": 10
     }
   ],
-  "15": [
+  "11": [
     {
-      "id": "75b96d3a-c3df-40a1-acc2-9b139c93df76",
+      "id": "98689647-3988-4845-adc5-7fa30d642159",
       "type": "learn",
-      "title": "What it takes to be racially literate",
-      "subtitle": "Over the last year, Priya Vulchi and Winona Guo traveled to all 50 US states, collecting personal stories about race and intersectionality. Now they're on a mission to equip every American with the tools to understand, navigate and improve a world structured by racial division.",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/priya_vulchi_and_winona_guo_what_it_takes_to_be_racially_literate/details?language=en",
+      "title": "Learn about Julius Jones",
+      "subtitle": "Learn about Julius\u2019 life and what led to his wrongful conviction through Viola Davis' docu-series \"The Last Defense.\"",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d4df5acea4f970001e70135/1592338124475-TOT6KPWJQ10FM4GC35BZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/Justice+For+Julius+Logo+-+Green.jpg?format=750w",
+      "clickUrl": "https://www.justiceforjuliusjones.com/watch-the-doc",
       "tags": [
+        "Julius Jones",
         "Watch",
         "Videos",
-        "Racial Literacy",
-        "TED talk",
+        "documentary",
         "learn"
       ],
       "priority": 10
     },
-    {
-      "id": "37565270-9c3f-491f-b3cb-6d31f83ca0c7",
-      "type": "shop",
-      "title": "AllGoudes & Services",
-      "subtitle": "Whether you have a college degree and are seeking to make your first steps onto your career path, or just looking to secure steady income by obtaining an entry level position; AllGoudes and Services makes sure that you\u2019ll be ALLGOUDE in your job search! It\u2019s your time! Let us help you display your worth to potential employers.",
-      "imageUrl": "https://allgoudesservices.com/wp-content/uploads/2020/07/all-goudes-and-services-logo.png",
-      "clickUrl": "https://allgoudesservices.com/services/",
-      "tags": [
-        "Services",
-        "Resume",
-        "Career",
-        "Professional",
-        "Job",
-        "Interview",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "16": [
-    {
-      "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
-      "type": "learn",
-      "title": "Negro League Baseball",
-      "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
-      "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
-      "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
-      "tags": [
-        "Black History Month",
-        "Read",
-        "Articles",
-        "Videos",
-        "Watch",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "0d6db1e2-2bc7-4ffa-8125-5e64255f0197",
-      "type": "act",
-      "title": "Reopen Sandra Bland's Case",
-      "subtitle": "Sandra Bland was arrested for a traffic stop on July 10, 2015 by Brian Encinia.  She was found dead in her cell three days later. Encinia was never indicted, in spite of the fact, that he physically assaulted her her on camera. There is a new video that has come to light, which may have been hidden from the grand jury.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandra_Bland_re-crop.jpg/180px-Sandra_Bland_re-crop.jpg",
-      "clickUrl": "https://www.change.org/p/texas-governor-i-want-sandra-bland-s-case-reopened",
-      "tags": [
-        "Death",
-        "Sign",
-        "Act"
-      ],
-      "priority": 10
-    }
-  ],
-  "17": [
-    {
-      "id": "05217e46-84b2-4eb2-9a7c-024d3a1ee787",
-      "type": "shop",
-      "title": "Shades of My Melanin LLC",
-      "subtitle": "At Shades of My Melanin, our goal is to not only offer products that make you feel beautiful in your own skin but to offer products that tell a story for each and every person who wears them. We offer fun, colorful, and creative products that can be worn by all ages.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0423/9127/3623/files/Transparent_Logo_220x@2x.png?v=1594581650",
-      "clickUrl": "https://shadesofmymelanin.com/",
-      "tags": [
-        "Fashion",
-        "Clothing",
-        "Tees",
-        "Accessories",
-        "Jewelry",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "5981f25a-904d-46bf-87d4-7beb43f8f438",
-      "type": "learn",
-      "title": "How we can make racism a solvable problem \u2014 and improve policing",
-      "subtitle": "When we define racism as behaviors instead of feelings, we can measure it \u2014 and transform it from an impossible problem into a solvable one, says justice scientist Dr. Phillip Atiba Goff. In an actionable talk, he shares his work at the Center for Policing Equity, an organization that helps police departments diagnose and track racial gaps in policing in order to eliminate them.",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/dr_phillip_atiba_goff_how_we_can_make_racism_a_solvable_problem_and_improve_policing/details",
-      "tags": [
-        "Watch",
-        "Videos",
-        "TED talk",
-        "Policing",
-        "learn"
-      ],
-      "priority": 10
-    }
-  ],
-  "18": [
-    {
-      "id": "b1c561d7-d39e-4f4b-af87-9c08845df026",
-      "type": "shop",
-      "title": "Designs by Tee LLC",
-      "subtitle": "Brooklyn Social Worker designing positive t-shirts and apparel. Supporting homeless children and families in NYC.",
-      "imageUrl": "https://static.wixstatic.com/media/7b61d3_6dd74325c33b4a60a5db849b48d275aa~mv2.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01/designsbyteelogo.webp",
-      "clickUrl": "https://www.designsbytee3.com/",
-      "tags": [
-        "Fashion",
-        "Clothing",
-        "Tees",
-        "Men\u2019s",
-        "Women\u2019s",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "46e2e9a6-ee7a-4676-b16d-0cd5a49e1ef9",
-      "type": "learn",
-      "title": "Whistling Vivaldi",
-      "subtitle": "Claude M. Steele, who has been called \"one of the few great social psychologists,\" offers a vivid first-person account of the research that supports his groundbreaking conclusions on stereotypes and identity.",
-      "imageUrl": "https://images-production.bookshop.org/spree/images/attachments/6519553/original/9780393339727.jpg?1588350165",
-      "clickUrl": "https://bookshop.org/books/whistling-vivaldi-how-stereotypes-affect-us-and-what-we-can-do/9780393339727",
-      "tags": [
-        "books",
-        "stereotypes",
-        "stereotype threat",
-        "racism",
-        "research",
-        "read",
-        "learn"
-      ],
-      "priority": 10
-    }
-  ],
-  "19": [
-    {
-      "id": "a2fe2c5e-a969-4395-b454-2dda60970be9",
-      "type": "learn",
-      "title": "Racial Literacy: A Call to Action for Teachers",
-      "subtitle": "Uprisings in the wake of George Floyd\u2019s death at the hands of police and the worldwide reaction demanding racial justice represented a wake-up moment for schools. Talking about race will be essential if we are going to serve all students well.",
-      "imageUrl": "https://racialliteracyorg.files.wordpress.com/2019/05/6hwzl_sd.png",
-      "clickUrl": "https://www.hmhco.com/blog/racial-literacy-a-call-to-action-for-teachers",
-      "tags": [
-        "Education",
-        "Unlearn",
-        "Curriculum",
-        "Racial Literacy",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "8be92578-21fb-44ad-9eec-de3238a637dc",
-      "type": "learn",
-      "title": "Intersectionality Matters! Podcast",
-      "subtitle": "Intersectionality Matters! is a podcast hosted by Kimberl\u00e9 Crenshaw, an American civil rights advocate and a leading scholar of critical race theory.",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/53f20d90e4b0b80451158d8c/1586364686802-PCCUP9LIO28P7B6SDH9V/ke17ZwdGBToddI8pDm48kO4tK3CWuwbwUlKHbnwKPCxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PId3EdR3A8ysS8vtrdf_nUdNe4cGEL8d8egiyG15SACbgKMshLAGzx4R3EDFOm1kBS/lgoo_final.jpg?format=750w",
-      "clickUrl": "https://www.aapf.org/intersectionality-matters",
-      "tags": [
-        "Listen",
-        "Intersectionality",
-        "Podcasts",
-        "learn"
-      ],
-      "priority": 10
-    }
-  ],
-  "20": [
     {
       "id": "03d382ed-b818-4f36-b7fb-b26a287cbd4b",
       "type": "act",
@@ -858,7 +540,6 @@
         "https://chicagobond.org/donate/",
         "https://secure.actblue.com/donate/national-bail-out-1?amount=$100"
       ],
-      "info": "Update to the latest version of the app to get access to this feature",
       "tags": [
         "Gofundme",
         "Nonprofit",
@@ -868,199 +549,307 @@
         "Act"
       ],
       "priority": 10
-    },
-    {
-      "id": "ec4952d3-f76b-4346-b4a3-b8c8926567b5",
-      "type": "learn",
-      "title": "How to overcome our biases? Walk boldly toward them",
-      "subtitle": "Our biases can be dangerous, even deadly \u2014 as we've seen in the cases of Michael Brown in Ferguson, Missouri, and Eric Garner, in Staten Island, New York. Diversity advocate Vern\u0101 Myers looks closely at some of the subconscious attitudes we hold toward out-groups. She makes a plea to all people: Acknowledge your biases. ",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/details",
-      "tags": [
-        "Watch",
-        "Videos",
-        "bias",
-        "TED talk",
-        "learn"
-      ],
-      "priority": 10
     }
   ],
-  "21": [
+  "12": [
     {
-      "id": "a689ac8c-d088-44d6-ba0e-14f1b062b5bb",
-      "type": "act",
-      "title": "The Sentencing Project",
-      "subtitle": "The Sentencing Project promotes effective and humane responses to crime that minimize imprisonment and criminalization of youth and adults by promoting racial, ethnic, economic, and gender justice.",
-      "imageUrl": "https://www.sentencingproject.org/wp-content/themes/sentencing/img/sentencing_logo.png",
-      "clickUrl": "https://www.sentencingproject.org/actions/",
-      "tags": [
-        "The Sentencing Project",
-        "Prison Reform",
-        "Mass Incarceration",
-        "Research",
-        "Act"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "d21007a6-aa46-4a3f-85e8-e4d4ce7b843e",
+      "id": "cec864f1-0525-49dc-861f-44482b5c48de",
       "type": "shop",
-      "title": "Scent Affairs",
-      "subtitle": "Our goal is to continuously strive to make and provide a quality product. The goal, create a safe, effective, quality product with a long lasting scentual affect.",
-      "imageUrl": "https://img1.wsimg.com/isteam/ip/5ea6346b-225e-46e2-9c86-48aa90fa9dc8/Scent-Affairs-Logo.png/:/rs=h:320/qt=q:95",
-      "clickUrl": "https://scentaffairs.com/shop-1",
+      "title": "Feed Love",
+      "subtitle": "Our mission is to create a culture, through quality apparel, where seeing, being and feeding love, can change the world.",
+      "imageUrl": "https://static1.squarespace.com/static/5bd921393c3a532204faff71/t/5eb0fafdb6165a7ec3030af0/1601655514609/?format=1500w",
+      "clickUrl": "https://www.feedlove.co/collections/all",
       "tags": [
-        "Personal Fragrance",
-        "Home & Garden",
-        "Home Fragrance",
-        "Other",
-        "Miscellaneous",
-        "Shop"
-      ],
-      "priority": 10
-    }
-  ],
-  "22": [
-    {
-      "id": "7d59e8f8-b0f4-48f7-80f9-e637e96585f5",
-      "type": "shop",
-      "title": "Beauty Bakerie",
-      "subtitle": "A single mother and breast cancer survivor, Cashmere Nicole founded Beauty Bakerie in 2011 as a new lipstick brand that was vegan, non-toxic and cruelty-free.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/files/brown_logo.png?v=1587514529",
-      "clickUrl": "https://www.beautybakerie.com/",
-      "products": [
-        {
-          "name": "Chocolate Therapy Sugar Sticks",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/ChocolateTherapySwatch_800x800.progressive.jpg?v=1602889341",
-          "description": "A castor oil infused lip liner collection that delivers high-quality custom coverage while lining & defining your lip look. Just add 1/2 cup of sugar and everything will be pretty sweet! ",
-          "clickUrl": "https://www.beautybakerie.com/collections/sugar-sticks/products/chocolate-therapy-sugar-stick",
-          "shopName": "Beauty Bakerie"
-        },
-        {
-          "name": "Frozen Mini So Icy Illuminator",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/so_icy_mini_-_frozen_800x800.progressive.jpg?v=1575421223",
-          "description": "Our So Icy loose powder illuminators will give your cheeks #thatSNOWglow from iridescent, crushed-pearl pigment with high payoff. Best applied with a brush (but go ahead, dip your fingers in!)",
-          "clickUrl": "https://www.beautybakerie.com/collections/highlighters/products/frozen-so-icy-illuminator-mini",
-          "shopName": "Beauty Bakerie"
-        },
-        {
-          "name": "Blending Egg Beauty Sponges",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/Blending_Egg_Beauty_Sponges_Resized1024x1024_3_800x800.progressive.jpg?v=1569098207",
-          "description": "Cooked up with you in mind, Blending Egg Beauty Sponges were uniquely created to fit in the palm of your hand for seamless blending. Try a recipe with a dash or two of Cake Face Concealer and bake until your heart's content with Flour Setting Powder. Blending Eggs will be your new favorite tool for eggs-traordinary cakin' that's hard to beat! Hehe.",
-          "clickUrl": "https://www.beautybakerie.com/collections/bakeware/products/blending-egg-beauty-sponge",
-          "shopName": "Beauty Bakerie"
-        }
-      ],
-      "tags": [
-        "Goods",
-        "Cosmetics",
-        "Wellness",
-        "Health & Beauty",
+        "Clothes",
+        "Fashion",
         "Shop"
       ],
       "priority": 10
     },
     {
-      "id": "9be13a0f-ab27-4bc1-b78e-686cc7c02415",
+      "id": "17d5ead4-a5e7-451d-bbe1-589997366323",
       "type": "learn",
-      "title": "An interview with the founders of Black Lives Matter",
-      "subtitle": "In this spirited conversation with Mia Birdsong, the movement's three founders share what they've learned about leadership and what provides them with hope and inspiration in the face of painful realities. Their advice on how to participate in ensuring freedom for everybody: join something, start something and \"sharpen each other, so that we all can rise.\"",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/alicia_garza_patrisse_cullors_and_opal_tometi_an_interview_with_the_founders_of_black_lives_matter/details?language=en",
+      "title": "Brown v. Board: Timeline of School Integration in the U.S.",
+      "subtitle": "Trace school integration from 1849 to 2007.",
+      "imageUrl": "https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2017-07/Teaching%20Tolerance_TT25_Brown%20v%20Board%20Timeline_1800px.jpg?itok=alIvwBM3",
+      "clickUrl": "https://www.tolerance.org/magazine/spring-2004/brown-v-board-timeline-of-school-integration-in-the-us",
       "tags": [
-        "Watch",
-        "Videos",
-        "BLM",
-        "TED talk",
+        "Black History Month",
+        "Read",
+        "Articles",
+        "Segregation",
+        "Education",
+        "Learn"
+      ],
+      "priority": 10
+    }
+  ],
+  "13": [
+    {
+      "id": "5e893f43-37ad-4949-9175-bf9e85581e36",
+      "type": "shop",
+      "title": "Airis Foods",
+      "subtitle": "Airis Foods are hand crafted food products that add flavor and flare to all your cooking and snacking needs. With both the home cook and the commercial chef in mind, owner Airis the Chef combines simple, wholesome ingredients to create BIG FLAVOR profiles. ",
+      "imageUrl": "https://assets.bigcartel.com/theme_images/35218102/Airs_Foods_logo.png?auto=format&fit=max&h=500&w=1800",
+      "clickUrl": "http://www.atcspiceblends.com/products",
+      "tags": [
+        "Food & Beverage",
+        "Desserts",
+        "Condiments & Spices",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "0a5b1546-6185-42ad-bed7-15b11a8faec3",
+      "type": "learn",
+      "title": "White Fragility: Why It's So Hard for White People to Talk About Racism",
+      "subtitle": "This book explicates the dynamics of White Fragility and how we might build our capacity in the on-going work towards racial justice.",
+      "imageUrl": "https://robindiangelo.com/wp-content/uploads/2019/01/fragility-nyt-450.jpg",
+      "clickUrl": "https://robindiangelo.com/publications/",
+      "tags": [
+        "books",
+        "white supremacy",
+        "white privilege",
+        "read",
         "learn"
       ],
       "priority": 10
     }
   ],
-  "23": [
+  "14": [
     {
-      "id": "a313dfbf-4985-474a-8dcb-88288cf2fd1f",
+      "id": "14d489c1-30c8-4cde-a530-80ebe8eb53d1",
       "type": "learn",
-      "title": "Beyond the Numbers: The Experiential Effects of Stereotype Threat on Students of Color at TCU",
-      "subtitle": "This study aims to examine if and how the effects of negative stereotypes of students of color are felt beyond the statistical measures of academic success, reaching into the classroom and social experiences of these students. ",
-      "clickUrl": "https://bollerreview.tcu.edu/article/download/112/79?inline=true",
+      "title": "What Happened on May 25th?",
+      "subtitle": "On May 25th, 2020, George Floyd was in Minneapolis on business, far from his family and community, when four Minneapolis police officers murdered him in broad daylight. It was a modern day lynching as those police officers served as judge, jury, and executioner on an unarmed, non-violent, handcuffed Black man.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ecdf72c3e4654347029db39/1590562672739-X97RX679P8BAF9PKHAAZ/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/EY9vFSsXgAIvb-N.jpg",
+      "clickUrl": "https://www.justiceforbigfloyd.com/",
       "tags": [
         "Read",
         "Articles",
-        "stereotype threat",
-        "bias",
-        "academic article",
+        "Sign",
+        "Donate",
         "learn"
       ],
-      "priority": 11
+      "priority": 10
     },
     {
-      "id": "1af28c42-f05e-48d5-bef0-0fe2b1335fe2",
-      "type": "act",
-      "title": "Support the Milwaukee Freedom Fund",
-      "subtitle": "The Milwaukee Freedom Fund is extending support to protestors in Kenosha, WI. Their mission is to build on ongoing bail abolition efforts, support immigration efforts, work towards Black and Brown Liberation, and support Black and Brown young people as they build a new world. ",
-      "imageUrl": "https://supportwomenshealth.salsalabs.org/c675cf8a-4513-4ddf-b912-0f7ab51d3889/45550eea-f6aa-4d1b-b42b-6350d1012334.png",
-      "clickUrl": "https://supportwomenshealth.salsalabs.org/mkefreedomfund/index.html",
+      "id": "d61138b6-f0d4-4edd-a13e-6f6c238cc6b2",
+      "type": "shop",
+      "title": "Black Beard Brigade Men's Grooming Co.",
+      "subtitle": "We carry grooming products that are primarily geared towards the bearded community, but we also have women and children using them as well. Our oil, balm, and butter are excellent for the hair on your head, and the butter can also double as a lotion.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/PC_Butter_2048x.jpg?v=1547136674",
+      "clickUrl": "https://blackbeardbrigade.com/collections/all",
+      "products": [
+        {
+          "name": "Tanzanian Sun Premium Beard Butter",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123607_1_2048x.jpg?v=1547136920",
+          "description": "Black Beard Brigade's beard butter is designed to feel more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard. Soothes and replenishes dry, damaged hair with natural lipid-rich botanicals. Adds the finishing touches for beard renewal and restoration.",
+          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/tanzanian-sun-beard-butter",
+          "shopName": "Black Beard Brigade Men's Grooming Co."
+        },
+        {
+          "name": "Premium Classic Beard Oil",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/20180901_123328_2048x.jpg?v=1547136709",
+          "description": "Black Beard Brigade's beard oil is designed to tone, nourish, and clear the skin underneath the beard. It feels more natural and less oily than others on the market. It is made from 100% natural ingredients that promote a fuller & thicker beard.",
+          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/premium-classic-beard-oil",
+          "shopName": "Black Beard Brigade Men's Grooming Co."
+        },
+        {
+          "name": "GL Long Sleeve Shirts",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0046/5875/7747/products/ad66bf4b078f4743d47e66a7682a7997_2048x.png?v=1590602548",
+          "description": "This well-loved favorite features a classic crew neck, long sleeves, and superior combed and ring-spun jersey cotton. Solid colors are made from 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz, while Athletic Heather is made from 90% Airlume combed and ring-spun cotton and 10% poly blend.",
+          "clickUrl": "https://blackbeardbrigade.com/collections/all/products/gl-long-sleeve-shirts",
+          "shopName": "Black Beard Brigade Men's Grooming Co."
+        }
+      ],
       "tags": [
-        "Donate",
-        "Kenosha",
-        "Wisconsin",
-        "Jacob",
-        "Jake",
-        "Blake",
-        "Act"
+        "Health & Beauty",
+        "Skincare",
+        "Beardcare",
+        "Shop"
       ],
       "priority": 10
     }
   ],
-  "24": [
+  "15": [
     {
-      "id": "375a755e-3391-44b5-bd8a-45d7f0fca6f6",
-      "type": "learn",
-      "title": "TGEU International Women\u2019s Day - Inclusivity Media Statement",
-      "subtitle": "On the occasion of the International Women\u2019s Day (IWD) on 8 March, TGEU joins the voices of trans people around the world in denouncing oppression, violence, and hate against women and non-binary people in all spheres of life.",
-      "imageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUmsMMuv-2xl1IYN_7cbLG-J2pPBbAJsPAsDHq=s900-c-k-c0x00ffffff-no-rj",
-      "clickUrl": "https://tgeu.org/international-womens-day-2020/",
+      "id": "d919012c-e419-422d-a277-9bd708369eae",
+      "type": "act",
+      "title": "The Collective PAC",
+      "subtitle": "The Collective is strengthening our democracy by addressing the significant underrepresentation of the Black community in public office. We are fighting for equal representation and protection under the law so it is vital that we have Black candidates run, and Black voices heard.",
+      "imageUrl": "https://abdemo-indigo-uploads.s3.amazonaws.com/uploads/list-editor/brandings/undefined/header/image_url/62ed7ff1-a521-4571-b3e4-90a5720fa799-large.png",
+      "clickUrl": "https://secure.actblue.com/donate/collective-pac-general?refcode=blmdigest",
       "tags": [
-        "Women\u2019s rights",
-        "Articles",
-        "trans",
-        "non-binary",
-        "read",
+        "politics",
+        "actblue",
+        "Donate",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "46070b68-e03a-4777-ac34-ef7b813bbb10",
+      "type": "shop",
+      "title": "Ruth Nathan's",
+      "subtitle": "It is Nicole R. Brown's desire that Ruth Nathan\u2019s does not only make customers look spectacular but feel spectacular as well, positively influencing them to feel better about themselves. It is a known fact that when one dresses well, one feels better\u2014and from an outfit that is well put together, that makes one walk with pride, the Urban Peacock emerges.",
+      "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/11/Urban-Peacock.jpg",
+      "clickUrl": "https://ruthnathans.com/shop/",
+      "products": [
+        {
+          "name": "Blue Curved Mask",
+          "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/06/MC010-front.jpg",
+          "description": "Still want to look dapper while protecting yourself and others? We have the answer! Reusable and re-washable, these fabric masks will keep you looking good and doing good. When you buy a curved face mask from Ruth Nathan\u2019s we donate a rectangular face mask to health care professionals and essential workers in need.",
+          "clickUrl": "https://ruthnathans.com/product/blue-curved-mask/",
+          "shopName": "Ruth Nathan's"
+        },
+        {
+          "name": "Franc Bleu Bow Tie",
+          "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/05/2-franc-bleu-tied.jpg",
+          "description": "The deep older brother of the Franc Un pattern, the Franc Bleu\u2019s watercolor pen lines convey elegance and a truly historic sense of style. Also inspired by French Polynesian currency, the Franc Bleu carries notes of art deco, dancing under the stars, and midnight.",
+          "clickUrl": "https://ruthnathans.com/product/franc-bleu-diamond-pt-bow-tie/",
+          "shopName": "Ruth Nathan's"
+        },
+        {
+          "name": "Franc Un Pocket Square",
+          "imageUrl": "https://ruthnathans.com/wp-content/uploads/2020/05/Franc-Un-outside.jpg",
+          "description": "Inspired by French Polynesian currency, the Franc Un pattern gives off a refined yet playful vibe sure to elevate your look during formal occasions. Perfect for when you want to be taken seriously\u2014but not too seriously. Notes of Art Deco, French Quarter jazz, and pistachios.",
+          "clickUrl": "https://ruthnathans.com/product/franc-un-pocket-square/",
+          "shopName": "Ruth Nathan's"
+        }
+      ],
+      "tags": [
+        "Fashion",
+        "Masks",
+        "Style",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "16": [
+    {
+      "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
+      "type": "learn",
+      "title": "Color blind or color brave?",
+      "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race \u2014 and particularly about diversity in hiring \u2014 makes for better businesses and a better society.",
+      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
+      "clickUrl": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave/details?language=en",
+      "tags": [
+        "Watch",
+        "Videos",
+        "Color blindness",
+        "TED talk",
+        "learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "4bed42f4-d9c7-4a70-9de5-a286f2851ea3",
+      "type": "shop",
+      "title": "Diarrablu",
+      "subtitle": "The Diarrablu mission is to iterate for sustainability while highlighting the African continent\u2019s rich colors and unique patterns through practical and versatile pieces designed using mathematical concepts or algorithms.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/582621534541365248/Tl4eCf9H_400x400.jpg",
+      "clickUrl": "https://diarrablu.com/collections/all",
+      "products": [
+        {
+          "name": "Sustainable Mailys Dress - Noir",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/sustainable-mailys-dress-noir-923504_1400x.jpg?v=1610233764",
+          "description": "Sustainable, artisanal and size inclusive, the Mailys Dress is easily convertible into over 19 different styles. This garment is a comfortable and versatile dress thoughtfully designed to fit all body shapes and sizes.",
+          "clickUrl": "https://diarrablu.com/collections/all/products/sustainable-marieme-dress-noir",
+          "shopName": "Diarrablu"
+        },
+        {
+          "name": "Headwrap - Suto",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/headwrap-suto-748233_1400x.jpg?v=1605475071",
+          "description": "These statement pieces are part of our zero-waste sustainable approach as we believe in maximizing the usage of all our fabrics.",
+          "clickUrl": "https://diarrablu.com/collections/headwraps/products/headwrap-suto",
+          "shopName": "Diarrablu"
+        },
+        {
+          "name": "Hidden in Ocho Rios | Art Print",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/hidden-in-ocho-rios-art-print-624831_1400x.jpg?v=1605428407",
+          "description": "In this piece, we daydream of an impromptu retreat in Ocho Rios, Jamaica in a hidden tree-house covered in palm leaves.",
+          "clickUrl": "https://diarrablu.com/collections/art-print/products/hidden-in-ocho-rios",
+          "shopName": "Diarrablu"
+        }
+      ],
+      "tags": [
+        "Fashion",
+        "Clothing",
+        "Health & Beauty",
+        "Hair & Headwear",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "17": [
+    {
+      "id": "37154355-fcdc-4231-a30d-43d1a22facbd",
+      "type": "learn",
+      "title": "Robert Tanner Freeman - Bytes of History",
+      "subtitle": "Robert Tanner Freeman was born in Washington DC in 1846. He was the son of slaves who had bought their freedom in the 19th century. Historical records are unclear but they probably adopted the surname Freeman in response to their transition.",
+      "imageUrl": "https://www.smilephiladelphian.com/wp-content/uploads/2015/10/freeman.jpg",
+      "clickUrl": "https://www.smilephiladelphian.com/bytes-of-history/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Bios",
+        "Biography",
         "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "5af17502-3cbe-4a27-a8bc-1ba73be492d0",
-      "type": "learn",
-      "title": "How to Be an Antiracist",
-      "subtitle": "Ibram X. Kendi's concept of antiracism reenergizes and reshapes the conversation about racial justice in America\u2014but even more fundamentally, points us toward liberating new ways of thinking about ourselves and each other. ",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5913d00603596e07853ef761/1607376931748-U2DML73HFQVK2Q0F14PC/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmrMDYraMJMCQwFxTSOIP7LpSBEQpA-g5k6VTjWbSuadHJq0dp98hg5AZvIaPb3DoM/%23+How+To+Be+Book.png?format=1500w",
-      "clickUrl": "https://www.ibramxkendi.com/how-to-be-an-antiracist",
+      "id": "da66dce9-0098-4317-bcfd-b17c0a03399f",
+      "type": "shop",
+      "title": "Sienna Sauce",
+      "subtitle": "The award winning Sienna Sauce comes in 3 delicious flavors for every palette. Tangy (the original flavor), Lemon Pepper and Spicy. The Lemon Pepper and Spicy flavors are made with the original flavor being the base of those Sauces. Sienna Sauce has WOWed so many customers, the family based company had to create a subscription program so the Sienna Sauce addicts wouldn\u2019t run out of their favorite sauces. ",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/files/Sienna_Sauce_Logo_2019_2_540x.PNG?v=1600482363",
+      "clickUrl": "https://siennasauce.com/collections/all",
+      "products": [
+        {
+          "name": "Sienna Sauce 2 Pack",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/NEW2packbottlestangylemonpepper-2_1024x1024@2x.png?v=1604331898",
+          "description": "This gourmet sauce has No High Fructose Corn Syrup and is Gluten-Free. It combines the perfect blend of sweet with a hint of tangy serving as a perfect complement to chicken, pork, beef, or seafood that has been fried, smoked, baked, or grilled.",
+          "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/2pack-tangy-spicy",
+          "shopName": "Sienna Sauce"
+        },
+        {
+          "name": "Sienna Sauce 3 Pack",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/subscriptionBOX_1024x1024@2x.png?v=1594786988",
+          "description": "This gourmet sauce has No High Fructose Corn Syrup and is Gluten-Free. It combines the perfect blend of sweet with a hint of tangy serving as a perfect complement to chicken, pork, beef, or seafood that has been fried, smoked, baked, or grilled.",
+          "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/sienna-wings-sauce",
+          "shopName": "Sienna Sauce"
+        },
+        {
+          "name": "Digital Sauce Lovers E-Book",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/IMG_7673_110x110@2x.png?v=1613744566",
+          "description": "Sienna Sauce has released its first e-cookbook! This digital flavor manual has 4 amazing recipes by celebrity chef, Jabril Riddick, Along with the champion recipe from Sienna Sauce's Virtual Cook-Off.",
+          "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/digital-sauce-lovers-e-book",
+          "shopName": "Sienna Sauce"
+        }
+      ],
       "tags": [
-        "books",
-        "racism",
-        "read",
-        "learn"
+        "Food & Beverage",
+        "Shop"
       ],
       "priority": 10
     }
   ],
-  "25": [
+  "18": [
     {
-      "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
-      "type": "shop",
-      "title": "Esusu",
-      "subtitle": "Forbes Under 30 social entrepreneurs, Nigerian-born entrepreneur Wemimo and his business partner Goel co-founded Esusu in 2019. The mobile platform helps individuals mostly from marginalized communities save money, access capital and build credit.",
-      "imageUrl": "https://www.globenewswire.com/Attachment/LogoDisplay/820782?lastModified=05%2F14%2F2020%2014%3A40%3A33&size=2&attachmentExternalGnwId=0&v=1907957",
-      "clickUrl": "https://esusurent.com/",
+      "id": "e4f4c4d4-282c-4ecd-af98-3663167962c4",
+      "type": "act",
+      "title": "Justice for Dominique Fells",
+      "subtitle": "June 9th, another black trans woman named Dominique Fells was murdered and thrown in a river. The violence against black trans women needs to stop. We cannot allow for the murder of this young woman to go unpunished.",
+      "imageUrl": "https://assets.change.org/photos/0/wk/vj/GwWKVjJXItZfLjw-800x450-noPad.jpg",
+      "clickUrl": "https://www.change.org/p/philadelphia-police-department-justice-for-dominique-fells",
       "tags": [
-        "Services",
-        "Rent",
-        "Home & Garden",
-        "Shop"
+        "Sign",
+        "Act"
       ],
       "priority": 10
     },
@@ -1081,35 +870,370 @@
       "priority": 10
     }
   ],
-  "26": [
+  "19": [
     {
-      "id": "e9ec1fa6-4f3a-4bea-b738-04ce7ad06cf7",
-      "type": "learn",
-      "title": "Color blind or color brave?",
-      "subtitle": "The subject of race can be very touchy. As finance executive Mellody Hobson says, it's a \"conversational third rail.\" But, she says, that's exactly why we need to start talking about it. In this engaging, persuasive talk, Hobson makes the case that speaking openly about race \u2014 and particularly about diversity in hiring \u2014 makes for better businesses and a better society.",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave/details?language=en",
+      "id": "15eb26d9-dc5d-4963-8f18-3a47c28a17a4",
+      "type": "act",
+      "title": "Build for Black Lives",
+      "subtitle": "Are you an anti-racist designer, developer, data scientist, or marketing specialist interested in committing to pro bono projects to work towards reparations and racial justice? Work on one of our available projects.",
+      "imageUrl": "https://pbs.twimg.com/media/Ecund-GWsAE3QjU.jpg",
+      "clickUrl": "https://buildforblacklives.com/",
       "tags": [
-        "Watch",
+        "Help",
+        "Code",
+        "Support",
+        "Volunteer",
+        "Act"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "aecab474-2d81-4785-905f-5d1ed1e8e806",
+      "type": "shop",
+      "title": "26 King Wavy Merch, LLC",
+      "subtitle": "All of our quality brushes are great brushes! They aren't just great for 360 waves. They, too, promote healthy hair in men, women and children, as well as healthy beards.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/files/oie_transparent_1_f7a964cd-9415-4523-96d6-7a8cd130a28c_550x.png?v=1595137863",
+      "clickUrl": "https://26kingwavymerch.com/collections/all",
+      "products": [
+        {
+          "name": "Premium Long Handle Brush",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/1-premium-long-handle-medium-brush-333705_1080x.jpg?v=1613255800",
+          "description": "Medium-Hard Brush. This brush is made with nylon bristles and is great for waves, wolfing and natural hair.",
+          "clickUrl": "https://26kingwavymerch.com/products/long-handle-brush",
+          "shopName": "26 King Wavy Merch, LLC"
+        },
+        {
+          "name": "Baby Blue Compression Cap",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/baby-blue-compression-cap-748835_1080x.jpg?v=1616987569",
+          "description": "Our 2-6 King Wavy Wave Cap is designed to give the ultimate compression. Combined with any of our durags to achieve your maximum 360, 540, 720 wave potential.",
+          "clickUrl": "https://26kingwavymerch.com/products/baby-blue-compression-cap",
+          "shopName": "26 King Wavy Merch, LLC"
+        },
+        {
+          "name": "Navy - Plain Silk Durags",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/navy-plain-silk-durags-533004_1080x.jpg?v=1613255887",
+          "description": "Designer Silk Durag",
+          "clickUrl": "https://26kingwavymerch.com/collections/plain-silk-durags/products/navy-plain-silk-durags",
+          "shopName": "26 King Wavy Merch, LLC"
+        }
+      ],
+      "tags": [
+        "Health & Beauty",
+        "Bath & Body",
+        "Hair & Headwear",
+        "Accessories",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "20": [
+    {
+      "id": "37565270-9c3f-491f-b3cb-6d31f83ca0c7",
+      "type": "shop",
+      "title": "AllGoudes & Services",
+      "subtitle": "Whether you have a college degree and are seeking to make your first steps onto your career path, or just looking to secure steady income by obtaining an entry level position; AllGoudes and Services makes sure that you\u2019ll be ALLGOUDE in your job search! It\u2019s your time! Let us help you display your worth to potential employers.",
+      "imageUrl": "https://allgoudesservices.com/wp-content/uploads/2020/07/all-goudes-and-services-logo.png",
+      "clickUrl": "https://allgoudesservices.com/services/",
+      "tags": [
+        "Services",
+        "Resume",
+        "Career",
+        "Professional",
+        "Job",
+        "Interview",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "bb67780b-640f-46d0-a843-6cd5fa9779ed",
+      "type": "shop",
+      "title": "Sugarfoots",
+      "subtitle": "Sugarfoots anchor product is a renowned child-safe, hand-crafted multi-ethnic rag doll, complemented by a children\u2019s book series based on folktales from cultures around the world. Our mission is sustained by a performing arts summer camp for youth that sets the pace among competitors, inspiriting the imagination through creative storytelling, song and dance.",
+      "imageUrl": "https://static1.squarespace.com/static/5731c51bf699bbe62766423a/t/5731cf542eeb81368d601fd9/1602500960879/?format=1500w",
+      "clickUrl": "https://www.sugarfoots.com/shop-dolls",
+      "products": [
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1463605393525-I7SC3IVCMY328UGGL5M0/ke17ZwdGBToddI8pDm48kMVdpQMTMPG1lF--Wz2zRppZw-zPPgdn4jUwVcJE1ZvWgCjmTad1QpYCGph9EV4QZUJFbgE-7XRK3dMEBRBhUpwcxiEwt91U58cqSP5DUKbySSu8skEb8GaxAPMSzfhNvP0jZI9UhINMx8du1022jU4/SugarfootsWebsitePhotos2013-009.jpg?format=1500w",
+          "description": "One of Sugarfoots' signature rag dolls. Colors and fabrics will vary with handcrafted items.",
+          "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/cinnamon-doll",
+          "shopName": "Sugarfoots"
+        },
+        {
+          "name": "Boy Dolls",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1463645817400-NMY1DO1AWBJNAC9LZLJJ/ke17ZwdGBToddI8pDm48kNOL1ae9Qi6Sl3zCX0RoF0dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzO8FkP601pRyPpZpbT5czISawJCDYvi3FLg7_b2wO08phOmFOKtt7m0Z1bEMtOkI0/cin_boysingle.png?format=1500w",
+          "description": "One of Sugarfoots' signature rag dolls. Colors and fabrics will vary with handcrafted items.",
+          "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/boy-doll",
+          "shopName": "Sugarfoots"
+        },
+        {
+          "name": "Black Lives Matter Sugarfoots Bistro 16oz Mugs",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/5731c51bf699bbe62766423a/1606139028849-56UGQEFB6YOPMNYB7ZK8/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Untitled+design.png?format=2500w",
+          "description": "What better way to show solidarity with Cocoa, Ginger and Cinnamon Black Lives Matter Sugarfoots Bistro Mugs!",
+          "clickUrl": "https://www.sugarfoots.com/shop-sugarfoots-dolls/black-lives-matter-sugarfoots-bistro-mugs",
+          "shopName": "Sugarfoots"
+        }
+      ],
+      "tags": [
+        "Children",
+        "Entertainment & Toys",
+        "Dolls",
+        "Books",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "21": [
+    {
+      "id": "ba4f0d32-fb60-4080-b77e-076159a76a41",
+      "type": "learn",
+      "title": "Oprah Winfrey's Cecil B. DeMille Award Acceptance Speech - 2018 Golden Globe Awards",
+      "subtitle": "Watch Oprah Winfrey's 2018 Golden Globe Awards acceptance speech for the Cecil B. DeMille Award.",
+      "imageUrl": "https://static01.nyt.com/images/2018/01/08/arts/08-globes-winfrey/08-globes-winfrey-superJumbo.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=TTyiq-JpM-0",
+      "tags": [
+        "Black History Month",
+        "People",
+        "Speeches",
         "Videos",
-        "Color blindness",
-        "TED talk",
+        "Watch",
+        "Listen",
+        "Learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "fbd13246-9092-442b-b099-cbf0794ec6b4",
+      "type": "shop",
+      "title": "Aloha Glamour",
+      "subtitle": "Aloha Glamour is a lifestyle movement that promotes women loving themselves wholeheartedly. We are a community of women that empower others to use find and use their voice to turn their tragedies into triumphs and their mess into a message which enables them to build from the inside out...seeing and LIVING in color again. \n\nThanks to our inspiring collections and our impeccable customer service, we have been highly successful since day one. Browse through our site and check out the latest additions to our collection, and feel free to get in touch with our team if you need any assistance.\n\nWe want you to create a story in each and every Aloha Glamour piece that you wear. What's the color of your story?",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0074/9191/1753/files/Horizontal_Aloha_Logo_1_720x.png?v=1586206794",
+      "clickUrl": "https://alohaglamour.shop/",
+      "tags": [
+        "Clothing & Fashion",
+        "Women's Clothing",
+        "Accessories",
+        "Bags",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "22": [
+    {
+      "id": "eafdb7c3-338a-42e9-9017-c3dec5416cc5",
+      "type": "shop",
+      "title": "A.O. Hamer",
+      "subtitle": "Hey, I'm Aramis and I love color!\n\nMy acrylic paintings are inspired by divine femininity, music, higher consciousness, and the cosmos. Liberation is my life's work- to free myself from the chains that could hold me back mentally, physically, and spiritually. My paintbrush reminds me of the creative power I have within the canvas - and life. As I take this journey to freedom, I hope to inspire others along the way. ",
+      "imageUrl": "https://static1.squarespace.com/static/553d3766e4b0306f5b6e308a/t/5ac28b5c6d2a73ce4233428e/1616791790313/?format=1500w",
+      "clickUrl": "https://aohamer.com/",
+      "tags": [
+        "Home & Garden",
+        "Art",
+        "Custom",
+        "Independent",
+        "Acrylic",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
+      "type": "act",
+      "title": "Let Sha'Carri Run!",
+      "subtitle": "Sign the petition to reinstate Sha'Carri Richardson and allow this world-class athlete to compete in the 100-meter dash! And revisit the outdated rules around marijuana and athletes.",
+      "imageUrl": "https://d8s293fyljwh4.cloudfront.net/petitions/images/525572/horizontal/image_%282%29.png?1625237269",
+      "clickUrl": "https://sign.moveon.org/petitions/let-sha-carri-run",
+      "tags": [
+        "Sha'carri",
+        "sign",
+        "olympics",
+        "marijuana",
+        "Act"
+      ],
+      "priority": 10
+    }
+  ],
+  "23": [
+    {
+      "id": "f38a64b7-7d10-40dd-865a-ca8d3db096dc",
+      "type": "shop",
+      "title": "Ashay by the Bay",
+      "subtitle": "We are an Independent Minority Owned Business and Deborah Day is the Founder and CEO. She opened the business in 2000 and started selling books online in 2002, establishing Ashay by the Bay as a Book Reseller that Specializes in African American and Multi-Cultural Children\u2019s Books, Baby-3 and K-12 for Schools and Organizations.  We sell a Diverse Selection of books to both the Consumer and Business Markets and we Build Custom Collections for School and Classroom Libraries.  We also sell Gift Cards provide and we are the publishers of the Mindful Messages Curriculum.  Our home office is located in Vallejo, California. and we sell books throughout the US, Canada and select Markets around the world.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1212145038/Ashay_logo_FCS.JPG",
+      "clickUrl": "https://ashaybythebay.com/",
+      "tags": [
+        "Books",
+        "Read",
+        "Entertainment & Toys",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "85816695-421d-4cf6-8580-2ef4aa809675",
+      "type": "shop",
+      "title": "Jarvis Boards",
+      "subtitle": "Jarvis Boards' mission has always been to craft paddle boards in Austin, Texas that are environmentally friendly, look great, and perform well. To accomplish this, we employ a wide range of techniques to craft our small-batch production wooden SUPs in our Austin studio.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/474414056850210818/G9WqlvOX.jpeg",
+      "clickUrl": "https://jarvisboards.com/",
+      "products": [
+        {
+          "name": "Hollow Core Paddle Board Frame Kits",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/Paddle_board_frame_kit-5_2000x.jpg?v=1573677840",
+          "description": "There is something magical about creating something with your own two hands. Building your own hollow core paddle board will be one of the most rewarding projects that you'll tackle.",
+          "clickUrl": "https://jarvisboards.com/collections/paddle-board-kits/products/hollow-core-paddle-board-frame-kits",
+          "shopName": "Jarvis Boards"
+        },
+        {
+          "name": "Let's Surf Y'all! Dad hat",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/mockup-6d7670fe_2000x.jpg?v=1553022867",
+          "description": "Let's Surf Y'all! Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. Available in khaki and light blue. ",
+          "clickUrl": "https://jarvisboards.com/collections/gear/products/lets-surf-yall-dad-hat",
+          "shopName": "Jarvis Boards"
+        },
+        {
+          "name": "Surf Wax Candle",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2981/8622/products/Surf_wax_candles-3_2000x.jpg?v=1543458689",
+          "description": "We teamed up with our friends at Jimbo's Surf Wax to create a unique line of surf wax candles. Each candle is slow cooked over a wood stove in Maine using surf wax and a hint of coconut. ",
+          "clickUrl": "https://jarvisboards.com/collections/gear/products/surf-wax-candle-1",
+          "shopName": "Jarvis Boards"
+        }
+      ],
+      "tags": [
+        "Home & Garden",
+        "Candles",
+        "Fashion",
+        "Clothing",
+        "Tees",
+        "Unisex",
+        "Sports & Outdoors",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "24": [
+    {
+      "id": "e948ca31-3244-4ce3-bce2-22643e734ebe",
+      "type": "learn",
+      "title": "Seven factors that contribute to American racism",
+      "subtitle": "Of the seven factors the researchers identified, perhaps the most insidious is passivism or passive racism, which includes an apathy toward systems of racial advantage or denial that those systems even exist.",
+      "imageUrl": "https://news-media.stanford.edu/wp-content/uploads/2020/06/08133652/170805-4103-960x641.jpg",
+      "clickUrl": "https://news.stanford.edu/2020/06/09/seven-factors-contributing-american-racism/",
+      "tags": [
+        "Stanford",
+        "Read",
+        "Articles",
+        "Racism",
+        "Steven Roberts",
         "learn"
       ],
       "priority": 10
     },
     {
-      "id": "47bdbfc5-54ed-41d9-a2d7-d61bd789e873",
-      "type": "act",
-      "title": "Change.org: Justice for Daunte Wright",
-      "subtitle": "20 year old man Daunte Wright, a father to a two year old, was murdered by Minneapolis-area police. Help get him and his family justice by signing this petition.",
-      "imageUrl": "https://assets.change.org/photos/6/ic/cl/llICcLwzvSDxeCg-800x450-noPad.jpg?1618198941",
-      "clickUrl": "https://www.change.org/p/justice-for-daunte-wright",
+      "id": "c798e985-c310-436f-913d-e1adf64e5e62",
+      "type": "learn",
+      "title": "How we're priming some kids for college \u2014 and others for prison",
+      "subtitle": "In the United States, two institutions guide teenagers on the journey to adulthood: college and prison. Sociologist Alice Goffman spent six years in a troubled Philadelphia neighborhood and saw first-hand how teenagers of African-American and Latino backgrounds are funneled down the path to prison \u2014 sometimes starting with relatively minor infractions. In an impassioned talk she asks, \"Why are we offering only handcuffs and jail time?\"",
+      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
+      "clickUrl": "https://www.ted.com/talks/alice_goffman_how_we_re_priming_some_kids_for_college_and_others_for_prison/details?language=en",
       "tags": [
-        "sign",
-        "petition",
-        "daunte wright",
-        "police brutality",
+        "Watch",
+        "Videos",
+        "Education",
+        "Prison system",
+        "TED talk",
+        "learn"
+      ],
+      "priority": 10
+    }
+  ],
+  "25": [
+    {
+      "id": "37960df1-7cdb-46a0-b736-37c1ce21e00a",
+      "type": "shop",
+      "title": "AuxGod",
+      "subtitle": "AUXGOD is a music battle card game that Rousseau created six months after quitting his job. Players dance, sing, and argue over yesterday\u2019s classics and today\u2019s hits. You\u2019ll never have a wack party again!",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjzmX_zI9GjrNFDLUDmtL_9wOTvJ7e6YSfQ&usqp=CAU",
+      "clickUrl": "https://auxgodgame.com/shop",
+      "products": [
+        {
+          "name": "AuxGod: Hip Hop + RNB",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/HIPHOP_900x.jpg?v=1607228054",
+          "description": "Bring the intensity that Drake brought to Meek Mill at your next party. The pack contains over 100 Hip Hop & RNB cards + 15 bonus cards; Pop, Rock & Country.",
+          "clickUrl": "https://auxgodgame.com/products/auxgod-hip-hop-rnb",
+          "shopName": "AuxGod"
+        },
+        {
+          "name": "AuxGod: Pop Music Edition",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/POPFLATLAY_900x.jpg?v=1607228142",
+          "description": "The pack contains over 100 Pop Music cards + 15 bonus cards; Hip Hop & RNB, Rock & Country. Your favorites are all here from the Backstreet Boys to Rihanna! Thousands of song options to play in response to our cards so, What You Waiting For?",
+          "clickUrl": "https://auxgodgame.com/products/auxgod-game-pop-music-edition",
+          "shopName": "AuxGod"
+        },
+        {
+          "name": "AuxGod: Country Music Edition",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0487/3787/8167/products/Country_360x.jpg?v=1607227301",
+          "description": "The pack contains over 100 Country Music cards + 15 bonus cards; Hip Hop & RNB, Rock & POP. Your favorites are all here from Garth Brooks to Luke Bryan. Thousands of song options to play in response to our cards so, are we gonna do this or what?",
+          "clickUrl": "https://auxgodgame.com/products/auxgod-country",
+          "shopName": "AuxGod"
+        }
+      ],
+      "tags": [
+        "Entertainment & Toys",
+        "Games",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "8c642813-26db-40b2-a17e-5caa4c17d179",
+      "type": "shop",
+      "title": "Official Black Wall Street",
+      "subtitle": "Get thousands of Black-owned businesses at your fingertips with the largest online platform for Black businesses.",
+      "imageUrl": "https://obws.com/img/logo.png",
+      "clickUrl": "https://obws.com/",
+      "tags": [
+        "Goods",
+        "services",
+        "app",
+        "Shop"
+      ],
+      "priority": 10
+    }
+  ],
+  "26": [
+    {
+      "id": "ec824ef5-ceda-4656-babf-5cf4999f539d",
+      "type": "learn",
+      "title": "The Costs of Racism to White People",
+      "subtitle": "We tend to think of racism as a problem for people of color and something we should be concerned about for their sake. However, the costs of racism to white people are devastating, especially to those of us without the money and power to buffer their effects.",
+      "clickUrl": "http://paulkivel.com/wp-content/uploads/2015/07/thecostsofracism.pdf",
+      "tags": [
+        "Read",
+        "Articles",
+        "White privilege",
+        "costs",
+        "learn"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "a689ac8c-d088-44d6-ba0e-14f1b062b5bb",
+      "type": "act",
+      "title": "The Sentencing Project",
+      "subtitle": "The Sentencing Project promotes effective and humane responses to crime that minimize imprisonment and criminalization of youth and adults by promoting racial, ethnic, economic, and gender justice.",
+      "imageUrl": "https://www.sentencingproject.org/wp-content/themes/sentencing/img/sentencing_logo.png",
+      "clickUrl": "https://www.sentencingproject.org/actions/",
+      "tags": [
+        "The Sentencing Project",
+        "Prison Reform",
+        "Mass Incarceration",
+        "Research",
         "Act"
       ],
       "priority": 10
@@ -1117,102 +1241,145 @@
   ],
   "27": [
     {
-      "id": "141bb54f-ff17-4761-a978-2aa600334e4a",
-      "type": "learn",
-      "title": "Daunte Wright was stopped for expired plates, but driving while Black may have been his 'crime'",
-      "subtitle": "The police confrontation escalated after officers saw what could have been an air freshener hanging illegally from the rearview mirror.",
-      "imageUrl": "https://media4.s-nbcnews.com/j/newscms/2021_15/3464051/210412-duante-wright-mc-10522_034315fb7940fd4f221fe54648e60745.fit-320w.jpg",
-      "clickUrl": "https://www.nbcnews.com/news/us-news/daunte-wright-was-stopped-expired-plates-driving-while-black-may-n1263878",
-      "tags": [
-        "articles",
-        "videos",
-        "daunte wright",
-        "police brutality",
-        "Learn"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "2e43e12c-a850-4762-93c4-0c9b84868cf4",
-      "type": "act",
-      "title": "Ban or Restrict Tear Gas",
-      "subtitle": "The use of tear gas has been banned and is illegal in war. This same tear gas is used by the law enforcement, to control unarmed crowds protesting for the BLM movement. Tear gas is also used for border control and is thrown at innocent migrants who are unarmed and pose no sudden threat to anyone in the vicinity. ",
-      "imageUrl": "https://assets.change.org/photos/7/qf/ns/CxQFnsFkeBSTXsL-800x450-noPad.jpg",
-      "clickUrl": "https://www.change.org/p/ban-or-restrict-tear-gas",
-      "tags": [
-        "Tear gas",
-        "Sign",
-        "protests",
-        "police brutality",
-        "Act"
-      ],
-      "priority": 10
-    }
-  ],
-  "28": [
-    {
-      "id": "d1a1d519-e309-482f-b9ee-65b96ce1e11c",
+      "id": "8cab6c95-56c1-4a3a-abba-eb615001a13f",
       "type": "shop",
-      "title": "My Beautiful Fluff",
-      "subtitle": "Clothes designed with curves in mind. Each shirt is cut to accommodate curves and fluff with custom to cut to my size chart with sizes L to 5XL.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0034/7602/9504/files/static1.squarespace_7341156e-b477-427c-a6f0-d57aeda3b6e2@2x.png?v=1545404028",
-      "clickUrl": "https://mybeautifulfluff.com/collections",
-      "tags": [
-        "Health & Beauty",
-        "Cosmetic",
-        "Makeup",
-        "Fashion",
-        "Clothing",
-        "Tees",
-        "Women\u2019s Accessories",
-        "Jewelry",
-        "Office",
-        "Paper & Stationery",
-        "Notebooks",
-        "Shop"
-      ],
-      "priority": 10
-    },
-    {
-      "id": "d4ff5d49-3371-4d64-a9fa-93f6cef6f751",
-      "type": "shop",
-      "title": "Beija Flor Naturals",
-      "subtitle": "Beija-Flor Naturals has nearly a decade as a Curly Girl favorite product line in addition to skincare that is effective, exotic and unique in the green beauty market.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/MG_3025_2048x.jpg?v=1555990328",
-      "clickUrl": "https://www.beijaflornaturals.com/",
+      "title": "Mystic Momma",
+      "subtitle": "Specializing in teas, tinctures, yoni steams, sitz baths, blends for hormone balance, reproductive health and womb wellness.",
+      "imageUrl": "https://static.wixstatic.com/media/4ffa98_83a054d4cc874b0bba857cd363e5daf0~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01/Untitled.webp",
+      "clickUrl": "https://www.mysticmommaherbals.com/",
       "products": [
         {
-          "name": "Body and Hair Honey",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/Image-from-iOS-e1531872423734-600x759_1080x.jpg?v=1593301267",
-          "description": "Moisturizing Butter + Oils blend to give a nourishing sheen to skin and hair.  Only a little goes a long way and the fragrance is divine.",
-          "clickUrl": "https://www.beijaflornaturals.com/collections/hair/products/body-and-hair-honey",
-          "shopName": "Beija Flor Naturals"
+          "name": "Vital-A-Tea",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/Vitalatea-2_940x.jpg?v=1530812658",
+          "description": "In TCM, the heart is said to house the Shen. Shen is best described as the spirit/soul, but also encompasses the  mind. So what better way to revitalize Shen then to experience this high vitamin and mineral tea full of heart healthy herbs!",
+          "clickUrl": "https://www.mysticmommaherbals.com/collections/herbal-teas/products/vital-a-tea",
+          "shopName": "Mystic Momma"
         },
         {
-          "name": "Acai Mango Lotion",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/Beija_Flor_Naturals-3474-Edit-Edit_2048x.jpg?v=1559100212",
-          "description": "The acai mango lotion is a rich and creamy facial moisturizer that is perfect for all skin types. This water-based product absorbs perfectly, and includes the all powerful acai and mango extracts, murumuru butter, rosemary and orange essential oils.",
-          "clickUrl": "https://www.beijaflornaturals.com/collections/face/products/acai-mango-lotion",
-          "shopName": "Beija Flor Naturals"
+          "name": "Ultimate Gold body butter",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/UltimateGold_940x.jpg?v=1534953342",
+          "description": "This hydrating aloe and shea body butter is an indulgent treat for the body.  Layer over skin after a warm shower. May refrigerate this body butter for a cooling effect and longer shelf life.",
+          "clickUrl": "https://www.mysticmommaherbals.com/collections/salves-creams/products/ultimate-gold-massage-cream",
+          "shopName": "Mystic Momma"
         },
         {
-          "name": "Handmade Soy Candle: Plum",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/20180412_125912_900x.jpg?v=1596401951",
-          "description": "Juicy Fruit fragrance without being too sticky sweet. This plum inspired candle features notes of peace, apple, strawberry, jasmine and vanilla.  Clean burning soy candle. 90 Hour Burn Time.",
-          "clickUrl": "https://www.beijaflornaturals.com/collections/home/products/handmade-soy-candle-tobacco",
-          "shopName": "Beija Flor Naturals"
+          "name": "Cleansing Herbs",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0004/0819/0987/products/CleansingHerbs-1_940x.jpg?v=1535131969",
+          "description": "The Mystic Momma Cleansing Herbs includes a strong dose of herbs to help clean out the uterus and improve blood circulation to the mid-section. The herbs included promote circulation, balance the vaginal flora, improve scent, tighten skin, clear out excess mucus and nourish the reproductive organs.",
+          "clickUrl": "https://www.mysticmommaherbals.com/collections/self-care/products/cleansing-herbs-1",
+          "shopName": "Mystic Momma"
         }
       ],
       "tags": [
         "Health & Beauty",
         "Bath & Body",
         "Skincare",
+        "Wellness",
+        "Parenthood",
+        "Food & Beverage",
+        "Coffee & Tea",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "ec904a76-bb50-45bd-8db0-f3a2055acf45",
+      "type": "learn",
+      "title": "The Black Family in the Age of Mass Incarceration",
+      "subtitle": "By author Ta-Nehisi Coates: Fifty years after Daniel Patrick Moynihan\u2019s report \u201cThe Negro Family\u201d tragically helped create this system, it's time to reclaim his original intent.",
+      "imageUrl": "https://cdn.theatlantic.com/thumbor/LA_l7wJnMdhHRcI7dZoreXCnoBk=/1920x1440/media/img/2015/09/02/WEL_Coates_MassIncarceration_OPENER/original.jpg",
+      "clickUrl": "https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/#Chapter%20II",
+      "tags": [
+        "Ta-Nehisi Coates",
+        "Mass Incarceration",
+        "Black History",
+        "Prison Reform",
+        "Daniel Patrick Moynihan",
+        "Learn"
+      ],
+      "priority": 10
+    }
+  ],
+  "28": [
+    {
+      "id": "536444de-6ba4-4fe2-9d00-d969d0e1f73a",
+      "type": "shop",
+      "title": "Nia the Loc God",
+      "subtitle": "A natural oil that your hair will love. You are one step closer to moisturized, shiny, healthy hair that smells amazing.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/files/Nia_Men_New_TRANS_180x@2x.png?v=1572321147",
+      "clickUrl": "https://niathelocgod.myshopify.com/",
+      "products": [
+        {
+          "name": "Loc God Stimulating Oil 4oz",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_410f46b3-51b0-4ccf-aae5-2b35f50f90b9_1080x.jpg?v=1616165149",
+          "description": "This stimulating oils is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lemongrass essential oils.  This product is extremely light and will leave your scalp itch free.",
+          "clickUrl": "https://shopniathelocgod.com/collections/all/products/loc-god-stimulating-oil-4oz",
+          "shopName": "Nia the Loc God"
+        },
+        {
+          "name": "The Loc God Hydration Mist 9oz",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_924d3641-b7c4-4a47-8205-9e58a3ba3bfe_1080x.jpg?v=1616165202",
+          "description": "This hydration mist is the perfect item to add to your haircare routine. 100% natural, also smells 100% like lavender essential oils.  This product will leave your hair super soft and give you an extra boost of hydration and shine.",
+          "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-hydration-mist-8oz",
+          "shopName": "Nia the Loc God"
+        },
+        {
+          "name": "The Loc God Scalp Renewal Cleansing Shampoo (Lemongrass)",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0250/6833/9255/products/image_d44779e4-77ea-438e-a011-b6ec71e22204_1080x.jpg?v=1616167643",
+          "description": "Deep cleansing shampoo, with a luxurious smell that will leave your hair clean and not feeling stripped. This shampoo is 100% natural. It will help with dandruff, irritated and or itchy scalp.",
+          "clickUrl": "https://shopniathelocgod.com/collections/all/products/the-loc-god-scalp-renewal-cleansing-shampoo-lemongrass",
+          "shopName": "Nia the Loc God"
+        }
+      ],
+      "tags": [
+        "hair care",
         "Hair & Headwear",
-        "Haircare",
-        "Shampoo",
-        "Hair growth/repair",
-        "Home & Garden",
-        "Candles",
+        "Wellness",
+        "Health & Beauty",
+        "locks",
+        "dreads",
+        "Goods",
+        "Shop"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "81c18862-89f9-4194-9aaf-9f8508579457",
+      "type": "shop",
+      "title": "Red Bay Coffee",
+      "subtitle": "Red Bay Coffee is at the forefront of what we believe is the fourth wave of coffee\u2014a firm commitment to ensure coffee production is not only high quality and sustainable, but a vehicle for diversity, inclusion, social and economic restoration, entrepreneurship, and environmental sustainability. We are foodies, artists, activists, community folk, and innovators who love, love, love what we do.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/files/RB_Logofinal_220x@2x.jpg?v=1551950251",
+      "clickUrl": "https://www.redbaycoffee.com/collections/all",
+      "products": [
+        {
+          "name": "East Fourteenth",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/east-fourteenth-334342_900x.jpg?v=1618419265",
+          "description": "Tanzanian Dark Roast - Blackberry, Dark Chocolate, Date  East Fourteenth is an homage to a past heritage and a link to history in the making. It is the story of Oakland\u2019s wide-reaching cultures and creeds.",
+          "clickUrl": "https://www.redbaycoffee.com/collections/coffee/products/east-fourteenth",
+          "shopName": "Red Bay Coffee"
+        },
+        {
+          "name": "Coffee Mug - Africa's Gift (Black)",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/coffee-mug-africas-gift-black-124370_1080x.jpg?v=1603952793",
+          "description": "\"Coffee Africa's Gift to the World\" Coffee Mug - beautiful, stylish, black-on-black design with Red Bay Coffee logo - 12 ounces",
+          "clickUrl": "https://www.redbaycoffee.com/collections/drinkware/products/africas-gift-coffee-mug",
+          "shopName": "Red Bay Coffee"
+        },
+        {
+          "name": "Unisex Sweatshirt - Red Bay Spoon Logo - Gold",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/unisex-sweatshirt-red-bay-spoon-logo-gold-304488_1080x.jpg?v=1600192610",
+          "description": "\"Red Bay Spoon Logo\" Crewneck Unisex Sweatshirt - gold with black print; back Red Bay Coffee logo; 80/20 Poly-Cotton Blend. Locally sourced and screen printed in Oakland, CA.",
+          "clickUrl": "https://www.redbaycoffee.com/collections/apparel/products/unisex-sweatshirt-red-bay-spoon-logo-gold",
+          "shopName": "Red Bay Coffee"
+        }
+      ],
+      "tags": [
+        "Goods",
+        "coffee",
+        "Food & Beverage",
+        "Black-owned",
+        "California",
+        "Oakland",
         "Shop"
       ],
       "priority": 10
@@ -1220,56 +1387,58 @@
   ],
   "29": [
     {
-      "id": "b18107e2-84ea-4ba4-b249-18ac6a4d744e",
-      "type": "act",
-      "title": "Classify White Supremacist Groups as Domestic Terrorist Organizations",
-      "subtitle": "Request a new legal requirement to register, classify, and subsequently surveil white supremacist organizations as domestic terrorist organizations. By classifying these groups as intimidating to the American population and dangerous to human life, the institutions responsible for protecting citizens against such groups will have the necessary information and resources to prevent further destruction carried out by these violent terrorist groups.",
-      "imageUrl": "https://assets.change.org/photos/4/bb/uc/QqbbUCcfLkgAZfm-800x450-noPad.jpg",
-      "clickUrl": "https://www.change.org/p/clare-linkins-executive-director-of-national-counterterrorism-center-lift-the-hoods-classify-white-supremacist-groups-as-domestic-terrorist-organizations",
+      "id": "383a6a08-0684-45e6-a5cd-2b20a99e4793",
+      "type": "learn",
+      "title": "Juneteenth Challenges A Narrative About America\u2019s History",
+      "subtitle": "Juneteenth marks the day in 1865 when Union troops arrived in Galveston, Texas, and the enslaved people living there learned of their freedom \u2014 more than two years after President Abraham Lincoln issued the Emancipation Proclamation. As such, the day tells a broader story of how emancipation was woefully delayed for Black people enslaved deep in the Confederacy.",
+      "imageUrl": "https://fivethirtyeight.com/wp-content/uploads/2021/06/GettyImages-1221109030_4x3.jpg?w=1150",
+      "clickUrl": "https://fivethirtyeight.com/features/juneteenth-challenges-a-narrative-about-americas-history/",
       "tags": [
-        "Sign",
-        "KKK",
-        "White supremacy",
-        "Act"
+        "Articles",
+        "Juneteenth",
+        "FiveThirtyEight",
+        "Biden",
+        "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "796e8ce4-727a-45af-98a3-3bbf27912a17",
+      "id": "3e142338-25bc-42c3-81e2-df344fc705b8",
       "type": "shop",
-      "title": "NSPRE Electronics",
-      "subtitle": "The NSPRE\u2122 brand is built on and strives for creativity and culture. We create exciting, lifestyle, and innovative products that inspire everyday use. Our vision is to \"Inspire the culture through social technology\" to improve others' lifestyles and the way we access the world around us.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/files/small_NSPRE_icon-09_x50@2x.png?v=1599457535",
-      "clickUrl": "https://www.nspreelectronics.com/collections/all",
+      "title": "Ujamaa Lighting",
+      "subtitle": "Although light bulbs are considered a commodity, the Ujamaa Lighting brand aspires to bring its own unique take on the lighting industry. Founded in June 2019, Ujamaa Lighting, specializes residential, commercial, and industrial LED lighting solutions.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1303695288687878150/xTl8bENm_400x400.jpg",
+      "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog",
       "products": [
         {
-          "name": "Lynx Bluetooth\u00ae Sunglasses",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/DSC8359-1c_1512x.jpg?v=1613581223",
-          "description": "No earplugs or ear coverings. Open concept sound with privacy. Designed with Ultra Modern materials and a lightweight frame design. Connects to any mobile device with Bluetooth\u00ae ability.",
-          "clickUrl": "https://www.nspreelectronics.com/products/lynx-bluetooth%C2%AE-sunglasses",
-          "shopName": "NSPRE Electronics"
+          "name": "Ujamaa Smart LED Light Bulb",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/SmartBulbMockup_2000x.jpg?v=1596502157",
+          "description": "Our customers spoke, and we listened!  Ujamaa Lighting is proud to introduce our version of the Smart Light.",
+          "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/ujamaa-smart-led-light-bulb",
+          "shopName": "Ujamaa Lighting"
         },
         {
-          "name": "NX Pro Plus LE (128G)",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/Artboard1_1512x.png?v=1606886602",
-          "description": "The (Limited Edition) NSPRE\u2122 NX Pro Plus Cotton Candy is an extension of the original NX Pro. It is 6.5 Inches, has a much slimmer frame of 8.0mm, and 3D curved glass back finish.",
-          "clickUrl": "https://www.nspreelectronics.com/products/nx-pro-plus-limited-edition",
-          "shopName": "NSPRE Electronics"
+          "name": "#BLACKOUT T-Shirt",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/unisex-basic-softstyle-t-shirt-black-front-603301e9123e1_2000x.jpg?v=1613955564",
+          "description": "The #BLACKOUT movement was organized to bring awareness to police brutality and racism towards the African-American people. This t-shirt was designed in honor of the efforts to bring peace and equality to Black people worldwide.",
+          "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/blackout-t-shirt",
+          "shopName": "Ujamaa Lighting"
         },
         {
-          "name": "NSPRE\u2122 MicroSDHC - 128GB",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/sdcard_1080x.png.jpg?v=1606340062",
-          "description": "Record and transfer videos, photos, music, files and more from Micro SD enabled host devices such as Android smartphones and tablets, action and surveillance cameras, drones, computers and more.",
-          "clickUrl": "https://www.nspreelectronics.com/products/nspre%E2%84%A2-microsdhc-128gb",
-          "shopName": "NSPRE Electronics"
+          "name": "Ujamaa Hoodie (Word Logo - Gold)",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/9f65c5a9ba825ce3bb75545d58bb1444_2000x.jpg?v=1597844309",
+          "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+          "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/ujamaa-hoodie-word-logo-gold",
+          "shopName": "Ujamaa Lighting"
         }
       ],
       "tags": [
-        "Health & Beauty",
-        "Eye Care",
         "Fashion",
-        "Accessories",
-        "Sunglasses",
+        "Clothing",
+        "Tees",
+        "Men\u2019s",
+        "Women\u2019s",
+        "Unisex",
         "Electronics",
         "Shop"
       ],
@@ -1278,61 +1447,34 @@
   ],
   "30": [
     {
-      "id": "d1009449-2280-4ab5-bbc6-5511aadc5576",
-      "type": "shop",
-      "title": "Soul Impactful",
-      "subtitle": "Soul Impactful strongly believes in the divine power of the universe and we also believe that every being has access to this Source. Our purpose is to provide you with tools to aid you in your spiritual journey and cheer on your glo' up!",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/files/Logo_600x.png?v=1596441326",
-      "clickUrl": "https://soulimpactful.com/collections/all",
-      "products": [
-        {
-          "name": "Chalcedony 108 Bead Meditation Bracelet",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/chalcedony-108-bead-meditation-bracelet-lotus-charm-756.jpg?v=1601073701",
-          "description": "A quiet moment of reflection, gratitude, and visualization is sometimes all that is needed to redirect your mentality in a positive manner.",
-          "clickUrl": "https://soulimpactful.com/products/chalcedony-108-bead-meditation-bracelet?variant=15392205176877",
-          "shopName": "Soul Impactful"
-        },
-        {
-          "name": "Black Jasper Tumbled Stone",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/black-jasper-tumbled-stone-rock-gemstone-plant-397.jpg?v=1600771585",
-          "description": "Black Jasper is a highly protective stone that is excellent for grounding the energies of people who may experience being off with the fairies. It can also help in earthing higher vibrations.",
-          "clickUrl": "https://soulimpactful.com/products/black-jasper-tumbled-stone",
-          "shopName": "Soul Impactful"
-        },
-        {
-          "name": "Bloom and Monk Incense Collection",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/bloom-and-monk-incense-collection-lotus-pond-candle-aquatic-plant-583_1200x.jpg?v=1600770777",
-          "description": "Each incense holder is made with exquisite workmanship that creates a meditative effect.",
-          "clickUrl": "https://soulimpactful.com/products/bloom-and-monk-incense-collection?variant=29230807482413",
-          "shopName": "Soul Impactful"
-        }
-      ],
+      "id": "63da41a1-c72a-4a13-9edf-55e3e4c6038d",
+      "type": "learn",
+      "title": "Racial Literacy: What Does it Mean?",
+      "subtitle": "What is your first memory of racial difference? Unfortunately, our education system doesn\u2019t include a standard explanation to our young people of the history of the creation of the concept of race (or critical race theory). Learn today what you should've in school.",
+      "imageUrl": "https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/_transforms/public/blog/623746/Tyrone-Howard-Hero-2_6699dd8b7813014bf9718f78f267b2d1.png",
+      "clickUrl": "https://theblackcurriculum.com/blog/blog-post-title-three-dxgps",
       "tags": [
-        "Health & Beauty",
-        "Wellness",
-        "Home & Garden",
-        "Candles",
-        "Decor",
-        "Fashion",
-        "Accessories",
-        "Lifestyle",
-        "Shop"
+        "Racial Literacy",
+        "Education",
+        "Self-Education",
+        "Unlearn",
+        "Difficult Conversation",
+        "Learn"
       ],
       "priority": 10
     },
     {
-      "id": "cdb2d8c9-ec5a-4a62-9df3-f43b805e4ebb",
+      "id": "ab1b0f54-85dc-4788-8b4e-84670b308a9c",
       "type": "learn",
-      "title": "A Content Analysis and Study of Colorism and Strides toward Inclusivity in the Cosmetic Industry",
-      "subtitle": "The purpose of this research is twofold: 1) to explore colorism in the cosmetic industry in light of multiple marketing venues such as social media, online, and retail stores and 2) to provide a snapshot of improvement (or lack of) in shades and foundation colors offered in the beauty industry.",
-      "imageUrl": "https://i1.rgstatic.net/publication/333850420_Black_and_Beautiful_A_Content_Analysis_and_Study_of_Colorism_and_Strides_toward_Inclusivity_in_the_Cosmetic_Industry/links/5d0a67aca6fdcc35c15b617e/largepreview.png",
-      "clickUrl": "https://www.researchgate.net/publication/333850420_Black_and_Beautiful_A_Content_Analysis_and_Study_of_Colorism_and_Strides_toward_Inclusivity_in_the_Cosmetic_Industry",
+      "title": "How the Dodgers 'Took' Jackie Robinson | Field of Dreams...Deferred Part 3",
+      "subtitle": "Brooklyn Dodgers executive Branch Rickey signed Jackie Robinson from the Kansas City Monarchs in 1945, but he refused to pay Negro League teams for their players. Watch more on the fight to integrate MLB in \"Field of Dreams...Deferred\" Part 3.",
+      "imageUrl": "https://media.bleacherreport.com/f_auto,w_768,h_512,q_auto,c_fill/br-img-images/001/624/423/j_gibson_original_crop_north.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=VjGbX4PyGqU",
       "tags": [
-        "Research Study",
-        "Colorism",
-        "Beauty",
-        "Lack of Diversity",
-        "Black Representation",
+        "Black Lives Matter",
+        "Sports",
+        "Videos",
+        "Watch",
         "Learn"
       ],
       "priority": 10

@@ -1,5 +1,97 @@
 [
   {
+    "id": "f33d79e8-17c1-4d85-847d-f5a3f0544507",
+    "type": "shop",
+    "title": "PUR Home",
+    "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
+    "clickUrl": "https://pur-home.com/",
+    "products": [
+      {
+        "name": "Lemo Auto Dish Tabs",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/DishwasherTables_900x.png?v=1611614162",
+        "description": "PUR Home's All Natural Dish Soap Cuts through grease and dirt to leave all your dirty/greasy dishes clean, without drying out your hands. Made with both plant-based and biodegradable ingredients and scented with Pure Essential Oils. Safe to use around children and pets, and safe for our Planet.",
+        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/16-oz-dish-soap",
+        "shopName": "PUR Home"
+      },
+      {
+        "name": "Multi-Surface Cleaner",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46586__02918_1080x.jpg?v=1605212187",
+        "description": "PUR Home's Multi-Surface Household Cleaner is a super cleaner for all of your surfaces, including your kitchen surfaces, base boards, refrigerator, bathroom surfaces and fixtures, inside your car. Safe enough for your little one's toys, crib and so much more. ",
+        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/34-oz-multi-surface-cleaner",
+        "shopName": "PUR Home"
+      },
+      {
+        "name": "Laundry Detergent",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46602_1080x.jpg?v=1605146515",
+        "description": "This Safe and Effective Liquid Laundry Detergent is perfect for those who are looking for a detergent that is sulfate-free and non-toxic. It does not contain a long list of harsh chemicals found in conventional brands.",
+        "clickUrl": "https://shoppurhome.com/collections/laundry/products/laundry-detergent-50-oz",
+        "shopName": "PUR Home"
+      }
+    ],
+    "tags": [
+      "Goods",
+      "Home & Beauty",
+      "Black-owned",
+      "cleaning supplies",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
+    "type": "shop",
+    "title": "MoonXCosmetics",
+    "subtitle": "Handmade vegan skincare for all skin types.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
+    "clickUrl": "https://shopmoonxcosmetics.com/",
+    "tags": [
+      "Goods",
+      "Black-owned",
+      "skincare",
+      "Health & Beauty",
+      "Wellness",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "175c5d65-77f0-4836-9982-626aa6b20540",
+    "type": "shop",
+    "title": "The Right Spice Company",
+    "subtitle": "We believe that food is everything. Food is a basic human need. Food is a means of communication and expression. Food is art and food is science. Food is an instrument of fellowship and the language of love. We take our food seriously, which is why we season it. Pick up something from The Shop today, and start taking your food seriously too.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/files/TRSC_logo_outlines_BLK_large_48de5236-9098-4af0-850b-beb661ad9555_330x.jpg?v=1568835413",
+    "clickUrl": "https://rightspiceco.com/collections/all",
+    "products": [
+      {
+        "name": "The Bird",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Bird_1080x.jpg?v=1610076494",
+        "description": "The Bird is an earthy, savory spice blend that adds the perfect element to protein-forward dishes!",
+        "clickUrl": "https://rightspiceco.com/products/the-bird",
+        "shopName": "The Right Spice Company"
+      },
+      {
+        "name": "The Safety",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Safety_1080x.jpg?v=1610076388",
+        "description": "The Safety is a bold, spicy blend that you can rely on to add character to almost any savory dish.",
+        "clickUrl": "https://rightspiceco.com/products/the-safety",
+        "shopName": "The Right Spice Company"
+      },
+      {
+        "name": "The Mother-In-Law",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/MIL_1080x.jpg?v=1610076412",
+        "description": "Created and named for Wanda, the late mother-in-law of one of our founders, The Mother-In-Law is a more floral, less spicy version of The Safety - because it was too spicy to Wanda for everyday use.",
+        "clickUrl": "https://rightspiceco.com/products/the-mother-in-law",
+        "shopName": "The Right Spice Company"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Shop"
+    ],
+    "priority": 10
+  },
+  {
     "id": "149971c0-ffc6-47c3-bc8f-db0bbdc49bea",
     "type": "shop",
     "title": "Maeday Gourmet Sauces and Rubs",

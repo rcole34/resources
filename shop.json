@@ -335,7 +335,7 @@
       },
       {
         "name": "Small Garnierite Palm Stone",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/SmallMoonPalmStones-0277_hi-res-edit_800x.jpg?v=1612223509",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0268/9207/5101/products/SmallMoonPalmStones-0273_hi-res_700x.jpg?v=1626805241",
         "description": "Known as the stone of the Goddess Gaia, GARNIERITE (also called Green Moonstone), is a rare form of Moonstone used for emotional healing, balance, and freedom.",
         "clickUrl": "https://giftsforthespirit.com/collections/crystals/products/small-green-moonstone-palm-stone",
         "shopName": "Gifts for the Spirit"
@@ -386,42 +386,6 @@
     "priority": 10
   },
   {
-    "id": "175c5d65-77f0-4836-9982-626aa6b20540",
-    "type": "shop",
-    "title": "The Right Spice Company",
-    "subtitle": "We believe that food is everything. Food is a basic human need. Food is a means of communication and expression. Food is art and food is science. Food is an instrument of fellowship and the language of love. We take our food seriously, which is why we season it. Pick up something from The Shop today, and start taking your food seriously too.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/files/TRSC_logo_outlines_BLK_large_48de5236-9098-4af0-850b-beb661ad9555_330x.jpg?v=1568835413",
-    "clickUrl": "https://rightspiceco.com/collections/all",
-    "products": [
-      {
-        "name": "The Bird",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Bird_1080x.jpg?v=1610076494",
-        "description": "The Bird is an earthy, savory spice blend that adds the perfect element to protein-forward dishes!",
-        "clickUrl": "https://rightspiceco.com/products/the-bird",
-        "shopName": "The Right Spice Company"
-      },
-      {
-        "name": "The Safety",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/Safety_1080x.jpg?v=1610076388",
-        "description": "The Safety is a bold, spicy blend that you can rely on to add character to almost any savory dish.",
-        "clickUrl": "https://rightspiceco.com/products/the-safety",
-        "shopName": "The Right Spice Company"
-      },
-      {
-        "name": "The Mother-In-Law",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0270/4293/8985/products/MIL_1080x.jpg?v=1610076412",
-        "description": "Created and named for Wanda, the late mother-in-law of one of our founders, The Mother-In-Law is a more floral, less spicy version of The Safety - because it was too spicy to Wanda for everyday use.",
-        "clickUrl": "https://rightspiceco.com/products/the-mother-in-law",
-        "shopName": "The Right Spice Company"
-      }
-    ],
-    "tags": [
-      "Food & Beverage",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "a76da44d-4710-4f8d-b5bd-0aaafe0859e3",
     "type": "shop",
     "title": "Bossa Bars",
@@ -454,7 +418,7 @@
         "name": "Papaya Bright Face Mask",
         "imageUrl": "https://cdn.shopify.com/s/files/1/1217/2268/products/Allure_SuperfoodFaceMask_LucumaBright_Front_IKH04362_1800x.jpg?v=1606256263",
         "description": "This brightening mask is made with 100% pure, edible superfoods. Featuring superfruits like lucuma, papaya, and sea buckthorn berry, it's packed with vitamin C and smells like a tropical vacation.",
-        "clickUrl": "https://golde.co/collections/all/products/lucuma-bright-instant-exfoliating-face-mask",
+        "clickUrl": "https://golde.co/collections/beauty/products/papaya-bright-face-mask",
         "shopName": "Golde"
       },
       {
@@ -591,30 +555,7 @@
     "title": "Brown Toy Box",
     "subtitle": "Our mission is to normalize Black excellence and create prosperous career pathways for Black children through STEAM education, cultural representation and educational play.",
     "imageUrl": "https://pbs.twimg.com/profile_images/1321147628189601792/jvMiBioU.jpg",
-    "clickUrl": "https://www.browntoybox.com/shop/all/",
-    "products": [
-      {
-        "name": "My Little Builder: Toddlers Learn about Tools and Fix and Build Things",
-        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/aa786b55cce74fa9a371d05bca6fa94f.jpeg",
-        "description": "This beautifully illustrated picture book teaches kids all about tools, how to fix things when they are broken and which tools to use for each problem. An adorable toddler loves to help his Dad fix stuff around the house so much so that he keeps finding things that are broken and need to be fixed.",
-        "clickUrl": "https://www.browntoybox.com/shop/product/2348136647",
-        "shopName": "Brown Toy Box"
-      },
-      {
-        "name": "Sasha Savvy Loves to Code",
-        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/c614d7e0d23e4d40b70adca08ceac99e.jpeg",
-        "description": "Sasha Savvy Loves to Code is an early reader chapter book (ages 7-10). The main character, Sasha Savvy, is a super smart 10-year old African-American girl, who lives in Washington, DC. Sasha must choose which class to take for summer camp. Her mom discovers that the camp is offering a new class for girls on how to code.",
-        "clickUrl": "https://www.browntoybox.com/shop/product/2369432504",
-        "shopName": "Brown Toy Box"
-      },
-      {
-        "name": "Oscar's Marine Biology Memory Game",
-        "imageUrl": "https://s3.amazonaws.com/cratejoy_vendor_images/a481be47ed3547a0946b1545d6b4b69a.png",
-        "description": "Test your animal knowledge with Oscar! Explore new water habitats and learn fun facts about animals!",
-        "clickUrl": "https://www.browntoybox.com/shop/product/3334545385",
-        "shopName": "Brown Toy Box"
-      }
-    ],
+    "clickUrl": "https://browntoybox.com/collections/products",
     "tags": [
       "Entertainment & Toys",
       "Education",
@@ -923,10 +864,10 @@
         "shopName": "Smile Natural Products"
       },
       {
-        "name": "Relax Body Duo",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0036/1401/5523/products/relax-body-duo-body-care-smile-natural-products-359510_480x480.jpg?v=1608704228",
-        "description": "Cleanse and moisturize with a Large Relax Black Soap Body Wash (16oz) and Large Relax Body Butter (8oz).",
-        "clickUrl": "https://feelsgoodtosmile.com/products/relax-body-duo",
+        "name": "Aromatherapy Diffuser",
+        "imageUrl": "https://ucarecdn.com/946e241d-cf59-4646-8b7f-676fbe70f482/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+        "description": "The Aromatherapy Diffuser scents your home to your mood!  Add our 100%, pure essential oils to this handmade, ceramic diffuser to freshen up any room in your home.",
+        "clickUrl": "https://feelsgoodtosmile.com/products/aromatherapy-diffuser",
         "shopName": "Smile Natural Products"
       },
       {
@@ -955,24 +896,24 @@
     "clickUrl": "https://shopebandflo.com/collections",
     "products": [
       {
-        "name": "Effortless Cotton Joggers",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_c2f8f441-ac68-4667-8b4e-1256ad0b6d0d_1800x1800.jpg?v=1606157427",
-        "description": "The perfect cozy essential to keep you warm through the colder months and beyond. Super soft inner lining, thick material (no see-through over here!) plus it has deep pockets.  Deep enough to hold huge stacks of money or an iPhone",
-        "clickUrl": "https://shopebandflo.com/collections/bae-sics/products/effortless-cotton-joggers",
+        "name": "Classic Boss Lady Track Suit",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_25d42275-481c-4585-a6af-7db20de1fba8_1800x1800.jpg?v=1597618007",
+        "description": "Chic track suit for the lady on the go. Throw it on for a quick trip to the grocery store, a nail appointment, or dress it up for a cute brunch look.",
+        "clickUrl": "https://shopebandflo.com/collections/all-products-1/products/boss-lady-track-suit-classic-orange",
         "shopName": "Eb + Flo Boutique"
       },
       {
         "name": "Tedy Soft Sherpa Jacket",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_cde136ac-71c9-4d3f-b742-1d713a682a56_1800x1800.jpg?v=1606263389",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/CopyofShopifyProductImages4472x4472_23_1800x1800.png?v=1626919154",
         "description": "The warmest and most comfortable jacket you'll ever own! The Teddy Sherpa Jacket feels like a warm hug or like you're wearing a blanket. Features a drawstring hem that allows you to snatch that waist hunny *snap*snap*",
-        "clickUrl": "https://shopebandflo.com/collections/outerwear/products/teddy-sherpa-jacket",
+        "clickUrl": "https://shopebandflo.com/products/teddy-sherpa-jacket",
         "shopName": "Eb + Flo Boutique"
       },
       {
         "name": "\"Thou shall not try me\" T-Shirt",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0431/5244/1498/products/image_7010f5e4-0b52-4909-b9c5-a31e4281055f_1800x1800.jpg?v=1599771205",
         "description": "Mood 24:7! Let the folks know the deal in this super soft tee.",
-        "clickUrl": "https://shopebandflo.com/collections/graphic-tees/products/thou-shall-not-try-me-t-shirt-black",
+        "clickUrl": "https://shopebandflo.com/collections/all-products-1/products/thou-shall-not-try-me-t-shirt-gray",
         "shopName": "Eb + Flo Boutique"
       }
     ],
@@ -1033,21 +974,21 @@
         "name": "Sustainable Mailys Dress - Noir",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/sustainable-mailys-dress-noir-923504_1400x.jpg?v=1610233764",
         "description": "Sustainable, artisanal and size inclusive, the Mailys Dress is easily convertible into over 19 different styles. This garment is a comfortable and versatile dress thoughtfully designed to fit all body shapes and sizes.",
-        "clickUrl": "https://diarrablu.com/collections/all/products/sustainable-marieme-dress-noir",
+        "clickUrl": "https://diarrablu.com/collections/dresses/products/sustainable-marieme-dress-solid-noir",
         "shopName": "Diarrablu"
       },
       {
         "name": "Headwrap - Suto",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/headwrap-suto-748233_1400x.jpg?v=1605475071",
         "description": "These statement pieces are part of our zero-waste sustainable approach as we believe in maximizing the usage of all our fabrics.",
-        "clickUrl": "https://diarrablu.com/collections/headwraps/products/headwrap-suto",
+        "clickUrl": "https://diarrablu.com/products/moussor-headwrap-suto",
         "shopName": "Diarrablu"
       },
       {
         "name": "Hidden in Ocho Rios | Art Print",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0142/8897/7984/products/hidden-in-ocho-rios-art-print-624831_1400x.jpg?v=1605428407",
         "description": "In this piece, we daydream of an impromptu retreat in Ocho Rios, Jamaica in a hidden tree-house covered in palm leaves.",
-        "clickUrl": "https://diarrablu.com/collections/art-print/products/hidden-in-ocho-rios",
+        "clickUrl": "https://diarrablu.com/collections/all-art/products/hidden-in-ocho-rios-art-print",
         "shopName": "Diarrablu"
       }
     ],
@@ -1146,10 +1087,10 @@
     "clickUrl": "https://siennasauce.com/collections/all",
     "products": [
       {
-        "name": "Sienna Sauce 2 Pack",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/NEW2packbottlestangylemonpepper-2_1024x1024@2x.png?v=1604331898",
+        "name": "Sienna Sauce Variety Pack",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0079/5747/9482/products/SiennaSauce_MousePads_Variety-1500x1500_f78e405a-50da-464c-ad7b-9d1ecd90c6e9_1024x1024@2x.jpg?v=1625704902",
         "description": "This gourmet sauce has No High Fructose Corn Syrup and is Gluten-Free. It combines the perfect blend of sweet with a hint of tangy serving as a perfect complement to chicken, pork, beef, or seafood that has been fried, smoked, baked, or grilled.",
-        "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/2pack-tangy-spicy",
+        "clickUrl": "https://siennasauce.com/collections/best-sauce-ever/products/sienna-wings-sauce",
         "shopName": "Sienna Sauce"
       },
       {
@@ -1566,7 +1507,7 @@
     "type": "shop",
     "title": "Bailee's Nail Box",
     "subtitle": "Bailee's Nail Box is a FUN box for girls, created by 11 year old Bailee K. for girls ages 4 - 12 who love all things nails! Bailee's goal was to create memorable boxes filled with different tools for fun nail designs with an extra girly accessory with each box.",
-    "imageUrl": "https://cdn05.zipify.com/EPKeXWDA-L_GdVog3Y0oTPvmlVk=/fit-in/700x0/a91c7b1bd87348d2940d7a10a35e5450/bailee_s-nail-box-logo-02_300x.png",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1622/5689/files/Bailee_s-Nail-Box-Logo-02_300x@2x.png?v=1517017266",
     "clickUrl": "https://www.baileesnailbox.com/collections/all",
     "products": [
       {
@@ -1646,7 +1587,7 @@
       },
       {
         "name": "Future President - Oval Office",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/products/IMG_4669_2048x.jpg?v=1604637757",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2773/4206/products/image_e80e08b1-7df6-4c02-853e-3debdfe04a10_2048x.jpg?v=1622082952",
         "description": "The Future President - Oval Office Puzzle measures 12in x 16.5in, includes 54 pieces, and is constructed from sturdy cardboard similar to most puzzles sold in stores. Depending on a child’s development and fine motor skills, this puzzle can be ideal toddlers or young children.",
         "clickUrl": "https://puzzlehuddle.com/collections/puzzles-in-stock/products/future-president-oval-office-10-5in-x-42in-w-42-pieces",
         "shopName": "Puzzle Huddle"
@@ -1763,29 +1704,6 @@
     "subtitle": "Sharee has loved art all her life and has taken every opportunity to study it. She runs one of the Black-owned companies where customers can buy art prints.",
     "imageUrl": "https://static1.squarespace.com/static/54409174e4b01431efe2ef87/t/5b2077e82b6a28afecc7bec3/1602536841703/?format=750w",
     "clickUrl": "https://www.shareemiller.com/shop-1",
-    "products": [
-      {
-        "name": "Quarantine Sticker Sheet",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1598833602162-HMD83T0ITT7Z260WP35D/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/IMG_0404.JPG?format=1000w",
-        "description": "Cute self-care, quarantine inspired sticker set. Decorate your planner, notebooks, or anything you want to stick a sticker on!",
-        "clickUrl": "https://www.shareemiller.com/shop-1/quarentine-sticker-sheet",
-        "shopName": "Coily and Cute"
-      },
-      {
-        "name": "I Love My Hair Sticker",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1596469558502-ZVFOGHB5TAWI99E5VPHJ/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/IMG_0401.JPG?format=1000w",
-        "description": "Looking for a cute sticker to show how much you love your hair? Well, look no further! ",
-        "clickUrl": "https://www.shareemiller.com/shop-1/i-love-my-hair-a-sticker",
-        "shopName": "Coily and Cute"
-      },
-      {
-        "name": "Naturalista Pin",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/54409174e4b01431efe2ef87/1577398511925-2Y0X7GJO8OQRM4S8I57H/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/IMG_4771.JPG?format=1500w",
-        "description": "Pop your collar and add some flair with this naturalista pin. Rose gold and black pin.",
-        "clickUrl": "https://www.shareemiller.com/shop-1/naturalista-pin",
-        "shopName": "Coily and Cute"
-      }
-    ],
     "tags": [
       "Entertainment & Toys",
       "Books",
@@ -1961,17 +1879,17 @@
         "shopName": "Raycon"
       },
       {
-        "name": "The Trendsetter H20 Headphones",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/200320_Raycon_H20_Headphones_Black_Angle1_DELIVERY_180x.png?v=1612842895",
-        "description": "Choose what you hear with superior noise cancellation that enhances sound quality while blocking outside distractions. Push the boundaries and find your flow with fully immersive surround sound.",
-        "clickUrl": "https://rayconglobal.com/collections/all/products/the-trendsetter-h20-headphones?variant=31258859044887",
+        "name": "The Everyday Headphones",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/200320_Raycon_H20_Headphones_White_Silver_Angle1_DELIVERY_180x.png?v=1612842895",
+        "description": "With booming sound and superior noise cancellation, you can block out all distractions and stay focused on your mission.",
+        "clickUrl": "https://rayconglobal.com/collections/headphones/products/the-everyday-h20-headphones?variant=31258859077655",
         "shopName": "Raycon"
       },
       {
-        "name": "The Runner's Belt",
+        "name": "The Fitness Belt",
         "imageUrl": "https://cdn.shopify.com/s/files/1/2404/0041/products/MG_9494_180x.png?v=1598032021",
-        "description": "A nifty and lightweight belt to fuel your workouts. Hold your smartphone, Raycon earbuds, and other daily essentials for your run or gym sessions. ",
-        "clickUrl": "https://rayconglobal.com/collections/all/products/the-runners-belt?variant=31675383349271",
+        "description": "A nifty and lightweight belt to fuel your workouts. Hold your smartphone, Raycon earbuds, and other daily essentials for your run or gym sessions.",
+        "clickUrl": "https://rayconglobal.com/products/the-fitness-belt?variant=31675383349271",
         "shopName": "Raycon"
       }
     ],
@@ -1990,10 +1908,10 @@
     "clickUrl": "https://www.sosorella.com/",
     "products": [
       {
-        "name": "Orange Tie Dye Pant Set",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/products/s2778_2000x.jpg?v=1598307366",
-        "description": "Orange Tie Dye Pant Set",
-        "clickUrl": "https://www.sosorella.com/collections/sale/products/orange-tie-dye-pant-set",
+        "name": "Navy Tie Dye Pant Set",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1173/7128/products/s2747_2000x.jpg?v=1596742552",
+        "description": "Navy Tie Dye Pant Set",
+        "clickUrl": "https://www.sosorella.com/products/navy-tie-dye-pant-set",
         "shopName": "Sorella"
       },
       {
@@ -2079,15 +1997,15 @@
     "clickUrl": "https://raytecaudio.com/collections/all",
     "products": [
       {
-        "name": "RayTec Airpods",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/IMG_8408_1_2048x.jpg?v=1597545048",
-        "description": "Ideal for hands free activities: Exercising, phone calls, music, working, audio books, and tuning the world out!",
-        "clickUrl": "https://raytecaudio.com/collections/all/products/raytec-airpods",
+        "name": "RayTec Wireless Speaker",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/PXL_20210408_200004910.PORTRAIT_1728x.jpg?v=1619727017",
+        "description": "RayTec Audio BT-27 Wireless Speaker",
+        "clickUrl": "https://raytecaudio.com/collections/all/products/raytec-bt-27-wireless-speaker",
         "shopName": "RayTec Audio"
       },
       {
         "name": "RayTec Watch6 — Black Case",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/Untitleddesign_90_1296x.jpg?v=1605470497",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0093/0411/3207/products/Audio_41_1728x.jpg?v=1629395832",
         "description": "Make bluetooth calls through your watch for hands free communication. Read messages and notifications through this watch: Facebook, Instagram, Whatsapp and more.",
         "clickUrl": "https://raytecaudio.com/collections/all/products/raytec-smart-watch-watch6",
         "shopName": "RayTec Audio"
@@ -2309,10 +2227,10 @@
         "shopName": "Ujamaa Lighting"
       },
       {
-        "name": "Ujamaa Hoodie (Word Logo - Gold)",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/9f65c5a9ba825ce3bb75545d58bb1444_2000x.jpg?v=1597844309",
-        "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
-        "clickUrl": "https://www.ujamaalighting.com/collections/ujamaa-catalog/products/ujamaa-hoodie-word-logo-gold",
+        "name": "Ujamaa Lighting Heavy Hoodie",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0267/9937/4389/products/unisex-heavy-blend-hoodie-black-front-2-6032fd6459072_2000x.jpg?v=1613954413",
+        "description": "Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. Our Ujamaa Lighting hoodie is the perfect choice for cooler evenings!",
+        "clickUrl": "https://www.ujamaalighting.com/collections/promotional-apparel/products/ujamaa-lighting-heavy-hoodie",
         "shopName": "Ujamaa Lighting"
       }
     ],
@@ -2345,7 +2263,7 @@
       },
       {
         "name": "NX Pro Plus LE (128G)",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/Artboard1_1512x.png?v=1606886602",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0294/8133/6907/products/01.png?v=1605303755",
         "description": "The (Limited Edition) NSPRE™ NX Pro Plus Cotton Candy is an extension of the original NX Pro. It is 6.5 Inches, has a much slimmer frame of 8.0mm, and 3D curved glass back finish.",
         "clickUrl": "https://www.nspreelectronics.com/products/nx-pro-plus-limited-edition",
         "shopName": "NSPRE Electronics"
@@ -2431,7 +2349,7 @@
       },
       {
         "name": "Caribbean Fruit Cake",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1614693749657-DWW1O4KALMJ3LVB77NQJ/ke17ZwdGBToddI8pDm48kGaQUgjOFdJ9rAl7Ms5iqp17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYalqgCK38N5CPCV3fJEYZUUhBPcSLdD8eSFKGMx4FaScZvzjhem61ju1EWjsi3f0Q/20210125_131039.jpg?format=2500w",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c3f44fd50a54fd9909cb87b/1620962390775-2X4Z169SROX6MWLA4VVW/Large%2BCaribbean%2BFruit%2BCake%2B-%2BWeb%2BStore%2B1.jpg?format=2500w",
         "description": "Traditional Caribbean fruit cake (black cake) enhanced with tropical spices and preserved with rum. Just a small slice of this decadent cake will transport you to the islands!",
         "clickUrl": "https://www.camellaskitchen.com/shop/caribbean-fruit-cake",
         "shopName": "Camella's Kitchen"
@@ -2456,21 +2374,21 @@
     "products": [
       {
         "name": "Original Recipe",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_4_-_2_1024x1024.JPG?v=1554125033",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/originalrecipe_9oz_1024x1024.png?v=1628004652",
         "description": "The Original Recipe blend has a sweet caramel flavor that makes it simply delicious. There are so many ways to enjoy this treat--topping on your yogurt, adding some crunch to your favorite ice cream, or creating a crust for a cheesecake.",
         "clickUrl": "https://www.ohmazingfood.com/products/handmade-granola",
         "shopName": "Oh-Mazing!"
       },
       {
         "name": "Lemon Bar",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_8_2_1024x1024.JPG?v=1554124952",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/lemonbar_9oz_1024x1024.png?v=1628004621",
         "description": "Lemon Bar will please the palate of all lemon lovers and add a refreshing flavor to a bowl of oatmeal or a new bite to your favorite cheesecake recipe.",
         "clickUrl": "https://www.ohmazingfood.com/products/snackable-granola-lemon-bar",
         "shopName": "Oh-Mazing!"
       },
       {
         "name": "Caribbean Delight",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/Ohmazing_6_-_2_1024x1024.JPG?v=1554124790",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1051/3108/products/caribbeandelight_9oz_1024x1024.png?v=1628004538",
         "description": "Caribbean Delight is our first vegan product. The ingredients include coconut oil, grated coconut, and a touch of raisins that will make your palate dance. Not to mention, you will immediately be reminded of that time you went on an island vacation.",
         "clickUrl": "https://www.ohmazingfood.com/products/caribbean-delight-vegan",
         "shopName": "Oh-Mazing!"
@@ -2526,27 +2444,27 @@
     "title": "The Honey Wine Company",
     "subtitle": "Inspired by his country's national beverage t'ej (honey wine), Ayele realized that these flowering trees were an ideal source of nectar and pollen that bees use to make valuable honey.  This set Ayele on a quest to better understand the art and business of creating honey wine.",
     "imageUrl": "https://i.pinimg.com/280x280_RS/13/05/2b/13052b5fbc135b3db2b7c97fa4bbfc0f.jpg",
-    "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/",
+    "clickUrl": "https://beedvine.com/shop/",
     "products": [
       {
         "name": "Brut 750ml Honey Wine",
         "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1267295721.jpg",
         "description": "The world standard for premium dry honey wine. Barrel aged in 100% French oak. Crisp, dry, and complex but with no bitter tannins.  Imbibers who enjoy drier cocktails or cider, pilsner style beers, and a variety of grape wine will appreciate versatile \"Brut.\"",
-        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/Brut-750ml-Honey-Wine-p32213003",
+        "clickUrl": "https://beedvine.com/product/brut-750ml-honey-wine/",
         "shopName": "The Honey Wine Company"
       },
       {
         "name": "Demi Sec Sparkling 750ml Honey Wine",
         "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1063981974.jpg",
         "description": "The world standard sweeter sparkling honey wine and the world’s first and only Charmat method honey wine (less yeasty and more ‘fruit forward’ than the Champagne method - most perfect for delicate honey wine - especially a sweeter honey wine).",
-        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/Demi-Sec-Sparkling-750ml-Honey-Wine-p137615944",
+        "clickUrl": "https://beedvine.com/product/demi-sec-sparkling-750ml-honey-wine/",
         "shopName": "The Honey Wine Company"
       },
       {
         "name": "Wancha (Grape Wine) 2016 Cabernet Sauvignon 750ml",
         "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/2557198/1259865955.jpg",
         "description": "Produced from certified organic grapes from North Ponderosa Vineyards in the Sierra Foothills, this 2017 Cabernet Sauvignon explodes with deep fruit flavors and aromas of plum, blackberry, and raisins. The silky smooth mouth feel ends with a dry, subtle, medium tannin finish. Aged for 14 Months in two year old French Oak Barrels (65%) and 35% New American Oak Barrels. Cellared and bottled in Sonoma County, 14% ABV.",
-        "clickUrl": "https://www.beedvine.com/shop-all-honey-wine-mead-wine/WANCHA-GRAPE-WINE-2016-Cabernet-Sauvignon-750ml-p134427578",
+        "clickUrl": "https://beedvine.com/product/wancha-grape-wine-2016-cabernet-sauvignon-750ml-1/",
         "shopName": "The Honey Wine Company"
       }
     ],
@@ -2601,27 +2519,27 @@
     "title": "57 Chocolate",
     "subtitle": "57 is the pioneer bean to bar chocolate business in Ghana. ’57 Chocolate is short for 1957, which is the year of Ghana’s independence. This venture uses resources grown within the country to create delicious treats.",
     "imageUrl": "https://static1.squarespace.com/static/56f1a6051d07c03a5818bc84/t/5f245d9669940e4b03d2b742/1605026258242/?format=1500w",
-    "clickUrl": "https://www.57chocolategh.com/",
+    "clickUrl": "https://57chocolategh.com/pages/pricelist",
     "products": [
       {
         "name": "Chocolate Chips",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1595439069548-MV3956AMKK9XL1ZRMNYL/ke17ZwdGBToddI8pDm48kL4WrIntsHuCODFzGytxs8sUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcw31z2cKmL83lZVTgYf1Shcnt0pzT4b-h8WwoQ3rX-86z0Q_QpJgDA4jmv5AtYw-J/760ac0dd-fcb5-4736-9353-3213b131de95.JPG?format=1000w",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0508/1307/5636/files/Ghana_orders_chocolate_chips.png?v=1617155307",
         "description": "Get them in dark chocolate (71.5%) or milk chocolate (49%)",
-        "clickUrl": "https://www.57chocolategh.com/",
+        "clickUrl": "https://57chocolategh.com/pages/pricelist",
         "shopName": "57 Chocolate"
       },
       {
         "name": "Adinkra Bars",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1592441844538-5WVKT6V123BFMSCMPRH4/ke17ZwdGBToddI8pDm48kBtpJ0h6oTA_T7DonTC8zFdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIWkiAYz5ghgEgSGJuDQ4e1ZKXpRdhEMT7SgthRpD0vyIKMshLAGzx4R3EDFOm1kBS/a+variety+.jpg?format=1000w",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0508/1307/5636/files/Adinkra_Ghana_Orders.png?v=1628796854",
         "description": "Our Adinkra bars are beautiful bite-sized bars engraved with visual symbols originally created by the Ashanti of Ghana. A minimum of 2 chocolates and a maximum of 6 fit in our adinkra boxes. They are perfect for a quick treat and come in dark, milk, white, mocha latte, bissap, and moringa.",
-        "clickUrl": "https://www.57chocolategh.com/",
+        "clickUrl": "https://57chocolategh.com/pages/pricelist",
         "shopName": "57 Chocolate"
       },
       {
         "name": "Chocolate Gift Box",
         "imageUrl": "https://images.squarespace-cdn.com/content/v1/56f1a6051d07c03a5818bc84/1571798936590-IY755OTY15WA3FDPS1Z7/ke17ZwdGBToddI8pDm48kBtpJ0h6oTA_T7DonTC8zFdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIWkiAYz5ghgEgSGJuDQ4e1ZKXpRdhEMT7SgthRpD0vyIKMshLAGzx4R3EDFOm1kBS/67916040_2913449195546325_1001204121337856000_n.jpg?format=1000w",
         "description": "Get a set of 6 or 12 bars to give as a gift to the chocolate-lover in your life.",
-        "clickUrl": "https://www.57chocolategh.com/",
+        "clickUrl": "https://57chocolategh.com/pages/pricelist",
         "shopName": "57 Chocolate"
       }
     ],
@@ -2816,10 +2734,10 @@
         "shopName": "Askanya"
       },
       {
-        "name": "The Haiti Duo #1: Paradis Chocolates & Cremas Liqueur",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/products/Abs2M_3PA_08adb2b0-041a-422d-86c0-9fb06eda0f58_1080x.jpg?v=1585280439",
-        "description": "Includes 3 Askanya Chocolates (2oz/each): Paradis (47% Cacao) and 2 Absalon Chocolate Cremas Liqueur (1oz/each)",
-        "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection/products/the-haiti-duo-1-paradis-chocolates-cremas-liqueur",
+        "name": "Paradis",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0068/3851/7820/products/1_1_Paradis_f85a3090-a6bc-47c4-87f1-541effa1826b_1080x.jpg?v=1613694044",
+        "description": "Paradis has a rich and creamy texture, with delicious chocolate flavors and subtle fruit flavors, providing additional complexity.",
+        "clickUrl": "https://askanya.ht/collections/our-haitian-chocolates-selection/products/paradis",
         "shopName": "Askanya"
       },
       {
@@ -3004,10 +2922,10 @@
     "clickUrl": "https://thefishingcaddy.com/collections/all",
     "products": [
       {
-        "name": "2 Pack Best Sellers Save on Shipping",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/products/image_1080x.jpg?v=1549762812",
-        "description": "One Camo XL (Padded Seat) and Blue Ice XL (Padded Swivel Seat) our best sellers! Save on shipping & The perfect. Gift idea for anyone who loves fishing.",
-        "clickUrl": "https://thefishingcaddy.com/products/2-pack-best-seller",
+        "name": "2 Pack - Camo XL Fishing Caddy",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1118/7164/products/image_edc1928f-e31a-40a8-a50c-266af901c000_1080x.jpg?v=1560228639",
+        "description": "The perfect gift idea for someone who loves fishing and bonding",
+        "clickUrl": "https://thefishingcaddy.com/collections/family-fishing-packs/products/2-pack-camo-xl-padded-seat",
         "shopName": "Fishing Caddy"
       },
       {
@@ -3325,10 +3243,10 @@
         "shopName": "Beija Flor Naturals"
       },
       {
-        "name": "Handmade Soy Candle: Plum",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/20180412_125912_900x.jpg?v=1596401951",
-        "description": "Juicy Fruit fragrance without being too sticky sweet. This plum inspired candle features notes of peace, apple, strawberry, jasmine and vanilla.  Clean burning soy candle. 90 Hour Burn Time.",
-        "clickUrl": "https://www.beijaflornaturals.com/collections/home/products/handmade-soy-candle-tobacco",
+        "name": "Kinks Curls & Coils Haircare Bundle",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0051/4074/2178/products/MG_3025_2048x.jpg?v=1616570997",
+        "description": "Bundle and Save! Treat your coils to a start to finish process of our amazing haircare line.",
+        "clickUrl": "https://www.beijaflornaturals.com/collections/all/products/kinks-curls-coils-haircare-bundle",
         "shopName": "Beija Flor Naturals"
       }
     ],
@@ -3446,10 +3364,10 @@
         "shopName": "Elements of Aliel"
       },
       {
-        "name": "Bed Time Beauty Kit",
-        "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2020/10/Bed-Time-Beauty-Kit.jpg?fit=800%2C800&ssl=1",
-        "description": "Elevate your nighttime beauty routine with this bundle of products designed to detoxify, nourish and refresh the skin. In just 10 minutes a night you can wake up glowing.",
-        "clickUrl": "https://www.elementsofaliel.com/product/bed-time-beauty-kit/",
+        "name": "I’m Beet Clay Mask",
+        "imageUrl": "https://i2.wp.com/www.elementsofaliel.com/wp-content/uploads/2016/07/Beet-Mask-1.jpg?fit=900%2C900&ssl=1",
+        "description": "Formulated with Moroccan Red Clay, Rose Hip and Beet Root this vitamin C rich mask will refresh your skin!",
+        "clickUrl": "https://www.elementsofaliel.com/product/im-beet-face-mask/",
         "shopName": "Elements of Aliel"
       }
     ],
@@ -3471,17 +3389,17 @@
     "clickUrl": "https://harrisonblakeapparel.com/",
     "products": [
       {
-        "name": "Berry Dot Necktie",
-        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2024/images/5288/IMG_8382__17397.1606260888.500.750.JPG?c=2",
-        "description": "A great microfiber necktie - in a beautiful design and color scheme = priceless! Grab yours now. Get compliments later...",
-        "clickUrl": "https://harrisonblakeapparel.com/berry-dot-necktie/",
+        "name": "Mandarin Dot Necktie",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2253/images/6078/Richard_Taylor_-_IMG_0551__35792.1619335660.500.750.JPG?c=2",
+        "description": "A great cotton necktie - in a beautiful design and color scheme = priceless! Grab yours now. Get compliments later...",
+        "clickUrl": "https://harrisonblakeapparel.com/mandarin-dot-necktie/",
         "shopName": "Harrison Blake Apparel"
       },
       {
-        "name": "Black Tooth Bow Tie",
-        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2148/images/5648/Rich____plainnameguy_-_A23829C7-C8B0-461A-8900-8EB408A39870__40414.1598846644.500.750.jpg?c=2",
-        "description": "A self-tied bow tie is a classic accessory that everyone needs in their wardrobe. Handmade quality is what you'll find in all our neckwear offerings.",
-        "clickUrl": "https://harrisonblakeapparel.com/black-tooth-bow-tie/",
+        "name": "Mauve Blossom Pocket Square",
+        "imageUrl": "https://cdn10.bigcommerce.com/s-xljmk/products/2349/images/6382/Attachment_1619973332_3__83332.1620723743.500.750.jpg?c=2",
+        "description": "Handcrafted 100% fine cotton pocket square. Measures aprox 10\" x 10\"",
+        "clickUrl": "https://harrisonblakeapparel.com/mauve-blossom-pocket-square/",
         "shopName": "Harrison Blake Apparel"
       },
       {
@@ -3568,10 +3486,10 @@
         "shopName": "Marie Hunter Beauty"
       },
       {
-        "name": "Deep Hydration Cream",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1602771788382-P01LO0JKOJGZ8UIMFF85/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/MHB-SC-9.jpg?format=2500w",
+        "name": "Daily Hydration Cream",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/570a7c769f726623e0c6d9fa/1622301659925-WJSD40RN4VJEWOVG846Q/FE2435F0-6D3D-41BE-89A5-ABBF4098459A?format=2500w",
         "description": "A daily moisturizer for intense hydration. A lightweight, quick absorbing cream that transforms skin into a supple, healthier looking appearance.",
-        "clickUrl": "https://www.mariehunterbeauty.com/skincarestore/deep-hydration-cream",
+        "clickUrl": "https://www.mariehunterbeauty.com/skincarestore/daily-hydration-cream",
         "shopName": "Marie Hunter Beauty"
       }
     ],
@@ -3710,17 +3628,17 @@
         "shopName": "Loza Tam"
       },
       {
-        "name": "Faiza Turban Headband",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/faiza-turban-headband-top_1080x.jpg?v=1603899140",
-        "description": "Black, purple, and lemon yellow headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands.  Turban headband is perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
-        "clickUrl": "https://lozatam.com/collections/headbands/products/faiza-turban-headband-1",
+        "name": "Tema Turban Headband",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/ethnic-print-turban-headband_1080x.png?v=1621431217",
+        "description": "Black, white and red turban headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands.  Perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting with a messy bun. The headband features an elastic band in the back to accommodate various head sizes.",
+        "clickUrl": "https://lozatam.com/collections/turban-headband-1/products/african-print-turban-headband",
         "shopName": "Loza Tam"
       },
       {
-        "name": "Lulu African Headband",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/black-white-headband-for-curly-hair_1080x.jpg?v=1603898384",
-        "description": "Black, white, and grey African Printed Head Wrap Headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands. Perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting.",
-        "clickUrl": "https://lozatam.com/collections/headbands/products/lulu-black-white-african-headband",
+        "name": "Luchi Yellow Satin-Lined Headband",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0107/0822/2016/products/luchi-wide-headband-for-women_1080x.jpg?v=1600707703",
+        "description": "Yellow, espresso, and blue African Printed Head Wrap Headband is lined in black satin to prevent friction between the cotton fabric and your fragile hair strands. Perfect to wear on your next Peloton ride or wear it casually on your next Zoom meeting with a high bun. Get to know the benefits of Satin wraps for hair.",
+        "clickUrl": "https://lozatam.com/collections/headbands/products/luchi-yellow-satin-lined-headband",
         "shopName": "Loza Tam"
       }
     ],
@@ -3740,10 +3658,10 @@
     "clickUrl": "https://www.omalichanaturals.com/shop-1",
     "products": [
       {
-        "name": "Honey Pomegranate Facial Scrub",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bad78a2da50d348cd5b424b/1588739700850-A629L997PJRQ1MG02NIR/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/IMG_2768.jpg?format=1500w",
-        "description": "Our Honey Pomegranate Facial scrub is formulated with natural oils for a gentle exfoliation. Honey is a natural humectant that utilizes its dual properties of draw in moisture and locking it in. After one use, you will notice an immediate difference in your skins texture.",
-        "clickUrl": "https://www.omalichanaturals.com/shop-1/pomegranate-honey-facial-scrub",
+        "name": "Sweet Marula Replenishing Facial Serum",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bad78a2da50d348cd5b424b/1565839502450-VFJZY0FN56HG6F6ODU5I/IMG_3394.jpg?format=2500w",
+        "description": "Our Sweet Marula Replenishing Facial serum is a blend of light oils and botanical extracts. This meticulous blend soothes and moisturizes the skin after cleansing, easily penetrating the skin revealing an instant glow.",
+        "clickUrl": "hhttps://www.omalichanaturals.com/shop-1/sweet-marula-replenishing-facial-serum",
         "shopName": "Omalicha Naturals"
       },
       {
@@ -3980,10 +3898,10 @@
         "shopName": "26 King Wavy Merch, LLC"
       },
       {
-        "name": "Navy - Plain Silk Durags",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/navy-plain-silk-durags-533004_1080x.jpg?v=1613255887",
+        "name": "Navy Blue Silk Durag",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0164/4222/8836/products/pre-order-now-ships-april-2-navy-blue-silk-durag-459264_620x.jpg?v=1616987568",
         "description": "Designer Silk Durag",
-        "clickUrl": "https://26kingwavymerch.com/collections/plain-silk-durags/products/navy-plain-silk-durags",
+        "clickUrl": "https://26kingwavymerch.com/collections/all-durags/products/navy-blue-silk-durag",
         "shopName": "26 King Wavy Merch, LLC"
       }
     ],
@@ -4267,7 +4185,7 @@
     "products": [
       {
         "name": "Chalcedony 108 Bead Meditation Bracelet",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/chalcedony-108-bead-meditation-bracelet-lotus-charm-756.jpg?v=1601073701",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0025/5210/2957/products/chalcedony-108-bead-meditation-bracelet-lotus-charm-arm-jewelry-sleeve-873.jpg?v=1626151987",
         "description": "A quiet moment of reflection, gratitude, and visualization is sometimes all that is needed to redirect your mentality in a positive manner.",
         "clickUrl": "https://soulimpactful.com/products/chalcedony-108-bead-meditation-bracelet?variant=15392205176877",
         "shopName": "Soul Impactful"
@@ -4473,7 +4391,7 @@
         "name": "Toni Danaé",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0226/6172/6283/products/image_1354e50e-aa66-4f60-9c19-05b9bdffc73b_1500x.jpg?v=1568683499",
         "description": "Every doll needs a great LOOSE WAVE unit in her collection! ",
-        "clickUrl": "https://www.theweavezone.com/collections/lace-wigs/products/toni-danae?variant=30248138047563",
+        "clickUrl": "https://www.theweavezone.com/collections/lace-wigs/products/toni-danae-hd-easy-install-lace-frontal-loose-wave-wig-with-adjustable-band-150-220-density",
         "shopName": "The Weave Zone"
       },
       {
@@ -4523,7 +4441,7 @@
       },
       {
         "name": "Nano-Ionic Facial Steamer",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0110/1037/5739/products/product-image-1432204858_1080x.jpg?v=1599491095",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0110/1037/5739/products/realm-concept-market-nano-ionic-facial-steamer-30070360703134_1080x.jpg?v=1628007842",
         "description": "Facial steam combined with ionic water particles is up to 10x more effective than other facial steamers in penetrating the skin.",
         "clickUrl": "https://www.realmconceptmarket.com/products/nano-ionic-facial-steamer",
         "shopName": "Shop Thoughtful"
@@ -4546,10 +4464,10 @@
     "clickUrl": "https://post21shop.com/",
     "products": [
       {
-        "name": "Dog Treat Poppers",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/products/vCSn3iTa0Y_2550x.jpg?v=1594274377",
-        "description": "All natural dog treat poppers. Comes in 3 delicious flavors. Peanut Butter",
-        "clickUrl": "https://post21shop.com/collections/pet/products/dog-treat-poppers",
+        "name": "Ball is Life Dog Tag",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0018/2999/4542/products/WMVCiE4XMu_2000x.jpg?v=1618463095",
+        "description": "Super cool, fun, and durable Pet ID Tags. There's a tag for you and your pet's personality! Comes with custom engraving, to make sure that your little one is never lost and can always find it's way home.",
+        "clickUrl": "https://post21shop.com/collections/pet/products/ball-is-life-tag",
         "shopName": "Post 21"
       },
       {
@@ -4641,23 +4559,6 @@
       "Black-owned",
       "Vznary",
       "Fashion",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
-    "id": "8be2658c-96cc-4881-b2c3-6146070f42c5",
-    "type": "shop",
-    "title": "MoonXCosmetics",
-    "subtitle": "Handmade vegan skincare for all skin types.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0258/6692/8174/files/MOOOON.png?height=500&pad_color=ffffff&v=1588216815&width=400",
-    "clickUrl": "https://shopmoonxcosmetics.com/",
-    "tags": [
-      "Goods",
-      "Black-owned",
-      "skincare",
-      "Health & Beauty",
-      "Wellness",
       "Shop"
     ],
     "priority": 10
@@ -4799,10 +4700,10 @@
         "shopName": "Beauty Bakerie"
       },
       {
-        "name": "Frozen Mini So Icy Illuminator",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/so_icy_mini_-_frozen_800x800.progressive.jpg?v=1575421223",
-        "description": "Our So Icy loose powder illuminators will give your cheeks #thatSNOWglow from iridescent, crushed-pearl pigment with high payoff. Best applied with a brush (but go ahead, dip your fingers in!)",
-        "clickUrl": "https://www.beautybakerie.com/collections/highlighters/products/frozen-so-icy-illuminator-mini",
+        "name": "Eyelash Icing Waterproof Mascara",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0736/4041/products/EyelashIcing1024x1024_800x800.progressive.jpg?v=1569003653",
+        "description": "Enter the Beauty Bakerie freezer and start ice-ing with our NEW waterproof and volumizing Eyelash Icing Mascara. The perfect topper for your baked beat, Eyelash Icing Mascara will freeze your lashes in place for all-day, all-night long-lasting wear.",
+        "clickUrl": "https://www.beautybakerie.com/collections/all-eye-products/products/eyelash-icing-black-waterproof-mascara",
         "shopName": "Beauty Bakerie"
       },
       {
@@ -4951,7 +4852,7 @@
         "name": "Tigress Tangerine Rug by Justina Blakeney® X Loloi",
         "imageUrl": "https://cdn.shopify.com/s/files/1/1398/8653/products/1111Untitled-1_4242602f-e755-444f-9a5b-7532ed727169_800x800.jpg?v=1595702871",
         "description": "Hooked of 100% wool pile, the Tigress Collection brings the wild to the home. Designed by Justina Blakeney by Loloi, the collection brings saturated colors and illustrative designs for a true conversation piece in any space.",
-        "clickUrl": "https://www.jungalow.com/collections/rugs/products/tigress-tangerine-rug-by-justina-blakeney-x-loloi-pre-order",
+        "clickUrl": "https://www.jungalow.com/collections/rugs/products/tigress-tangerine-rug-by-justina-blakeney-x-loloi",
         "shopName": "Jungalow"
       },
       {
@@ -4979,45 +4880,6 @@
     "priority": 10
   },
   {
-    "id": "f33d79e8-17c1-4d85-847d-f5a3f0544507",
-    "type": "shop",
-    "title": "PUR Home",
-    "subtitle": "Changing the way you think about clean with laundry and cleaning products for your bathroom, kitchen, and beyond.",
-    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b06242cda02bc7f95dab950/1583446218979-GVVBE465ODRWCLA3UR87/ke17ZwdGBToddI8pDm48kLdJ3j-ibWYU20S6E0aDMAl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbFTSCh3GLTYkz25V6Y8urJIuD2y7fSNCnhoa9WQ4jB08vps1ci3DLG5R66hSaaIi/PurHome_46633__99823.1568564839.jpg?format=1500w",
-    "clickUrl": "https://pur-home.com/",
-    "products": [
-      {
-        "name": "16 oz Dish Soap",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PHJan-31_900x.jpg?v=1615475464",
-        "description": "PUR Home's All Natural Dish Soap Cuts through grease and dirt to leave all your dirty/greasy dishes clean, without drying out your hands. Made with both plant-based and biodegradable ingredients and scented with Pure Essential Oils. Safe to use around children and pets, and safe for our Planet.",
-        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/16-oz-dish-soap",
-        "shopName": "PUR Home"
-      },
-      {
-        "name": "Multi-Surface Cleaner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46586__02918_1080x.jpg?v=1605212187",
-        "description": "PUR Home's Multi-Surface Household Cleaner is a super cleaner for all of your surfaces, including your kitchen surfaces, base boards, refrigerator, bathroom surfaces and fixtures, inside your car. Safe enough for your little one's toys, crib and so much more. ",
-        "clickUrl": "https://shoppurhome.com/collections/kitchen/products/34-oz-multi-surface-cleaner",
-        "shopName": "PUR Home"
-      },
-      {
-        "name": "Laundry Detergent",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2594/4156/products/PurHome_46602_1080x.jpg?v=1605146515",
-        "description": "This Safe and Effective Liquid Laundry Detergent is perfect for those who are looking for a detergent that is sulfate-free and non-toxic. It does not contain a long list of harsh chemicals found in conventional brands.",
-        "clickUrl": "https://shoppurhome.com/collections/laundry/products/laundry-detergent-50-oz",
-        "shopName": "PUR Home"
-      }
-    ],
-    "tags": [
-      "Goods",
-      "Home & Beauty",
-      "Black-owned",
-      "cleaning supplies",
-      "Shop"
-    ],
-    "priority": 10
-  },
-  {
     "id": "e7a0006b-c069-46a2-a189-261581611706",
     "type": "shop",
     "title": "Riot Swim",
@@ -5040,10 +4902,10 @@
         "shopName": "Riot Swim"
       },
       {
-        "name": "Riot Crop Tee-Black",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/riot-swim00602_800x1026_crop_center@2x.jpg?v=1560833295",
-        "description": "Short-sleeve crop. Cotton tee. Round neck.",
-        "clickUrl": "https://www.riotswim.com/products/riot-crop-tee-black",
+        "name": "Riot Trunks-Black",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1243/4482/products/image-20_673e2e86-f717-4827-b958-7546d1113abb_1800x1800.jpg?v=1627420470",
+        "description": "Mesh lining. Gold hardware. European fit. Lightweight stretchy fabric . Side pockets. Functional back pocket. Mid length",
+        "clickUrl": "https://www.riotswim.com/collections/mens/products/riot-trunks-black",
         "shopName": "Riot Swim"
       }
     ],
@@ -5158,10 +5020,10 @@
         "shopName": "Red Bay Coffee"
       },
       {
-        "name": "Unisex Sweatshirt - Red Bay Spoon Logo - Gold",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/unisex-sweatshirt-red-bay-spoon-logo-gold-304488_1080x.jpg?v=1600192610",
-        "description": "\"Red Bay Spoon Logo\" Crewneck Unisex Sweatshirt - gold with black print; back Red Bay Coffee logo; 80/20 Poly-Cotton Blend. Locally sourced and screen printed in Oakland, CA.",
-        "clickUrl": "https://www.redbaycoffee.com/collections/apparel/products/unisex-sweatshirt-red-bay-spoon-logo-gold",
+        "name": "Unisex Sweatshirt - Black Coffee - Black",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1465/6106/products/unisex-sweatshirt-black-coffee-black-371728_1080x.jpg?v=1629143564",
+        "description": "Crewneck Sweatshirt - black with black foil print; back Red Bay Coffee logo; 80/20 Poly-Cotton Blend. Locally sourced and screen printed in Oakland, CA.",
+        "clickUrl": "https://www.redbaycoffee.com/collections/apparel/products/black-coffee-unisex-sweatshirt-black",
         "shopName": "Red Bay Coffee"
       }
     ],
@@ -5200,7 +5062,7 @@
       },
       {
         "name": "BLK & Bold Logo Dad Hats",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/2223/5445/products/image0_1024x1024@2x.jpg?v=1592588676",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0023/2223/5445/products/bbm-9_1024x1024@2x.jpg?v=1619188582",
         "description": "2020 BLK & Bold Logo Dad Hat. Black/White/Yellow",
         "clickUrl": "https://blkandbold.com/products/blk-bold-logo-dad-hats",
         "shopName": "BLK & Bold"

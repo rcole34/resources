@@ -18,7 +18,7 @@ usedResourceIds = set()
 dailyResources = dict()
 
 print("picking random resources to use")
-for day in range(1, 31):
+for day in range(1, 32):
 	dayResources = []
 	while len(dayResources) < 2:
 		newResource = random.choice(allResources)

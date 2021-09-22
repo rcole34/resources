@@ -25,7 +25,7 @@
       "type": "shop",
       "title": "Juices for Life",
       "subtitle": "We offer a healthy alternative to urban communities. We aim to nourish people with nature's vitamins, inform them about the benefits of health awareness and how this enhances their lifestyle.",
-      "imageUrl": "http://res.cloudinary.com/convergencecms/image/upload/v1/juicesforlife/templates/photos/slideshow6673/juices-for-life-yo2-3",
+      "imageUrl": "https://res.cloudinary.com/convergencecms/image/upload/v1/juicesforlife/templates/photos/slideshow6673/juices-for-life-yo2-3",
       "clickUrl": "http://juicesforlife.nyc/",
       "tags": [
         "Local",
@@ -90,7 +90,7 @@
       "type": "shop",
       "title": "Sam's Soulfood",
       "subtitle": "Sam's Soulfood, restaurant, bar, and lounge",
-      "imageUrl": "http://nebula.wsimg.com/4f458dd7c7c61b3566fffe079552995f?AccessKeyId=97E4C2157B155D509163&disposition=0&alloworigin=1",
+      "imageUrl": "https://nebula.wsimg.com/4f458dd7c7c61b3566fffe079552995f?AccessKeyId=97E4C2157B155D509163&disposition=0&alloworigin=1",
       "clickUrl": "http://www.samssoulfood.com/",
       "tags": [
         "Local",
@@ -367,8 +367,8 @@
       "type": "shop",
       "title": "Jamaica Breeze",
       "subtitle": "Jamaica Breeze, located in East Elmhurst, Queens, NY carries a large assortment of Jamaican foods, baked goods, drinks, sodas, and energy drinks. Our Jamaican chefs recipes have been in the family for generations. Come down to try our delicious Jamaican Jerk Chicken, Jamaican Ox Tail, Jamaican Curry Goat and so many other homemade island favorites.",
-      "imageUrl": "http://jamaicabreezenyc.com/images/home-rotation-03.jpg",
-      "clickUrl": "http://jamaicabreezenyc.com/index.html",
+      "imageUrl": "https://jamaicabreezenyc.com/images/home-rotation-03.jpg",
+      "clickUrl": "https://jamaicabreezenyc.com/index.html",
       "tags": [
         "Local",
         "Dine",
@@ -531,8 +531,8 @@
       "type": "shop",
       "title": "Central Brooklyn Food Coop",
       "subtitle": "The Central Brooklyn Food Coop (CBFC) is a Black-led community project utilizing our collective strength to ensure access to affordable and fresh food for low-moderate income Black people in Central Brooklyn. Our work is rooted in centuries of Black cooperative economics and organizing, and is aligned with other movements for Black liberation & self-determination.",
-      "imageUrl": "http://cbfood.org/wp-content/uploads/2015/08/Header-Images.jpg",
-      "clickUrl": "http://cbfood.org/",
+      "imageUrl": "https://cbfood.org/wp-content/uploads/2015/08/Header-Images.jpg",
+      "clickUrl": "https://cbfood.org/",
       "tags": [
         "Local",
         "Grocery Store",

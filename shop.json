@@ -8,8 +8,11 @@
     "clickUrl": "https://www.jambobooks.com",
     "moreInfo": "Jambo Books serves children from birth to age 13. Our oldest members, ages 10-13, receive a middle grade novel and a nonfiction companion book that expands on a topic discussed in the novel. We focus on stories about children of color to delight your young readers and reaffirm your values of creating an inclusive and welcoming community.\n\nJambo means “Hello” in Swahili. Hello is an invitation to start a connection, to learn something new, to expand our notion of what it is to be human. Similarly, we invite our readers to build their own empathy muscles by reading about people who aren't exactly like themselves. Together, we affirm the humanity of every person.",
     "tags": [
+      "Kids",
+      "Learning",
       "Entertainment & Toys",
       "Representation",
+      "Recreation",
       "Books",
       "Childrens Books",
       "Middle Grade Novels",
@@ -26,6 +29,10 @@
     "clickUrl": "https://soulcap.com/shop",
     "tags": [
       "hair & headwear",
+      "Recreation",
+      "Gear",
+      "Health",
+      "Fitness",
       "sports & outdoors",
       "olympics",
       "soul cap",
@@ -43,6 +50,10 @@
     "clickUrl": "https://itsnola.com/?key=cad6399fa338de171ebb7d5526a659c574c331b45038a9b5fd5e55b5d033eb16",
     "tags": [
       "Food & Beverage",
+      "Health",
+      "Nutrition",
+      "Dining",
+      "Food & Drink",
       "wellness",
       "community ",
       "Shop"
@@ -58,6 +69,10 @@
     "clickUrl": "https://210teas.com/",
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Health",
+      "Nutrition",
       "Tea",
       "Herbal Tea",
       "Online",
@@ -75,6 +90,8 @@
     "tags": [
       "Wellness",
       "Services",
+      "Academics",
+      "Lifestyle",
       "Coaching",
       "Custom",
       "Online",
@@ -91,6 +108,9 @@
     "clickUrl": "https://www.the360mag.com/",
     "tags": [
       "Media",
+      "Home",
+      "Services",
+      "Lifestyle",
       "Magazine",
       "Culture",
       "Publication",
@@ -107,6 +127,8 @@
     "clickUrl": "https://www.afroflowyoga.com/",
     "tags": [
       "Sports and Outdoors",
+      "Recreation",
+      "Activities",
       "Yoga",
       "Independent",
       "Exercise",
@@ -124,6 +146,7 @@
     "clickUrl": "https://aishalikesit.com/",
     "tags": [
       "Fashion and Clothing",
+      "Fashion",
       "Online",
       "Nationwide",
       "Jewelry",
@@ -140,6 +163,8 @@
     "clickUrl": "https://aohamer.com/",
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Art",
       "Custom",
       "Independent",
@@ -157,7 +182,10 @@
     "clickUrl": "https://bookshop.org/books/abc-i-love-me/9780692149775",
     "tags": [
       "Entertainment",
-      "Book",
+      "Kids",
+      "Learning",
+      "Recreation",
+      "Books",
       "Children's Book",
       "Shop"
     ],
@@ -173,6 +201,9 @@
     "tags": [
       "Hair & Headwear",
       "Healthy & Beauty",
+      "Beauty",
+      "Soaps",
+      "Hair",
       "Soap",
       "Fragrance",
       "Online",
@@ -189,6 +220,7 @@
     "clickUrl": "https://allhiphop.com/",
     "tags": [
       "Media",
+      "Tech",
       "Entertainment",
       "Digital",
       "Music",
@@ -207,6 +239,8 @@
     "clickUrl": "https://alohaglamour.shop/",
     "tags": [
       "Clothing & Fashion",
+      "Fashion",
+      "Clothes",
       "Women's Clothing",
       "Accessories",
       "Bags",
@@ -223,6 +257,8 @@
     "clickUrl": "https://www.alterplanningco.com/",
     "tags": [
       "Wellness",
+      "Home",
+      "Office",
       "Planner",
       "Calendar",
       "Journal",
@@ -239,6 +275,8 @@
     "clickUrl": "https://www.amakbyamiya.com/",
     "tags": [
       "Clothing & Fashion",
+      "Fashion",
+      "Shoes",
       "Women's Products",
       "Independent",
       "Custom",
@@ -269,6 +307,8 @@
     "clickUrl": "https://bigmamassauce.com/buy-sauce/",
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Sauce",
       "Shop"
     ],
@@ -306,6 +346,8 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Hats",
       "Clothing",
       "Shop"
     ],
@@ -343,6 +385,9 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
+      "Outdoors",
       "Rocks",
       "Spiritual",
       "Shop"
@@ -381,6 +426,10 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Health",
+      "Sleep",
+      "Treatments",
       "Shop"
     ],
     "priority": 10
@@ -394,6 +443,10 @@
     "clickUrl": "https://bossabars.com",
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Health",
+      "Nutrition",
       "Wellness",
       "Shop"
     ],
@@ -431,6 +484,11 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Health",
+      "Nutrition",
+      "Treatments",
+      "Beauty",
+      "Skin",
       "Wellness",
       "Shop"
     ],
@@ -468,6 +526,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Wine",
       "Alcohol",
       "Shop"
@@ -506,6 +566,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Hair & Headwear",
       "Shop"
     ],
@@ -543,6 +606,10 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Recreation",
+      "Books",
+      "Toys",
       "Comics",
       "Cartoons",
       "Shop"
@@ -558,6 +625,8 @@
     "clickUrl": "https://browntoybox.com/collections/products",
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Learning",
       "Education",
       "Shop"
     ],
@@ -572,6 +641,7 @@
     "clickUrl": "https://allgoudesservices.com/services/",
     "tags": [
       "Services",
+      "Business",
       "Resume",
       "Career",
       "Professional",
@@ -613,6 +683,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Pickles",
       "Canada",
       "Shop"
@@ -652,6 +724,10 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Recreation",
+      "Books",
+      "Kids",
+      "Toys",
       "representation",
       "black",
       "Shop"
@@ -690,6 +766,8 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Hats",
       "Hair & Headwear",
       "Clothing",
       "Shop"
@@ -728,6 +806,10 @@
     ],
     "tags": [
       "Home & Garden",
+      "Health",
+      "Self-care",
+      "Home",
+      "Interior",
       "Health & Beauty",
       "Wellness",
       "Candles",
@@ -767,6 +849,7 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Shop"
     ],
@@ -804,6 +887,10 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Toys",
+      "Recreation",
+      "Books",
       "Puzzles",
       "Representation",
       "Shop"
@@ -842,6 +929,10 @@
     ],
     "tags": [
       "Wellness",
+      "Health",
+      "Spa",
+      "Home",
+      "Interior",
       "Home & Garden",
       "Candles",
       "Shop"
@@ -880,6 +971,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Spa",
+      "Home",
+      "Interior",
       "Wellness",
       "Oral",
       "Toothbrush",
@@ -919,6 +1014,7 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Shop"
     ],
@@ -956,6 +1052,7 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
       "Masks",
       "Style",
       "Shop"
@@ -994,6 +1091,8 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Hats",
       "Clothing",
       "Health & Beauty",
       "Hair & Headwear",
@@ -1034,6 +1133,11 @@
     "tags": [
       "Home & Garden",
       "Health & Beauty",
+      "Health",
+      "Beauty",
+      "Treatments",
+      "Hair",
+      "Skin",
       "Wellness",
       "Hair & Headwear",
       "Shop"
@@ -1072,6 +1176,10 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Home",
+      "Kitchen",
       "Army veteran",
       "rubs",
       "Shop"
@@ -1110,6 +1218,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Shop"
     ],
     "priority": 10
@@ -1146,6 +1256,11 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Spa",
+      "Beauty",
+      "Skin",
+      "Soaps",
       "Wellness",
       "Shop"
     ],
@@ -1185,6 +1300,7 @@
       "Shoes",
       "Socks",
       "Fashion",
+      "Clothes",
       "Shop"
     ],
     "priority": 10
@@ -1221,6 +1337,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Wine",
       "Alcohol",
       "Shop"
@@ -1235,6 +1353,7 @@
     "imageUrl": "https://pbs.twimg.com/profile_images/1212145038/Ashay_logo_FCS.JPG",
     "clickUrl": "https://ashaybythebay.com/",
     "tags": [
+      "Recreation",
       "Books",
       "Read",
       "Entertainment & Toys",
@@ -1274,8 +1393,12 @@
     ],
     "tags": [
       "Children",
+      "Kids",
+      "Toys",
+      "Learning",
       "Entertainment & Toys",
       "Dolls",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1313,6 +1436,8 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Beauty",
+      "Hair",
       "Haircare",
       "Shampoo",
       "Conditioner",
@@ -1356,6 +1481,9 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Recreation",
+      "Music",
+      "Home",
       "Games",
       "Shop"
     ],
@@ -1370,6 +1498,8 @@
     "clickUrl": "https://www.letscuff.com/store",
     "tags": [
       "Entertainment & Toys",
+      "Health",
+      "Sexual",
       "Adult (sex toys, etc)",
       "Games",
       "Shop"
@@ -1408,12 +1538,15 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Kids",
       "Clothing",
       "Tees",
       "Women’s",
       "Accessories",
       "Handbags",
       "Entertainment & Toys",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1451,6 +1584,10 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Kids",
+      "Clothing",
+      "Learning",
+      "Toys",
       "Accessories",
       "Fashion",
       "Clothing",
@@ -1459,6 +1596,7 @@
       "Childrens",
       "Entertainment & Toys",
       "Dolls",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1496,7 +1634,10 @@
     ],
     "tags": [
       "Children",
+      "Kids",
+      "Toys",
       "Entertainment & Toys",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1534,8 +1675,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Kids",
       "Cosmetic",
-      "Nail",
+      "Beauty",
+      "Nails",
       "Fashion",
       "Clothing",
       "Tees",
@@ -1559,6 +1702,8 @@
     "clickUrl": "https://www.bedroomkandi.com/",
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Sexual",
       "Bath & Body",
       "Skincare",
       "Cosmetic",
@@ -1602,6 +1747,8 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Toys",
       "Childrens",
       "Games",
       "Shop"
@@ -1640,6 +1787,7 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Kids",
       "Toys",
       "Dolls",
       "Shop"
@@ -1678,6 +1826,9 @@
     ],
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Learning",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1692,6 +1843,9 @@
     "clickUrl": "https://shychybooks.com/",
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Learning",
+      "Recreation",
       "Books",
       "Shop"
     ],
@@ -1706,6 +1860,9 @@
     "clickUrl": "https://www.shareemiller.com/shop-1",
     "tags": [
       "Entertainment & Toys",
+      "Kids",
+      "Beauty",
+      "Hair",
       "Books",
       "Office",
       "Paper & Stationery",
@@ -1746,6 +1903,9 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Services",
+      "For Parents",
+      "Kids",
       "Accessories",
       "Parenthood",
       "Fashion",
@@ -1789,12 +1949,17 @@
     ],
     "tags": [
       "Children",
+      "Kids",
+      "Toys",
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Women’s",
       "Accessories",
       "Jewelry",
+      "Recreation",
+      "Books",
       "Entertainment & Toys",
       "Dolls",
       "Shop"
@@ -1810,6 +1975,9 @@
     "clickUrl": "https://figgers.com/shop/",
     "tags": [
       "Electronics",
+      "Tech",
+      "Apps",
+      "Services",
       "Shop"
     ],
     "priority": 10
@@ -1846,6 +2014,8 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
       "Bath & Body",
       "Beardcare",
       "Hair & Headwear",
@@ -1895,6 +2065,8 @@
     ],
     "tags": [
       "Electronics",
+      "Tech",
+      "Gadgets",
       "Shop"
     ],
     "priority": 10
@@ -1933,6 +2105,7 @@
       "Accessories",
       "Home & Garden",
       "Fashion",
+      "Clothes",
       "Clothing",
       "Basics",
       "Swim",
@@ -1982,6 +2155,11 @@
     ],
     "tags": [
       "Health & Beuty",
+      "Health",
+      "Self-care",
+      "Beauty",
+      "Skin",
+      "Hair",
       "Skincare",
       "Beardcare",
       "Shop"
@@ -2020,6 +2198,9 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Tech",
+      "Gadgets",
       "Clothing",
       "Unisex",
       "Electronics",
@@ -2061,6 +2242,9 @@
       "Home & Garden",
       "Decor",
       "Fashion",
+      "Jewelry",
+      "Home",
+      "Office",
       "Pet",
       "Stationary",
       "Notebooks",
@@ -2142,6 +2326,9 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Home",
+      "Essentials",
       "Clothing",
       "Footwear",
       "Toys",
@@ -2164,6 +2351,9 @@
     "clickUrl": "http://fewer.cards/",
     "tags": [
       "Electronics",
+      "Tech",
+      "Apps",
+      "Gadgets",
       "Shop"
     ],
     "priority": 10
@@ -2200,6 +2390,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Makeup",
       "Shop"
     ],
     "priority": 10
@@ -2236,6 +2429,10 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Tech",
+      "Home",
+      "Essentials",
       "Clothing",
       "Tees",
       "Men’s",
@@ -2278,6 +2475,8 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Tech",
+      "Gadgets",
       "Eye Care",
       "Fashion",
       "Accessories",
@@ -2319,6 +2518,8 @@
     ],
     "tags": [
       "Accessories",
+      "Dining",
+      "Food & Drink",
       "Food & Beverage",
       "Condiments & Spices",
       "Shop"
@@ -2357,6 +2558,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Desserts",
       "Condiments & Spices",
       "Savory",
@@ -2395,6 +2598,8 @@
       }
     ],
     "tags": [
+      "Dining",
+      "Food & Drink",
       "Food & Beverage",
       "Desserts",
       "Shop"
@@ -2433,6 +2638,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Alcohol & Wine",
       "Shop"
     ],
@@ -2470,6 +2677,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Alcohol & Wine",
       "Wedding",
       "Shop"
@@ -2508,6 +2717,10 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Health",
+      "Nutrition",
       "Coffee & Tea",
       "Shop"
     ],
@@ -2545,6 +2758,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Desserts",
       "Wedding",
       "Shop"
@@ -2583,6 +2798,10 @@
     ],
     "tags": [
       "Home & Garden",
+      "Dining",
+      "Food & Drink",
+      "Home",
+      "Kitchen",
       "Home Fragrance",
       "Food & Beverage",
       "Coffee & Tea",
@@ -2622,6 +2841,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Fitness",
+      "Nutrition",
       "Wellness",
       "Food & Beverage",
       "Coffee & Tea",
@@ -2661,6 +2883,8 @@
     ],
     "tags": [
       "Fashion",
+      "Dining",
+      "Food & Drink",
       "Food & Beverage",
       "Shop"
     ],
@@ -2698,6 +2922,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Alcohol & Wine",
       "Shop"
     ],
@@ -2712,6 +2938,8 @@
     "clickUrl": "http://www.atcspiceblends.com/products",
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Desserts",
       "Condiments & Spices",
       "Shop"
@@ -2750,6 +2978,8 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
       "Desserts",
       "Shop"
     ],
@@ -2787,6 +3017,10 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Home",
+      "Kitchen",
       "Coffee & Tea",
       "Shop"
     ],
@@ -2824,6 +3058,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Nutrition",
+      "Treatments",
+      "Self-care",
       "Bath & Body",
       "Skincare",
       "Wellness",
@@ -2866,6 +3104,10 @@
     ],
     "tags": [
       "Food & Beverage",
+      "Dining",
+      "Food & Drink",
+      "Home",
+      "Kitchen",
       "Condiments & Spices",
       "Shop"
     ],
@@ -2905,6 +3147,8 @@
       "Hair & Headwear",
       "Accessories",
       "Fashion",
+      "Clothes",
+      "Hats",
       "Clothing",
       "Men’s",
       "Women’s",
@@ -2945,6 +3189,8 @@
     ],
     "tags": [
       "Sports & Outdoors",
+      "Recreation",
+      "Gear",
       "Shop"
     ],
     "priority": 10
@@ -2983,6 +3229,9 @@
       "Home & Garden",
       "Candles",
       "Fashion",
+      "Clothes",
+      "Recreation",
+      "Gear",
       "Clothing",
       "Tees",
       "Unisex",
@@ -3028,6 +3277,8 @@
       "Candles",
       "Children",
       "Fashion",
+      "Clothes",
+      "Kids",
       "Clothing",
       "Basics",
       "Men’s",
@@ -3052,6 +3303,8 @@
     "clickUrl": "https://dynamic-confluence.square.site/",
     "tags": [
       "Sports & Outdoors",
+      "Recreation",
+      "Gear",
       "Shop"
     ],
     "priority": 10
@@ -3065,6 +3318,8 @@
     "clickUrl": "https://thehoodietowel.com/",
     "tags": [
       "Sports & Outdoors",
+      "Recreation",
+      "Gear",
       "Shop"
     ],
     "priority": 10
@@ -3101,6 +3356,9 @@
     ],
     "tags": [
       "Fashion",
+      "Clothes",
+      "Recreation",
+      "Gear",
       "Clothing",
       "Men’s",
       "Accessories",
@@ -3119,6 +3377,8 @@
     "clickUrl": "https://ninetynineproducts.com/",
     "tags": [
       "Fashion",
+      "Clothing",
+      "Shoes",
       "Footwear",
       "Sports & Outdoors",
       "Shop"
@@ -3157,6 +3417,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Fitness",
+      "Recreation",
+      "Gear",
       "Wellness",
       "Sports & Outdoors",
       "Lifestyle",
@@ -3173,6 +3437,8 @@
     "clickUrl": "https://scentaffairs.com/shop-1",
     "tags": [
       "Personal Fragrance",
+      "Beauty",
+      "Scent",
       "Home & Garden",
       "Home Fragrance",
       "Other",
@@ -3213,6 +3479,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Scent",
+      "Skin",
+      "Hair",
       "Skincare",
       "Beardcare",
       "Personal Fragrance",
@@ -3252,6 +3522,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Bath & Body",
       "Skincare",
       "Hair & Headwear",
@@ -3296,6 +3569,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Skincare",
       "Beardcare",
       "Shop"
@@ -3334,6 +3610,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Health",
+      "Skin",
+      "Treatments",
       "Bath & Body",
       "Skincare",
       "Wellness",
@@ -3373,6 +3653,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Health",
+      "Skin",
+      "Treatments",
       "Bath & Body",
       "Skincare",
       "Lifestyle",
@@ -3414,6 +3698,8 @@
       "Health & Beauty",
       "Beardcare",
       "Fashion",
+      "Clothes",
+      "Shoes",
       "Footwear",
       "Unisex",
       "Accessories",
@@ -3454,6 +3740,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Home",
+      "Essentials",
+      "Beauty",
+      "Skin",
       "Bath & Body",
       "Skincare",
       "Beardcare",
@@ -3496,6 +3786,8 @@
     "tags": [
       "Health & Beauty",
       "Skincare",
+      "Beauty",
+      "Oral",
       "Cosmetic",
       "Makeup",
       "Lip",
@@ -3517,6 +3809,7 @@
       "Cosmetic",
       "Makeup",
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Women’s Accessories",
@@ -3562,6 +3855,7 @@
       "Hair & Headwear",
       "Accessories",
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Men’s",
@@ -3606,6 +3900,9 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Beauty",
+      "Hair",
+      "Health",
       "Haircare",
       "Hair growth/repair",
       "Shop"
@@ -3644,6 +3941,9 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Beauty",
+      "Hair",
+      "Fashion",
       "Accessories",
       "Shop"
     ],
@@ -3681,6 +3981,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Bath & Body",
       "Skincare",
       "Hair & Headwear",
@@ -3699,6 +4002,9 @@
     "clickUrl": "https://www.acarre.co/",
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Skincare",
       "Hair & Headwear",
       "Haircare",
@@ -3739,6 +4045,8 @@
     ],
     "tags": [
       "Hair & Headwear",
+      "Beauty",
+      "Hair",
       "Haircare",
       "Hair Styling",
       "Accessories",
@@ -3778,6 +4086,10 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
+      "Oral",
       "Skincare",
       "Beardcare",
       "Cosmetic",
@@ -3821,6 +4133,8 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
       "Skincare",
       "Hair & Headwear",
       "Fashion",
@@ -3861,6 +4175,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Beauty",
+      "Hair",
+      "Skin",
       "Bath & Body",
       "Skincare",
       "Beardcare",
@@ -3907,6 +4224,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Fashion",
+      "Beauty",
+      "Hair",
       "Bath & Body",
       "Hair & Headwear",
       "Accessories",
@@ -3946,6 +4266,8 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Candles",
       "Home Fragrance",
       "Shop"
@@ -3984,6 +4306,8 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Candles",
       "Home Fragrance",
       "Lifestyle",
@@ -4026,6 +4350,7 @@
       "Home & Garden",
       "Decor",
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Men’s",
@@ -4045,6 +4370,10 @@
     "clickUrl": "http://smellgoodspa.com/",
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Spa",
+      "Beauty",
+      "Scent",
       "Bath & Body",
       "Skincare",
       "Home & Garden",
@@ -4087,10 +4416,13 @@
       "Health & Beauty",
       "Bath & Body",
       "Wellness",
+      "Beauty",
+      "Scent",
       "Personal Fragrance",
       "Home & Garden",
       "Children",
       "Fashion",
+      "Jewelry",
       "Accessories",
       "Lifestyle",
       "Arts & Crafts",
@@ -4130,6 +4462,8 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Shop"
     ],
     "priority": 10
@@ -4166,6 +4500,8 @@
     ],
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Candles",
       "Home Fragrance",
       "Decor",
@@ -4207,6 +4543,9 @@
     ],
     "tags": [
       "Health & Beauty",
+      "Health",
+      "Self-care",
+      "Mental Health",
       "Wellness",
       "Home & Garden",
       "Candles",
@@ -4227,6 +4566,7 @@
     "clickUrl": "https://www.kintunewyork.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Handbags",
       "Clothing",
       "Handbag",
@@ -4244,6 +4584,8 @@
     "clickUrl": "https://www.etsy.com/shop/NamascentsCandleCo",
     "tags": [
       "Home & Garden",
+      "Home",
+      "Interior",
       "Candles",
       "Home Fragrance",
       "Shop"
@@ -4259,6 +4601,7 @@
     "clickUrl": "https://shadesofmymelanin.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Accessories",
@@ -4276,6 +4619,7 @@
     "clickUrl": "https://www.designsbytee3.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Tees",
       "Men’s",
@@ -4293,6 +4637,7 @@
     "clickUrl": "https://www.gracexoriginals.com/?v=7516fd43adaa",
     "tags": [
       "Fashion",
+      "Clothes",
       "Lifestyle",
       "Shop"
     ],
@@ -4326,6 +4671,7 @@
     "tags": [
       "Fashion",
       "Watches",
+      "Jewelry",
       "Accessories",
       "Shop"
     ],
@@ -4340,6 +4686,7 @@
     "clickUrl": "https://tastebydanniek.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Lingerie",
       "Women’s",
@@ -4356,6 +4703,7 @@
     "clickUrl": "https://blkproudforever.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Tees",
       "Clothing",
       "Shop"
@@ -4371,6 +4719,7 @@
     "clickUrl": "https://www.ytpshop.com/",
     "tags": [
       "Fashion",
+      "Clothes",
       "Clothing",
       "Accessories",
       "Lifestyle",
@@ -4411,6 +4760,11 @@
     ],
     "tags": [
       "sex toys",
+      "Fashion",
+      "Health",
+      "Sexual",
+      "Beauty",
+      "Hair",
       "Hair & Headwear",
       "wig",
       "Shop"
@@ -4519,6 +4873,8 @@
       "Goods",
       "Entertainment & Toys",
       "Bookstores",
+      "Recreation",
+      "Books",
       "Shop"
     ],
     "priority": 10
@@ -4555,6 +4911,7 @@
     ],
     "tags": [
       "Clothing",
+      "Clothes",
       "Goods",
       "Black-owned",
       "Vznary",
@@ -4595,6 +4952,9 @@
     ],
     "tags": [
       "hair care",
+      "Health",
+      "Beauty",
+      "Hair",
       "Hair & Headwear",
       "Wellness",
       "Health & Beauty",
@@ -4638,6 +4998,7 @@
     "tags": [
       "Goods",
       "Fashion",
+      "Shoes",
       "AF1",
       "Shop"
     ],
@@ -4677,6 +5038,7 @@
       "Goods",
       "Trevor Stanback",
       "clothing",
+      "Clothes",
       "art",
       "Fashion",
       "inn8apparel",
@@ -4716,6 +5078,10 @@
     ],
     "tags": [
       "Goods",
+      "Beauty",
+      "Makeup",
+      "Oral",
+      "Skin",
       "Cosmetics",
       "Wellness",
       "Health & Beauty",
@@ -4732,6 +5098,8 @@
     "clickUrl": "https://esusurent.com/",
     "tags": [
       "Services",
+      "Business",
+      "Tech",
       "Rent",
       "Home & Garden",
       "Shop"
@@ -4752,6 +5120,10 @@
     },
     "tags": [
       "Read",
+      "Recreation",
+      "Books",
+      "Tech",
+      "Services",
       "Shop",
       "Books",
       "Entertainment & Toys",
@@ -4792,6 +5164,8 @@
     ],
     "tags": [
       "Goods",
+      "Beauty",
+      "Oral",
       "Black-owned",
       "toothbrush",
       "oral hygiene",
@@ -4833,6 +5207,8 @@
     "tags": [
       "Goods",
       "Black-owned",
+      "Health",
+      "Feminine",
       "feminine hygiene",
       "Wellness",
       "Health & Beauty",
@@ -4872,6 +5248,8 @@
     ],
     "tags": [
       "Goods",
+      "Home",
+      "Interior",
       "Home decor",
       "Home & Garden",
       "Black-owned",
@@ -4911,6 +5289,7 @@
     ],
     "tags": [
       "Goods",
+      "Clothes",
       "swimwear",
       "Black-owned",
       "Fashion",
@@ -4950,6 +5329,10 @@
     ],
     "tags": [
       "Goods",
+      "Dining",
+      "Food & Drink",
+      "Home",
+      "Kitchen",
       "Black-owned",
       "Food & Beverage",
       "spices",
@@ -4989,6 +5372,10 @@
     ],
     "tags": [
       "Black-owned",
+      "Home",
+      "Kitchen",
+      "Dining",
+      "Food & Drink",
       "Goods",
       "hot sauce",
       "Food & Beverage",
@@ -5030,9 +5417,10 @@
     "tags": [
       "Goods",
       "coffee",
+      "Dining",
+      "Food & Drink",
       "Food & Beverage",
       "Black-owned",
-      "California",
       "Oakland",
       "Shop"
     ],
@@ -5072,6 +5460,8 @@
       "Goods",
       "Black-owned",
       "coffee",
+      "Dining",
+      "Food & Drink",
       "Food & Beverage",
       "tea",
       "Shop"

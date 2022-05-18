@@ -1,5 +1,20 @@
 [
   {
+    "id": "0f30f9da-a96b-496b-99ef-3d0afd109d96",
+    "type": "learn",
+    "title": "10 killed in \"racially motivated\" mass shooting at Buffalo supermarket",
+    "subtitle": "Police said the shooter has been charged with murder in what officials are calling a hate crime and a case of racially motivated violent extremism. ",
+    "imageUrl": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/05/14/b17e0431-697b-4add-ad35-60fe67a87e89/thumbnail/1240x826/e9e4d763f46f3c3d8dcd27ec9463474f/ap22134719898938.jpg",
+    "clickUrl": "https://www.cbsnews.com/news/mass-shooting-tops-buffalo-supermarket/",
+    "tags": [
+      "Articles",
+      "Racism",
+      "Violence",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "cbc7fdc9-4cba-4f5b-97fd-34ebf5449ee8",
     "type": "learn",
     "title": "Racist abuse directed at England players after Euro 2020 final",

@@ -1,6 +1,20 @@
 {
   "1": [
     {
+      "id": "aa703401-e512-4c13-ac25-aab05a6737f8",
+      "type": "learn",
+      "title": "13th Amendment",
+      "subtitle": "The 13th Amendment to the U.S. Constitution, ratified in 1865 in the aftermath of the Civil War, abolished slavery in the United States.",
+      "imageUrl": "https://www.nbc12.com/resizer/jqWsEtBVB2mzZL_yfI1NROyk5Ek=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/7Y2ISVAHGJADZPX6OGRTW4S6NA.PNG",
+      "clickUrl": "https://www.history.com/topics/black-history/thirteenth-amendment",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 8
+    },
+    {
       "id": "c9393774-85d4-4987-b980-53c10f015170",
       "type": "shop",
       "title": "The Nile List",
@@ -17,23 +31,38 @@
       "priority": 10
     },
     {
-      "id": "4a99b0de-21ea-42f2-b756-7c216ffab4af",
+      "id": "a8b9ac2b-286d-4164-b55d-4a5b6ed320cd",
       "type": "learn",
-      "title": "How to deconstruct racism, one headline at a time",
-      "subtitle": "Baratunde Thurston explores the phenomenon of white Americans calling the police on black Americans who have committed the crimes of ... eating, walking or generally \"living while black.\" In this profound, thought-provoking and often hilarious talk, he reveals the power of language to change stories of trauma into stories of healing \u2014 while challenging us all to level up.",
-      "imageUrl": "https://www.greaterseattleonthecheap.com/wordpress/wp-content/uploads/2018/12/TED-talks-logo-e1545180357219.jpg",
-      "clickUrl": "https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/details",
+      "title": "Tyre Nichols remembered as beautiful soul with creative eye",
+      "subtitle": "On most weekends, Tyre Nichols would head to the city park, train his camera on the sky and wait for the sun to set. Learn more in this article from the Associated Press.",
+      "imageUrl": "https://storage.googleapis.com/afs-prod/media/7c4f0b4628bf4d38a911921310498568/1000.jpeg",
+      "clickUrl": "https://apnews.com/article/tyre-nichols-profile-memphis-3104f3cdbaf568daf6647eca080d4001",
       "tags": [
-        "Watch",
-        "Videos",
-        "racism",
-        "TED talk",
-        "learn"
+        "Tyre Nichols",
+        "Articles",
+        "BLM",
+        "Police",
+        "Learn"
       ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "2": [
+    {
+      "id": "56978da4-3632-451f-a5fe-548c054abeaa",
+      "type": "learn",
+      "title": "Dr. Ernest Everett Just",
+      "subtitle": "Dr. Ernest Just was a pioneering African American biologist, academic and science writer. Just's primary legacy is his recognition of the fundamental role of the cell surface in the development of organisms.",
+      "imageUrl": "https://www.myblackhistory.net/ejust2.jpg",
+      "clickUrl": "https://www.myblackhistory.net/Ernest_Just.htm",
+      "tags": [
+        "Black History Month",
+        "Inventor",
+        "Read",
+        "Learn"
+      ],
+      "priority": 8
+    },
     {
       "id": "e7a0006b-c069-46a2-a189-261581611706",
       "type": "shop",
@@ -75,24 +104,37 @@
       "priority": 10
     },
     {
-      "id": "51006bb8-bdc9-48ed-bfa6-f9ee8d2842de",
-      "type": "learn",
-      "title": "Criminal Justice Facts",
-      "subtitle": "The Sentencing Project compiles state-level criminal justice data from a variety of sources. Using this state-by-state data feature, you can navigate between interactive maps, tables, and rankings that allow you to access and use these data.",
-      "imageUrl": "https://www.sentencingproject.org/wp-content/uploads/2015/10/lifetime-likelihood.png",
-      "clickUrl": "https://www.sentencingproject.org/criminal-justice-facts/",
+      "id": "4249b83b-d8f1-4844-bb8b-b128ea693730",
+      "type": "act",
+      "title": "Tyre Nichols Memorial Fund",
+      "subtitle": "This fundraiser will help cover the costs of mental health services for Tyre Nichols' parents and  time off from their jobs. Additionally, they want to build a memorial skate park for Tyre, in honor of his love for skating and sunsets.",
+      "imageUrl": "https://storage.googleapis.com/afs-prod/media/caaa0b2098984a50b8911c8b024ff0d6/1000.jpeg",
+      "clickUrl": "https://www.gofundme.com/f/tyre-nichols",
       "tags": [
-        "Criminal Justice",
-        "Mass Incarceration",
-        "Statistics",
-        "Research",
-        "Prison Reform",
-        "Learn"
+        "Donate",
+        "Gofundme",
+        "Tyre Nichols",
+        "Act"
       ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "3": [
+    {
+      "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
+      "type": "learn",
+      "title": "Negro League Baseball",
+      "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
+      "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
+      "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Watch",
+        "Learn"
+      ],
+      "priority": 8
+    },
     {
       "id": "c999f403-1bac-4338-b967-b36362a0bc50",
       "type": "shop",
@@ -114,60 +156,52 @@
       "priority": 10
     },
     {
-      "id": "1454cf60-2fff-4e03-be76-d17fe444243e",
+      "id": "f828c629-a4ac-4301-aecc-1e32404f3ee5",
       "type": "learn",
-      "title": "John Hope - Biography",
-      "subtitle": "John Hope was an important African American educator and race leader of the early twentieth century. In 1906 he became the first Black president of Morehouse College\u2014the alma mater of Martin Luther King Jr.\u2014in Atlanta.",
-      "imageUrl": "https://www.georgiaencyclopedia.org/sites/default/files/styles/article-top/public/m-11108.jpg?itok=cAloITp7",
-      "clickUrl": "https://www.georgiaencyclopedia.org/articles/education/john-hope-1868-1936",
+      "title": "First police report in Tyre Nichols case does not match video",
+      "subtitle": "An initial police report filed in the hours after the Tyre Nichols traffic stop suggested he was violent and made claims that were contradicted by video later released by police.",
+      "imageUrl": "https://storage.googleapis.com/afs-prod/media/980ea938f5c549a4a2a23b0cff7b19cc/1000.jpeg",
+      "clickUrl": "https://www.cnn.com/2023/01/31/us/tyre-nichols-investigation-tuesday/index.html",
       "tags": [
-        "Black History Month",
-        "Bios",
-        "Read",
-        "Biography",
+        "Tyre Nichols",
+        "Articles",
+        "CNN",
+        "Police",
         "Learn"
       ],
-      "priority": 10
+      "priority": 9
     }
   ],
   "4": [
     {
-      "id": "e1f7c442-c86e-4b5e-99f8-822503b1e96d",
-      "type": "shop",
-      "title": "Shop Thoughtful",
-      "subtitle": "thoughtful is a nonprofit that seeks to promote black businesses and create a one-stop-shop for consumers who want to vote with their wallets. thoughtful does not take any commissions off of the businesses it promotes, it is purely a hub designed to uplift and support established Black-owned businesses online.",
-      "imageUrl": "https://pbs.twimg.com/profile_images/1274679581518127104/Qb6pNclT.jpg",
-      "clickUrl": "https://www.shopthoughtful.org/",
-      "products": [
-        {
-          "name": "Olivia Twist Headband",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1573/3569/products/A8DE3B75-7070-4AA6-AAC1-0D6B43C4148F_530x.jpg?v=1589553120",
-          "description": "This is timeless versatility. Two loops of our cotton fabric linked at center. An alluring piece for easy, low maintenance styles.",
-          "clickUrl": "https://beriqisu.com/collections/headbands/products/copy-of-raven-twist-headband",
-          "shopName": "Shop Thoughtful "
-        },
-        {
-          "name": "Black Trans Lives",
-          "imageUrl": "https://c.bonfireassets.com/thumb/design-image/ccbf4525-6612-43b6-affd-fb7952bd6039/87c80c0e-7b1a-420a-81a9-654f101f643e/?size=900",
-          "description": "#BlackTransLivesMatter",
-          "clickUrl": "https://www.bonfire.com/black-trans-lives/",
-          "shopName": "Shop Thoughtful"
-        },
-        {
-          "name": "Nano-Ionic Facial Steamer",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0110/1037/5739/products/realm-concept-market-nano-ionic-facial-steamer-30070360703134_1080x.jpg?v=1628007842",
-          "description": "Facial steam combined with ionic water particles is up to 10x more effective than other facial steamers in penetrating the skin.",
-          "clickUrl": "https://www.realmconceptmarket.com/products/nano-ionic-facial-steamer",
-          "shopName": "Shop Thoughtful"
-        }
-      ],
+      "id": "869d86ee-fb69-46b1-91b7-4c14a153912d",
+      "type": "learn",
+      "title": "What If I Don't Move to the Back of the Bus?",
+      "subtitle": "Rosa Parks brought together a unique blend of life experiences, a commitment to racial justice, and a flawless reputation to transform a single act of defiance into a defining moment for the modern American civil rights movement.",
+      "imageUrl": "https://www.thehenryford.org/SitefinityImages/0x0-25b04c84-d30d-6b61-be8b-ff000073bae4.jpg",
+      "clickUrl": "https://www.thehenryford.org/explore/stories-of-innovation/what-if/rosa-parks/",
       "tags": [
-        "Goods",
-        "Services",
-        "thoughtful",
-        "Shop"
+        "Black History Month",
+        "Read",
+        "Rosa Parks",
+        "Learn"
       ],
-      "priority": 10
+      "priority": 8
+    },
+    {
+      "id": "6c57fa85-edf0-4a0c-8f0d-6254537aa704",
+      "type": "learn",
+      "title": "Timeline of investigation into Tyre Nichols' death should be the \"blueprint\"",
+      "subtitle": "Civil rights attorney Ben Crump says the investigation and action Memphis took in the wake of the death of Tyre Nichols should be how all cases involving police brutality are handled.",
+      "imageUrl": "https://storage.googleapis.com/afs-prod/media/bafcd859e42e49b9b3a92c58ef811158/1000.jpeg",
+      "clickUrl": "https://www.cbsnews.com/news/attorney-ben-crump-investigation-tyre-nichols-death/",
+      "tags": [
+        "Tyre Nichols",
+        "Articles",
+        "Police",
+        "Learn"
+      ],
+      "priority": 9
     },
     {
       "id": "f83beae5-fc01-43ca-8a57-b93c9330b70e",
@@ -211,44 +245,38 @@
   ],
   "5": [
     {
-      "id": "764bdc8e-b888-404a-9982-eddc75ebee46",
-      "type": "shop",
-      "title": "Corner 103",
-      "subtitle": "Corner 103 has a reputation for making world class wines, and is committed to exceeding expectations.",
-      "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Corner103_Logo_Fullcolor-XL0-82ac45215056b3a_82ac481f-5056-b3a8-49e5b9ce6da7d000.jpg",
-      "clickUrl": "https://www.corner103.com/shop/current-releases/",
-      "products": [
-        {
-          "name": "NV Sparkling Ros\u00e9",
-          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_sparklingros2019-1586283583976.jpg",
-          "description": "This Gold Medal winning wine was made in the classic French style using traditional grapes; making it non-vintage; and using the methode champenoise process which requires a secondary fermentation in the bottle.",
-          "clickUrl": "https://www.corner103.com/product/nv-sparkling-ros-duplicate",
-          "shopName": "Corner 103"
-        },
-        {
-          "name": "2018 Chardonnay, Sonoma Carneros",
-          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_chadonnay_sonomacarneros_2018-1574992631306.jpg",
-          "description": "Our 2018 Chardonnay was crafted from a low-yielding vineyard in the Carneros AVA that consistently produces some of the region's best Chardonnay grapes.",
-          "clickUrl": "https://www.corner103.com/product/2018-chardonnay",
-          "shopName": "Corner 103"
-        },
-        {
-          "name": "2017 Grenache, Alexander Valley",
-          "imageUrl": "https://images.commerce7.com/corner-103/images/large/sonomabottle-corner103_grenache_2017-1595361010496.jpg",
-          "description": "Our 2017 Grenache is a balanced wine crafted from an amazing low yielding vineyard in the Alexander Valley that consistently delivers excellent fruit flavors and silky tannins.",
-          "clickUrl": "https://www.corner103.com/product/2017-grenache-alexander-valley",
-          "shopName": "Corner 103"
-        }
-      ],
+      "id": "17d5ead4-a5e7-451d-bbe1-589997366323",
+      "type": "learn",
+      "title": "Brown v. Board: Timeline of School Integration in the U.S.",
+      "subtitle": "Trace school integration from 1849 to 2007.",
+      "imageUrl": "https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2017-07/Teaching%20Tolerance_TT25_Brown%20v%20Board%20Timeline_1800px.jpg?itok=alIvwBM3",
+      "clickUrl": "https://www.tolerance.org/magazine/spring-2004/brown-v-board-timeline-of-school-integration-in-the-us",
       "tags": [
-        "Food & Beverage",
-        "Dining",
-        "Food & Drink",
-        "Wine",
-        "Alcohol",
-        "Shop"
+        "Black History Month",
+        "Read",
+        "Segregation",
+        "Education",
+        "Learn"
       ],
-      "priority": 10
+      "priority": 8
+    },
+    {
+      "id": "19e5b652-2ab9-425f-9fd0-7c08d426fbe4",
+      "type": "learn",
+      "title": "The police who killed Tyre Nichols were Black. But they might still have been driven by racism",
+      "subtitle": "CNN's Van Jones puts his thoughts to paper in this opinion piece in the role racism played in the killing of Tyre Nichols at the hands of 5 Black police officers in Memphis.",
+      "imageUrl": "https://storage.googleapis.com/afs-prod/media/7c4f0b4628bf4d38a911921310498568/1000.jpeg",
+      "clickUrl": "https://www.cnn.com/2023/01/27/opinions/tyre-nichols-memphis-police-department-jones/index.html",
+      "tags": [
+        "Articles",
+        "Tyre Nichols",
+        "Opinion",
+        "CNN",
+        "Van Jones",
+        "Racism",
+        "Learn"
+      ],
+      "priority": 9
     },
     {
       "id": "5c2099b6-a2e0-4ded-872e-b5cab8b47914",
@@ -300,6 +328,21 @@
     }
   ],
   "6": [
+    {
+      "id": "37154355-fcdc-4231-a30d-43d1a22facbd",
+      "type": "learn",
+      "title": "Robert Tanner Freeman - Bytes of History",
+      "subtitle": "Robert Tanner Freeman was born in Washington DC in 1846. He was the son of slaves who had bought their freedom in the 19th century. Historical records are unclear but they probably adopted the surname Freeman in response to their transition.",
+      "imageUrl": "https://www.smilephiladelphian.com/wp-content/uploads/2015/10/freeman.jpg",
+      "clickUrl": "https://www.smilephiladelphian.com/bytes-of-history/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "d919012c-e419-422d-a277-9bd708369eae",
       "type": "act",
@@ -358,6 +401,20 @@
   ],
   "7": [
     {
+      "id": "2d97377f-2aa1-4b47-a256-5c644ed57a08",
+      "type": "learn",
+      "title": "Carter G. Woodson - African American Trailblazers in Virginia History",
+      "subtitle": "Enjoy a six-minute podcast on the life of Carter G. Woodson who helped start the first Negro History Week.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dr._Carter_G._Woodson_%281875-1950%29%2C_Carter_G._Woodson_Home_National_Historic_Site%2C_1915._%2818f7565bf62142c0ad7fff83701ca5f6%29.jpg",
+      "clickUrl": "https://podcasts.apple.com/us/podcast/carter-g-woodson-1875-1950/id403323725?i=1000088833755",
+      "tags": [
+        "Black History Month",
+        "Listen",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "4c6fffdf-b559-44c8-b681-6161d7df9f8f",
       "type": "shop",
       "title": "AcARRE",
@@ -398,19 +455,20 @@
   ],
   "8": [
     {
-      "id": "68388253-b47e-4f3a-a75b-e778dadd806f",
+      "id": "ba4f0d32-fb60-4080-b77e-076159a76a41",
       "type": "learn",
-      "title": "African-American Heroism in the Military",
-      "subtitle": "Dating all the way back to the American Revolution, African-Americans have played key roles in the history (and success) of the U.S. military. Profiled below are some notable African-Americans and their achievements, as well as milestones in the integration of African-Americans in the U.S. military.",
-      "imageUrl": "https://images02.military.com/sites/default/files/styles/full/public/2018-01/african_american_military_heroes_1200x800.jpg?itok=tk5riNaW",
-      "clickUrl": "https://www.military.com/history/african-american-heroism-in-the-military",
+      "title": "Oprah Winfrey's Cecil B. DeMille Award Acceptance Speech - 2018 Golden Globe Awards",
+      "subtitle": "Watch Oprah Winfrey's 2018 Golden Globe Awards acceptance speech for the Cecil B. DeMille Award.",
+      "imageUrl": "https://static01.nyt.com/images/2018/01/08/arts/08-globes-winfrey/08-globes-winfrey-superJumbo.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=TTyiq-JpM-0",
       "tags": [
         "Black History Month",
-        "Articles",
-        "Read",
+        "People",
+        "Watch",
+        "Listen",
         "Learn"
       ],
-      "priority": 10
+      "priority": 9
     },
     {
       "id": "f0d8372e-6fba-4e9e-97fa-f30e1af98cce",
@@ -431,6 +489,20 @@
     }
   ],
   "9": [
+    {
+      "id": "7109cb8d-f26c-4d93-bb60-344ca902468e",
+      "type": "learn",
+      "title": "Here Are the 18 African-American Astronauts",
+      "subtitle": "It was 22 years after Alan Shepard’s first space trip that the U.S. sent a person of color up.",
+      "imageUrl": "https://static01.nyt.com/images/2019/07/16/lens/16dwight-next-ast-03/16dwight-next-ast-03-superJumbo.jpg?quality=90&auto=webp",
+      "clickUrl": "https://www.nytimes.com/2019/07/16/us/african-american-astronauts.html",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "05217e46-84b2-4eb2-9a7c-024d3a1ee787",
       "type": "shop",
@@ -506,6 +578,21 @@
   ],
   "10": [
     {
+      "id": "dbd194f4-c102-489f-85d2-00985f1e4d32",
+      "type": "learn",
+      "title": "Civil Rights Act - Britannica",
+      "subtitle": "Civil Rights Act, (1964), comprehensive U.S. legislation intended to end discrimination based on race, colour, religion, or national origin.",
+      "imageUrl": "https://cdn.britannica.com/s:700x500/88/136088-050-17171BF5/Pres-Lyndon-B-Johnson-others-Martin-Luther-July-2-1964.jpg",
+      "clickUrl": "https://www.britannica.com/event/Civil-Rights-Act-United-States-1964",
+      "tags": [
+        "Black History Month",
+        "Civil Rights",
+        "History",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "9678f50d-c438-4b2d-b7d0-872116f921ca",
       "type": "learn",
       "title": "Stay Informed: Ma'Khia Bryant Shooting ",
@@ -521,26 +608,24 @@
         "Learn"
       ],
       "priority": 10
-    },
-    {
-      "id": "539f3ecd-3470-4ef3-8d16-acf9ae3ca7ed",
-      "type": "learn",
-      "title": "Negro League Baseball",
-      "subtitle": "Negro League Baseball got its start thanks to the increasing popularity of two things after the Civil War: baseball and segregation.",
-      "imageUrl": "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg3MjM3NzAyOTg1/jackie-robinson-dodgers-1947.jpg",
-      "clickUrl": "https://www.history.com/topics/sports/negro-league-baseball",
-      "tags": [
-        "Black History Month",
-        "Read",
-        "Articles",
-        "Videos",
-        "Watch",
-        "Learn"
-      ],
-      "priority": 10
     }
   ],
   "11": [
+    {
+      "id": "0e6a787f-bb1c-4fb0-b714-f0ac6666dbd1",
+      "type": "learn",
+      "title": "Remembering South African leader Nelson Mandela",
+      "subtitle": "Nelson Mandela, the first black president of South Africa credited with ending apartheid there, died in Johannesburg on Dec. 5, 2013. Former PBS NewsHour correspondent Charlayne Hunter-Gault takes a look back at Mandela's life and legacy.",
+      "imageUrl": "https://www.biography.com/.image/t_share/MTY2MzU2NjgxMDUwMDM5OTk5/_photo-by-per-anders-petterssongetty-images.jpg",
+      "clickUrl": "https://www.youtube.com/watch?v=LnGeMBNS9ZA&feature=youtu.be",
+      "tags": [
+        "Black History Month",
+        "Watch",
+        "Listen",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "061eb50b-5323-445e-9c24-6d036224b87a",
       "type": "learn",
@@ -575,6 +660,20 @@
     }
   ],
   "12": [
+    {
+      "id": "ee2c3033-97b3-45e1-9579-fea890817965",
+      "type": "learn",
+      "title": "Nation's Premier Civil Rights Organization",
+      "subtitle": "Founded February 12, 1909, the NAACP is the nation’s foremost, largest, and most widely recognized civil rights organization. Its more than half-million members and supporters throughout the United States and the world are the premier advocates for civil rights in their communities, leading grassroots campaigns for equal opportunity and conducting voter mobilization.",
+      "imageUrl": "https://www.naacp.org/wp-content/uploads/2016/03/oldest-boldest.jpg",
+      "clickUrl": "https://naacp.org/nations-premier-civil-rights-organization/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "7ff6e77a-28ee-4a86-b365-00e0f9623a1d",
       "type": "shop",
@@ -635,6 +734,21 @@
   ],
   "13": [
     {
+      "id": "3637dc5d-b29d-4202-b37f-f3b3fc3a8208",
+      "type": "learn",
+      "title": "When the first all-black professional basketball team dominated...back in the ’20s",
+      "subtitle": "\"They were literally pioneers and recognized that they were making a statement in front of the audiences.\"",
+      "imageUrl": "https://theundefeated.com/wp-content/uploads/2017/02/ny-rens-1933-crop-original-original.jpg?w=1400",
+      "clickUrl": "https://theundefeated.com/features/when-the-first-all-black-professional-basketball-team-dominated-back-in-the-20s/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Sports",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "c798e985-c310-436f-913d-e1adf64e5e62",
       "type": "learn",
       "title": "How we're priming some kids for college \u2014 and others for prison",
@@ -693,6 +807,21 @@
   ],
   "14": [
     {
+      "id": "df8dff82-0220-492f-8550-a0f33a7358d2",
+      "type": "learn",
+      "title": "Frederick Douglass",
+      "subtitle": "Frederick Douglass was an escaped slave who became a prominent activist, author and public speaker.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Frederick_Douglass_%28circa_1879%29.jpg",
+      "clickUrl": "https://www.history.com/topics/black-history/frederick-douglass",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "b54a9b2c-8b7c-41b2-b6e6-fb20e002690e",
       "type": "learn",
       "title": "Hair: Last Week Tonight with John Oliver",
@@ -727,6 +856,22 @@
   ],
   "15": [
     {
+      "id": "9b87b6de-a45c-4440-8af8-4d93f55500b4",
+      "type": "learn",
+      "title": "Remembering Henry Lewis, first Black conductor of a major symphony orchestra",
+      "subtitle": "Henry Lewis’ love and passion for music and symphony was indescribable.  ",
+      "imageUrl": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2020/02/henry-lewis.jpg",
+      "clickUrl": "https://face2faceafrica.com/article/remembering-henry-lewis-first-black-conductor-of-a-major-symphony-orchestra",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Listen",
+        "Watch",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "14ca669b-5a4c-4408-befb-86b3527d51dc",
       "type": "learn",
       "title": "The Case for Reparations",
@@ -742,25 +887,25 @@
         "learn"
       ],
       "priority": 10
-    },
-    {
-      "id": "d5b94295-327d-4110-8fe0-16a9d5dcf6e4",
-      "type": "learn",
-      "title": "Automotive Heroes of Black History Month",
-      "subtitle": "Ever wonder what driving would be like without turn signals or traffic lights? Well, without these great inventors, engineers, scientists, and pioneers of their field, driving wouldn\u2019t be what it is today! In celebration of Black History Month, we want to share a few of their exciting stories with you.",
-      "imageUrl": "https://blog.directauto.com/wp-content/uploads/2016/01/Heroes.png",
-      "clickUrl": "https://blog.directauto.com/odds-ends/automotive-heroes-of-black-history-month/",
-      "tags": [
-        "Black History Month",
-        "Articles",
-        "Read",
-        "Inventors",
-        "Learn"
-      ],
-      "priority": 10
     }
   ],
   "16": [
+    {
+      "id": "56c074e1-9893-41dc-8a20-72dfc50fd8a2",
+      "type": "learn",
+      "title": "Bessie Smith, The Empress of the Blues",
+      "subtitle": "She was big and brown and built high off the ground — \"a hell of a woman,\" men called her, but most women said she was \"rough.\" And while there were other blues singers in the first half of the 20th century — some who shared her surname — none could be mistaken for Bessie Smith.",
+      "imageUrl": "https://media.npr.org/assets/img/2018/01/03/bs-09571v_wide-7abd3227a2750253c5f153f1b150dc3a14f0cd8d-s1600-c85.jpg",
+      "clickUrl": "https://www.npr.org/2018/01/05/575422226/forebears-bessie-smith-the-empress-of-the-blues",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Listen",
+        "Watch",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "5c646015-b76e-4600-8cb4-020730208d5e",
       "type": "shop",
@@ -824,6 +969,22 @@
   ],
   "17": [
     {
+      "id": "8aaec432-195a-4477-b112-49e5016825d6",
+      "type": "learn",
+      "title": "Legends profile: Michael Jordan",
+      "subtitle": "By acclamation, Michael Jordan is the greatest basketball player of all time. Although, a summary of his basketball career and influence on the game inevitably fails to do it justice, as a phenomenal athlete with a unique combination of fundamental soundness, grace, speed, power, artistry, improvisational ability and an unquenchable competitive desire, Jordan single-handedly redefined the NBA superstar.",
+      "imageUrl": "https://cdn.nba.com/manage/2020/10/michael-jordan-news-conference-2010-1-784x572.jpg",
+      "clickUrl": "https://www.nba.com/history/legends/profiles/michael-jordan",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Listen",
+        "Watch",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "98624ad5-0a39-4627-8be1-1e62a6fc85ee",
       "type": "shop",
       "title": "Blow Candle Co.",
@@ -884,6 +1045,21 @@
   ],
   "18": [
     {
+      "id": "8207b3c6-3a43-4fa4-af35-02445f9a8681",
+      "type": "learn",
+      "title": "Toni Morrison - Biography",
+      "subtitle": "Toni Morrison was a Nobel and Pulitzer Prize-winning American novelist. Among her best-known novels are \"The Bluest Eye,\" \"Song of Solomon,\" \"Beloved,\" and \"A Mercy.\"",
+      "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxNzMxNzQ4MzY1/toni-morrison-9415590-1-402.jpg",
+      "clickUrl": "https://www.biography.com/writer/toni-morrison",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "7b75c283-a0ad-46e0-b803-eb8ed9ec916b",
       "type": "act",
       "title": "Demand Justice for Casey Christian Goodson Jr",
@@ -921,6 +1097,20 @@
   ],
   "19": [
     {
+      "id": "7582615b-8690-4dd9-a97c-114b8cbf7ece",
+      "type": "learn",
+      "title": "The Pan-African Congresses, 1900-1945",
+      "subtitle": "In the nearly half century between 1900 and 1945, various political leaders and intellectuals from Europe, North America, and Africa met six times to discuss colonial control of Africa and develop strategies for eventual African political liberation.",
+      "imageUrl": "https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Pan_African_Congress_1921.jpg",
+      "clickUrl": "https://www.blackpast.org/global-african-history/perspectives-global-african-history/pan-african-congresses-1900-1945/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "199d2ba3-7307-4f9f-9873-ff414e80f7c7",
       "type": "act",
       "title": "Justice for the Murder of Rayshard Brooks",
@@ -952,6 +1142,21 @@
     }
   ],
   "20": [
+    {
+      "id": "1454cf60-2fff-4e03-be76-d17fe444243e",
+      "type": "learn",
+      "title": "John Hope - Biography",
+      "subtitle": "John Hope was an important African American educator and race leader of the early twentieth century. In 1906 he became the first Black president of Morehouse College—the alma mater of Martin Luther King Jr.—in Atlanta.",
+      "imageUrl": "https://www.georgiaencyclopedia.org/sites/default/files/styles/article-top/public/m-11108.jpg?itok=cAloITp7",
+      "clickUrl": "https://www.georgiaencyclopedia.org/articles/education/john-hope-1868-1936",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "d21007a6-aa46-4a3f-85e8-e4d4ce7b843e",
       "type": "shop",
@@ -988,6 +1193,22 @@
     }
   ],
   "21": [
+    {
+      "id": "0eddd14b-d590-4288-9d6d-31a581edf6bf",
+      "type": "learn",
+      "title": "The Legacy of Malcom X",
+      "subtitle": "This podcast series about Malcom X El-Hajj Malik El-Shabazz brings together scholars from a variety of fields and is an invitation to connect our ideas, research projects, and activism across disciplinary divides.",
+      "imageUrl": "https://cdn-images-1.listennotes.com/podcasts/the-legacy-of-malcolm-x-jtPWnFQY2ip-JBLAxqeRD9l.1400x1400.jpg",
+      "clickUrl": "https://podcasts.apple.com/us/podcast/the-legacy-of-malcolm-x/id977188709",
+      "tags": [
+        "Black History Month",
+        "Malcom X",
+        "Biography",
+        "Listen",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "917312b7-d059-4ac7-88d0-f6a8a3e4a0d6",
       "type": "shop",
@@ -1055,6 +1276,20 @@
   ],
   "22": [
     {
+      "id": "68388253-b47e-4f3a-a75b-e778dadd806f",
+      "type": "learn",
+      "title": "African-American Heroism in the Military",
+      "subtitle": "Dating all the way back to the American Revolution, African-Americans have played key roles in the history (and success) of the U.S. military. Profiled below are some notable African-Americans and their achievements, as well as milestones in the integration of African-Americans in the U.S. military.",
+      "imageUrl": "https://images02.military.com/sites/default/files/styles/full/public/2018-01/african_american_military_heroes_1200x800.jpg?itok=tk5riNaW",
+      "clickUrl": "https://www.military.com/history/african-american-heroism-in-the-military",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 8
+    },
+    {
       "id": "c72054a3-6a18-46cd-89e0-4f06f1ab37ab",
       "type": "shop",
       "title": "Esusu",
@@ -1089,6 +1324,21 @@
   ],
   "23": [
     {
+      "id": "548e6a9d-0cd5-4855-a604-adc7f122b480",
+      "type": "learn",
+      "title": "Constance Baker Motley: Judiciary’s Unsung Rights Hero",
+      "subtitle": "Constance Baker Motley was an unlikely civil rights hero. An African American who grew up near Yale University, she did not personally experience overt racism until late in high school, and as a young person she was almost totally unaware of black history.",
+      "imageUrl": "https://www.uscourts.gov/sites/default/files/styles/callout/public/motley7_opt.jpg?itok=b1FTjTKG",
+      "clickUrl": "https://www.uscourts.gov/news/2020/02/20/constance-baker-motley-judiciarys-unsung-rights-hero",
+      "tags": [
+        "Black History Month",
+        "Biography",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "a9529644-22fb-42a7-813d-e9551ed2e509",
       "type": "learn",
       "title": "Jackie Robinson's Effect on the Negro Leagues & MLB | 'Field of Dreams...Deferred'",
@@ -1122,6 +1372,20 @@
     }
   ],
   "24": [
+    {
+      "id": "4b91228e-670b-428d-b90b-793cecedaf3e",
+      "type": "learn",
+      "title": "Celebrating 10 African-American medical pioneers",
+      "subtitle": "These trailblazers broke barriers and shattered stereotypes — and went on to conduct research, discover treatments, and provide leadership that improved the health of millions.",
+      "imageUrl": "https://www.aamc.org/sites/default/files/d/1/6-flying-black-medics_main_imagexmain.jpg__992x558_q85_crop_subsampling-2_upscale.jpg",
+      "clickUrl": "https://www.aamc.org/news-insights/celebrating-10-african-american-medical-pioneers",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "0556671f-f1d8-4a8b-b861-45c0231a891a",
       "type": "shop",
@@ -1191,6 +1455,21 @@
   ],
   "25": [
     {
+      "id": "3d6cb2d6-4a23-49ce-98b8-04f5b03ce807",
+      "type": "learn",
+      "title": "Hiram Rhodes Revels - Biography ",
+      "subtitle": "A freeman his entire life, Hiram Rhodes Revels was the first African American to serve in the U.S. Congress. With his moderate political orientation and oratorical skills honed from years as a preacher, Revels filled a vacant seat in the United States Senate in 1870.",
+      "imageUrl": "https://historycms2.house.gov/uploadedImages/People/Listing/R/R000166.jpg",
+      "clickUrl": "https://history.house.gov/People/Listing/R/REVELS,-Hiram-Rhodes-(R000166)/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Biography",
+        "Learn"
+      ],
+      "priority": 9
+    },
+    {
       "id": "15eb26d9-dc5d-4963-8f18-3a47c28a17a4",
       "type": "act",
       "title": "Build for Black Lives",
@@ -1222,6 +1501,20 @@
     }
   ],
   "26": [
+    {
+      "id": "4683d610-c844-4a94-912d-75f386811ab8",
+      "type": "learn",
+      "title": "15th Amendment",
+      "subtitle": "The 15th Amendment granting African-American men the right to vote was adopted into the U.S. Constitution in 1870.",
+      "imageUrl": "https://emraashley.weebly.com/uploads/2/7/0/6/27069601/4754754.jpg?617",
+      "clickUrl": "https://www.history.com/topics/black-history/fifteenth-amendment",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "a942ccfd-9abb-4073-bf90-6b5ea4d7e291",
       "type": "act",
@@ -1260,6 +1553,21 @@
     }
   ],
   "27": [
+    {
+      "id": "73d97a8e-4a92-4338-bbdb-623836cd5f41",
+      "type": "learn",
+      "title": "11 Black Athletes Who Made Winter Olympic History",
+      "subtitle": " Black Olympic athletes come from a long line of pioneers who made it possible for them to compete and win at the Olympics. And even though the Olympic Games have been around for centuries, there are still Black athletes who become the first to compete in their sport at the Olympics.",
+      "imageUrl": "https://imgix.bustle.com/uploads/image/2018/2/13/664041aa-11e8-4ed7-b624-d667e1843726-dvrvnv2vmaa5gon.jpg:large?w=632&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2",
+      "clickUrl": "https://www.bustle.com/p/11-black-winter-olympians-who-have-made-history-8205234",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Sports",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "c92ee7fb-7fa3-4f12-a318-633178894663",
       "type": "shop",
@@ -1323,6 +1631,21 @@
     }
   ],
   "28": [
+    {
+      "id": "d5b94295-327d-4110-8fe0-16a9d5dcf6e4",
+      "type": "learn",
+      "title": "Automotive Heroes of Black History Month",
+      "subtitle": "Ever wonder what driving would be like without turn signals or traffic lights? Well, without these great inventors, engineers, scientists, and pioneers of their field, driving wouldn’t be what it is today! In celebration of Black History Month, we want to share a few of their exciting stories with you.",
+      "imageUrl": "https://blog.directauto.com/wp-content/uploads/2016/01/Heroes.png",
+      "clickUrl": "https://blog.directauto.com/odds-ends/automotive-heroes-of-black-history-month/",
+      "tags": [
+        "Black History Month",
+        "Read",
+        "Inventors",
+        "Learn"
+      ],
+      "priority": 9
+    },
     {
       "id": "2acab6df-a464-4707-ae3d-4a91e080aa4f",
       "type": "shop",

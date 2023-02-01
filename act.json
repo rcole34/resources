@@ -1,5 +1,20 @@
 [
   {
+    "id": "4249b83b-d8f1-4844-bb8b-b128ea693730",
+    "type": "act",
+    "title": "Tyre Nichols Memorial Fund",
+    "subtitle": "This fundraiser will help cover the costs of mental health services for Tyre Nichols' parents and  time off from their jobs. Additionally, they want to build a memorial skate park for Tyre, in honor of his love for skating and sunsets.",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/caaa0b2098984a50b8911c8b024ff0d6/1000.jpeg",
+    "clickUrl": "https://www.gofundme.com/f/tyre-nichols",
+    "tags": [
+      "Donate",
+      "Gofundme",
+      "Tyre Nichols",
+      "Act"
+    ],
+    "priority": 10
+  },
+  {
     "id": "b4bf0dc3-3d39-48ae-a2f8-aa43c393d504",
     "type": "act",
     "title": "Let Sha'Carri Run!",

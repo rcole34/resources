@@ -1,5 +1,70 @@
 [
   {
+    "id": "a8b9ac2b-286d-4164-b55d-4a5b6ed320cd",
+    "type": "learn",
+    "title": "Tyre Nichols remembered as beautiful soul with creative eye",
+    "subtitle": "On most weekends, Tyre Nichols would head to the city park, train his camera on the sky and wait for the sun to set. Learn more in this article from the Associated Press.",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/7c4f0b4628bf4d38a911921310498568/1000.jpeg",
+    "clickUrl": "https://apnews.com/article/tyre-nichols-profile-memphis-3104f3cdbaf568daf6647eca080d4001",
+    "tags": [
+      "Tyre Nichols",
+      "Articles",
+      "BLM",
+      "Police",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "f828c629-a4ac-4301-aecc-1e32404f3ee5",
+    "type": "learn",
+    "title": "First police report in Tyre Nichols case does not match video",
+    "subtitle": "An initial police report filed in the hours after the Tyre Nichols traffic stop suggested he was violent and made claims that were contradicted by video later released by police.",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/980ea938f5c549a4a2a23b0cff7b19cc/1000.jpeg",
+    "clickUrl": "https://www.cnn.com/2023/01/31/us/tyre-nichols-investigation-tuesday/index.html",
+    "tags": [
+      "Tyre Nichols",
+      "Articles",
+      "CNN",
+      "Police",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "6c57fa85-edf0-4a0c-8f0d-6254537aa704",
+    "type": "learn",
+    "title": "Timeline of investigation into Tyre Nichols' death should be the \"blueprint\"",
+    "subtitle": "Civil rights attorney Ben Crump says the investigation and action Memphis took in the wake of the death of Tyre Nichols should be how all cases involving police brutality are handled.",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/bafcd859e42e49b9b3a92c58ef811158/1000.jpeg",
+    "clickUrl": "https://www.cbsnews.com/news/attorney-ben-crump-investigation-tyre-nichols-death/",
+    "tags": [
+      "Tyre Nichols",
+      "Articles",
+      "Police",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "19e5b652-2ab9-425f-9fd0-7c08d426fbe4",
+    "type": "learn",
+    "title": "The police who killed Tyre Nichols were Black. But they might still have been driven by racism",
+    "subtitle": "CNN's Van Jones puts his thoughts to paper in this opinion piece in the role racism played in the killing of Tyre Nichols at the hands of 5 Black police officers in Memphis.",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/7c4f0b4628bf4d38a911921310498568/1000.jpeg",
+    "clickUrl": "https://www.cnn.com/2023/01/27/opinions/tyre-nichols-memphis-police-department-jones/index.html",
+    "tags": [
+      "Articles",
+      "Tyre Nichols",
+      "Opinion",
+      "CNN",
+      "Van Jones",
+      "Racism",
+      "Learn"
+    ],
+    "priority": 10
+  },
+  {
     "id": "0f30f9da-a96b-496b-99ef-3d0afd109d96",
     "type": "learn",
     "title": "10 killed in \"racially motivated\" mass shooting at Buffalo supermarket",
